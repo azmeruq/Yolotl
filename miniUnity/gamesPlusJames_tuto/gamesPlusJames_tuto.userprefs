@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Checkpoint.cs">
     <Files>
       <File FileName="Assets\Scripts\PlayerController.cs" Line="84" Column="37" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="16" Column="25" />
+      <File FileName="Assets\Scripts\KillPlayer.cs" Line="26" Column="22" />
+      <File FileName="Assets\Scripts\Checkpoint.cs" Line="12" Column="52" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
