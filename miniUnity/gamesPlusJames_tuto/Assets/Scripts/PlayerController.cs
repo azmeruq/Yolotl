@@ -17,8 +17,14 @@ public class PlayerController : MonoBehaviour {
 	//para doble salto
 	private bool doubleJumped;
 
+	//variable de animacion del player
+	private Animator anim;
+
 	// Use this for initialization
 	void Start () {
+		//igualamos la variable al componente Animator
+		anim = GetComponent<Animator> ();
+
 		
 	}
 
@@ -36,11 +42,13 @@ public class PlayerController : MonoBehaviour {
 			//(se tendria que estar en el aire)
 			doubleJumped = false;
 		}
+		//aqui con la variable anim que controla la animacion preguntamos si esta o no en el suelo para la animacion de salto
+		anim.SetBool ("Grounded", grounded);
 
 		//instruccion de SALTO
 		//mientras se oprima la tecla se detectará un solo cambio --> GetKeyDown
 		//verifica si se esta tocando el "suelo"
-		if (Input.GetKeyDown (KeyCode.Space) && grounded) 
+		if (Input.GetKeyDown (KeyCode.W) && grounded) 
 		{
 			//el brinco es en el eje y con la variable --> jumpHeight, null en el eje x
 			//GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, jumpHeight);
@@ -49,7 +57,7 @@ public class PlayerController : MonoBehaviour {
 
 		//instruccion de DOBLE SALTO
 		//si se oprime space y el doble salto NO ha sido activado y NO se esta en el "suelo"
-		if (Input.GetKeyDown (KeyCode.Space) && !doubleJumped && !grounded) 
+		if (Input.GetKeyDown (KeyCode.W) && !doubleJumped && !grounded) 
 		{
 			//entonces se hace un salto
 			//GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, jumpHeight);
@@ -75,6 +83,20 @@ public class PlayerController : MonoBehaviour {
 			//para moverse a la izquierda debe ser una velocidad "negativa" --> -moveSpeed
 			GetComponent<Rigidbody2D> ().velocity = new Vector2(-moveSpeed,GetComponent<Rigidbody2D>().velocity.y);
 		}		
+
+		//en la variable de animacion para obtener la velocidad se sustrae su valor
+		//ademas como no puede tener velocidad negativa se convierte en su valor absoluto
+		anim.SetFloat ("Speed", Mathf.Abs(GetComponent<Rigidbody2D> ().velocity.x));
+
+		//en la animacion para crear efectos hacia la izquierda o derecha
+		//en este caso la animacion de brincar solo se escala hacia un lado positivo o negativo
+		if (GetComponent<Rigidbody2D> ().velocity.x > 0) {
+			transform.localScale = new Vector3 (1f, 1f, 1f);
+		} 
+		else if (GetComponent<Rigidbody2D> ().velocity.x < 0) {
+			transform.localScale = new Vector3 (-1f, 1f, 1f); 
+			//solo el primer valor coordenada "x" es negativo, que es la direccion que queremos cambiar
+		}
 	}
 
 	//despues de experimentar...
