@@ -14,6 +14,9 @@ public class LevelManager : MonoBehaviour {
 	public GameObject deathParticle;
 	public GameObject respawnParticle;
 
+	//variable a pasaren el score
+	public int pointPenaltyOnDeath;
+
 	//variable de pausa en tiempo para reaparecer
 	public float respawnDelay;
 
@@ -47,6 +50,8 @@ public class LevelManager : MonoBehaviour {
 		player.GetComponent<Renderer> ().enabled = false;
 		//para arreglar el desliz de la camara cuando el personaje se muere...
 		player.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+		//score negativo por muerte a agregar, por metodo de score
+		ScoreManager.AddPoints(-pointPenaltyOnDeath);
 		//texto en consola de que ha reaparecido el player
 		Debug.Log ("Player Respawn");
 
