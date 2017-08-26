@@ -45,6 +45,8 @@ public class LevelManager : MonoBehaviour {
 		//deshabilitaremos en ese tiempo al player para corregirlo
 		player.enabled = false;
 		player.GetComponent<Renderer> ().enabled = false;
+		//para arreglar el desliz de la camara cuando el personaje se muere...
+		player.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
 		//texto en consola de que ha reaparecido el player
 		Debug.Log ("Player Respawn");
 

@@ -7,6 +7,8 @@ public class PlayerController : MonoBehaviour {
 	//estas son las variables de alto del brinco y velocidad de movimiento
 	public float moveSpeed;
 	public float jumpHeight;
+	//variable de velocidad de movimiento, el player se va deslizando por agregarle material (no friccion)
+	private float moveVelocity;
 
 	//se usarán para detectar si se esta en el suelo y asi evitar el salto infinito
 	public Transform groundCheck;
@@ -66,6 +68,10 @@ public class PlayerController : MonoBehaviour {
 			doubleJumped = true;
 		}
 
+		//antes de oprimir una tecla de movimiento horizontal, la velocidad será 0
+		//asi se detendrá si no oprimimos ninguna tecla
+		moveVelocity = 0f;
+
 		//instrucciones de movimiento en eje x
 		//movimiento a la DERECHA
 		//se detecta si la tecla esta siendo oprimida --> GetKey
@@ -74,15 +80,27 @@ public class PlayerController : MonoBehaviour {
 			//en el eje x se agrega la variable de movimiento --> moveSpeed
 			//para agregar y respetar el brinco mas movimiento (hacer diagonales)...
 			//... se obtendra el componente actual con rigidbody2D en el eje y(salto)
+			/*Esta linea se modifica por el material que se ha agregado al player 
+			 * entonces ahora se manejará una variable para su movimiento
 			GetComponent<Rigidbody2D> ().velocity = new Vector2 (moveSpeed,GetComponent<Rigidbody2D>().velocity.y);
+			*/
+			moveVelocity = moveSpeed;
 		}
 		//movimiento a la IZQUIERDA
 		if (Input.GetKey(KeyCode.A)) 
 		{
 			//ya que estamos en un eje de coordenadas
 			//para moverse a la izquierda debe ser una velocidad "negativa" --> -moveSpeed
+			/*Esta linea se modifica por el material que se ha agregado al player 
+			 * entonces ahora se manejará una variable para su movimiento
 			GetComponent<Rigidbody2D> ().velocity = new Vector2(-moveSpeed,GetComponent<Rigidbody2D>().velocity.y);
+			*/
+			moveVelocity = -moveSpeed;
 		}		
+
+		//Ya que se haya obtenido el valor de movimiento al presionar las teclas
+		//se pasa a la velocidad del player
+		GetComponent<Rigidbody2D> ().velocity = new Vector2 (moveVelocity, GetComponent<Rigidbody2D> ().velocity.y);
 
 		//en la variable de animacion para obtener la velocidad se sustrae su valor
 		//ademas como no puede tener velocidad negativa se convierte en su valor absoluto
