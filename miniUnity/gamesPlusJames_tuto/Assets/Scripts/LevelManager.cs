@@ -20,6 +20,9 @@ public class LevelManager : MonoBehaviour {
 	//variable de pausa en tiempo para reaparecer
 	public float respawnDelay;
 
+	//para probar que el cambio de valor de gravedad se esta realizando
+	private float gravityStore;
+
 
 	// Use this for initialization
 	void Start () {
@@ -48,6 +51,10 @@ public class LevelManager : MonoBehaviour {
 		//deshabilitaremos en ese tiempo al player para corregirlo
 		player.enabled = false;
 		player.GetComponent<Renderer> ().enabled = false;
+		//para comprobar el cambio de valor de la gravedad
+		gravityStore = player.GetComponent<Rigidbody2D>().gravityScale;
+		//cuando cae el personaje y muere la camarasigue "cayendo", para areglar esto se modificara la gravedad.
+		player.GetComponent<Rigidbody2D>().gravityScale = 0f;
 		//para arreglar el desliz de la camara cuando el personaje se muere...
 		player.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
 		//score negativo por muerte a agregar, por metodo de score
@@ -58,6 +65,8 @@ public class LevelManager : MonoBehaviour {
 		//funcion para realizar un retardo entre lo que esta arriba y debajo de ella
 		yield return new WaitForSeconds (respawnDelay);
 
+		//una vez que el player ha muerto se regresarà el valor de la gravedad
+		player.GetComponent<Rigidbody2D>().gravityScale = gravityStore;
 		//la posicion del "player" será en la posicion de currentCheckPoint
 		player.transform.position = currentCheckpoint.transform.position;
 		//antes hemos deshabilitado el player, ya que ha reaparecido vamos a habilitarlo
