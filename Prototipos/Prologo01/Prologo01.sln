@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prologo01", "Assembly-CSharp.csproj", "{DCF9100A-BA3F-79CE-6CE3-F0DD3300D77E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prologo01", "Assembly-CSharp-Editor.csproj", "{7EE6925A-279D-EBD4-6659-0D388A93A34C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF9100A-BA3F-79CE-6CE3-F0DD3300D77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF9100A-BA3F-79CE-6CE3-F0DD3300D77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF9100A-BA3F-79CE-6CE3-F0DD3300D77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF9100A-BA3F-79CE-6CE3-F0DD3300D77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE6925A-279D-EBD4-6659-0D388A93A34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE6925A-279D-EBD4-6659-0D388A93A34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE6925A-279D-EBD4-6659-0D388A93A34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE6925A-279D-EBD4-6659-0D388A93A34C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

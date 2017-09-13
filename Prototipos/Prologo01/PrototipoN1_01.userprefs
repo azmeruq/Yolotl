@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sripts\PlayerManager.cs">
+    <Files>
+      <File FileName="Assets\Sripts\PlayerManager.cs" Line="103" Column="33" />
+      <File FileName="Assets\Sripts\SFX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\BulletController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\DestroyWithDelay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\CameraCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\MenuCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\GameCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\GarbageCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\SceneChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\MobileUICtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\XoloCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sripts\SFXCtrl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
