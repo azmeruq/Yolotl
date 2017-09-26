@@ -19,21 +19,26 @@ public class Dialoguer : MonoBehaviour {
 
 	void Start () {
 		//asignamos el objeto DIALOGUEMANAGER a dMan
-		//dMan = FindObjectOfType<DialogueManager> ();
-
 	}
 
-
-	void Update () {
-	}
-
-	void OnTriggerStay2D(Collider2D other)
+	void OnTriggerEnter2D(Collider2D other)
 	{
-		dMan = FindObjectOfType<DialogueManager> ();
+		
 		if (other.gameObject.name == "Player" )
 		{
-			dMan.ShowBox(dialogue);			
+			dMan = FindObjectOfType<DialogueManager> ();
+			dMan.ShowBox (dialogue);	
+		} 
 
+	}
+
+	void OnTriggerExit2D(Collider2D other)
+	{
+
+		if (other.gameObject.name == "Player" )
+		{
+			dMan = FindObjectOfType<DialogueManager> ();
+			dMan.HideBox ();	
 		} 
 
 	}

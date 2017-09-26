@@ -21,4 +21,9 @@ public class DialogueManager : MonoBehaviour {
 		//se escribe lo que se haya mandado
 		dText.text = dialogue;
 	}
+
+	public void HideBox()
+	{
+		dBox.SetActive (false);
+	}
 }
