@@ -49,8 +49,10 @@
      <Compile Include="Assets\Scripts\CameraCtrl.cs" />
      <Compile Include="Assets\Scripts\DialogueManager.cs" />
      <Compile Include="Assets\Scripts\Dialoguer.cs" />
+     <Compile Include="Assets\Scripts\DroppingPlatform.cs" />
      <Compile Include="Assets\Scripts\Feet.cs" />
      <Compile Include="Assets\Scripts\MobileUICtrl.cs" />
+     <Compile Include="Assets\Scripts\MovingPlatform.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\loaderScene.cs" />
  <Reference Include="Facebook.Unity.Settings">
