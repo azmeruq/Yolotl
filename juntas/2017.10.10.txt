@@ -7,8 +7,7 @@ Participan:
   
 Acuerdos:
  1. Subir todo el trabajo realizado hasta el momento en este repositorio.
- 2. Terminar el índice del reporte técnico para Trabajo Terminal 1.
- 3. Buscar el nombre del tercer sinodal.
+ 2. Terminar el índice del reporte técnico para Trabajo Terminal 1. 
  
 Estos acuerdos se revisarán el dia mañana (Miércoles 11 de Octubre de 2017) 
 a las 11:00 a.m. en el cubículo de Norman.
