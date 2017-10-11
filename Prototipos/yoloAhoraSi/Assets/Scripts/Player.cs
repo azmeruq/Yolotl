@@ -13,11 +13,10 @@ public class Player : MonoBehaviour {
 	private float verticalSpeed;
 	private int health;
 	private int damage;
-	private bool facingRight;
 	private bool isFacingRight;
 	private bool isGrounded;
 	private bool canDoubleJump;
-	private bool isJumping = false;
+	private bool isJumping;
 	private bool isTalking;
 	private bool leftPressed;
 	private bool rightPressed;
@@ -29,13 +28,25 @@ public class Player : MonoBehaviour {
 
 	// Classes
 	private Feet feet;
+
+	// Para el disparo
+	//private GameObject tonalliPosition;
+	//private GameObject tonalli;
+	public Transform tonalliPosition;
+	public GameObject tonalli;
+
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator> ();
 		rd = GetComponent<Rigidbody2D> ();
 		sr = GetComponent<SpriteRenderer> ();
+		//tonalliPosition = GameObject.FindGameObjectWithTag ("ReferenciaTonalli");
 		feet = FindObjectOfType<Feet> ();
+		//tonalli = GameObject.FindGameObjectWithTag ("Tonalli");
 		verticalSpeed = 600f;
+		isJumping = false;
+		isFacingRight = true;
+		//horizontalSpeed = 5f;
 	}
 	
 	// Update is called once per frame
@@ -64,8 +75,12 @@ public class Player : MonoBehaviour {
 			stopMoving ();
 		}
 
-		if (Input.GetButtonDown ("Jump")) {
+		if (Input.GetKeyDown(KeyCode.UpArrow)) {
 			jump ();
+		}
+
+		if (Input.GetKeyDown(KeyCode.Space)){
+			Fire ();	
 		}
 
 		showFaling ();
@@ -116,7 +131,6 @@ public class Player : MonoBehaviour {
 		 * In case the player is not jumping the states machine
 		 * will show the running state
 		*/ 
-
 		if (!isJumping) {
 			anim.SetInteger ("state", 1);
 		}
@@ -149,6 +163,14 @@ public class Player : MonoBehaviour {
 	}
 		
 
+	public void Fire(){
+		//Transform firePos;
+		//firePos = tonalliPosition.GetComponent<Transform>();
+		//Instantiate (tonalli, firePos.position, Quaternion.identity);
+		Instantiate (tonalli, tonalliPosition.position, Quaternion.identity);
+	}
+
+
 	void OnCollisionEnter2D(Collision2D other){
 		/*if (other.gameObject.CompareTag ("Ground")) {
 			isJumping = false;
@@ -174,6 +196,10 @@ public class Player : MonoBehaviour {
 
 	public void SetAnimationState(int aux){
 		anim.SetInteger ("state", aux);		
+	}
+
+	public bool GetIsFacingRight(){
+		return isFacingRight;
 	}
 
 	//Methods for GUI

@@ -1,7 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DroppingPlatform.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MobileUICtrl.cs">
     <Files>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <File FileName="..\PrototipoN1_01\Assets\Sripts\SceneChanger.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\DialogueManager.cs" Line="27" Column="26" />
@@ -14,6 +15,15 @@
       <File FileName="Assets\Scripts\Feet.cs" Line="41" Column="41" />
       <File FileName="Assets\Scripts\Player.cs" Line="37" Column="3" />
 >>>>>>> bd3cdb55d23078b7f3985163657e646ae358331a
+=======
+      <File FileName="Assets\Scripts\DroppingPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovingPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Feet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MobileUICtrl.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\DialogueManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dialoguer.cs" Line="1" Column="1" />
+>>>>>>> 7a0d3c0a87b2651478017d9d21ca7604efd79eaf
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
