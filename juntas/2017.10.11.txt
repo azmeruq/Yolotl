@@ -1,0 +1,22 @@
+# Organización de repositorio
+* YoloDocs --> latex, diagramas, documentos, maquetados.
+* YoloSprites --> imagenes, animaciones, modelos, "videos".
+* YoloCode --> prototipos, pruebas de código, cinemáticas.
+
+# Yas agregará.
+* YoloSprites, yoloahorasí(ver.Y) y cambio de nombre ejemplo: 
+"Prototipo(nivel)_(número versión)"
+* agregar maquetado de fantasmas N1.2 en la carpeta raiz Yolotl
+* YoloCode,subir prototipos
+* crear carpeta propia de pruebas de codigo "YasPC"
+* agregar doc.tecnico en la carpeta raiz Yolotl
+* mover yoloahorasi(ver.R) a YoloCode
+
+# Rocío agregará.
+* YoloDocs --> latex, diagramas, documentos, maquetas.
+* mover la maqueta de fantasmas N1.2 (por Yas) a YoloDocs.
+* mover el doc.tecnico (por Yas) a YoloDocs
+* crear carpeta propia de pruebas de codigo. "RocPC"
+* yoloahorasí(ver.R) y cambio de nombre ejemplo: 
+"Prototipo(nivel)_(número versión)" en carpeta raiz Yolotl
+* borrar carpetas basura
