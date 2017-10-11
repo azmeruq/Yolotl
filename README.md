@@ -1,4 +1,4 @@
-﻿# YOLOTL
+﻿# TT YOLOTL 2017
 Carpeta general de trabajo
 * ESCOM-C2-EP2 --> latex llenable por Velez
 * latexOnline --> all latex doc
