@@ -7,3 +7,8 @@ Carpeta general de trabajo
 
 #¡ATENCION!
 * prototipos/yoloAhoraSi ha sido modificado por error, regresar a su version anterior
+
+
+# secciÃn de prueba Conclusiones
+
+Esta secciÃn es nueva pero se va a borrar.
