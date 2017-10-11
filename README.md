@@ -4,3 +4,6 @@ Carpeta general de trabajo
 * latexOnline --> all latex doc
 * miniUnity --> proyectos de unity
 * tutoriales --> documentos, o fotos o etc recursos para trabajo
+
+#¡ATENCION!
+* prototipos/yoloAhoraSi ha sido modificado por error, regresar a su version anterior
