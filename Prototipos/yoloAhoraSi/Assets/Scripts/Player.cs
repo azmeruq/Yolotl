@@ -10,7 +10,7 @@ public class Player : MonoBehaviour {
 	// Player attributes
 	// First original attributes from the Player class 
 	private float horizontalSpeed;
-	private float verticalSpeed = 600f;
+	private float verticalSpeed;
 	private int health;
 	private int damage;
 	private bool facingRight;
@@ -28,12 +28,14 @@ public class Player : MonoBehaviour {
 	private SpriteRenderer sr; // para voltear la orientacion del sprite y que pueda ver a la izquierda o a la derecha
 
 	// Classes
-	public Feet feet;
+	private Feet feet;
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator> ();
 		rd = GetComponent<Rigidbody2D> ();
 		sr = GetComponent<SpriteRenderer> ();
+		feet = FindObjectOfType<Feet> ();
+		verticalSpeed = 600f;
 	}
 	
 	// Update is called once per frame
@@ -42,7 +44,8 @@ public class Player : MonoBehaviour {
 		 * this line checks if the box created in the Feet class is ovelaped with 
 		 * the layer Ground
 		*/
-		isGrounded = feet.IsOverlaping ();
+		feet.IsOverlaping ();
+
 
 		/*
 			GetAxisRaw returns 1, 0 o -1 depending on the movement in an axis, in
@@ -113,6 +116,7 @@ public class Player : MonoBehaviour {
 		 * In case the player is not jumping the states machine
 		 * will show the running state
 		*/ 
+
 		if (!isJumping) {
 			anim.SetInteger ("state", 1);
 		}
@@ -129,13 +133,11 @@ public class Player : MonoBehaviour {
 	}
 
 	public void jump(){
+		//Debug.Log (isGrounded);
 		if(isGrounded){
 			isJumping = true;
 			rd.AddForce (new Vector2(0f, verticalSpeed));
 			anim.SetInteger ("state", 2);
-			/*Debug.Log ("salta");
-			int estado = anim.GetInteger("state");
-			Debug.Log (estado);*/
 			canDoubleJump = true;
 		}
 
@@ -145,19 +147,33 @@ public class Player : MonoBehaviour {
 			canDoubleJump = false;
 		}
 	}
-
-	/*public void checkGrounded(){
-		if (isGrounded) {
-			isJumping = false;
-			anim.SetInteger ("state", 0);
-		}
-	}*/
+		
 
 	void OnCollisionEnter2D(Collision2D other){
-		if (other.gameObject.CompareTag ("Ground")) {
+		/*if (other.gameObject.CompareTag ("Ground")) {
 			isJumping = false;
 			anim.SetInteger ("state", 0);	
-		}
+		}*/
+	}
+
+	/*
+	 * Allows to the Feet class set
+	 * the values of isJumping and the state in
+	 * the animation state machine when the
+	 * player is grounded
+	*/
+	public void SetIsGrounded(bool aux){
+		isGrounded = aux;
+		//Debug.Log (isGrounded);
+	}
+
+	public void SetIsJumping(bool aux){
+		isJumping = aux;		
+		//Debug.Log (isJumping);
+	}
+
+	public void SetAnimationState(int aux){
+		anim.SetInteger ("state", aux);		
 	}
 
 	//Methods for GUI

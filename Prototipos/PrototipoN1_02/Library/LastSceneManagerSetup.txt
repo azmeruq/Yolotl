@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Escenas/selva.unity
+- path: Assets/Escenas/tianguis.unity
   isLoaded: 1
   isActive: 1
