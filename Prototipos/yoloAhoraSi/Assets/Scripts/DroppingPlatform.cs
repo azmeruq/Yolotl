@@ -21,9 +21,9 @@ public class DroppingPlatform : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D other){
-		Debug.Log ("op");
+		//Debug.Log ("op");
 		if (other.gameObject.CompareTag ("Playerfeet")) {
-			Debug.Log ("op2");
+			//Debug.Log ("op2");
 			//player.SetIsJumping (false);
 			Invoke ("StartDropping", DroppingDelay);
 		}
