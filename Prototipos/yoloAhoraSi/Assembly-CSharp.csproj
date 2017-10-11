@@ -46,7 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\BulletController.cs" />
      <Compile Include="Assets\Scripts\CameraCtrl.cs" />
+     <Compile Include="Assets\Scripts\DestruirConRetraso.cs" />
      <Compile Include="Assets\Scripts\DialogueManager.cs" />
      <Compile Include="Assets\Scripts\Dialoguer.cs" />
      <Compile Include="Assets\Scripts\DroppingPlatform.cs" />
