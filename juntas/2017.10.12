@@ -1,0 +1,24 @@
+# Division de trabajo
+
+Yas
+* Sección de controles, figura de botones, pantalla
+* Partida rápida?, porque?, elección?
+* Interfaces: explicar desbloqueo de niveles y botones
+* Diseño idealmente, solo descripcion (animacion, sprites)
+* Nivel 2: Apartado objetivo del nivel, más específico con ventanas, quesucede cuando tocas otra cosa, poner todas las situaciones posibles. Notacion o visualizar cambios (ventana, status). Notificaciones - como? cuando? donde?
+* Diagrama de flujo
+* MenuLevelController clase, escenas
+* menu principal
+* logotipo 
+
+Rocio
+* Petición de menú, carga
+* Completar referencias, habilidades...
+* Revisar ortografía
+* cuantos checkpoint?, que hacer para activar, que guarda
+* separaciones de lugar por nivel 
+* NIvel 1: Apartado objetivo del nivel, más específico con ventanas, quesucede cuando tocas otra cosa, poner todas las situaciones posibles. Notacion o visualizar cambios (ventana, status). Notificaciones - como? cuando? donde?
+* Diagrama de estados
+* Guión literario modificaciones
+* cinemáticas
+* globo dialogo, caja texto, NPC clase
