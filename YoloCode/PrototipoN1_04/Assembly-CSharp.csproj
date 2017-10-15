@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D126E1C8-246B-0117-C7BC-9B7D3280931D}</ProjectGuid>
+    <ProjectGuid>{A76884E9-0F89-08F5-229B-81DB7F003585}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,12 +53,13 @@
      <Compile Include="Assets\Scripts\Dialoguer.cs" />
      <Compile Include="Assets\Scripts\DroppingPlatform.cs" />
      <Compile Include="Assets\Scripts\Feet.cs" />
+     <Compile Include="Assets\Scripts\MenuCtrl.cs" />
      <Compile Include="Assets\Scripts\MobileUICtrl.cs" />
      <Compile Include="Assets\Scripts\MovingPlatform.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\loaderScene.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Yas/Documents/Videojuegos/yoloAhoraSi/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/Yas/Documents/yolotl/Yolotl/YoloCode/PrototipoN1_04/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
