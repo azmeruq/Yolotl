@@ -180,20 +180,22 @@ El juego se manejara en 2D, desde una perspectiva lateral. La cámara será orto
 	Patalla táctil.
 	\subsection{Controles}
 	Del lado izquierdo inferior de la pantalla existirán dos botones de movimiento izquierdo y movimiento derecho en ese orden. Del lado derecho inferior estarán los botones de salto y ataque. Todos estos botones son de forma circular y ocupan un cuarto de la pantalla.
-	\subsection{Guardar}
-Dentro del juego existen dos tipos de guardado: El guardado automático y el checkpoint.
+	\subsection{Guardar/Cargar}
+Dentro del juego existen dos tipos de guardado en el juego: el guardado automático y el checkpoint. Y uno que guarda las estadísticas del personaje.
 \begin{itemize}
-	\item \textbf{Guardado automático}: Este tipo de guardado se realizara cada vez que el jugador a completado un nivel.
-	\item \textbf{Checkpoint} Este tipo de guardado permitirá al jugador reiniciar el nivel desde un determinado punto del nivel. El jugador únicamente podrá hacer uso del checkpoint si logra llegar a los puntos donde existen los búhos de checkpoint. Este guardado mantendrá la posición del jugador en un nivel en especifico.
+\item \textbf{Guardado automático}: 
+Este tipo de guardado se realizará cada vez que el jugador haya completado un nivel o una cinemática.
+A la vez que desbloqueará la cinemática o el nivel siguiente a jugar.
+La partida se carga en la ventana donde se muestran todos los niveles (recordando que según sea el avance del jugador estarán bloqueados o no). En esta ventana se muestra los cuadros a cargar con una imagen a seleccionar las cinemáticas y niveles de manera cronológica respecto al juego.
+Este control esta a cargo de una clase llamada MenuLevelController que contiene un registro de las escenas por nombre y si de esta ya ha sido jugada o no y dentro del nivel el progreso lo manejará con el archivo respectivo de avance del nivel.
+\item \textbf{Checkpoint}: 
+El número de checkpoints será diferente por cada nivel.
+Este tipo de guardado permitirá al jugador reiniciar el nivel desde un determinado punto. El jugador podrá activar el checkpoint si logra tocar los puntos donde existen búhos (ver \ref{per.buho}). Este guardado mantendrá la posición del jugador en un nivel en especifico. Es decir, el personaje al morir se posicionará solo en el checkpoint que haya activado inmediatamente antes. 
+Cada que muere se mantendrá el puntaje, progreso del personaje que lleve y también cada cambio que exista dentro del nivel siempre y cuando esté dentro del nivel, de lo contrario si sale del nivel la variable asignada en checkpoint volverá a ser su valor por default, que sería el primer checkpoint o posición más cercana al inicio del nivel.
+\item \textbf{Personaje}: 
+El personaje a medida que avance en el juego tiene la posibilidad de incrementar sus características (la vida y poder de daño). Dichas características están en un archivo denominado como status player.
+Este avance de características será permanente a lo largo del juego. Si el avance del juego no se guarda, tampoco las características del personaje. Este registro de características será visible en la ventana de ingreso al nivel, en la parte superior izquierda.
 \end{itemize}
-
-	\subsection{Cargar}
-Dentro del juego existen dos tipos de carga: la carga de partida y la carga de checkpoint.
- \begin{itemize}
- 	\item \textbf{ Carga de partida }: La carga se hará cuando se inicie el juego, de tal forma que el juego pueda validar el avance del jugador. 
- 	\item \textbf{Carga de Checkpoint}:  Esta carga asigna la posición guardara al jugador únicamente cuando éste ha muerto dentro del nivel y no ha salido del mismo, de lo contrario las variable asignada en checkpoint volverá a ser su valor por default.
- \end{itemize}
-
 	
 \section{Estados del juego}
 Ver figura \ref{fig:EstadosJuego}
@@ -279,18 +281,21 @@ La interfaz 3.0 cuenta con los siguientes botones:
 	\subsubsection{Encuentro}
 Nivel introductorio que le permite al jugador familiarizarse con las mecánicas básicas de juego: saltar, moverse y abrir y cerrar cuadros de dialogo. Además, este nivel servirá para mostrar el contexto histórico en el que se sitúa el argumento del juego.
 	\subsubsection{Descripción}
-El jugador controlará a Malinalli y recorrerá un mercado, en donde podrá dialogar con diferentes NPCS. Xólotl le robara un carta a Malinalli por lo que ella tendrá que perseguirlo hasta una selva en donde se topara con Xólotl nuevamente, quien ahora ha adoptado la forma de un jaguar. Xólotl utiliza este encuentro para probar la valentía de Malinalli ante situaciones en las que se encuentre en peligro, pero sin la oportunidad de defenderse.    
+	\begin{itemize}
+		\item\textbf{Tianguis}: El jugador controlará a Malinalli y recorrerá un mercado, en donde podrá dialogar con diferentes NPCS. Xólotl le robara un carta a Malinalli 
+		\item\textbf{Selva}: Ella tendrá que perseguir a Xolotl por la selva, al final Xolotl adoptará la forma de un jaguar. Xólotl utiliza este encuentro para probar la valentía de Malinalli ante situaciones en las que se encuentre en peligro, pero sin la oportunidad de defenderse.    
+	\end{itemize}
+
 	\subsubsection{Objetivos}
 \begin{itemize}
-	\item El jugador deberá de activar al menos cuatro diálogos para poder desbloquear la infección con Xólotl y que se active la cinemática donde éste le roba el objeto a Malinalli.
-	\item El jugador deberá de seguir a Xólotl en dos locaciones. 
-	\item Durante la persecución deberá de superar obstáculos y plataformas saltándolos.
-	\item Obtener la caracola.
+	\item \textbf{Tianguis}:
+	El jugador deberá de activar al menos cuatro diálogos para poder desbloquear la infección con Xólotl y que se active la cinemática donde éste le roba el objeto a Malinalli.
+	\item \textbf{Selva}: El jugador deberá de seguir a Xólotl. Durante la persecución deberá de superar obstáculos y plataformas saltándolos. Obtener la caracola.
 \end{itemize}
 	\subsubsection{Progreso}
 	Al concluir el nivel el jugador:
 \begin{itemize}
-	\item El jugador podrá ver las siguientes cinemáticas (Consultar el guion literario del juego):
+	\item El jugador podrá ver las siguientes cinemáticas (Consultar el guión literario del juego):
 	\begin{itemize}
 		\item Cinemática 3.
 		\item Cinemática 4.
@@ -1528,7 +1533,7 @@ Aparece por primera vez en la cinemática 7.
 \subsubsection{Habilidades:}
 Tiene las habilidades combativas de un un guerrero humano. Su principal habilidad es su capacidad de planear y de convencimiento.
 \subsubsection{Armas:}
-En sus años como guerrero usaba una Mācuahuitl para enfrentarse a sus enemigos.
+En sus años como guerrero usaba una Macuahuitl para enfrentarse a sus enemigos.
 \subsubsection{Ítems:}
 Sin ítems
 
@@ -2153,19 +2158,8 @@ Este tema debe de contener un poco de la nostalgia pero a su vez debe de denotar
 	\includegraphics[height=0.4 \linewidth]{Imagenes/ic06}
 	\caption{Personaje: Iztlacoliuhqui.}
 	\label{fig:perIztla}
-		\begin{figure}
-		\centering
-		\includegraphics[height=0.4 \linewidth]{Imagenes/ic02}
-		\caption{Caracola con forma de cenzontle.}
-		\label{fig:caracola}
-	\end{figure}
-	\begin{figure}
-	\centering
-	\includegraphics[height=0.4 \linewidth]{Imagenes/ic02}
-	\caption{Caracola con forma de cenzontle.}
-	\label{fig:caracola}
 \end{figure}
-\end{figure}
+
 \section{Miembros de equipo.}
 
 \section{Detalles de producción.}
