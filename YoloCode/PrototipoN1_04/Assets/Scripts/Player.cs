@@ -14,7 +14,7 @@ public class Player : MonoBehaviour {
 	private int health;
 	private int damage;
 	private bool isFacingRight;
-	private bool isGrounded;
+	//private bool isGrounded;
 	private bool canDoubleJump;
 	private bool isJumping;
 	private bool isTalking;
@@ -55,7 +55,7 @@ public class Player : MonoBehaviour {
 		 * this line checks if the box created in the Feet class is ovelaped with 
 		 * the layer Ground
 		*/
-		feet.IsOverlaping ();
+		//feet.IsOverlaping ();
 
 
 		/*
@@ -148,14 +148,16 @@ public class Player : MonoBehaviour {
 
 	public void jump(){
 		//Debug.Log (isGrounded);
-		if(isGrounded){
+		//if(isGrounded)
+		if(!isJumping){
 			isJumping = true;
 			rd.AddForce (new Vector2(0f, verticalSpeed));
 			anim.SetInteger ("state", 2);
 			canDoubleJump = true;
+			//isGrounded = false;
 		}
 
-		if (canDoubleJump && !isGrounded) {
+		else if (canDoubleJump) {//canDoubleJump && !isGrounded
 			rd.AddForce (new Vector2(0f, verticalSpeed));
 			anim.SetInteger ("state", 2);
 			canDoubleJump = false;
@@ -184,10 +186,10 @@ public class Player : MonoBehaviour {
 	 * the animation state machine when the
 	 * player is grounded
 	*/
-	public void SetIsGrounded(bool aux){
+	/*public void SetIsGrounded(bool aux){
 		isGrounded = aux;
 		//Debug.Log (isGrounded);
-	}
+	}*/
 
 	public void SetIsJumping(bool aux){
 		isJumping = aux;		
@@ -200,6 +202,10 @@ public class Player : MonoBehaviour {
 
 	public bool GetIsFacingRight(){
 		return isFacingRight;
+	}
+
+	public bool GetIsJumping(){
+		return isJumping;
 	}
 
 	//Methods for GUI
