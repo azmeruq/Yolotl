@@ -195,6 +195,13 @@ Cada que muere se mantendrá el puntaje, progreso del personaje que lleve y tamb
 \item \textbf{Personaje}: 
 El personaje a medida que avance en el juego tiene la posibilidad de incrementar sus características (la vida y poder de daño). Dichas características están en un archivo denominado como status player.
 Este avance de características será permanente a lo largo del juego. Si el avance del juego no se guarda, tampoco las características del personaje. Este registro de características será visible en la ventana de ingreso al nivel, en la parte superior izquierda.
+			Ver figura \ref{fig:statusPlayer}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/statusPlayer}
+				\caption{Estatus del player en ventana.}
+				\label{fig:statusPlayer}
+			\end{figure}
 \end{itemize}
 	
 \section{Estados del juego}
@@ -282,8 +289,29 @@ Nivel introductorio que le permite al jugador familiarizarse con las mecánicas 
 	\begin{itemize}
 		\item\textbf{Tianguis}: El jugador controlará a Malinalli y recorrerá un mercado, en donde podrá dialogar con diferentes NPCS. Xólotl le robara un carta a Malinalli.
 		Dentro del tianguis existen ciudadanos, cada uno el jugador al acercarse a una distancia predeterminada de ellos se le da la opción para que pueda comunicarse con ellos. Esto se ve al desplegarse un símbolo (representando la opción de poder dialogar) en la parte superior del ciudadano a hablar cuando uno se aproxima, así el jugador se le notifica que puede apretar el botón (ahora con el mismo símbolo) de diálogo, luego se despliega un recuadro adicional que contiene la información, para cerrar este recuadro y continuar se debe volver a oprimir el botón de diálogo.
+		Ver figura \ref{fig:simboloDialogo}.
+		\begin{figure}
+			\centering
+			\includegraphics[height=0.2 \textheight]{Imagenes/simboloDialogo}
+			\caption{Símbolo de diálogo sobre el ciudadano.}
+			\label{fig:simboloDialogo}
+		\end{figure}
+		Ver figura \ref{fig:cuadroDialogo}.
+		\begin{figure}
+			\centering
+			\includegraphics[height=0.2 \textheight]{Imagenes/cuadroDialogo}
+			\caption{Recuadro de diálogo.}
+			\label{fig:cuadroDialogo}
+		\end{figure}
 		\item\textbf{Selva}: Ella tendrá que perseguir a Xolotl por la selva, al final Xolotl adoptará la forma de un jaguar. Xólotl utiliza este encuentro para probar la valentía de Malinalli ante situaciones en las que se encuentre en peligro, pero sin la oportunidad de defenderse.    
 		Para ello el jugador cada que se aproxime a una distancia determinada del perro, el perro se desplaza en dirección horizontal a otra zona más adelante. Así hasta que el jugador accede a una zona diseñada para que no pueda escapar (como un agujero). Luego continua con la cinemática donde el perro se convierte en un jaguar para probar su valor.
+		Ver figura \ref{fig:proximidadPerro}.
+		\begin{figure}
+			\centering
+			\includegraphics[height=0.2 \textheight]{Imagenes/proximidadPerro}
+			\caption{Interacción del perro con le jugador.}
+			\label{fig:proximidadPerro}
+		\end{figure}
 	\end{itemize}
 
 	\subsubsection{Objetivos}
@@ -291,6 +319,13 @@ Nivel introductorio que le permite al jugador familiarizarse con las mecánicas 
 	\item \textbf{Tianguis}:
 	El jugador deberá de activar al menos cuatro diálogos para poder desbloquear la infección con Xólotl y que se active la cinemática donde éste le roba el objeto a Malinalli.
 	Para que el jugador pueda ver cuantos diálogos está activando, se mostrará en la ventana del lado superior izquierdo un contador con símbolo y después "x/4", siendo "x" el número de diálogos que se activen y "4" el número de de diálogos que el jugador debe activar antes de avanzar al siguiente apartado.
+				Ver figura \ref{fig:ventanaSimboloDialogo}.
+				\begin{figure}
+					\centering
+					\includegraphics[height=0.2 \textheight]{Imagenes/ventanaSimboloDialogo}
+					\caption{Símbolo de diálogo en la ventana.}
+					\label{fig:ventanaSimboloDialogo}
+				\end{figure}
 	\item \textbf{Selva}: El jugador deberá de seguir a Xólotl. Durante la persecución deberá de superar obstáculos y plataformas saltándolos. Obtener la caracola.
 \end{itemize}
 	\subsubsection{Progreso}
@@ -761,13 +796,14 @@ En este nivel el jugador deberá:
 \begin{itemize}
         \item Fantasma morado. Ver en \ref{per.fantasmaM}.
         \item Chara enana. Ver en ??.
+		\item Mictlecayotl. Ver en \ref{per.mictlecayotl}.
 \begin{itemize}
         \item   Animación vuelo.
 \end{itemize}			
 \end{itemize}
         \subsubsection{Items}
 \begin{itemize}
-        \item   Cacao.
+        \item Cacao.
         \item Flor de vainilla.
 \end{itemize}
         \subsubsection{Personajes}
@@ -835,7 +871,6 @@ En este nivel el jugador deberá:
 \end{itemize} 
 
 	
-	
 		\subsection{Nivel 6}
 	\subsubsection{Título del nivel}
 	Pancuetlacalóyan: lugar donde la persona se voltea como bandera
@@ -850,7 +885,7 @@ En este nivel el jugador deberá:
 	\subsubsection{Enemigos}
 	\begin{itemize}
 		\item Fantasmas rojos. Ver en \ref{per.fantasmaR}.
-		
+		\item Tlazoltéotl. Ver en \ref{per.tlazolteotl}.
 	\end{itemize}
 	\subsubsection{Items}
 	**no hay**
@@ -869,10 +904,10 @@ En este nivel el jugador deberá:
 		\item Zona del jefe:
 		Es el interior del templo,el templos solo es iluminado por los cristales verdes. La batalla se desarrollara en un cuarto de entrenamiento por lo que habrán diferentes armas en las paredes.
 	\end{itemize}
-	\item Suelo:
-	\item Obstáculos:
+	\item Suelo: Rocoso obscuro.
+	\item Obstáculos: Caer al vacío.
 	\item Viento en contra. Ver en \ref{obs.vientoM}.
-	\item Objetos de fondo:
+	\item Objetos de fondo: Sin objetos de fondo
 \end{itemize}	
 	\subsubsection{Música y efectos de sonido}
 	**en progreso**
@@ -891,7 +926,11 @@ En este nivel el jugador deberá:
 	\subsubsection{Progreso}
 	Se presentará una cinemática de los recuerdos de Malinalli. Se desbloqueará el nivel 8 del inframundo. 
 	\subsubsection{Enemigos}
-	Fantasmas morados, fantasmas rojos, flechas de obsidiana, Itztlacoliuhqui.
+	\begin{itemize}
+		\item Fantasmas morados. Ver en \ref{per.fantasmaM}.
+		\item Fantasmas rojos. Ver en \ref{per.fantasmaR}.
+		\item Itztlacoliuhqui. Ver en \ref{per.itztlacoliuhqui}.
+	\end{itemize}
 	\subsubsection{Items}
 	**no hay**
 	\subsubsection{Personajes}
@@ -902,10 +941,10 @@ En este nivel el jugador deberá:
 	\end{itemize}
 	\subsubsection{Escenario}
 \begin{itemize} 
-	\item Fondo:
-	\item Suelo:
-	\item Obstáculos:
-	\item Objetos de fondo:
+	\item Fondo: A lo lejos se verá un volcán en erupción.
+	\item Suelo: Piso rocoso y rocoso agrietado.
+	\item Obstáculos: Lluvia de flechas. Ver en \ref{obs.lluviaF}.
+	\item Objetos de fondo: Sin objetos de fondo.
 \end{itemize}	
 	\subsubsection{Música y efectos de sonido}
 	**en progreso**
@@ -926,23 +965,26 @@ En este nivel el jugador deberá:
 	Se presentará una cinemática de los recuerdos de Malinalli. Se desbloqueará el nivel 8 del inframundo.
 	\subsubsection{Enemigos}
 	\begin{itemize}
-		\item
-		\item
-		\item
-		\item
+		\item Jaguar. Ver en \ref{per.jaguar}.
+		\item Fantasmas morados. Ver en \ref{per.fantasmaM}.
+		\item Fantasmas rojos. Ver en \ref{per.fantasmaR}.
+		\item Tepeyollotl. Ver en \ref{per.tepeyollotl}.
 	\end{itemize}
-	Fantasmas morados, fantasmas rojos, jaguares, Tepeyollotl.
 	\subsubsection{Items}
 	**no hay**
 	\subsubsection{Personajes}
-	Malinalli, Xolotl, Tepeyollotl.
+	\begin{itemize}
+		\item Malinalli. Ver en \ref{per.malinalli}. 
+		\item Xolotl. Ver en \ref{per.xolotl}.
+		\item Tepeyollotl. Ver en \ref{per.tepeyollotl}.
+	\end{itemize}
 	\subsubsection{Escenario}
 \begin{itemize} 
-	\item Fondo:
-	\item Suelo:
-	\item Obstáculos:
-	\item Objetos de fondo:
-\end{itemize}	
+	\item Fondo: Terreno selvatico combinado con ruinas de templos.
+	\item Suelo: Piso selvático, de roca blanca y roca blanca agrietada.
+	\item Obstáculos: No hay
+	\item Objetos de fondo: No hay
+\end{itemize}		
 	\subsubsection{Música y efectos de sonido}
 	**en progreso**
 	\subsubsection{Referencia a BGM y SFX}
@@ -960,17 +1002,26 @@ En este nivel el jugador deberá:
 	\subsubsection{Progreso}
 	Se presentará una cinemática de los recuerdos de Malinalli. Se desbloqueará el nivel 9 del inframundo. 
 	\subsubsection{Enemigos}
-	Fantasmas rojos, fantasmas morados, deidades, Nexoxcho.
+	\begin{itemize}
+		\item Fantasmas rojos. Ver en \ref{per.fantasmaR}.
+		\item Fantasmas morados. Ver en \ref{per.fantasmaM}.
+		\item Deidades. Ver en ??.
+		\item Nexchocho. Ver en \ref{per.nexoxcho}.
+	\end{itemize}
 	\subsubsection{Items}
 	**no hay**
 	\subsubsection{Personajes}
-	Malinalli, Xolotl, Nexoxcho.
+	\begin{itemize}
+		\item Malinalli. Ver en \ref{per.malinalli}.
+		\item Xolotl. Ver en \ref{per.xolotl}.
+		\item Nexchocho. Ver en \ref{per.nexoxcho}.
+	\end{itemize}
 	\subsubsection{Escenario}
 \begin{itemize} 
-	\item Fondo:
-	\item Suelo:
-	\item Obstáculos:
-	\item Objetos de fondo:
+	\item Fondo: Fondo oscuro lleno de aguas.
+	\item Suelo: Roca negra, agua negra.
+	\item Obstáculos: Sin obstáculos.
+	\item Objetos de fondo: Sin objetos.
 \end{itemize}	
 	\subsubsection{Música y efectos de sonido}
 	**en progreso**
@@ -990,6 +1041,12 @@ En este nivel el jugador deberá:
 	\subsubsection{Progreso}
 	Se presentará una cinemática final de Malinalli y Xolotl.
 	\subsubsection{Enemigos}
+	\begin{itemize}
+		\item Fantasmas rojos. Ver en \ref{per.fantasmaR}.
+		\item Fantasmas morados. Ver en \ref{per.fantasmaM}.
+		\item Jaguar. Ver en \ref{per.jaguar}.
+		\item Mictlantecutli. Ver en \ref{per.mictlantecutli}.
+	\end{itemize}
 	Fantasmas morados, fantasmas rojos, viento en contra, flechas, piso congelado, neblina, jaguares, Mictlantecutli.
 	\subsubsection{Items}
 	**no hay**
@@ -997,10 +1054,16 @@ En este nivel el jugador deberá:
 	Malinalli, Xolotl, Mictlantecutli.
 	\subsubsection{Escenario}
 \begin{itemize} 
-	\item Fondo:
-	\item Suelo:
+	\item Fondo: Oscuro con neblina.
+	\item Suelo: Piedra oscura.
 	\item Obstáculos:
-	\item Objetos de fondo:
+	\begin{itemize}		
+		\item Viento en contra. Ver en \ref{obs.vientoT}.
+		\item Flechas. Ver en \ref{obs.lluviaF}.
+		\item Piso congelado. Ver en \ref{obs.pisoC}.
+		\item Neblina.
+	\end{itemize}
+	\item Objetos de fondo: No hay.
 \end{itemize}	
 	\subsubsection{Música y efectos de sonido}
 	**En progreso**
@@ -1426,7 +1489,7 @@ Sin armas.
 \subsubsection{Ítems:}
 Sin ítems.
 
-\subsection{Nombre: Mictlantechtli}  \label{per.mictlantechtlu}
+\subsection{Nombre: Mictlantecutli}  \label{per.mictlantecutli}
 \subsubsection{Descripción:}   
 Su figura es la de un esqueleto cuya calavera esta decorada con puntura morada de guerra. Porta un penacho de oro puro que refleja su condición como gobernante del Mictlán. El resto de su vestimenta emula una armadura de guerrero. Porta unas hombreras de oro con esmeraldas incrustadas, las hombreras se incrustan en un protector para el pecho que tiene diferentes grabados, mientras que sus protectores para los brazos están hechos de esmeraldas. Usa un taparrabo idéntico al que usan los tlatoanis, éste es sujetado por un delgado cinturón de oro. Mictlantechtli usa, ademas, una capa y zapatos característicos de quien es parte de la nobleza.
 \\
@@ -1802,12 +1865,32 @@ Ver figura \ref{fig:zopilote}.
 En el nivel 5.
 \subsubsection{Habilidades:}
 \begin{itemize}
-	\item Rapto. Ver habilidad \ref{hab.rapto}.
-	\item Zopilotear. Ver habilidad \ref{hab.zopilotear}.
+	\item Rapto. Ver habilidad en \ref{hab.rapto}.
+	\item Zopilotear. Ver habilidad en \ref{hab.zopilotear}.
 \end{itemize}
 \subsubsection{Patrón de ataque:}
 En un ciclo, realizará la habilidad rapto cuando se aproxime el jugador a una distancia determinada, mientras no se realice la habilidad rapto la habilidad zopilotear estará activada. Este ciclo se repetirá hasta que el enemigo desaparezca.
-
+\subsection{Nombre: Jaguar}   \label{per.jaguar}
+\subsubsection{Descripción:}
+Animal felino carnívoro, de color amarillo a café rojizo con manchas negras.
+\subsubsection{Status:}
+NPC, enemigo.
+\subsubsection{Imagen}
+Ver figura \ref{fig:jaguar}.
+\begin{figure}
+	\centering
+	\includegraphics[height=0.2 \textheight]{Imagenes/jaguar}
+	\caption{Jaguar.}
+	\label{fig:jaguar}
+\end{figure}
+\subsubsection{Encuentro:}
+En el nivel 8.
+\subsubsection{Habilidades:}
+\begin{itemize}
+	\item Zarpazo. Ver en \ref{hab.zarpazo}.
+\end{itemize}
+\subsubsection{Patrón de ataque:}
+El felino va de un lado hacia otro en dirección horizontal, cuando se encuentra con el jugador tira un zarpazo.
 
 \section{Obstáculos}
 	\subsection{Nombre: Caja} \label{obs.caja}
@@ -2049,30 +2132,71 @@ Ver figura \ref{fig:saco}.
 			\caption{Zopilotear.}
 			\label{fig:zopilotear}
 		\end{figure}
+			\subsection{Nombre: Zarpazo.} \label{hab.zarpazo}
+			\subsubsection{Descripción}
+			El enemigo con sus garras ataca al jugador.
+			\subsubsection{Portador}
+			Jaguar. Ver \ref{per.jaguar}.
+			\subsubsection{Esquema}
+			Ver figura \ref{fig:zarpazo}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/zarpazo}
+				\caption{Zarpazo.}
+				\label{fig:zarpazo}
+			\end{figure}
 \subsection{Nombre: Disparo de tonalli.}\ref{hab.disparoT}
 \subsubsection{Descripción}
 Con ayuda de la caracola permite a su portador disparar tonalli.
 \subsubsection{Portador}
 Malinalli
 \subsubsection{Esquema}
+			Ver figura \ref{fig:disparoT}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/disparoT}
+				\caption{Disparo de tonalli por el jugador.}
+				\label{fig:disparoT}
+			\end{figure}
 \subsection{Nombre: Zambullida.}\ref{hab.zambullida}
 \subsubsection{Descripción}
 Zochitónal se sumerge en el río, dejando solo en la superficie parte de su espalda; procediendo a nadar a gran velocidad de un lado a otro para embestir a sus enemigos.  
 \subsubsection{Portador}
 Zochitónal
 \subsubsection{Esquema}
+			Ver figura \ref{fig:zambullida}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/zambullida}
+				\caption{Zambullida.}
+				\label{fig:zambullida}
+			\end{figure}
 \subsection{Nombre: Burbujas.}
 \subsubsection{Descripción}
 Zochitónal dispara burbujas que seguirán al jugador por un tiempo.  
 \subsubsection{Portador}
 Zochitónal
 \subsubsection{Esquema}
+			Ver figura \ref{fig:burbujas}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/burbujas}
+				\caption{Burbujas.}
+				\label{fig:burbujas}
+			\end{figure}
 \subsection{Nombre: Coraza.}
 \subsubsection{Descripción}
 Esta habilidad permite crear una coraza de piedra protegiendo a su portador de ataques enemigos sacrificando velocidad de movimiento.  
 \subsubsection{Portador}
 Tepeyóllotl.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:coraza}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/coraza}
+				\caption{Coraza.}
+				\label{fig:coraza}
+			\end{figure}
 \subsection{Nombre: Impacto.}
 \subsubsection{Descripción}
 Realiza un salto, provocando al aterrizaje una onda de piedras en el suelo.
@@ -2085,72 +2209,155 @@ Con un poderoso rugido provoca una avalancha de rocas.
 \subsubsection{Portador}
 Tepeyóllotl.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:lluviaR}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/lluviaR}
+				\caption{Lluvia de rocas.}
+				\label{fig:lluviaR}
+			\end{figure}
 \subsection{Nombre: Rugido aturdidor.}
 \subsubsection{Descripción}
 Poderoso rugido provoca una de continuo echo que inmoviliza a al enemigo, Tepeyóllotl solo puede usar esta habilidad cuando no usa la coraza. 
 \subsubsection{Portador}
 Tepeyóllotl. 
 \subsubsection{Esquema}
+			Ver figura \ref{fig:rugido}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/rugido}
+				\caption{Rugido aturdidor.}
+				\label{fig:rugido}
+			\end{figure}
 \subsection{Nombre: Circulo de fuego.}
 \subsubsection{Descripción}
 Itzpápalotl se eleva en el aire y se rodea a sí misma con fuego, este ataque sera usado cuando el jugador se encuentre junto a ella.
 \subsubsection{Portador}
 Itzpápalotl. 
 \subsubsection{Esquema}
+			Ver figura \ref{fig:circuloF}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/circuloF}
+				\caption{Círculo de fuego.}
+				\label{fig:circuloF}
+			\end{figure}
 \subsection{Nombre: Embestida aerea.}
 \subsubsection{Descripción}
 Itzpápalotl usara este ataque cuando este lejos del jugador. Itzpápalotl saltar y en el aire se lanza contra el enemigo en diagonal.
 \subsubsection{Portador}
 Itzpápalotl.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:embestidaA}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/embestidaA}
+				\caption{Embestida aerea.}
+				\label{fig:embestidaA}
+			\end{figure}
 \subsection{Nombre: Invisibilidad.}
 \subsubsection{Descripción}
 Esta habilidad le permite ser indetectable al ojo de dioses y humanos, permitiendole tomar una posición ventajosa en combate.
 \subsubsection{Portador}
 Itzpápalotl.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:invisibilidad}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/invisibilidad}
+				\caption{Invisibilidad.}
+				\label{fig:invisibilidad}
+			\end{figure}
 \subsection{Nombre: Tornado.}
 \subsubsection{Descripción}
 Poderoso ataque que puede bajar hasta la mitad de la vida del jugador.
 \subsubsection{Portador}
 Mictlecayotl.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:tornado}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/tornado}
+				\caption{Tornado.}
+				\label{fig:tornado}
+			\end{figure}
 \subsection{Nombre: Ventisca.}
 \subsubsection{Descripción}
 Aire helado que puede causar una pérdida considerable de la barra de salud.
 \subsubsection{Portador}
 Mictlecayotl.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:ventisca}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/ventisca}
+				\caption{Ventisca.}
+				\label{fig:ventisca}
+			\end{figure}
 \subsection{Nombre: Raíz del diablo.}
 \subsubsection{Descripción}
 Ataque que produce una confusión en el jugador, haciendo que los botones no reaccionen con las acciones que deberían.
 \subsubsection{Portador}
 Tlazoltéotl.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:raiz}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/raiz}
+				\caption{Raíz del diablo.}
+				\label{fig:Raíz}
+			\end{figure}
 \subsection{Nombre: Energía corrupta.}
 \subsubsection{Descripción}
 Esferas de energia oscura que infringen daño al jugador al hacer contacto con éste.
 \subsubsection{Portador}
 Tlazoltéotl.
 \subsubsection{Esquema}
-	
+			Ver figura \ref{fig:energiaC}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/energiaC}
+				\caption{Energía corrupta.}
+				\label{fig:energiaC}
+			\end{figure}	
 \subsection{Nombre: Circulo protector.}
 \subsubsection{Descripción}
 Utilizando energía corrupta,  Tlazoltéotl crea alrededor de ella un circulo con la capacidad de protegerla contra cualquier ataque.
 \subsubsection{Portador}
 Tlazoltéotl.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:circuloP}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/circuloP}
+				\caption{Círculo protector.}
+				\label{fig:circuloP}
+			\end{figure}
 \subsection{Nombre: LLuvia de lava.}
 \subsubsection{Descripción}
 Caen bolas de lava con una gran capacidad de daño.
 \subsubsection{Portador}
 Itztlacoliuhqui.	
 \subsubsection{Esquema}	
+			Ver figura \ref{fig:lluviaL}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/lluviaL}
+				\caption{Lluvia de lava.}
+				\label{fig:lluviaL}
+			\end{figure}
 \subsection{Nombre: Manotazo.}
 \subsubsection{Descripción}
 Genera una onda expansiva que deforma el duelo provonado una oleada de rocas.
 \subsubsection{Portador}
 \subsubsection{Esquema}
+			Ver figura \ref{fig:manotazo}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/manotazo}
+				\caption{Manotazo.}
+				\label{fig:manotazo}
+			\end{figure}
 Itztlacoliuhqui.
 \subsection{Nombre: Lluvia de flechas.}
 \subsubsection{Descripción}
@@ -2158,24 +2365,46 @@ Como su nombre lo dice, provoca una lluvia de flechas, este es el ataque de Itzt
 \subsubsection{Portador}
 Itztlacoliuhqui.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:lluviaF}.
 \subsection{Nombre: Todos los hombres del rey.}
 \subsubsection{Descripción}
 Con este ataque,  Mictlantechtli invoca a varios de los enemigos normales que habitan el Mictlán para que se enfrenten al jugador mientras  Mictlantechhtli desaparece.
 \subsubsection{Portador}
 Mictlantechtli.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:rey}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/rey}
+				\caption{Todos los hombres del rey.}
+				\label{fig:rey}
+			\end{figure}
 \subsection{Nombre: Fuego mortífero.}
 \subsubsection{Descripción}
 Mictlantechtli  lanza poderosas esferas de fuego verde.
 \subsubsection{Portador}
 Mictlantechtli.	
 \subsubsection{Esquema}	
+			Ver figura \ref{fig:fuegoM}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/fuegoM}
+				\caption{fuegoM.}
+				\label{fig:fuegoM}
+			\end{figure}
 \subsection{Nombre: Penitencia.}
 \subsubsection{Descripción}
 Mictlantechtli se eleva en el aire haciendo que salgan huesos filosos del suelo.
 \subsubsection{Portador}
 Mictlantechtli.
 \subsubsection{Esquema}
+			Ver figura \ref{fig:penitencia}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/penitencia}
+				\caption{Penitencia.}
+				\label{fig:penitencia}
+			\end{figure}
 
 
 \section{Armas.}

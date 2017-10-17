@@ -1,25 +1,25 @@
 \select@language {spanish}
-\contentsline {section}{\numberline {1}Concepto}{13}{section.1}
-\contentsline {subsection}{\numberline {1.1}T\IeC {\'\i }tulo:}{13}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Dise\IeC {\~n}adoras:}{13}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}G\IeC {\'e}nero:}{13}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Plataforma:}{13}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}Versi\IeC {\'o}n:}{13}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Sinopsis de jugabilidad:}{14}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}Sinopsis de contenido:}{14}{subsection.1.7}
-\contentsline {subsection}{\numberline {1.8}Categor\IeC {\'\i }a:}{14}{subsection.1.8}
-\contentsline {subsection}{\numberline {1.9}Licencia:}{15}{subsection.1.9}
-\contentsline {subsection}{\numberline {1.10}Mec\IeC {\'a}nica:}{15}{subsection.1.10}
-\contentsline {subsection}{\numberline {1.11}Tecnolog\IeC {\'\i }a:}{16}{subsection.1.11}
-\contentsline {subsection}{\numberline {1.12}P\IeC {\'u}blico:}{16}{subsection.1.12}
-\contentsline {section}{\numberline {2}Historial de versiones}{16}{section.2}
-\contentsline {section}{\numberline {3}Visi\IeC {\'o}n general del juego}{17}{section.3}
-\contentsline {section}{\numberline {4}Mec\IeC {\'a}nica de juego}{17}{section.4}
-\contentsline {subsection}{\numberline {4.1}C\IeC {\'a}mara}{17}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Perif\IeC {\'e}ricos}{17}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Controles}{17}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Guardar/Cargar}{17}{subsection.4.4}
-\contentsline {section}{\numberline {5}Estados del juego}{19}{section.5}
+\contentsline {section}{\numberline {1}Concepto}{14}{section.1}
+\contentsline {subsection}{\numberline {1.1}T\IeC {\'\i }tulo:}{14}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Dise\IeC {\~n}adoras:}{14}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}G\IeC {\'e}nero:}{14}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Plataforma:}{14}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Versi\IeC {\'o}n:}{15}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Sinopsis de jugabilidad:}{15}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Sinopsis de contenido:}{15}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Categor\IeC {\'\i }a:}{15}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}Licencia:}{16}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}Mec\IeC {\'a}nica:}{17}{subsection.1.10}
+\contentsline {subsection}{\numberline {1.11}Tecnolog\IeC {\'\i }a:}{17}{subsection.1.11}
+\contentsline {subsection}{\numberline {1.12}P\IeC {\'u}blico:}{17}{subsection.1.12}
+\contentsline {section}{\numberline {2}Historial de versiones}{17}{section.2}
+\contentsline {section}{\numberline {3}Visi\IeC {\'o}n general del juego}{18}{section.3}
+\contentsline {section}{\numberline {4}Mec\IeC {\'a}nica de juego}{18}{section.4}
+\contentsline {subsection}{\numberline {4.1}C\IeC {\'a}mara}{18}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Perif\IeC {\'e}ricos}{18}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Controles}{18}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Guardar/Cargar}{18}{subsection.4.4}
+\contentsline {section}{\numberline {5}Estados del juego}{20}{section.5}
 \contentsline {section}{\numberline {6}Interfaces}{20}{section.6}
 \contentsline {subsection}{\numberline {6.1}Interfaz 1.00 Pantalla de inicio.}{20}{subsection.6.1}
 \contentsline {subsubsection}{\numberline {6.1.1}Descripci\IeC {\'o}n de la pantalla}{20}{subsubsection.6.1.1}
@@ -27,518 +27,529 @@
 \contentsline {subsubsection}{\numberline {6.1.3}Imagen}{20}{subsubsection.6.1.3}
 \contentsline {subsection}{\numberline {6.2}Interfaz 2.00 Men\IeC {\'u} principal.}{20}{subsection.6.2}
 \contentsline {subsubsection}{\numberline {6.2.1}Descripci\IeC {\'o}n de la pantalla}{20}{subsubsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.2}Estados del juego}{20}{subsubsection.6.2.2}
-\contentsline {subsubsection}{\numberline {6.2.3}Imagen}{21}{subsubsection.6.2.3}
-\contentsline {subsection}{\numberline {6.3}Interfaz 3.00 Selecci\IeC {\'o}n de nivel}{21}{subsection.6.3}
-\contentsline {subsubsection}{\numberline {6.3.1}Descripci\IeC {\'o}n de la pantalla}{21}{subsubsection.6.3.1}
-\contentsline {subsubsection}{\numberline {6.3.2}Estados del juego}{21}{subsubsection.6.3.2}
-\contentsline {subsubsection}{\numberline {6.3.3}Imagen}{21}{subsubsection.6.3.3}
-\contentsline {section}{\numberline {7}Niveles}{21}{section.7}
-\contentsline {subsection}{\numberline {7.1}Nivel 1}{21}{subsection.7.1}
-\contentsline {subsubsection}{\numberline {7.1.1}T\IeC {\'\i }tulo del nivel}{21}{subsubsection.7.1.1}
-\contentsline {subsubsection}{\numberline {7.1.2}Encuentro}{21}{subsubsection.7.1.2}
-\contentsline {subsubsection}{\numberline {7.1.3}Descripci\IeC {\'o}n}{21}{subsubsection.7.1.3}
-\contentsline {subsubsection}{\numberline {7.1.4}Objetivos}{23}{subsubsection.7.1.4}
-\contentsline {subsubsection}{\numberline {7.1.5}Progreso}{23}{subsubsection.7.1.5}
-\contentsline {subsubsection}{\numberline {7.1.6}Enemigos}{24}{subsubsection.7.1.6}
-\contentsline {subsubsection}{\numberline {7.1.7}Items}{24}{subsubsection.7.1.7}
-\contentsline {subsubsection}{\numberline {7.1.8}Personajes}{24}{subsubsection.7.1.8}
-\contentsline {subsubsection}{\numberline {7.1.9}Escenario}{24}{subsubsection.7.1.9}
-\contentsline {subsubsection}{\numberline {7.1.10}M\IeC {\'u}sica y efectos de sonido}{25}{subsubsection.7.1.10}
-\contentsline {subsubsection}{\numberline {7.1.11}Referencia a BGM y SFX}{25}{subsubsection.7.1.11}
-\contentsline {subsection}{\numberline {7.2}Nivel 2}{25}{subsection.7.2}
-\contentsline {subsubsection}{\numberline {7.2.1}T\IeC {\'\i }tulo del nivel}{25}{subsubsection.7.2.1}
-\contentsline {subsubsection}{\numberline {7.2.2}Encuentro}{26}{subsubsection.7.2.2}
-\contentsline {subsubsection}{\numberline {7.2.3}Descripci\IeC {\'o}n}{26}{subsubsection.7.2.3}
-\contentsline {subsubsection}{\numberline {7.2.4}Objetivos}{26}{subsubsection.7.2.4}
-\contentsline {subsubsection}{\numberline {7.2.5}Progreso}{26}{subsubsection.7.2.5}
-\contentsline {subsubsection}{\numberline {7.2.6}Enemigos}{26}{subsubsection.7.2.6}
-\contentsline {subsubsection}{\numberline {7.2.7}Items}{27}{subsubsection.7.2.7}
-\contentsline {subsubsection}{\numberline {7.2.8}Personajes}{27}{subsubsection.7.2.8}
-\contentsline {subsubsection}{\numberline {7.2.9}Escenario}{27}{subsubsection.7.2.9}
-\contentsline {subsubsection}{\numberline {7.2.10}M\IeC {\'u}sica y efectos de sonido}{27}{subsubsection.7.2.10}
-\contentsline {subsubsection}{\numberline {7.2.11}Referencia a BGM y SFX}{28}{subsubsection.7.2.11}
-\contentsline {subsection}{\numberline {7.3}Nivel 3}{28}{subsection.7.3}
-\contentsline {subsubsection}{\numberline {7.3.1}T\IeC {\'\i }tulo del nivel}{28}{subsubsection.7.3.1}
-\contentsline {subsubsection}{\numberline {7.3.2}Encuentro}{28}{subsubsection.7.3.2}
-\contentsline {subsubsection}{\numberline {7.3.3}Descripci\IeC {\'o}n}{28}{subsubsection.7.3.3}
-\contentsline {subsubsection}{\numberline {7.3.4}Objetivos}{28}{subsubsection.7.3.4}
-\contentsline {subsubsection}{\numberline {7.3.5}Progreso}{28}{subsubsection.7.3.5}
-\contentsline {subsubsection}{\numberline {7.3.6}Enemigos}{29}{subsubsection.7.3.6}
-\contentsline {subsubsection}{\numberline {7.3.7}Items}{29}{subsubsection.7.3.7}
-\contentsline {subsubsection}{\numberline {7.3.8}Personajes}{29}{subsubsection.7.3.8}
-\contentsline {subsubsection}{\numberline {7.3.9}Escenario}{30}{subsubsection.7.3.9}
-\contentsline {subsubsection}{\numberline {7.3.10}M\IeC {\'u}sica y efectos de sonido}{30}{subsubsection.7.3.10}
-\contentsline {subsubsection}{\numberline {7.3.11}Referencia a BGM y SFX}{30}{subsubsection.7.3.11}
-\contentsline {subsection}{\numberline {7.4}Nivel 4}{31}{subsection.7.4}
-\contentsline {subsubsection}{\numberline {7.4.1}T\IeC {\'\i }tulo del nivel}{31}{subsubsection.7.4.1}
-\contentsline {subsubsection}{\numberline {7.4.2}Encuentro}{31}{subsubsection.7.4.2}
-\contentsline {subsubsection}{\numberline {7.4.3}Descripci\IeC {\'o}n}{31}{subsubsection.7.4.3}
-\contentsline {subsubsection}{\numberline {7.4.4}Objetivos}{31}{subsubsection.7.4.4}
-\contentsline {subsubsection}{\numberline {7.4.5}Progreso}{31}{subsubsection.7.4.5}
-\contentsline {subsubsection}{\numberline {7.4.6}Enemigos}{32}{subsubsection.7.4.6}
-\contentsline {subsubsection}{\numberline {7.4.7}Items}{32}{subsubsection.7.4.7}
-\contentsline {subsubsection}{\numberline {7.4.8}Personajes}{32}{subsubsection.7.4.8}
-\contentsline {subsubsection}{\numberline {7.4.9}Escenario}{32}{subsubsection.7.4.9}
-\contentsline {subsubsection}{\numberline {7.4.10}M\IeC {\'u}sica y efectos de sonido}{33}{subsubsection.7.4.10}
-\contentsline {subsubsection}{\numberline {7.4.11}Referencia a BGM y SFX}{33}{subsubsection.7.4.11}
-\contentsline {subsection}{\numberline {7.5}Nivel 5}{33}{subsection.7.5}
-\contentsline {subsubsection}{\numberline {7.5.1}T\IeC {\'\i }tulo del nivel}{33}{subsubsection.7.5.1}
-\contentsline {subsubsection}{\numberline {7.5.2}Encuentro}{33}{subsubsection.7.5.2}
-\contentsline {subsubsection}{\numberline {7.5.3}Descripci\IeC {\'o}n}{33}{subsubsection.7.5.3}
-\contentsline {subsubsection}{\numberline {7.5.4}Objetivos}{33}{subsubsection.7.5.4}
-\contentsline {subsubsection}{\numberline {7.5.5}Progreso}{34}{subsubsection.7.5.5}
-\contentsline {subsubsection}{\numberline {7.5.6}Enemigos}{34}{subsubsection.7.5.6}
-\contentsline {subsubsection}{\numberline {7.5.7}Items}{34}{subsubsection.7.5.7}
-\contentsline {subsubsection}{\numberline {7.5.8}Personajes}{34}{subsubsection.7.5.8}
-\contentsline {subsubsection}{\numberline {7.5.9}Escenario}{35}{subsubsection.7.5.9}
-\contentsline {subsubsection}{\numberline {7.5.10}M\IeC {\'u}sica y efectos de sonido}{35}{subsubsection.7.5.10}
-\contentsline {subsubsection}{\numberline {7.5.11}Referencia a BGM y SFX}{35}{subsubsection.7.5.11}
-\contentsline {subsection}{\numberline {7.6}Nivel 6}{35}{subsection.7.6}
-\contentsline {subsubsection}{\numberline {7.6.1}T\IeC {\'\i }tulo del nivel}{35}{subsubsection.7.6.1}
-\contentsline {subsubsection}{\numberline {7.6.2}Encuentro}{36}{subsubsection.7.6.2}
-\contentsline {subsubsection}{\numberline {7.6.3}Descripci\IeC {\'o}n}{36}{subsubsection.7.6.3}
-\contentsline {subsubsection}{\numberline {7.6.4}Objetivos}{36}{subsubsection.7.6.4}
-\contentsline {subsubsection}{\numberline {7.6.5}Progreso}{36}{subsubsection.7.6.5}
-\contentsline {subsubsection}{\numberline {7.6.6}Enemigos}{36}{subsubsection.7.6.6}
-\contentsline {subsubsection}{\numberline {7.6.7}Items}{36}{subsubsection.7.6.7}
-\contentsline {subsubsection}{\numberline {7.6.8}Personajes}{36}{subsubsection.7.6.8}
-\contentsline {subsubsection}{\numberline {7.6.9}Escenario}{36}{subsubsection.7.6.9}
-\contentsline {subsubsection}{\numberline {7.6.10}M\IeC {\'u}sica y efectos de sonido}{36}{subsubsection.7.6.10}
-\contentsline {subsubsection}{\numberline {7.6.11}Referencia a BGM y SFX}{36}{subsubsection.7.6.11}
-\contentsline {subsection}{\numberline {7.7}Nivel 7}{36}{subsection.7.7}
-\contentsline {subsubsection}{\numberline {7.7.1}T\IeC {\'\i }tulo del nivel}{36}{subsubsection.7.7.1}
-\contentsline {subsubsection}{\numberline {7.7.2}Encuentro}{37}{subsubsection.7.7.2}
-\contentsline {subsubsection}{\numberline {7.7.3}Descripci\IeC {\'o}n}{37}{subsubsection.7.7.3}
-\contentsline {subsubsection}{\numberline {7.7.4}Objetivos}{37}{subsubsection.7.7.4}
-\contentsline {subsubsection}{\numberline {7.7.5}Progreso}{37}{subsubsection.7.7.5}
-\contentsline {subsubsection}{\numberline {7.7.6}Enemigos}{37}{subsubsection.7.7.6}
-\contentsline {subsubsection}{\numberline {7.7.7}Items}{37}{subsubsection.7.7.7}
-\contentsline {subsubsection}{\numberline {7.7.8}Personajes}{37}{subsubsection.7.7.8}
-\contentsline {subsubsection}{\numberline {7.7.9}Escenario}{37}{subsubsection.7.7.9}
-\contentsline {subsubsection}{\numberline {7.7.10}M\IeC {\'u}sica y efectos de sonido}{37}{subsubsection.7.7.10}
-\contentsline {subsubsection}{\numberline {7.7.11}Referencia a BGM y SFX}{37}{subsubsection.7.7.11}
-\contentsline {subsection}{\numberline {7.8}Nivel 8}{37}{subsection.7.8}
-\contentsline {subsubsection}{\numberline {7.8.1}T\IeC {\'\i }tulo del nivel}{37}{subsubsection.7.8.1}
-\contentsline {subsubsection}{\numberline {7.8.2}Encuentro}{38}{subsubsection.7.8.2}
-\contentsline {subsubsection}{\numberline {7.8.3}Descripci\IeC {\'o}n}{38}{subsubsection.7.8.3}
-\contentsline {subsubsection}{\numberline {7.8.4}Objetivos}{38}{subsubsection.7.8.4}
-\contentsline {subsubsection}{\numberline {7.8.5}Progreso}{38}{subsubsection.7.8.5}
-\contentsline {subsubsection}{\numberline {7.8.6}Enemigos}{38}{subsubsection.7.8.6}
-\contentsline {subsubsection}{\numberline {7.8.7}Items}{38}{subsubsection.7.8.7}
-\contentsline {subsubsection}{\numberline {7.8.8}Personajes}{38}{subsubsection.7.8.8}
-\contentsline {subsubsection}{\numberline {7.8.9}Escenario}{38}{subsubsection.7.8.9}
-\contentsline {subsubsection}{\numberline {7.8.10}M\IeC {\'u}sica y efectos de sonido}{38}{subsubsection.7.8.10}
-\contentsline {subsubsection}{\numberline {7.8.11}Referencia a BGM y SFX}{38}{subsubsection.7.8.11}
-\contentsline {subsection}{\numberline {7.9}Nivel 9}{38}{subsection.7.9}
-\contentsline {subsubsection}{\numberline {7.9.1}T\IeC {\'\i }tulo del nivel}{38}{subsubsection.7.9.1}
-\contentsline {subsubsection}{\numberline {7.9.2}Encuentro}{39}{subsubsection.7.9.2}
-\contentsline {subsubsection}{\numberline {7.9.3}Descripci\IeC {\'o}n}{39}{subsubsection.7.9.3}
-\contentsline {subsubsection}{\numberline {7.9.4}Objetivos}{39}{subsubsection.7.9.4}
-\contentsline {subsubsection}{\numberline {7.9.5}Progreso}{39}{subsubsection.7.9.5}
-\contentsline {subsubsection}{\numberline {7.9.6}Enemigos}{39}{subsubsection.7.9.6}
-\contentsline {subsubsection}{\numberline {7.9.7}Items}{39}{subsubsection.7.9.7}
-\contentsline {subsubsection}{\numberline {7.9.8}Personajes}{39}{subsubsection.7.9.8}
-\contentsline {subsubsection}{\numberline {7.9.9}Escenario}{39}{subsubsection.7.9.9}
-\contentsline {subsubsection}{\numberline {7.9.10}M\IeC {\'u}sica y efectos de sonido}{39}{subsubsection.7.9.10}
-\contentsline {subsubsection}{\numberline {7.9.11}Referencia a BGM y SFX}{39}{subsubsection.7.9.11}
-\contentsline {subsection}{\numberline {7.10}Nivel 10}{39}{subsection.7.10}
-\contentsline {subsubsection}{\numberline {7.10.1}T\IeC {\'\i }tulo del nivel}{39}{subsubsection.7.10.1}
-\contentsline {subsubsection}{\numberline {7.10.2}Encuentro}{40}{subsubsection.7.10.2}
-\contentsline {subsubsection}{\numberline {7.10.3}Descripci\IeC {\'o}n}{40}{subsubsection.7.10.3}
-\contentsline {subsubsection}{\numberline {7.10.4}Objetivos}{40}{subsubsection.7.10.4}
-\contentsline {subsubsection}{\numberline {7.10.5}Progreso}{40}{subsubsection.7.10.5}
-\contentsline {subsubsection}{\numberline {7.10.6}Enemigos}{40}{subsubsection.7.10.6}
-\contentsline {subsubsection}{\numberline {7.10.7}Items}{40}{subsubsection.7.10.7}
-\contentsline {subsubsection}{\numberline {7.10.8}Personajes}{40}{subsubsection.7.10.8}
-\contentsline {subsubsection}{\numberline {7.10.9}Escenario}{40}{subsubsection.7.10.9}
-\contentsline {subsubsection}{\numberline {7.10.10}M\IeC {\'u}sica y efectos de sonido}{40}{subsubsection.7.10.10}
-\contentsline {subsubsection}{\numberline {7.10.11}Referencia a BGM y SFX}{40}{subsubsection.7.10.11}
-\contentsline {section}{\numberline {8}Progreso del juego}{40}{section.8}
-\contentsline {section}{\numberline {9}Personajes}{42}{section.9}
-\contentsline {subsection}{\numberline {9.1}Nombre: Malinalli Ten\IeC {\'e}pal.}{42}{subsection.9.1}
-\contentsline {subsubsection}{\numberline {9.1.1}Descripci\IeC {\'o}n:}{42}{subsubsection.9.1.1}
-\contentsline {subsubsection}{\numberline {9.1.2}Imagen}{42}{subsubsection.9.1.2}
-\contentsline {subsubsection}{\numberline {9.1.3}Concepto:}{42}{subsubsection.9.1.3}
-\contentsline {subsubsection}{\numberline {9.1.4}Encuentro:}{43}{subsubsection.9.1.4}
-\contentsline {subsubsection}{\numberline {9.1.5}Habilidades:}{43}{subsubsection.9.1.5}
-\contentsline {subsubsection}{\numberline {9.1.6}Armas:}{43}{subsubsection.9.1.6}
-\contentsline {subsubsection}{\numberline {9.1.7}\IeC {\'I}tems:}{43}{subsubsection.9.1.7}
-\contentsline {subsection}{\numberline {9.2}Nombre: X\IeC {\'o}lotl}{43}{subsection.9.2}
-\contentsline {subsubsection}{\numberline {9.2.1}Descripci\IeC {\'o}n:}{43}{subsubsection.9.2.1}
-\contentsline {subsubsection}{\numberline {9.2.2}Status:}{43}{subsubsection.9.2.2}
-\contentsline {subsubsection}{\numberline {9.2.3}Imagen}{44}{subsubsection.9.2.3}
-\contentsline {subsubsection}{\numberline {9.2.4}Concepto:}{44}{subsubsection.9.2.4}
-\contentsline {subsubsection}{\numberline {9.2.5}Encuentro:}{44}{subsubsection.9.2.5}
-\contentsline {subsubsection}{\numberline {9.2.6}Habilidades:}{44}{subsubsection.9.2.6}
-\contentsline {subsubsection}{\numberline {9.2.7}Armas:}{45}{subsubsection.9.2.7}
-\contentsline {subsubsection}{\numberline {9.2.8}\IeC {\'I}tems:}{45}{subsubsection.9.2.8}
-\contentsline {subsubsection}{\numberline {9.2.9}Personaje No-Jugable}{45}{subsubsection.9.2.9}
-\contentsline {subsection}{\numberline {9.3}Nombre: Xochit\IeC {\'o}nal}{45}{subsection.9.3}
-\contentsline {subsubsection}{\numberline {9.3.1}Descripci\IeC {\'o}n:}{45}{subsubsection.9.3.1}
-\contentsline {subsubsection}{\numberline {9.3.2}Status:}{45}{subsubsection.9.3.2}
-\contentsline {subsubsection}{\numberline {9.3.3}Imagen}{45}{subsubsection.9.3.3}
-\contentsline {subsubsection}{\numberline {9.3.4}Concepto:}{45}{subsubsection.9.3.4}
-\contentsline {subsubsection}{\numberline {9.3.5}Encuentro:}{46}{subsubsection.9.3.5}
-\contentsline {subsubsection}{\numberline {9.3.6}Habilidades:}{46}{subsubsection.9.3.6}
-\contentsline {subsubsection}{\numberline {9.3.7}Armas:}{46}{subsubsection.9.3.7}
-\contentsline {subsubsection}{\numberline {9.3.8}\IeC {\'I}tems:}{46}{subsubsection.9.3.8}
-\contentsline {subsection}{\numberline {9.4}Nombre: Tepey\IeC {\'o}llotl}{46}{subsection.9.4}
-\contentsline {subsubsection}{\numberline {9.4.1}Descripci\IeC {\'o}n:}{46}{subsubsection.9.4.1}
-\contentsline {subsubsection}{\numberline {9.4.2}Status:}{46}{subsubsection.9.4.2}
-\contentsline {subsubsection}{\numberline {9.4.3}Imagen}{47}{subsubsection.9.4.3}
-\contentsline {subsubsection}{\numberline {9.4.4}Concepto:}{47}{subsubsection.9.4.4}
-\contentsline {subsubsection}{\numberline {9.4.5}Encuentro:}{48}{subsubsection.9.4.5}
-\contentsline {subsubsection}{\numberline {9.4.6}Habilidades:}{48}{subsubsection.9.4.6}
-\contentsline {subsubsection}{\numberline {9.4.7}Armas:}{48}{subsubsection.9.4.7}
-\contentsline {subsubsection}{\numberline {9.4.8}\IeC {\'I}tems:}{48}{subsubsection.9.4.8}
-\contentsline {subsection}{\numberline {9.5}Nombre: Itzp\IeC {\'a}palotl}{48}{subsection.9.5}
-\contentsline {subsubsection}{\numberline {9.5.1}Descripci\IeC {\'o}n:}{48}{subsubsection.9.5.1}
-\contentsline {subsubsection}{\numberline {9.5.2}Status:}{48}{subsubsection.9.5.2}
-\contentsline {subsubsection}{\numberline {9.5.3}Imagen}{49}{subsubsection.9.5.3}
-\contentsline {subsubsection}{\numberline {9.5.4}Concepto:}{49}{subsubsection.9.5.4}
-\contentsline {subsubsection}{\numberline {9.5.5}Encuentro:}{49}{subsubsection.9.5.5}
-\contentsline {subsubsection}{\numberline {9.5.6}Habilidades:}{49}{subsubsection.9.5.6}
-\contentsline {subsubsection}{\numberline {9.5.7}Armas:}{50}{subsubsection.9.5.7}
-\contentsline {subsubsection}{\numberline {9.5.8}\IeC {\'I}tems:}{50}{subsubsection.9.5.8}
-\contentsline {subsection}{\numberline {9.6}Nombre: Mictlecayotl}{50}{subsection.9.6}
-\contentsline {subsubsection}{\numberline {9.6.1}Descripci\IeC {\'o}n:}{50}{subsubsection.9.6.1}
-\contentsline {subsubsection}{\numberline {9.6.2}Status:}{50}{subsubsection.9.6.2}
-\contentsline {subsubsection}{\numberline {9.6.3}Imagen}{50}{subsubsection.9.6.3}
-\contentsline {subsubsection}{\numberline {9.6.4}Concepto:}{50}{subsubsection.9.6.4}
-\contentsline {subsubsection}{\numberline {9.6.5}Encuentro:}{51}{subsubsection.9.6.5}
-\contentsline {subsubsection}{\numberline {9.6.6}Habilidades:}{51}{subsubsection.9.6.6}
-\contentsline {subsubsection}{\numberline {9.6.7}Armas:}{52}{subsubsection.9.6.7}
-\contentsline {subsubsection}{\numberline {9.6.8}\IeC {\'I}tems:}{52}{subsubsection.9.6.8}
-\contentsline {subsection}{\numberline {9.7}Nombre: Tlazolt\IeC {\'e}otl}{52}{subsection.9.7}
-\contentsline {subsubsection}{\numberline {9.7.1}Descripci\IeC {\'o}n: }{52}{subsubsection.9.7.1}
-\contentsline {subsubsection}{\numberline {9.7.2}Status:}{52}{subsubsection.9.7.2}
-\contentsline {subsubsection}{\numberline {9.7.3}Imagen}{52}{subsubsection.9.7.3}
-\contentsline {subsubsection}{\numberline {9.7.4}Concepto:}{52}{subsubsection.9.7.4}
-\contentsline {subsubsection}{\numberline {9.7.5}Encuentro:}{53}{subsubsection.9.7.5}
-\contentsline {subsubsection}{\numberline {9.7.6}Habilidades:}{53}{subsubsection.9.7.6}
-\contentsline {subsubsection}{\numberline {9.7.7}Armas:}{53}{subsubsection.9.7.7}
-\contentsline {subsubsection}{\numberline {9.7.8}\IeC {\'I}tems:}{53}{subsubsection.9.7.8}
-\contentsline {subsection}{\numberline {9.8}Nombre: Itztlacoliuhqui}{53}{subsection.9.8}
-\contentsline {subsubsection}{\numberline {9.8.1}Descripci\IeC {\'o}n:}{53}{subsubsection.9.8.1}
-\contentsline {subsubsection}{\numberline {9.8.2}Status:}{54}{subsubsection.9.8.2}
-\contentsline {subsubsection}{\numberline {9.8.3}Imagen}{54}{subsubsection.9.8.3}
-\contentsline {subsubsection}{\numberline {9.8.4}Concepto:}{54}{subsubsection.9.8.4}
-\contentsline {subsubsection}{\numberline {9.8.5}Encuentro:}{55}{subsubsection.9.8.5}
-\contentsline {subsubsection}{\numberline {9.8.6}Habilidades:}{55}{subsubsection.9.8.6}
-\contentsline {subsubsection}{\numberline {9.8.7}Armas:}{55}{subsubsection.9.8.7}
-\contentsline {subsubsection}{\numberline {9.8.8}\IeC {\'I}tems:}{55}{subsubsection.9.8.8}
-\contentsline {subsection}{\numberline {9.9}Nombre: Nexoxcho}{55}{subsection.9.9}
-\contentsline {subsubsection}{\numberline {9.9.1}Descripci\IeC {\'o}n:}{55}{subsubsection.9.9.1}
-\contentsline {subsubsection}{\numberline {9.9.2}Status:}{56}{subsubsection.9.9.2}
-\contentsline {subsubsection}{\numberline {9.9.3}Imagen}{56}{subsubsection.9.9.3}
-\contentsline {subsubsection}{\numberline {9.9.4}Concepto:}{56}{subsubsection.9.9.4}
-\contentsline {subsubsection}{\numberline {9.9.5}Encuentro:}{56}{subsubsection.9.9.5}
-\contentsline {subsubsection}{\numberline {9.9.6}Habilidades:}{56}{subsubsection.9.9.6}
-\contentsline {subsubsection}{\numberline {9.9.7}Armas:}{56}{subsubsection.9.9.7}
-\contentsline {subsubsection}{\numberline {9.9.8}\IeC {\'I}tems:}{56}{subsubsection.9.9.8}
-\contentsline {subsection}{\numberline {9.10}Nombre: Mictlantechtli}{56}{subsection.9.10}
-\contentsline {subsubsection}{\numberline {9.10.1}Descripci\IeC {\'o}n:}{56}{subsubsection.9.10.1}
-\contentsline {subsubsection}{\numberline {9.10.2}Status:}{57}{subsubsection.9.10.2}
-\contentsline {subsubsection}{\numberline {9.10.3}Imagen}{57}{subsubsection.9.10.3}
-\contentsline {subsubsection}{\numberline {9.10.4}Concepto:}{57}{subsubsection.9.10.4}
-\contentsline {subsubsection}{\numberline {9.10.5}Encuentro:}{58}{subsubsection.9.10.5}
-\contentsline {subsubsection}{\numberline {9.10.6}Habilidades:}{58}{subsubsection.9.10.6}
-\contentsline {subsubsection}{\numberline {9.10.7}Armas:}{58}{subsubsection.9.10.7}
-\contentsline {subsubsection}{\numberline {9.10.8}\IeC {\'I}tems:}{58}{subsubsection.9.10.8}
-\contentsline {subsubsection}{\numberline {9.10.9}Habilidades:}{58}{subsubsection.9.10.9}
-\contentsline {subsubsection}{\numberline {9.10.10}Armas:}{58}{subsubsection.9.10.10}
-\contentsline {subsubsection}{\numberline {9.10.11}\IeC {\'I}tems:}{58}{subsubsection.9.10.11}
-\contentsline {subsubsection}{\numberline {9.10.12}Personaje No-Jugable}{58}{subsubsection.9.10.12}
-\contentsline {subsection}{\numberline {9.11}Nombre: Mictecac\IeC {\'\i }huatl}{59}{subsection.9.11}
-\contentsline {subsubsection}{\numberline {9.11.1}Descripci\IeC {\'o}n:}{59}{subsubsection.9.11.1}
-\contentsline {subsubsection}{\numberline {9.11.2}Status}{59}{subsubsection.9.11.2}
-\contentsline {subsubsection}{\numberline {9.11.3}Imagen}{59}{subsubsection.9.11.3}
-\contentsline {subsubsection}{\numberline {9.11.4}Concepto:}{59}{subsubsection.9.11.4}
-\contentsline {subsubsection}{\numberline {9.11.5}Encuentro:}{60}{subsubsection.9.11.5}
-\contentsline {subsubsection}{\numberline {9.11.6}Habilidades:}{60}{subsubsection.9.11.6}
-\contentsline {subsubsection}{\numberline {9.11.7}Armas:}{60}{subsubsection.9.11.7}
-\contentsline {subsubsection}{\numberline {9.11.8}\IeC {\'I}tems:}{60}{subsubsection.9.11.8}
-\contentsline {subsection}{\numberline {9.12}Nombre: Ten\IeC {\'e}pal}{60}{subsection.9.12}
-\contentsline {subsubsection}{\numberline {9.12.1}Descripci\IeC {\'o}n:}{60}{subsubsection.9.12.1}
-\contentsline {subsubsection}{\numberline {9.12.2}Status:}{60}{subsubsection.9.12.2}
-\contentsline {subsubsection}{\numberline {9.12.3}Imagen}{61}{subsubsection.9.12.3}
-\contentsline {subsubsection}{\numberline {9.12.4}Concepto:}{61}{subsubsection.9.12.4}
-\contentsline {subsubsection}{\numberline {9.12.5}Encuentro:}{61}{subsubsection.9.12.5}
-\contentsline {subsubsection}{\numberline {9.12.6}Habilidades:}{61}{subsubsection.9.12.6}
-\contentsline {subsubsection}{\numberline {9.12.7}Armas:}{61}{subsubsection.9.12.7}
-\contentsline {subsubsection}{\numberline {9.12.8}\IeC {\'I}tems:}{62}{subsubsection.9.12.8}
-\contentsline {subsection}{\numberline {9.13}Nombre: Cimatl}{62}{subsection.9.13}
-\contentsline {subsubsection}{\numberline {9.13.1}Descripci\IeC {\'o}n:}{62}{subsubsection.9.13.1}
-\contentsline {subsubsection}{\numberline {9.13.2}Status:}{62}{subsubsection.9.13.2}
-\contentsline {subsubsection}{\numberline {9.13.3}Imagen}{62}{subsubsection.9.13.3}
-\contentsline {subsubsection}{\numberline {9.13.4}Concepto:}{62}{subsubsection.9.13.4}
-\contentsline {subsubsection}{\numberline {9.13.5}Encuentro:}{63}{subsubsection.9.13.5}
-\contentsline {subsubsection}{\numberline {9.13.6}Habilidades:}{63}{subsubsection.9.13.6}
-\contentsline {subsubsection}{\numberline {9.13.7}Armas:}{63}{subsubsection.9.13.7}
-\contentsline {subsubsection}{\numberline {9.13.8}\IeC {\'I}tems:}{63}{subsubsection.9.13.8}
-\contentsline {subsection}{\numberline {9.14}Nombre: Huenupan}{63}{subsection.9.14}
-\contentsline {subsubsection}{\numberline {9.14.1}Descripci\IeC {\'o}n:}{63}{subsubsection.9.14.1}
-\contentsline {subsubsection}{\numberline {9.14.2}Status:}{63}{subsubsection.9.14.2}
-\contentsline {subsubsection}{\numberline {9.14.3}Imagen}{64}{subsubsection.9.14.3}
-\contentsline {subsubsection}{\numberline {9.14.4}Concepto:}{64}{subsubsection.9.14.4}
-\contentsline {subsubsection}{\numberline {9.14.5}Encuentro:}{64}{subsubsection.9.14.5}
-\contentsline {subsubsection}{\numberline {9.14.6}Habilidades:}{64}{subsubsection.9.14.6}
-\contentsline {subsubsection}{\numberline {9.14.7}Armas:}{64}{subsubsection.9.14.7}
-\contentsline {subsubsection}{\numberline {9.14.8}\IeC {\'I}tems:}{64}{subsubsection.9.14.8}
-\contentsline {subsection}{\numberline {9.15}Nombre: Quetzalc\IeC {\'o}atl}{64}{subsection.9.15}
-\contentsline {subsubsection}{\numberline {9.15.1}Descripci\IeC {\'o}n:}{64}{subsubsection.9.15.1}
-\contentsline {subsubsection}{\numberline {9.15.2}Status:}{64}{subsubsection.9.15.2}
-\contentsline {subsubsection}{\numberline {9.15.3}Imagen}{64}{subsubsection.9.15.3}
-\contentsline {subsubsection}{\numberline {9.15.4}Concepto:}{64}{subsubsection.9.15.4}
-\contentsline {subsubsection}{\numberline {9.15.5}Encuentro:}{65}{subsubsection.9.15.5}
-\contentsline {subsubsection}{\numberline {9.15.6}Habilidades:}{65}{subsubsection.9.15.6}
-\contentsline {subsubsection}{\numberline {9.15.7}Armas:}{65}{subsubsection.9.15.7}
-\contentsline {subsubsection}{\numberline {9.15.8}\IeC {\'I}tems:}{65}{subsubsection.9.15.8}
-\contentsline {subsection}{\numberline {9.16}Nombre: Ciudadanos}{65}{subsection.9.16}
-\contentsline {subsubsection}{\numberline {9.16.1}Descripci\IeC {\'o}n:}{65}{subsubsection.9.16.1}
-\contentsline {subsubsection}{\numberline {9.16.2}Status:}{65}{subsubsection.9.16.2}
-\contentsline {subsubsection}{\numberline {9.16.3}Imagen}{65}{subsubsection.9.16.3}
-\contentsline {subsubsection}{\numberline {9.16.4}Concepto:}{65}{subsubsection.9.16.4}
-\contentsline {subsubsection}{\numberline {9.16.5}Encuentro:}{66}{subsubsection.9.16.5}
-\contentsline {subsection}{\numberline {9.17}Nombre: Tunkuluch\IeC {\'u}}{66}{subsection.9.17}
-\contentsline {subsubsection}{\numberline {9.17.1}Descripci\IeC {\'o}n:}{66}{subsubsection.9.17.1}
-\contentsline {subsubsection}{\numberline {9.17.2}Status:}{66}{subsubsection.9.17.2}
-\contentsline {subsubsection}{\numberline {9.17.3}Imagen}{66}{subsubsection.9.17.3}
-\contentsline {subsubsection}{\numberline {9.17.4}Encuentro:}{66}{subsubsection.9.17.4}
-\contentsline {subsection}{\numberline {9.18}Nombre: Armadillo}{67}{subsection.9.18}
-\contentsline {subsubsection}{\numberline {9.18.1}Descripci\IeC {\'o}n:}{67}{subsubsection.9.18.1}
-\contentsline {subsubsection}{\numberline {9.18.2}Status:}{67}{subsubsection.9.18.2}
-\contentsline {subsubsection}{\numberline {9.18.3}Imagen}{67}{subsubsection.9.18.3}
-\contentsline {subsubsection}{\numberline {9.18.4}Concepto:}{67}{subsubsection.9.18.4}
-\contentsline {subsubsection}{\numberline {9.18.5}Encuentro:}{67}{subsubsection.9.18.5}
-\contentsline {subsubsection}{\numberline {9.18.6}Habilidades:}{68}{subsubsection.9.18.6}
-\contentsline {subsubsection}{\numberline {9.18.7}Patr\IeC {\'o}n de ataque:}{68}{subsubsection.9.18.7}
-\contentsline {subsection}{\numberline {9.19}Nombre: Fantasma rojo}{68}{subsection.9.19}
-\contentsline {subsubsection}{\numberline {9.19.1}Descripci\IeC {\'o}n:}{68}{subsubsection.9.19.1}
-\contentsline {subsubsection}{\numberline {9.19.2}Status:}{68}{subsubsection.9.19.2}
-\contentsline {subsubsection}{\numberline {9.19.3}Imagen}{68}{subsubsection.9.19.3}
-\contentsline {subsubsection}{\numberline {9.19.4}Encuentro:}{68}{subsubsection.9.19.4}
-\contentsline {subsubsection}{\numberline {9.19.5}Habilidades:}{68}{subsubsection.9.19.5}
-\contentsline {subsubsection}{\numberline {9.19.6}Patr\IeC {\'o}n de ataque:}{69}{subsubsection.9.19.6}
-\contentsline {subsection}{\numberline {9.20}Nombre: Fantasma morado}{69}{subsection.9.20}
-\contentsline {subsubsection}{\numberline {9.20.1}Descripci\IeC {\'o}n:}{69}{subsubsection.9.20.1}
-\contentsline {subsubsection}{\numberline {9.20.2}Status:}{69}{subsubsection.9.20.2}
-\contentsline {subsubsection}{\numberline {9.20.3}Imagen}{69}{subsubsection.9.20.3}
-\contentsline {subsubsection}{\numberline {9.20.4}Encuentro:}{69}{subsubsection.9.20.4}
-\contentsline {subsubsection}{\numberline {9.20.5}Habilidades:}{69}{subsubsection.9.20.5}
-\contentsline {subsubsection}{\numberline {9.20.6}Patr\IeC {\'o}n de ataque:}{69}{subsubsection.9.20.6}
-\contentsline {subsection}{\numberline {9.21}Nombre: Zopilote}{70}{subsection.9.21}
-\contentsline {subsubsection}{\numberline {9.21.1}Descripci\IeC {\'o}n:}{70}{subsubsection.9.21.1}
-\contentsline {subsubsection}{\numberline {9.21.2}Status:}{70}{subsubsection.9.21.2}
-\contentsline {subsubsection}{\numberline {9.21.3}Imagen}{70}{subsubsection.9.21.3}
-\contentsline {subsubsection}{\numberline {9.21.4}Encuentro:}{70}{subsubsection.9.21.4}
-\contentsline {subsubsection}{\numberline {9.21.5}Habilidades:}{70}{subsubsection.9.21.5}
-\contentsline {subsubsection}{\numberline {9.21.6}Patr\IeC {\'o}n de ataque:}{70}{subsubsection.9.21.6}
-\contentsline {section}{\numberline {10}Obst\IeC {\'a}culos}{70}{section.10}
-\contentsline {subsection}{\numberline {10.1}Nombre: Caja}{70}{subsection.10.1}
-\contentsline {subsubsection}{\numberline {10.1.1}Descripci\IeC {\'o}n}{70}{subsubsection.10.1.1}
-\contentsline {subsubsection}{\numberline {10.1.2}Esquema}{71}{subsubsection.10.1.2}
-\contentsline {subsection}{\numberline {10.2}Nombre: Sacos cacao}{71}{subsection.10.2}
-\contentsline {subsubsection}{\numberline {10.2.1}Descripci\IeC {\'o}n}{71}{subsubsection.10.2.1}
-\contentsline {subsubsection}{\numberline {10.2.2}Esquema}{71}{subsubsection.10.2.2}
-\contentsline {subsection}{\numberline {10.3}Nombre: Plataforma m\IeC {\'o}vil}{71}{subsection.10.3}
-\contentsline {subsubsection}{\numberline {10.3.1}Descripci\IeC {\'o}n}{71}{subsubsection.10.3.1}
-\contentsline {subsubsection}{\numberline {10.3.2}Esquema}{72}{subsubsection.10.3.2}
-\contentsline {subsection}{\numberline {10.4}Nombre: Plataforma d\IeC {\'e}bil}{72}{subsection.10.4}
-\contentsline {subsubsection}{\numberline {10.4.1}Descripci\IeC {\'o}n}{72}{subsubsection.10.4.1}
-\contentsline {subsubsection}{\numberline {10.4.2}Esquema}{72}{subsubsection.10.4.2}
-\contentsline {subsection}{\numberline {10.5}Nombre: Rocas}{72}{subsection.10.5}
-\contentsline {subsubsection}{\numberline {10.5.1}Descripci\IeC {\'o}n}{72}{subsubsection.10.5.1}
-\contentsline {subsubsection}{\numberline {10.5.2}Esquema}{73}{subsubsection.10.5.2}
-\contentsline {subsection}{\numberline {10.6}Nombre: Viento temporal}{73}{subsection.10.6}
-\contentsline {subsubsection}{\numberline {10.6.1}Descripci\IeC {\'o}n}{73}{subsubsection.10.6.1}
-\contentsline {subsubsection}{\numberline {10.6.2}Esquema}{73}{subsubsection.10.6.2}
-\contentsline {subsection}{\numberline {10.7}Nombre: Piedras filosas}{73}{subsection.10.7}
-\contentsline {subsubsection}{\numberline {10.7.1}Descripci\IeC {\'o}n}{73}{subsubsection.10.7.1}
-\contentsline {subsubsection}{\numberline {10.7.2}Esquema}{74}{subsubsection.10.7.2}
-\contentsline {subsection}{\numberline {10.8}Nombre: Piso congelado}{74}{subsection.10.8}
-\contentsline {subsubsection}{\numberline {10.8.1}Descripci\IeC {\'o}n}{74}{subsubsection.10.8.1}
-\contentsline {subsubsection}{\numberline {10.8.2}Esquema}{74}{subsubsection.10.8.2}
-\contentsline {subsection}{\numberline {10.9}Nombre: Hielo quebradizo}{74}{subsection.10.9}
-\contentsline {subsubsection}{\numberline {10.9.1}Descripci\IeC {\'o}n}{74}{subsubsection.10.9.1}
-\contentsline {subsubsection}{\numberline {10.9.2}Esquema}{75}{subsubsection.10.9.2}
-\contentsline {subsection}{\numberline {10.10}Nombre: Bolas de nieve}{75}{subsection.10.10}
-\contentsline {subsubsection}{\numberline {10.10.1}Descripci\IeC {\'o}n}{75}{subsubsection.10.10.1}
-\contentsline {subsubsection}{\numberline {10.10.2}Esquema}{75}{subsubsection.10.10.2}
-\contentsline {subsection}{\numberline {10.11}Nombre: Viento multidireccional}{75}{subsection.10.11}
-\contentsline {subsubsection}{\numberline {10.11.1}Descripci\IeC {\'o}n}{75}{subsubsection.10.11.1}
-\contentsline {subsubsection}{\numberline {10.11.2}Esquema}{76}{subsubsection.10.11.2}
-\contentsline {subsection}{\numberline {10.12}Nombre: Lluvia de flechas}{76}{subsection.10.12}
-\contentsline {subsubsection}{\numberline {10.12.1}Descripci\IeC {\'o}n}{76}{subsubsection.10.12.1}
-\contentsline {subsubsection}{\numberline {10.12.2}Esquema}{76}{subsubsection.10.12.2}
-\contentsline {section}{\numberline {11}Habilidades.}{76}{section.11}
-\contentsline {subsection}{\numberline {11.1}Nombre: Rodar.}{76}{subsection.11.1}
-\contentsline {subsubsection}{\numberline {11.1.1}Descripci\IeC {\'o}n}{76}{subsubsection.11.1.1}
-\contentsline {subsubsection}{\numberline {11.1.2}Portador}{77}{subsubsection.11.1.2}
-\contentsline {subsubsection}{\numberline {11.1.3}Esquema}{77}{subsubsection.11.1.3}
-\contentsline {subsection}{\numberline {11.2}Nombre: Desenrrollar.}{77}{subsection.11.2}
-\contentsline {subsubsection}{\numberline {11.2.1}Descripci\IeC {\'o}n}{77}{subsubsection.11.2.1}
-\contentsline {subsubsection}{\numberline {11.2.2}Portador}{77}{subsubsection.11.2.2}
-\contentsline {subsubsection}{\numberline {11.2.3}Esquema}{77}{subsubsection.11.2.3}
-\contentsline {subsection}{\numberline {11.3}Nombre: Disparo rojo.}{78}{subsection.11.3}
-\contentsline {subsubsection}{\numberline {11.3.1}Descripci\IeC {\'o}n}{78}{subsubsection.11.3.1}
-\contentsline {subsubsection}{\numberline {11.3.2}Portador}{78}{subsubsection.11.3.2}
-\contentsline {subsubsection}{\numberline {11.3.3}Esquema}{78}{subsubsection.11.3.3}
-\contentsline {subsection}{\numberline {11.4}Nombre: Flotar en vertical.}{78}{subsection.11.4}
-\contentsline {subsubsection}{\numberline {11.4.1}Descripci\IeC {\'o}n}{78}{subsubsection.11.4.1}
-\contentsline {subsubsection}{\numberline {11.4.2}Portador}{78}{subsubsection.11.4.2}
-\contentsline {subsubsection}{\numberline {11.4.3}Esquema}{78}{subsubsection.11.4.3}
-\contentsline {subsection}{\numberline {11.5}Nombre: Embestida.}{78}{subsection.11.5}
-\contentsline {subsubsection}{\numberline {11.5.1}Descripci\IeC {\'o}n}{78}{subsubsection.11.5.1}
-\contentsline {subsubsection}{\numberline {11.5.2}Portador}{78}{subsubsection.11.5.2}
-\contentsline {subsubsection}{\numberline {11.5.3}Esquema}{79}{subsubsection.11.5.3}
-\contentsline {subsection}{\numberline {11.6}Nombre: Flotar en tri\IeC {\'a}ngulo.}{79}{subsection.11.6}
-\contentsline {subsubsection}{\numberline {11.6.1}Descripci\IeC {\'o}n}{79}{subsubsection.11.6.1}
-\contentsline {subsubsection}{\numberline {11.6.2}Portador}{79}{subsubsection.11.6.2}
-\contentsline {subsubsection}{\numberline {11.6.3}Esquema}{79}{subsubsection.11.6.3}
-\contentsline {subsection}{\numberline {11.7}Nombre: Rapto.}{79}{subsection.11.7}
-\contentsline {subsubsection}{\numberline {11.7.1}Descripci\IeC {\'o}n}{79}{subsubsection.11.7.1}
-\contentsline {subsubsection}{\numberline {11.7.2}Portador}{80}{subsubsection.11.7.2}
-\contentsline {subsubsection}{\numberline {11.7.3}Esquema}{80}{subsubsection.11.7.3}
-\contentsline {subsection}{\numberline {11.8}Nombre: Zopilotear.}{80}{subsection.11.8}
-\contentsline {subsubsection}{\numberline {11.8.1}Descripci\IeC {\'o}n}{80}{subsubsection.11.8.1}
-\contentsline {subsubsection}{\numberline {11.8.2}Portador}{80}{subsubsection.11.8.2}
-\contentsline {subsubsection}{\numberline {11.8.3}Esquema}{80}{subsubsection.11.8.3}
-\contentsline {subsection}{\numberline {11.9}Nombre: Disparo de tonalli.}{80}{subsection.11.9}
-\contentsline {subsubsection}{\numberline {11.9.1}Descripci\IeC {\'o}n}{81}{subsubsection.11.9.1}
-\contentsline {subsubsection}{\numberline {11.9.2}Portador}{81}{subsubsection.11.9.2}
-\contentsline {subsubsection}{\numberline {11.9.3}Esquema}{81}{subsubsection.11.9.3}
-\contentsline {subsection}{\numberline {11.10}Nombre: Zambullida.}{81}{subsection.11.10}
-\contentsline {subsubsection}{\numberline {11.10.1}Descripci\IeC {\'o}n}{81}{subsubsection.11.10.1}
-\contentsline {subsubsection}{\numberline {11.10.2}Portador}{81}{subsubsection.11.10.2}
-\contentsline {subsubsection}{\numberline {11.10.3}Esquema}{81}{subsubsection.11.10.3}
-\contentsline {subsection}{\numberline {11.11}Nombre: Burbujas.}{81}{subsection.11.11}
-\contentsline {subsubsection}{\numberline {11.11.1}Descripci\IeC {\'o}n}{81}{subsubsection.11.11.1}
-\contentsline {subsubsection}{\numberline {11.11.2}Portador}{81}{subsubsection.11.11.2}
-\contentsline {subsubsection}{\numberline {11.11.3}Esquema}{82}{subsubsection.11.11.3}
-\contentsline {subsection}{\numberline {11.12}Nombre: Coraza.}{82}{subsection.11.12}
-\contentsline {subsubsection}{\numberline {11.12.1}Descripci\IeC {\'o}n}{82}{subsubsection.11.12.1}
-\contentsline {subsubsection}{\numberline {11.12.2}Portador}{82}{subsubsection.11.12.2}
-\contentsline {subsubsection}{\numberline {11.12.3}Esquema}{82}{subsubsection.11.12.3}
-\contentsline {subsection}{\numberline {11.13}Nombre: Impacto.}{82}{subsection.11.13}
-\contentsline {subsubsection}{\numberline {11.13.1}Descripci\IeC {\'o}n}{82}{subsubsection.11.13.1}
-\contentsline {subsubsection}{\numberline {11.13.2}Portador}{82}{subsubsection.11.13.2}
-\contentsline {subsubsection}{\numberline {11.13.3}Esquema}{82}{subsubsection.11.13.3}
-\contentsline {subsection}{\numberline {11.14}Nombre de la habilidad: Luvia de rocas.}{82}{subsection.11.14}
-\contentsline {subsubsection}{\numberline {11.14.1}Descripci\IeC {\'o}n}{82}{subsubsection.11.14.1}
-\contentsline {subsubsection}{\numberline {11.14.2}Portador}{82}{subsubsection.11.14.2}
-\contentsline {subsubsection}{\numberline {11.14.3}Esquema}{82}{subsubsection.11.14.3}
-\contentsline {subsection}{\numberline {11.15}Nombre: Rugido aturdidor.}{82}{subsection.11.15}
-\contentsline {subsubsection}{\numberline {11.15.1}Descripci\IeC {\'o}n}{82}{subsubsection.11.15.1}
-\contentsline {subsubsection}{\numberline {11.15.2}Portador}{82}{subsubsection.11.15.2}
-\contentsline {subsubsection}{\numberline {11.15.3}Esquema}{83}{subsubsection.11.15.3}
-\contentsline {subsection}{\numberline {11.16}Nombre: Circulo de fuego.}{83}{subsection.11.16}
-\contentsline {subsubsection}{\numberline {11.16.1}Descripci\IeC {\'o}n}{83}{subsubsection.11.16.1}
-\contentsline {subsubsection}{\numberline {11.16.2}Portador}{83}{subsubsection.11.16.2}
-\contentsline {subsubsection}{\numberline {11.16.3}Esquema}{83}{subsubsection.11.16.3}
-\contentsline {subsection}{\numberline {11.17}Nombre: Embestida aerea.}{83}{subsection.11.17}
-\contentsline {subsubsection}{\numberline {11.17.1}Descripci\IeC {\'o}n}{83}{subsubsection.11.17.1}
-\contentsline {subsubsection}{\numberline {11.17.2}Portador}{83}{subsubsection.11.17.2}
-\contentsline {subsubsection}{\numberline {11.17.3}Esquema}{83}{subsubsection.11.17.3}
-\contentsline {subsection}{\numberline {11.18}Nombre: Invisibilidad.}{83}{subsection.11.18}
-\contentsline {subsubsection}{\numberline {11.18.1}Descripci\IeC {\'o}n}{83}{subsubsection.11.18.1}
-\contentsline {subsubsection}{\numberline {11.18.2}Portador}{83}{subsubsection.11.18.2}
-\contentsline {subsubsection}{\numberline {11.18.3}Esquema}{83}{subsubsection.11.18.3}
-\contentsline {subsection}{\numberline {11.19}Nombre: Tornado.}{83}{subsection.11.19}
-\contentsline {subsubsection}{\numberline {11.19.1}Descripci\IeC {\'o}n}{83}{subsubsection.11.19.1}
-\contentsline {subsubsection}{\numberline {11.19.2}Portador}{83}{subsubsection.11.19.2}
-\contentsline {subsubsection}{\numberline {11.19.3}Esquema}{84}{subsubsection.11.19.3}
-\contentsline {subsection}{\numberline {11.20}Nombre: Ventisca.}{84}{subsection.11.20}
-\contentsline {subsubsection}{\numberline {11.20.1}Descripci\IeC {\'o}n}{84}{subsubsection.11.20.1}
-\contentsline {subsubsection}{\numberline {11.20.2}Portador}{84}{subsubsection.11.20.2}
-\contentsline {subsubsection}{\numberline {11.20.3}Esquema}{84}{subsubsection.11.20.3}
-\contentsline {subsection}{\numberline {11.21}Nombre: Ra\IeC {\'\i }z del diablo.}{84}{subsection.11.21}
-\contentsline {subsubsection}{\numberline {11.21.1}Descripci\IeC {\'o}n}{84}{subsubsection.11.21.1}
-\contentsline {subsubsection}{\numberline {11.21.2}Portador}{84}{subsubsection.11.21.2}
-\contentsline {subsubsection}{\numberline {11.21.3}Esquema}{84}{subsubsection.11.21.3}
-\contentsline {subsection}{\numberline {11.22}Nombre: Energ\IeC {\'\i }a corrupta.}{84}{subsection.11.22}
-\contentsline {subsubsection}{\numberline {11.22.1}Descripci\IeC {\'o}n}{84}{subsubsection.11.22.1}
-\contentsline {subsubsection}{\numberline {11.22.2}Portador}{84}{subsubsection.11.22.2}
-\contentsline {subsubsection}{\numberline {11.22.3}Esquema}{84}{subsubsection.11.22.3}
-\contentsline {subsection}{\numberline {11.23}Nombre: Circulo protector.}{84}{subsection.11.23}
-\contentsline {subsubsection}{\numberline {11.23.1}Descripci\IeC {\'o}n}{84}{subsubsection.11.23.1}
-\contentsline {subsubsection}{\numberline {11.23.2}Portador}{84}{subsubsection.11.23.2}
-\contentsline {subsubsection}{\numberline {11.23.3}Esquema}{85}{subsubsection.11.23.3}
-\contentsline {subsection}{\numberline {11.24}Nombre: LLuvia de lava.}{85}{subsection.11.24}
-\contentsline {subsubsection}{\numberline {11.24.1}Descripci\IeC {\'o}n}{85}{subsubsection.11.24.1}
-\contentsline {subsubsection}{\numberline {11.24.2}Portador}{85}{subsubsection.11.24.2}
-\contentsline {subsubsection}{\numberline {11.24.3}Esquema}{85}{subsubsection.11.24.3}
-\contentsline {subsection}{\numberline {11.25}Nombre: Manotazo.}{85}{subsection.11.25}
-\contentsline {subsubsection}{\numberline {11.25.1}Descripci\IeC {\'o}n}{85}{subsubsection.11.25.1}
-\contentsline {subsubsection}{\numberline {11.25.2}Portador}{85}{subsubsection.11.25.2}
-\contentsline {subsubsection}{\numberline {11.25.3}Esquema}{85}{subsubsection.11.25.3}
-\contentsline {subsection}{\numberline {11.26}Nombre: Lluvia de flechas.}{85}{subsection.11.26}
-\contentsline {subsubsection}{\numberline {11.26.1}Descripci\IeC {\'o}n}{85}{subsubsection.11.26.1}
-\contentsline {subsubsection}{\numberline {11.26.2}Portador}{85}{subsubsection.11.26.2}
-\contentsline {subsubsection}{\numberline {11.26.3}Esquema}{85}{subsubsection.11.26.3}
-\contentsline {subsection}{\numberline {11.27}Nombre: Todos los hombres del rey.}{85}{subsection.11.27}
-\contentsline {subsubsection}{\numberline {11.27.1}Descripci\IeC {\'o}n}{85}{subsubsection.11.27.1}
-\contentsline {subsubsection}{\numberline {11.27.2}Portador}{85}{subsubsection.11.27.2}
-\contentsline {subsubsection}{\numberline {11.27.3}Esquema}{86}{subsubsection.11.27.3}
-\contentsline {subsection}{\numberline {11.28}Nombre: Fuego mort\IeC {\'\i }fero.}{86}{subsection.11.28}
-\contentsline {subsubsection}{\numberline {11.28.1}Descripci\IeC {\'o}n}{86}{subsubsection.11.28.1}
-\contentsline {subsubsection}{\numberline {11.28.2}Portador}{86}{subsubsection.11.28.2}
-\contentsline {subsubsection}{\numberline {11.28.3}Esquema}{86}{subsubsection.11.28.3}
-\contentsline {subsection}{\numberline {11.29}Nombre: Penitencia.}{86}{subsection.11.29}
-\contentsline {subsubsection}{\numberline {11.29.1}Descripci\IeC {\'o}n}{86}{subsubsection.11.29.1}
-\contentsline {subsubsection}{\numberline {11.29.2}Portador}{86}{subsubsection.11.29.2}
-\contentsline {subsubsection}{\numberline {11.29.3}Esquema}{86}{subsubsection.11.29.3}
-\contentsline {section}{\numberline {12}Armas.}{86}{section.12}
-\contentsline {subsection}{\numberline {12.1}Nombre: Caracola.}{86}{subsection.12.1}
-\contentsline {subsubsection}{\numberline {12.1.1}Descripci\IeC {\'o}n}{86}{subsubsection.12.1.1}
-\contentsline {subsubsection}{\numberline {12.1.2}Imagen}{86}{subsubsection.12.1.2}
-\contentsline {subsubsection}{\numberline {12.1.3}Portador}{86}{subsubsection.12.1.3}
-\contentsline {subsection}{\numberline {12.2}Nombre: Atardecer de venus.}{86}{subsection.12.2}
-\contentsline {subsubsection}{\numberline {12.2.1}Descripci\IeC {\'o}n}{86}{subsubsection.12.2.1}
-\contentsline {subsubsection}{\numberline {12.2.2}Imagen}{86}{subsubsection.12.2.2}
-\contentsline {subsubsection}{\numberline {12.2.3}Portador}{86}{subsubsection.12.2.3}
-\contentsline {subsection}{\numberline {12.3}Nombre: Matlalpapalotl.}{87}{subsection.12.3}
-\contentsline {subsubsection}{\numberline {12.3.1}Descripci\IeC {\'o}n}{87}{subsubsection.12.3.1}
-\contentsline {subsubsection}{\numberline {12.3.2}Imagen}{87}{subsubsection.12.3.2}
-\contentsline {subsubsection}{\numberline {12.3.3}Portador}{87}{subsubsection.12.3.3}
-\contentsline {subsection}{\numberline {12.4}Nombre: Trepa viento.}{87}{subsection.12.4}
-\contentsline {subsubsection}{\numberline {12.4.1}Descripci\IeC {\'o}n}{87}{subsubsection.12.4.1}
-\contentsline {subsubsection}{\numberline {12.4.2}Imagen}{87}{subsubsection.12.4.2}
-\contentsline {subsubsection}{\numberline {12.4.3}Portador}{87}{subsubsection.12.4.3}
-\contentsline {subsection}{\numberline {12.5}Nombre: Arco solar.}{87}{subsection.12.5}
-\contentsline {subsubsection}{\numberline {12.5.1}Descripci\IeC {\'o}n}{87}{subsubsection.12.5.1}
-\contentsline {subsubsection}{\numberline {12.5.2}Imagen}{87}{subsubsection.12.5.2}
-\contentsline {subsubsection}{\numberline {12.5.3}Portador}{87}{subsubsection.12.5.3}
-\contentsline {section}{\numberline {13}Items.}{87}{section.13}
-\contentsline {subsection}{\numberline {13.1}Nombre: Peineta en forma de flor.}{87}{subsection.13.1}
-\contentsline {subsubsection}{\numberline {13.1.1}Descripci\IeC {\'o}n}{87}{subsubsection.13.1.1}
-\contentsline {subsubsection}{\numberline {13.1.2}Imagen}{87}{subsubsection.13.1.2}
-\contentsline {subsubsection}{\numberline {13.1.3}Portador}{87}{subsubsection.13.1.3}
-\contentsline {subsection}{\numberline {13.2}Nombre: Armadura espiritual.}{88}{subsection.13.2}
-\contentsline {subsubsection}{\numberline {13.2.1}Descripci\IeC {\'o}n}{88}{subsubsection.13.2.1}
-\contentsline {subsubsection}{\numberline {13.2.2}Imagen}{88}{subsubsection.13.2.2}
-\contentsline {subsubsection}{\numberline {13.2.3}Portador}{88}{subsubsection.13.2.3}
-\contentsline {section}{\numberline {14}Gui\IeC {\'o}n.}{88}{section.14}
-\contentsline {section}{\numberline {15}M\IeC {\'u}sica y sonidos.}{88}{section.15}
-\contentsline {subsection}{\numberline {15.1}M\IeC {\'u}sica de fondo}{88}{subsection.15.1}
-\contentsline {subsubsection}{\numberline {15.1.1}Nombre: M\IeC {\'u}sica mercado}{88}{subsubsection.15.1.1}
-\contentsline {subsubsection}{\numberline {15.1.2}Nombre: M\IeC {\'u}sica selva}{88}{subsubsection.15.1.2}
-\contentsline {subsubsection}{\numberline {15.1.3}Nombre: M\IeC {\'u}sica Xolotl}{88}{subsubsection.15.1.3}
-\contentsline {subsubsection}{\numberline {15.1.4}Nombre: M\IeC {\'u}sica plataforma segundo nivel}{88}{subsubsection.15.1.4}
-\contentsline {subsubsection}{\numberline {15.1.5}Nombre: M\IeC {\'u}sica jefe segundo nivel}{88}{subsubsection.15.1.5}
-\contentsline {subsubsection}{\numberline {15.1.6}Nombre: M\IeC {\'u}sica plataforma tercer nivel}{88}{subsubsection.15.1.6}
-\contentsline {subsubsection}{\numberline {15.1.7}Nombre: M\IeC {\'u}sica jefe tercer nivel}{89}{subsubsection.15.1.7}
-\contentsline {subsubsection}{\numberline {15.1.8}Nombre: M\IeC {\'u}sica plataforma cuarto nivel}{89}{subsubsection.15.1.8}
-\contentsline {subsubsection}{\numberline {15.1.9}Nombre: M\IeC {\'u}sica jefe cuarto nivel}{89}{subsubsection.15.1.9}
-\contentsline {subsubsection}{\numberline {15.1.10}Nombre: M\IeC {\'u}sica plataforma quinto nivel}{89}{subsubsection.15.1.10}
-\contentsline {subsubsection}{\numberline {15.1.11}Nombre: M\IeC {\'u}sica jefe quinto nivel}{89}{subsubsection.15.1.11}
-\contentsline {subsubsection}{\numberline {15.1.12}Nombre: M\IeC {\'u}sica plataforma sexto nivel}{89}{subsubsection.15.1.12}
-\contentsline {subsubsection}{\numberline {15.1.13}Nombre: M\IeC {\'u}sica jefe sexto nivel}{89}{subsubsection.15.1.13}
-\contentsline {subsection}{\numberline {15.2}Efectos de sonido}{89}{subsection.15.2}
-\contentsline {section}{\numberline {16}Imagenes de concepto.}{89}{section.16}
-\contentsline {section}{\numberline {17}Miembros de equipo.}{89}{section.17}
-\contentsline {section}{\numberline {18}Detalles de producci\IeC {\'o}n.}{89}{section.18}
-\contentsline {subsection}{\numberline {18.1}Fecha de inicio.}{89}{subsection.18.1}
-\contentsline {subsection}{\numberline {18.2}Fecha de terminaci\IeC {\'o}n.}{89}{subsection.18.2}
-\contentsline {subsection}{\numberline {18.3}Presupuesto.}{89}{subsection.18.3}
+\contentsline {subsubsection}{\numberline {6.2.2}Estados del juego}{22}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}Imagen}{22}{subsubsection.6.2.3}
+\contentsline {subsection}{\numberline {6.3}Interfaz 3.00 Selecci\IeC {\'o}n de nivel}{22}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Descripci\IeC {\'o}n de la pantalla}{22}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}Estados del juego}{22}{subsubsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6.3.3}Imagen}{22}{subsubsection.6.3.3}
+\contentsline {section}{\numberline {7}Niveles}{22}{section.7}
+\contentsline {subsection}{\numberline {7.1}Nivel 1}{22}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}T\IeC {\'\i }tulo del nivel}{22}{subsubsection.7.1.1}
+\contentsline {subsubsection}{\numberline {7.1.2}Encuentro}{22}{subsubsection.7.1.2}
+\contentsline {subsubsection}{\numberline {7.1.3}Descripci\IeC {\'o}n}{24}{subsubsection.7.1.3}
+\contentsline {subsubsection}{\numberline {7.1.4}Objetivos}{24}{subsubsection.7.1.4}
+\contentsline {subsubsection}{\numberline {7.1.5}Progreso}{25}{subsubsection.7.1.5}
+\contentsline {subsubsection}{\numberline {7.1.6}Enemigos}{25}{subsubsection.7.1.6}
+\contentsline {subsubsection}{\numberline {7.1.7}Items}{25}{subsubsection.7.1.7}
+\contentsline {subsubsection}{\numberline {7.1.8}Personajes}{25}{subsubsection.7.1.8}
+\contentsline {subsubsection}{\numberline {7.1.9}Escenario}{26}{subsubsection.7.1.9}
+\contentsline {subsubsection}{\numberline {7.1.10}M\IeC {\'u}sica y efectos de sonido}{26}{subsubsection.7.1.10}
+\contentsline {subsubsection}{\numberline {7.1.11}Referencia a BGM y SFX}{27}{subsubsection.7.1.11}
+\contentsline {subsection}{\numberline {7.2}Nivel 2}{27}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}T\IeC {\'\i }tulo del nivel}{27}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}Encuentro}{27}{subsubsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.3}Descripci\IeC {\'o}n}{27}{subsubsection.7.2.3}
+\contentsline {subsubsection}{\numberline {7.2.4}Objetivos}{27}{subsubsection.7.2.4}
+\contentsline {subsubsection}{\numberline {7.2.5}Progreso}{27}{subsubsection.7.2.5}
+\contentsline {subsubsection}{\numberline {7.2.6}Enemigos}{28}{subsubsection.7.2.6}
+\contentsline {subsubsection}{\numberline {7.2.7}Items}{28}{subsubsection.7.2.7}
+\contentsline {subsubsection}{\numberline {7.2.8}Personajes}{28}{subsubsection.7.2.8}
+\contentsline {subsubsection}{\numberline {7.2.9}Escenario}{28}{subsubsection.7.2.9}
+\contentsline {subsubsection}{\numberline {7.2.10}M\IeC {\'u}sica y efectos de sonido}{29}{subsubsection.7.2.10}
+\contentsline {subsubsection}{\numberline {7.2.11}Referencia a BGM y SFX}{29}{subsubsection.7.2.11}
+\contentsline {subsection}{\numberline {7.3}Nivel 3}{29}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}T\IeC {\'\i }tulo del nivel}{29}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}Encuentro}{29}{subsubsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.3}Descripci\IeC {\'o}n}{30}{subsubsection.7.3.3}
+\contentsline {subsubsection}{\numberline {7.3.4}Objetivos}{30}{subsubsection.7.3.4}
+\contentsline {subsubsection}{\numberline {7.3.5}Progreso}{30}{subsubsection.7.3.5}
+\contentsline {subsubsection}{\numberline {7.3.6}Enemigos}{30}{subsubsection.7.3.6}
+\contentsline {subsubsection}{\numberline {7.3.7}Items}{31}{subsubsection.7.3.7}
+\contentsline {subsubsection}{\numberline {7.3.8}Personajes}{31}{subsubsection.7.3.8}
+\contentsline {subsubsection}{\numberline {7.3.9}Escenario}{31}{subsubsection.7.3.9}
+\contentsline {subsubsection}{\numberline {7.3.10}M\IeC {\'u}sica y efectos de sonido}{32}{subsubsection.7.3.10}
+\contentsline {subsubsection}{\numberline {7.3.11}Referencia a BGM y SFX}{32}{subsubsection.7.3.11}
+\contentsline {subsection}{\numberline {7.4}Nivel 4}{32}{subsection.7.4}
+\contentsline {subsubsection}{\numberline {7.4.1}T\IeC {\'\i }tulo del nivel}{32}{subsubsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.2}Encuentro}{32}{subsubsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.3}Descripci\IeC {\'o}n}{32}{subsubsection.7.4.3}
+\contentsline {subsubsection}{\numberline {7.4.4}Objetivos}{32}{subsubsection.7.4.4}
+\contentsline {subsubsection}{\numberline {7.4.5}Progreso}{33}{subsubsection.7.4.5}
+\contentsline {subsubsection}{\numberline {7.4.6}Enemigos}{33}{subsubsection.7.4.6}
+\contentsline {subsubsection}{\numberline {7.4.7}Items}{33}{subsubsection.7.4.7}
+\contentsline {subsubsection}{\numberline {7.4.8}Personajes}{33}{subsubsection.7.4.8}
+\contentsline {subsubsection}{\numberline {7.4.9}Escenario}{34}{subsubsection.7.4.9}
+\contentsline {subsubsection}{\numberline {7.4.10}M\IeC {\'u}sica y efectos de sonido}{34}{subsubsection.7.4.10}
+\contentsline {subsubsection}{\numberline {7.4.11}Referencia a BGM y SFX}{34}{subsubsection.7.4.11}
+\contentsline {subsection}{\numberline {7.5}Nivel 5}{34}{subsection.7.5}
+\contentsline {subsubsection}{\numberline {7.5.1}T\IeC {\'\i }tulo del nivel}{34}{subsubsection.7.5.1}
+\contentsline {subsubsection}{\numberline {7.5.2}Encuentro}{35}{subsubsection.7.5.2}
+\contentsline {subsubsection}{\numberline {7.5.3}Descripci\IeC {\'o}n}{35}{subsubsection.7.5.3}
+\contentsline {subsubsection}{\numberline {7.5.4}Objetivos}{35}{subsubsection.7.5.4}
+\contentsline {subsubsection}{\numberline {7.5.5}Progreso}{35}{subsubsection.7.5.5}
+\contentsline {subsubsection}{\numberline {7.5.6}Enemigos}{35}{subsubsection.7.5.6}
+\contentsline {subsubsection}{\numberline {7.5.7}Items}{35}{subsubsection.7.5.7}
+\contentsline {subsubsection}{\numberline {7.5.8}Personajes}{36}{subsubsection.7.5.8}
+\contentsline {subsubsection}{\numberline {7.5.9}Escenario}{36}{subsubsection.7.5.9}
+\contentsline {subsubsection}{\numberline {7.5.10}M\IeC {\'u}sica y efectos de sonido}{36}{subsubsection.7.5.10}
+\contentsline {subsubsection}{\numberline {7.5.11}Referencia a BGM y SFX}{37}{subsubsection.7.5.11}
+\contentsline {subsection}{\numberline {7.6}Nivel 6}{37}{subsection.7.6}
+\contentsline {subsubsection}{\numberline {7.6.1}T\IeC {\'\i }tulo del nivel}{37}{subsubsection.7.6.1}
+\contentsline {subsubsection}{\numberline {7.6.2}Encuentro}{37}{subsubsection.7.6.2}
+\contentsline {subsubsection}{\numberline {7.6.3}Descripci\IeC {\'o}n}{37}{subsubsection.7.6.3}
+\contentsline {subsubsection}{\numberline {7.6.4}Objetivos}{37}{subsubsection.7.6.4}
+\contentsline {subsubsection}{\numberline {7.6.5}Progreso}{37}{subsubsection.7.6.5}
+\contentsline {subsubsection}{\numberline {7.6.6}Enemigos}{37}{subsubsection.7.6.6}
+\contentsline {subsubsection}{\numberline {7.6.7}Items}{37}{subsubsection.7.6.7}
+\contentsline {subsubsection}{\numberline {7.6.8}Personajes}{38}{subsubsection.7.6.8}
+\contentsline {subsubsection}{\numberline {7.6.9}Escenario}{38}{subsubsection.7.6.9}
+\contentsline {subsubsection}{\numberline {7.6.10}M\IeC {\'u}sica y efectos de sonido}{38}{subsubsection.7.6.10}
+\contentsline {subsubsection}{\numberline {7.6.11}Referencia a BGM y SFX}{38}{subsubsection.7.6.11}
+\contentsline {subsection}{\numberline {7.7}Nivel 7}{38}{subsection.7.7}
+\contentsline {subsubsection}{\numberline {7.7.1}T\IeC {\'\i }tulo del nivel}{38}{subsubsection.7.7.1}
+\contentsline {subsubsection}{\numberline {7.7.2}Encuentro}{38}{subsubsection.7.7.2}
+\contentsline {subsubsection}{\numberline {7.7.3}Descripci\IeC {\'o}n}{38}{subsubsection.7.7.3}
+\contentsline {subsubsection}{\numberline {7.7.4}Objetivos}{38}{subsubsection.7.7.4}
+\contentsline {subsubsection}{\numberline {7.7.5}Progreso}{39}{subsubsection.7.7.5}
+\contentsline {subsubsection}{\numberline {7.7.6}Enemigos}{39}{subsubsection.7.7.6}
+\contentsline {subsubsection}{\numberline {7.7.7}Items}{39}{subsubsection.7.7.7}
+\contentsline {subsubsection}{\numberline {7.7.8}Personajes}{39}{subsubsection.7.7.8}
+\contentsline {subsubsection}{\numberline {7.7.9}Escenario}{39}{subsubsection.7.7.9}
+\contentsline {subsubsection}{\numberline {7.7.10}M\IeC {\'u}sica y efectos de sonido}{39}{subsubsection.7.7.10}
+\contentsline {subsubsection}{\numberline {7.7.11}Referencia a BGM y SFX}{39}{subsubsection.7.7.11}
+\contentsline {subsection}{\numberline {7.8}Nivel 8}{39}{subsection.7.8}
+\contentsline {subsubsection}{\numberline {7.8.1}T\IeC {\'\i }tulo del nivel}{39}{subsubsection.7.8.1}
+\contentsline {subsubsection}{\numberline {7.8.2}Encuentro}{39}{subsubsection.7.8.2}
+\contentsline {subsubsection}{\numberline {7.8.3}Descripci\IeC {\'o}n}{40}{subsubsection.7.8.3}
+\contentsline {subsubsection}{\numberline {7.8.4}Objetivos}{40}{subsubsection.7.8.4}
+\contentsline {subsubsection}{\numberline {7.8.5}Progreso}{40}{subsubsection.7.8.5}
+\contentsline {subsubsection}{\numberline {7.8.6}Enemigos}{40}{subsubsection.7.8.6}
+\contentsline {subsubsection}{\numberline {7.8.7}Items}{40}{subsubsection.7.8.7}
+\contentsline {subsubsection}{\numberline {7.8.8}Personajes}{40}{subsubsection.7.8.8}
+\contentsline {subsubsection}{\numberline {7.8.9}Escenario}{40}{subsubsection.7.8.9}
+\contentsline {subsubsection}{\numberline {7.8.10}M\IeC {\'u}sica y efectos de sonido}{40}{subsubsection.7.8.10}
+\contentsline {subsubsection}{\numberline {7.8.11}Referencia a BGM y SFX}{40}{subsubsection.7.8.11}
+\contentsline {subsection}{\numberline {7.9}Nivel 9}{41}{subsection.7.9}
+\contentsline {subsubsection}{\numberline {7.9.1}T\IeC {\'\i }tulo del nivel}{41}{subsubsection.7.9.1}
+\contentsline {subsubsection}{\numberline {7.9.2}Encuentro}{41}{subsubsection.7.9.2}
+\contentsline {subsubsection}{\numberline {7.9.3}Descripci\IeC {\'o}n}{41}{subsubsection.7.9.3}
+\contentsline {subsubsection}{\numberline {7.9.4}Objetivos}{41}{subsubsection.7.9.4}
+\contentsline {subsubsection}{\numberline {7.9.5}Progreso}{41}{subsubsection.7.9.5}
+\contentsline {subsubsection}{\numberline {7.9.6}Enemigos}{41}{subsubsection.7.9.6}
+\contentsline {subsubsection}{\numberline {7.9.7}Items}{41}{subsubsection.7.9.7}
+\contentsline {subsubsection}{\numberline {7.9.8}Personajes}{41}{subsubsection.7.9.8}
+\contentsline {subsubsection}{\numberline {7.9.9}Escenario}{41}{subsubsection.7.9.9}
+\contentsline {subsubsection}{\numberline {7.9.10}M\IeC {\'u}sica y efectos de sonido}{42}{subsubsection.7.9.10}
+\contentsline {subsubsection}{\numberline {7.9.11}Referencia a BGM y SFX}{42}{subsubsection.7.9.11}
+\contentsline {subsection}{\numberline {7.10}Nivel 10}{42}{subsection.7.10}
+\contentsline {subsubsection}{\numberline {7.10.1}T\IeC {\'\i }tulo del nivel}{42}{subsubsection.7.10.1}
+\contentsline {subsubsection}{\numberline {7.10.2}Encuentro}{42}{subsubsection.7.10.2}
+\contentsline {subsubsection}{\numberline {7.10.3}Descripci\IeC {\'o}n}{42}{subsubsection.7.10.3}
+\contentsline {subsubsection}{\numberline {7.10.4}Objetivos}{42}{subsubsection.7.10.4}
+\contentsline {subsubsection}{\numberline {7.10.5}Progreso}{42}{subsubsection.7.10.5}
+\contentsline {subsubsection}{\numberline {7.10.6}Enemigos}{42}{subsubsection.7.10.6}
+\contentsline {subsubsection}{\numberline {7.10.7}Items}{42}{subsubsection.7.10.7}
+\contentsline {subsubsection}{\numberline {7.10.8}Personajes}{42}{subsubsection.7.10.8}
+\contentsline {subsubsection}{\numberline {7.10.9}Escenario}{43}{subsubsection.7.10.9}
+\contentsline {subsubsection}{\numberline {7.10.10}M\IeC {\'u}sica y efectos de sonido}{43}{subsubsection.7.10.10}
+\contentsline {subsubsection}{\numberline {7.10.11}Referencia a BGM y SFX}{43}{subsubsection.7.10.11}
+\contentsline {section}{\numberline {8}Progreso del juego}{43}{section.8}
+\contentsline {section}{\numberline {9}Personajes}{43}{section.9}
+\contentsline {subsection}{\numberline {9.1}Nombre: Malinalli Ten\IeC {\'e}pal.}{43}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}Descripci\IeC {\'o}n:}{43}{subsubsection.9.1.1}
+\contentsline {subsubsection}{\numberline {9.1.2}Imagen}{43}{subsubsection.9.1.2}
+\contentsline {subsubsection}{\numberline {9.1.3}Concepto:}{43}{subsubsection.9.1.3}
+\contentsline {subsubsection}{\numberline {9.1.4}Encuentro:}{45}{subsubsection.9.1.4}
+\contentsline {subsubsection}{\numberline {9.1.5}Habilidades:}{45}{subsubsection.9.1.5}
+\contentsline {subsubsection}{\numberline {9.1.6}Armas:}{45}{subsubsection.9.1.6}
+\contentsline {subsubsection}{\numberline {9.1.7}\IeC {\'I}tems:}{45}{subsubsection.9.1.7}
+\contentsline {subsection}{\numberline {9.2}Nombre: X\IeC {\'o}lotl}{46}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Descripci\IeC {\'o}n:}{46}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Status:}{46}{subsubsection.9.2.2}
+\contentsline {subsubsection}{\numberline {9.2.3}Imagen}{46}{subsubsection.9.2.3}
+\contentsline {subsubsection}{\numberline {9.2.4}Concepto:}{46}{subsubsection.9.2.4}
+\contentsline {subsubsection}{\numberline {9.2.5}Encuentro:}{47}{subsubsection.9.2.5}
+\contentsline {subsubsection}{\numberline {9.2.6}Habilidades:}{47}{subsubsection.9.2.6}
+\contentsline {subsubsection}{\numberline {9.2.7}Armas:}{47}{subsubsection.9.2.7}
+\contentsline {subsubsection}{\numberline {9.2.8}\IeC {\'I}tems:}{47}{subsubsection.9.2.8}
+\contentsline {subsubsection}{\numberline {9.2.9}Personaje No-Jugable}{47}{subsubsection.9.2.9}
+\contentsline {subsection}{\numberline {9.3}Nombre: Xochit\IeC {\'o}nal}{47}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}Descripci\IeC {\'o}n:}{47}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Status:}{48}{subsubsection.9.3.2}
+\contentsline {subsubsection}{\numberline {9.3.3}Imagen}{48}{subsubsection.9.3.3}
+\contentsline {subsubsection}{\numberline {9.3.4}Concepto:}{48}{subsubsection.9.3.4}
+\contentsline {subsubsection}{\numberline {9.3.5}Encuentro:}{48}{subsubsection.9.3.5}
+\contentsline {subsubsection}{\numberline {9.3.6}Habilidades:}{48}{subsubsection.9.3.6}
+\contentsline {subsubsection}{\numberline {9.3.7}Armas:}{48}{subsubsection.9.3.7}
+\contentsline {subsubsection}{\numberline {9.3.8}\IeC {\'I}tems:}{48}{subsubsection.9.3.8}
+\contentsline {subsection}{\numberline {9.4}Nombre: Tepey\IeC {\'o}llotl}{49}{subsection.9.4}
+\contentsline {subsubsection}{\numberline {9.4.1}Descripci\IeC {\'o}n:}{49}{subsubsection.9.4.1}
+\contentsline {subsubsection}{\numberline {9.4.2}Status:}{49}{subsubsection.9.4.2}
+\contentsline {subsubsection}{\numberline {9.4.3}Imagen}{49}{subsubsection.9.4.3}
+\contentsline {subsubsection}{\numberline {9.4.4}Concepto:}{49}{subsubsection.9.4.4}
+\contentsline {subsubsection}{\numberline {9.4.5}Encuentro:}{50}{subsubsection.9.4.5}
+\contentsline {subsubsection}{\numberline {9.4.6}Habilidades:}{50}{subsubsection.9.4.6}
+\contentsline {subsubsection}{\numberline {9.4.7}Armas:}{50}{subsubsection.9.4.7}
+\contentsline {subsubsection}{\numberline {9.4.8}\IeC {\'I}tems:}{50}{subsubsection.9.4.8}
+\contentsline {subsection}{\numberline {9.5}Nombre: Itzp\IeC {\'a}palotl}{51}{subsection.9.5}
+\contentsline {subsubsection}{\numberline {9.5.1}Descripci\IeC {\'o}n:}{51}{subsubsection.9.5.1}
+\contentsline {subsubsection}{\numberline {9.5.2}Status:}{51}{subsubsection.9.5.2}
+\contentsline {subsubsection}{\numberline {9.5.3}Imagen}{51}{subsubsection.9.5.3}
+\contentsline {subsubsection}{\numberline {9.5.4}Concepto:}{51}{subsubsection.9.5.4}
+\contentsline {subsubsection}{\numberline {9.5.5}Encuentro:}{52}{subsubsection.9.5.5}
+\contentsline {subsubsection}{\numberline {9.5.6}Habilidades:}{52}{subsubsection.9.5.6}
+\contentsline {subsubsection}{\numberline {9.5.7}Armas:}{52}{subsubsection.9.5.7}
+\contentsline {subsubsection}{\numberline {9.5.8}\IeC {\'I}tems:}{52}{subsubsection.9.5.8}
+\contentsline {subsection}{\numberline {9.6}Nombre: Mictlecayotl}{52}{subsection.9.6}
+\contentsline {subsubsection}{\numberline {9.6.1}Descripci\IeC {\'o}n:}{52}{subsubsection.9.6.1}
+\contentsline {subsubsection}{\numberline {9.6.2}Status:}{53}{subsubsection.9.6.2}
+\contentsline {subsubsection}{\numberline {9.6.3}Imagen}{53}{subsubsection.9.6.3}
+\contentsline {subsubsection}{\numberline {9.6.4}Concepto:}{53}{subsubsection.9.6.4}
+\contentsline {subsubsection}{\numberline {9.6.5}Encuentro:}{54}{subsubsection.9.6.5}
+\contentsline {subsubsection}{\numberline {9.6.6}Habilidades:}{54}{subsubsection.9.6.6}
+\contentsline {subsubsection}{\numberline {9.6.7}Armas:}{54}{subsubsection.9.6.7}
+\contentsline {subsubsection}{\numberline {9.6.8}\IeC {\'I}tems:}{54}{subsubsection.9.6.8}
+\contentsline {subsection}{\numberline {9.7}Nombre: Tlazolt\IeC {\'e}otl}{54}{subsection.9.7}
+\contentsline {subsubsection}{\numberline {9.7.1}Descripci\IeC {\'o}n: }{54}{subsubsection.9.7.1}
+\contentsline {subsubsection}{\numberline {9.7.2}Status:}{55}{subsubsection.9.7.2}
+\contentsline {subsubsection}{\numberline {9.7.3}Imagen}{55}{subsubsection.9.7.3}
+\contentsline {subsubsection}{\numberline {9.7.4}Concepto:}{55}{subsubsection.9.7.4}
+\contentsline {subsubsection}{\numberline {9.7.5}Encuentro:}{55}{subsubsection.9.7.5}
+\contentsline {subsubsection}{\numberline {9.7.6}Habilidades:}{55}{subsubsection.9.7.6}
+\contentsline {subsubsection}{\numberline {9.7.7}Armas:}{56}{subsubsection.9.7.7}
+\contentsline {subsubsection}{\numberline {9.7.8}\IeC {\'I}tems:}{56}{subsubsection.9.7.8}
+\contentsline {subsection}{\numberline {9.8}Nombre: Itztlacoliuhqui}{56}{subsection.9.8}
+\contentsline {subsubsection}{\numberline {9.8.1}Descripci\IeC {\'o}n:}{56}{subsubsection.9.8.1}
+\contentsline {subsubsection}{\numberline {9.8.2}Status:}{56}{subsubsection.9.8.2}
+\contentsline {subsubsection}{\numberline {9.8.3}Imagen}{56}{subsubsection.9.8.3}
+\contentsline {subsubsection}{\numberline {9.8.4}Concepto:}{56}{subsubsection.9.8.4}
+\contentsline {subsubsection}{\numberline {9.8.5}Encuentro:}{57}{subsubsection.9.8.5}
+\contentsline {subsubsection}{\numberline {9.8.6}Habilidades:}{57}{subsubsection.9.8.6}
+\contentsline {subsubsection}{\numberline {9.8.7}Armas:}{57}{subsubsection.9.8.7}
+\contentsline {subsubsection}{\numberline {9.8.8}\IeC {\'I}tems:}{58}{subsubsection.9.8.8}
+\contentsline {subsection}{\numberline {9.9}Nombre: Nexoxcho}{58}{subsection.9.9}
+\contentsline {subsubsection}{\numberline {9.9.1}Descripci\IeC {\'o}n:}{58}{subsubsection.9.9.1}
+\contentsline {subsubsection}{\numberline {9.9.2}Status:}{58}{subsubsection.9.9.2}
+\contentsline {subsubsection}{\numberline {9.9.3}Imagen}{58}{subsubsection.9.9.3}
+\contentsline {subsubsection}{\numberline {9.9.4}Concepto:}{58}{subsubsection.9.9.4}
+\contentsline {subsubsection}{\numberline {9.9.5}Encuentro:}{58}{subsubsection.9.9.5}
+\contentsline {subsubsection}{\numberline {9.9.6}Habilidades:}{59}{subsubsection.9.9.6}
+\contentsline {subsubsection}{\numberline {9.9.7}Armas:}{59}{subsubsection.9.9.7}
+\contentsline {subsubsection}{\numberline {9.9.8}\IeC {\'I}tems:}{59}{subsubsection.9.9.8}
+\contentsline {subsection}{\numberline {9.10}Nombre: Mictlantecutli}{59}{subsection.9.10}
+\contentsline {subsubsection}{\numberline {9.10.1}Descripci\IeC {\'o}n:}{59}{subsubsection.9.10.1}
+\contentsline {subsubsection}{\numberline {9.10.2}Status:}{59}{subsubsection.9.10.2}
+\contentsline {subsubsection}{\numberline {9.10.3}Imagen}{59}{subsubsection.9.10.3}
+\contentsline {subsubsection}{\numberline {9.10.4}Concepto:}{59}{subsubsection.9.10.4}
+\contentsline {subsubsection}{\numberline {9.10.5}Encuentro:}{60}{subsubsection.9.10.5}
+\contentsline {subsubsection}{\numberline {9.10.6}Habilidades:}{60}{subsubsection.9.10.6}
+\contentsline {subsubsection}{\numberline {9.10.7}Armas:}{60}{subsubsection.9.10.7}
+\contentsline {subsubsection}{\numberline {9.10.8}\IeC {\'I}tems:}{60}{subsubsection.9.10.8}
+\contentsline {subsubsection}{\numberline {9.10.9}Habilidades:}{61}{subsubsection.9.10.9}
+\contentsline {subsubsection}{\numberline {9.10.10}Armas:}{61}{subsubsection.9.10.10}
+\contentsline {subsubsection}{\numberline {9.10.11}\IeC {\'I}tems:}{61}{subsubsection.9.10.11}
+\contentsline {subsubsection}{\numberline {9.10.12}Personaje No-Jugable}{61}{subsubsection.9.10.12}
+\contentsline {subsection}{\numberline {9.11}Nombre: Mictecac\IeC {\'\i }huatl}{61}{subsection.9.11}
+\contentsline {subsubsection}{\numberline {9.11.1}Descripci\IeC {\'o}n:}{61}{subsubsection.9.11.1}
+\contentsline {subsubsection}{\numberline {9.11.2}Status}{61}{subsubsection.9.11.2}
+\contentsline {subsubsection}{\numberline {9.11.3}Imagen}{61}{subsubsection.9.11.3}
+\contentsline {subsubsection}{\numberline {9.11.4}Concepto:}{61}{subsubsection.9.11.4}
+\contentsline {subsubsection}{\numberline {9.11.5}Encuentro:}{62}{subsubsection.9.11.5}
+\contentsline {subsubsection}{\numberline {9.11.6}Habilidades:}{62}{subsubsection.9.11.6}
+\contentsline {subsubsection}{\numberline {9.11.7}Armas:}{62}{subsubsection.9.11.7}
+\contentsline {subsubsection}{\numberline {9.11.8}\IeC {\'I}tems:}{62}{subsubsection.9.11.8}
+\contentsline {subsection}{\numberline {9.12}Nombre: Ten\IeC {\'e}pal}{62}{subsection.9.12}
+\contentsline {subsubsection}{\numberline {9.12.1}Descripci\IeC {\'o}n:}{62}{subsubsection.9.12.1}
+\contentsline {subsubsection}{\numberline {9.12.2}Status:}{63}{subsubsection.9.12.2}
+\contentsline {subsubsection}{\numberline {9.12.3}Imagen}{63}{subsubsection.9.12.3}
+\contentsline {subsubsection}{\numberline {9.12.4}Concepto:}{63}{subsubsection.9.12.4}
+\contentsline {subsubsection}{\numberline {9.12.5}Encuentro:}{64}{subsubsection.9.12.5}
+\contentsline {subsubsection}{\numberline {9.12.6}Habilidades:}{64}{subsubsection.9.12.6}
+\contentsline {subsubsection}{\numberline {9.12.7}Armas:}{64}{subsubsection.9.12.7}
+\contentsline {subsubsection}{\numberline {9.12.8}\IeC {\'I}tems:}{64}{subsubsection.9.12.8}
+\contentsline {subsection}{\numberline {9.13}Nombre: Cimatl}{64}{subsection.9.13}
+\contentsline {subsubsection}{\numberline {9.13.1}Descripci\IeC {\'o}n:}{64}{subsubsection.9.13.1}
+\contentsline {subsubsection}{\numberline {9.13.2}Status:}{64}{subsubsection.9.13.2}
+\contentsline {subsubsection}{\numberline {9.13.3}Imagen}{64}{subsubsection.9.13.3}
+\contentsline {subsubsection}{\numberline {9.13.4}Concepto:}{64}{subsubsection.9.13.4}
+\contentsline {subsubsection}{\numberline {9.13.5}Encuentro:}{65}{subsubsection.9.13.5}
+\contentsline {subsubsection}{\numberline {9.13.6}Habilidades:}{65}{subsubsection.9.13.6}
+\contentsline {subsubsection}{\numberline {9.13.7}Armas:}{65}{subsubsection.9.13.7}
+\contentsline {subsubsection}{\numberline {9.13.8}\IeC {\'I}tems:}{65}{subsubsection.9.13.8}
+\contentsline {subsection}{\numberline {9.14}Nombre: Huenupan}{66}{subsection.9.14}
+\contentsline {subsubsection}{\numberline {9.14.1}Descripci\IeC {\'o}n:}{66}{subsubsection.9.14.1}
+\contentsline {subsubsection}{\numberline {9.14.2}Status:}{66}{subsubsection.9.14.2}
+\contentsline {subsubsection}{\numberline {9.14.3}Imagen}{66}{subsubsection.9.14.3}
+\contentsline {subsubsection}{\numberline {9.14.4}Concepto:}{66}{subsubsection.9.14.4}
+\contentsline {subsubsection}{\numberline {9.14.5}Encuentro:}{66}{subsubsection.9.14.5}
+\contentsline {subsubsection}{\numberline {9.14.6}Habilidades:}{66}{subsubsection.9.14.6}
+\contentsline {subsubsection}{\numberline {9.14.7}Armas:}{66}{subsubsection.9.14.7}
+\contentsline {subsubsection}{\numberline {9.14.8}\IeC {\'I}tems:}{66}{subsubsection.9.14.8}
+\contentsline {subsection}{\numberline {9.15}Nombre: Quetzalc\IeC {\'o}atl}{67}{subsection.9.15}
+\contentsline {subsubsection}{\numberline {9.15.1}Descripci\IeC {\'o}n:}{67}{subsubsection.9.15.1}
+\contentsline {subsubsection}{\numberline {9.15.2}Status:}{67}{subsubsection.9.15.2}
+\contentsline {subsubsection}{\numberline {9.15.3}Imagen}{67}{subsubsection.9.15.3}
+\contentsline {subsubsection}{\numberline {9.15.4}Concepto:}{67}{subsubsection.9.15.4}
+\contentsline {subsubsection}{\numberline {9.15.5}Encuentro:}{67}{subsubsection.9.15.5}
+\contentsline {subsubsection}{\numberline {9.15.6}Habilidades:}{67}{subsubsection.9.15.6}
+\contentsline {subsubsection}{\numberline {9.15.7}Armas:}{67}{subsubsection.9.15.7}
+\contentsline {subsubsection}{\numberline {9.15.8}\IeC {\'I}tems:}{67}{subsubsection.9.15.8}
+\contentsline {subsection}{\numberline {9.16}Nombre: Ciudadanos}{67}{subsection.9.16}
+\contentsline {subsubsection}{\numberline {9.16.1}Descripci\IeC {\'o}n:}{67}{subsubsection.9.16.1}
+\contentsline {subsubsection}{\numberline {9.16.2}Status:}{68}{subsubsection.9.16.2}
+\contentsline {subsubsection}{\numberline {9.16.3}Imagen}{68}{subsubsection.9.16.3}
+\contentsline {subsubsection}{\numberline {9.16.4}Concepto:}{68}{subsubsection.9.16.4}
+\contentsline {subsubsection}{\numberline {9.16.5}Encuentro:}{68}{subsubsection.9.16.5}
+\contentsline {subsection}{\numberline {9.17}Nombre: Tunkuluch\IeC {\'u}}{68}{subsection.9.17}
+\contentsline {subsubsection}{\numberline {9.17.1}Descripci\IeC {\'o}n:}{68}{subsubsection.9.17.1}
+\contentsline {subsubsection}{\numberline {9.17.2}Status:}{69}{subsubsection.9.17.2}
+\contentsline {subsubsection}{\numberline {9.17.3}Imagen}{69}{subsubsection.9.17.3}
+\contentsline {subsubsection}{\numberline {9.17.4}Encuentro:}{69}{subsubsection.9.17.4}
+\contentsline {subsection}{\numberline {9.18}Nombre: Armadillo}{69}{subsection.9.18}
+\contentsline {subsubsection}{\numberline {9.18.1}Descripci\IeC {\'o}n:}{69}{subsubsection.9.18.1}
+\contentsline {subsubsection}{\numberline {9.18.2}Status:}{69}{subsubsection.9.18.2}
+\contentsline {subsubsection}{\numberline {9.18.3}Imagen}{69}{subsubsection.9.18.3}
+\contentsline {subsubsection}{\numberline {9.18.4}Concepto:}{69}{subsubsection.9.18.4}
+\contentsline {subsubsection}{\numberline {9.18.5}Encuentro:}{69}{subsubsection.9.18.5}
+\contentsline {subsubsection}{\numberline {9.18.6}Habilidades:}{70}{subsubsection.9.18.6}
+\contentsline {subsubsection}{\numberline {9.18.7}Patr\IeC {\'o}n de ataque:}{70}{subsubsection.9.18.7}
+\contentsline {subsection}{\numberline {9.19}Nombre: Fantasma rojo}{70}{subsection.9.19}
+\contentsline {subsubsection}{\numberline {9.19.1}Descripci\IeC {\'o}n:}{70}{subsubsection.9.19.1}
+\contentsline {subsubsection}{\numberline {9.19.2}Status:}{70}{subsubsection.9.19.2}
+\contentsline {subsubsection}{\numberline {9.19.3}Imagen}{70}{subsubsection.9.19.3}
+\contentsline {subsubsection}{\numberline {9.19.4}Encuentro:}{71}{subsubsection.9.19.4}
+\contentsline {subsubsection}{\numberline {9.19.5}Habilidades:}{71}{subsubsection.9.19.5}
+\contentsline {subsubsection}{\numberline {9.19.6}Patr\IeC {\'o}n de ataque:}{71}{subsubsection.9.19.6}
+\contentsline {subsection}{\numberline {9.20}Nombre: Fantasma morado}{71}{subsection.9.20}
+\contentsline {subsubsection}{\numberline {9.20.1}Descripci\IeC {\'o}n:}{71}{subsubsection.9.20.1}
+\contentsline {subsubsection}{\numberline {9.20.2}Status:}{71}{subsubsection.9.20.2}
+\contentsline {subsubsection}{\numberline {9.20.3}Imagen}{71}{subsubsection.9.20.3}
+\contentsline {subsubsection}{\numberline {9.20.4}Encuentro:}{71}{subsubsection.9.20.4}
+\contentsline {subsubsection}{\numberline {9.20.5}Habilidades:}{71}{subsubsection.9.20.5}
+\contentsline {subsubsection}{\numberline {9.20.6}Patr\IeC {\'o}n de ataque:}{72}{subsubsection.9.20.6}
+\contentsline {subsection}{\numberline {9.21}Nombre: Zopilote}{72}{subsection.9.21}
+\contentsline {subsubsection}{\numberline {9.21.1}Descripci\IeC {\'o}n:}{72}{subsubsection.9.21.1}
+\contentsline {subsubsection}{\numberline {9.21.2}Status:}{72}{subsubsection.9.21.2}
+\contentsline {subsubsection}{\numberline {9.21.3}Imagen}{72}{subsubsection.9.21.3}
+\contentsline {subsubsection}{\numberline {9.21.4}Encuentro:}{72}{subsubsection.9.21.4}
+\contentsline {subsubsection}{\numberline {9.21.5}Habilidades:}{72}{subsubsection.9.21.5}
+\contentsline {subsubsection}{\numberline {9.21.6}Patr\IeC {\'o}n de ataque:}{72}{subsubsection.9.21.6}
+\contentsline {subsection}{\numberline {9.22}Nombre: Jaguar}{73}{subsection.9.22}
+\contentsline {subsubsection}{\numberline {9.22.1}Descripci\IeC {\'o}n:}{73}{subsubsection.9.22.1}
+\contentsline {subsubsection}{\numberline {9.22.2}Status:}{73}{subsubsection.9.22.2}
+\contentsline {subsubsection}{\numberline {9.22.3}Imagen}{73}{subsubsection.9.22.3}
+\contentsline {subsubsection}{\numberline {9.22.4}Encuentro:}{73}{subsubsection.9.22.4}
+\contentsline {subsubsection}{\numberline {9.22.5}Habilidades:}{73}{subsubsection.9.22.5}
+\contentsline {subsubsection}{\numberline {9.22.6}Patr\IeC {\'o}n de ataque:}{73}{subsubsection.9.22.6}
+\contentsline {section}{\numberline {10}Obst\IeC {\'a}culos}{73}{section.10}
+\contentsline {subsection}{\numberline {10.1}Nombre: Caja}{73}{subsection.10.1}
+\contentsline {subsubsection}{\numberline {10.1.1}Descripci\IeC {\'o}n}{73}{subsubsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.2}Esquema}{73}{subsubsection.10.1.2}
+\contentsline {subsection}{\numberline {10.2}Nombre: Sacos cacao}{73}{subsection.10.2}
+\contentsline {subsubsection}{\numberline {10.2.1}Descripci\IeC {\'o}n}{73}{subsubsection.10.2.1}
+\contentsline {subsubsection}{\numberline {10.2.2}Esquema}{73}{subsubsection.10.2.2}
+\contentsline {subsection}{\numberline {10.3}Nombre: Plataforma m\IeC {\'o}vil}{74}{subsection.10.3}
+\contentsline {subsubsection}{\numberline {10.3.1}Descripci\IeC {\'o}n}{74}{subsubsection.10.3.1}
+\contentsline {subsubsection}{\numberline {10.3.2}Esquema}{74}{subsubsection.10.3.2}
+\contentsline {subsection}{\numberline {10.4}Nombre: Plataforma d\IeC {\'e}bil}{74}{subsection.10.4}
+\contentsline {subsubsection}{\numberline {10.4.1}Descripci\IeC {\'o}n}{74}{subsubsection.10.4.1}
+\contentsline {subsubsection}{\numberline {10.4.2}Esquema}{74}{subsubsection.10.4.2}
+\contentsline {subsection}{\numberline {10.5}Nombre: Rocas}{75}{subsection.10.5}
+\contentsline {subsubsection}{\numberline {10.5.1}Descripci\IeC {\'o}n}{75}{subsubsection.10.5.1}
+\contentsline {subsubsection}{\numberline {10.5.2}Esquema}{75}{subsubsection.10.5.2}
+\contentsline {subsection}{\numberline {10.6}Nombre: Viento temporal}{76}{subsection.10.6}
+\contentsline {subsubsection}{\numberline {10.6.1}Descripci\IeC {\'o}n}{76}{subsubsection.10.6.1}
+\contentsline {subsubsection}{\numberline {10.6.2}Esquema}{76}{subsubsection.10.6.2}
+\contentsline {subsection}{\numberline {10.7}Nombre: Piedras filosas}{76}{subsection.10.7}
+\contentsline {subsubsection}{\numberline {10.7.1}Descripci\IeC {\'o}n}{76}{subsubsection.10.7.1}
+\contentsline {subsubsection}{\numberline {10.7.2}Esquema}{76}{subsubsection.10.7.2}
+\contentsline {subsection}{\numberline {10.8}Nombre: Piso congelado}{77}{subsection.10.8}
+\contentsline {subsubsection}{\numberline {10.8.1}Descripci\IeC {\'o}n}{77}{subsubsection.10.8.1}
+\contentsline {subsubsection}{\numberline {10.8.2}Esquema}{77}{subsubsection.10.8.2}
+\contentsline {subsection}{\numberline {10.9}Nombre: Hielo quebradizo}{77}{subsection.10.9}
+\contentsline {subsubsection}{\numberline {10.9.1}Descripci\IeC {\'o}n}{77}{subsubsection.10.9.1}
+\contentsline {subsubsection}{\numberline {10.9.2}Esquema}{77}{subsubsection.10.9.2}
+\contentsline {subsection}{\numberline {10.10}Nombre: Bolas de nieve}{78}{subsection.10.10}
+\contentsline {subsubsection}{\numberline {10.10.1}Descripci\IeC {\'o}n}{78}{subsubsection.10.10.1}
+\contentsline {subsubsection}{\numberline {10.10.2}Esquema}{78}{subsubsection.10.10.2}
+\contentsline {subsection}{\numberline {10.11}Nombre: Viento multidireccional}{78}{subsection.10.11}
+\contentsline {subsubsection}{\numberline {10.11.1}Descripci\IeC {\'o}n}{78}{subsubsection.10.11.1}
+\contentsline {subsubsection}{\numberline {10.11.2}Esquema}{78}{subsubsection.10.11.2}
+\contentsline {subsection}{\numberline {10.12}Nombre: Lluvia de flechas}{79}{subsection.10.12}
+\contentsline {subsubsection}{\numberline {10.12.1}Descripci\IeC {\'o}n}{79}{subsubsection.10.12.1}
+\contentsline {subsubsection}{\numberline {10.12.2}Esquema}{79}{subsubsection.10.12.2}
+\contentsline {section}{\numberline {11}Habilidades.}{79}{section.11}
+\contentsline {subsection}{\numberline {11.1}Nombre: Rodar.}{79}{subsection.11.1}
+\contentsline {subsubsection}{\numberline {11.1.1}Descripci\IeC {\'o}n}{79}{subsubsection.11.1.1}
+\contentsline {subsubsection}{\numberline {11.1.2}Portador}{79}{subsubsection.11.1.2}
+\contentsline {subsubsection}{\numberline {11.1.3}Esquema}{79}{subsubsection.11.1.3}
+\contentsline {subsection}{\numberline {11.2}Nombre: Desenrrollar.}{79}{subsection.11.2}
+\contentsline {subsubsection}{\numberline {11.2.1}Descripci\IeC {\'o}n}{79}{subsubsection.11.2.1}
+\contentsline {subsubsection}{\numberline {11.2.2}Portador}{79}{subsubsection.11.2.2}
+\contentsline {subsubsection}{\numberline {11.2.3}Esquema}{80}{subsubsection.11.2.3}
+\contentsline {subsection}{\numberline {11.3}Nombre: Disparo rojo.}{80}{subsection.11.3}
+\contentsline {subsubsection}{\numberline {11.3.1}Descripci\IeC {\'o}n}{80}{subsubsection.11.3.1}
+\contentsline {subsubsection}{\numberline {11.3.2}Portador}{80}{subsubsection.11.3.2}
+\contentsline {subsubsection}{\numberline {11.3.3}Esquema}{80}{subsubsection.11.3.3}
+\contentsline {subsection}{\numberline {11.4}Nombre: Flotar en vertical.}{80}{subsection.11.4}
+\contentsline {subsubsection}{\numberline {11.4.1}Descripci\IeC {\'o}n}{80}{subsubsection.11.4.1}
+\contentsline {subsubsection}{\numberline {11.4.2}Portador}{81}{subsubsection.11.4.2}
+\contentsline {subsubsection}{\numberline {11.4.3}Esquema}{81}{subsubsection.11.4.3}
+\contentsline {subsection}{\numberline {11.5}Nombre: Embestida.}{81}{subsection.11.5}
+\contentsline {subsubsection}{\numberline {11.5.1}Descripci\IeC {\'o}n}{81}{subsubsection.11.5.1}
+\contentsline {subsubsection}{\numberline {11.5.2}Portador}{81}{subsubsection.11.5.2}
+\contentsline {subsubsection}{\numberline {11.5.3}Esquema}{81}{subsubsection.11.5.3}
+\contentsline {subsection}{\numberline {11.6}Nombre: Flotar en tri\IeC {\'a}ngulo.}{82}{subsection.11.6}
+\contentsline {subsubsection}{\numberline {11.6.1}Descripci\IeC {\'o}n}{82}{subsubsection.11.6.1}
+\contentsline {subsubsection}{\numberline {11.6.2}Portador}{82}{subsubsection.11.6.2}
+\contentsline {subsubsection}{\numberline {11.6.3}Esquema}{82}{subsubsection.11.6.3}
+\contentsline {subsection}{\numberline {11.7}Nombre: Rapto.}{82}{subsection.11.7}
+\contentsline {subsubsection}{\numberline {11.7.1}Descripci\IeC {\'o}n}{82}{subsubsection.11.7.1}
+\contentsline {subsubsection}{\numberline {11.7.2}Portador}{82}{subsubsection.11.7.2}
+\contentsline {subsubsection}{\numberline {11.7.3}Esquema}{83}{subsubsection.11.7.3}
+\contentsline {subsection}{\numberline {11.8}Nombre: Zopilotear.}{83}{subsection.11.8}
+\contentsline {subsubsection}{\numberline {11.8.1}Descripci\IeC {\'o}n}{83}{subsubsection.11.8.1}
+\contentsline {subsubsection}{\numberline {11.8.2}Portador}{83}{subsubsection.11.8.2}
+\contentsline {subsubsection}{\numberline {11.8.3}Esquema}{83}{subsubsection.11.8.3}
+\contentsline {subsection}{\numberline {11.9}Nombre: Zarpazo.}{83}{subsection.11.9}
+\contentsline {subsubsection}{\numberline {11.9.1}Descripci\IeC {\'o}n}{83}{subsubsection.11.9.1}
+\contentsline {subsubsection}{\numberline {11.9.2}Portador}{84}{subsubsection.11.9.2}
+\contentsline {subsubsection}{\numberline {11.9.3}Esquema}{84}{subsubsection.11.9.3}
+\contentsline {subsection}{\numberline {11.10}Nombre: Disparo de tonalli.}{84}{subsection.11.10}
+\contentsline {subsubsection}{\numberline {11.10.1}Descripci\IeC {\'o}n}{84}{subsubsection.11.10.1}
+\contentsline {subsubsection}{\numberline {11.10.2}Portador}{84}{subsubsection.11.10.2}
+\contentsline {subsubsection}{\numberline {11.10.3}Esquema}{84}{subsubsection.11.10.3}
+\contentsline {subsection}{\numberline {11.11}Nombre: Zambullida.}{84}{subsection.11.11}
+\contentsline {subsubsection}{\numberline {11.11.1}Descripci\IeC {\'o}n}{84}{subsubsection.11.11.1}
+\contentsline {subsubsection}{\numberline {11.11.2}Portador}{84}{subsubsection.11.11.2}
+\contentsline {subsubsection}{\numberline {11.11.3}Esquema}{84}{subsubsection.11.11.3}
+\contentsline {subsection}{\numberline {11.12}Nombre: Burbujas.}{85}{subsection.11.12}
+\contentsline {subsubsection}{\numberline {11.12.1}Descripci\IeC {\'o}n}{85}{subsubsection.11.12.1}
+\contentsline {subsubsection}{\numberline {11.12.2}Portador}{85}{subsubsection.11.12.2}
+\contentsline {subsubsection}{\numberline {11.12.3}Esquema}{85}{subsubsection.11.12.3}
+\contentsline {subsection}{\numberline {11.13}Nombre: Coraza.}{85}{subsection.11.13}
+\contentsline {subsubsection}{\numberline {11.13.1}Descripci\IeC {\'o}n}{85}{subsubsection.11.13.1}
+\contentsline {subsubsection}{\numberline {11.13.2}Portador}{85}{subsubsection.11.13.2}
+\contentsline {subsubsection}{\numberline {11.13.3}Esquema}{85}{subsubsection.11.13.3}
+\contentsline {subsection}{\numberline {11.14}Nombre: Impacto.}{85}{subsection.11.14}
+\contentsline {subsubsection}{\numberline {11.14.1}Descripci\IeC {\'o}n}{85}{subsubsection.11.14.1}
+\contentsline {subsubsection}{\numberline {11.14.2}Portador}{85}{subsubsection.11.14.2}
+\contentsline {subsubsection}{\numberline {11.14.3}Esquema}{85}{subsubsection.11.14.3}
+\contentsline {subsection}{\numberline {11.15}Nombre de la habilidad: Luvia de rocas.}{85}{subsection.11.15}
+\contentsline {subsubsection}{\numberline {11.15.1}Descripci\IeC {\'o}n}{85}{subsubsection.11.15.1}
+\contentsline {subsubsection}{\numberline {11.15.2}Portador}{86}{subsubsection.11.15.2}
+\contentsline {subsubsection}{\numberline {11.15.3}Esquema}{86}{subsubsection.11.15.3}
+\contentsline {subsection}{\numberline {11.16}Nombre: Rugido aturdidor.}{86}{subsection.11.16}
+\contentsline {subsubsection}{\numberline {11.16.1}Descripci\IeC {\'o}n}{86}{subsubsection.11.16.1}
+\contentsline {subsubsection}{\numberline {11.16.2}Portador}{86}{subsubsection.11.16.2}
+\contentsline {subsubsection}{\numberline {11.16.3}Esquema}{86}{subsubsection.11.16.3}
+\contentsline {subsection}{\numberline {11.17}Nombre: Circulo de fuego.}{86}{subsection.11.17}
+\contentsline {subsubsection}{\numberline {11.17.1}Descripci\IeC {\'o}n}{86}{subsubsection.11.17.1}
+\contentsline {subsubsection}{\numberline {11.17.2}Portador}{86}{subsubsection.11.17.2}
+\contentsline {subsubsection}{\numberline {11.17.3}Esquema}{86}{subsubsection.11.17.3}
+\contentsline {subsection}{\numberline {11.18}Nombre: Embestida aerea.}{86}{subsection.11.18}
+\contentsline {subsubsection}{\numberline {11.18.1}Descripci\IeC {\'o}n}{86}{subsubsection.11.18.1}
+\contentsline {subsubsection}{\numberline {11.18.2}Portador}{87}{subsubsection.11.18.2}
+\contentsline {subsubsection}{\numberline {11.18.3}Esquema}{87}{subsubsection.11.18.3}
+\contentsline {subsection}{\numberline {11.19}Nombre: Invisibilidad.}{87}{subsection.11.19}
+\contentsline {subsubsection}{\numberline {11.19.1}Descripci\IeC {\'o}n}{87}{subsubsection.11.19.1}
+\contentsline {subsubsection}{\numberline {11.19.2}Portador}{87}{subsubsection.11.19.2}
+\contentsline {subsubsection}{\numberline {11.19.3}Esquema}{87}{subsubsection.11.19.3}
+\contentsline {subsection}{\numberline {11.20}Nombre: Tornado.}{87}{subsection.11.20}
+\contentsline {subsubsection}{\numberline {11.20.1}Descripci\IeC {\'o}n}{87}{subsubsection.11.20.1}
+\contentsline {subsubsection}{\numberline {11.20.2}Portador}{87}{subsubsection.11.20.2}
+\contentsline {subsubsection}{\numberline {11.20.3}Esquema}{87}{subsubsection.11.20.3}
+\contentsline {subsection}{\numberline {11.21}Nombre: Ventisca.}{87}{subsection.11.21}
+\contentsline {subsubsection}{\numberline {11.21.1}Descripci\IeC {\'o}n}{87}{subsubsection.11.21.1}
+\contentsline {subsubsection}{\numberline {11.21.2}Portador}{88}{subsubsection.11.21.2}
+\contentsline {subsubsection}{\numberline {11.21.3}Esquema}{88}{subsubsection.11.21.3}
+\contentsline {subsection}{\numberline {11.22}Nombre: Ra\IeC {\'\i }z del diablo.}{88}{subsection.11.22}
+\contentsline {subsubsection}{\numberline {11.22.1}Descripci\IeC {\'o}n}{88}{subsubsection.11.22.1}
+\contentsline {subsubsection}{\numberline {11.22.2}Portador}{88}{subsubsection.11.22.2}
+\contentsline {subsubsection}{\numberline {11.22.3}Esquema}{88}{subsubsection.11.22.3}
+\contentsline {subsection}{\numberline {11.23}Nombre: Energ\IeC {\'\i }a corrupta.}{88}{subsection.11.23}
+\contentsline {subsubsection}{\numberline {11.23.1}Descripci\IeC {\'o}n}{88}{subsubsection.11.23.1}
+\contentsline {subsubsection}{\numberline {11.23.2}Portador}{88}{subsubsection.11.23.2}
+\contentsline {subsubsection}{\numberline {11.23.3}Esquema}{88}{subsubsection.11.23.3}
+\contentsline {subsection}{\numberline {11.24}Nombre: Circulo protector.}{88}{subsection.11.24}
+\contentsline {subsubsection}{\numberline {11.24.1}Descripci\IeC {\'o}n}{88}{subsubsection.11.24.1}
+\contentsline {subsubsection}{\numberline {11.24.2}Portador}{89}{subsubsection.11.24.2}
+\contentsline {subsubsection}{\numberline {11.24.3}Esquema}{89}{subsubsection.11.24.3}
+\contentsline {subsection}{\numberline {11.25}Nombre: LLuvia de lava.}{89}{subsection.11.25}
+\contentsline {subsubsection}{\numberline {11.25.1}Descripci\IeC {\'o}n}{89}{subsubsection.11.25.1}
+\contentsline {subsubsection}{\numberline {11.25.2}Portador}{89}{subsubsection.11.25.2}
+\contentsline {subsubsection}{\numberline {11.25.3}Esquema}{89}{subsubsection.11.25.3}
+\contentsline {subsection}{\numberline {11.26}Nombre: Manotazo.}{89}{subsection.11.26}
+\contentsline {subsubsection}{\numberline {11.26.1}Descripci\IeC {\'o}n}{89}{subsubsection.11.26.1}
+\contentsline {subsubsection}{\numberline {11.26.2}Portador}{89}{subsubsection.11.26.2}
+\contentsline {subsubsection}{\numberline {11.26.3}Esquema}{89}{subsubsection.11.26.3}
+\contentsline {subsection}{\numberline {11.27}Nombre: Lluvia de flechas.}{89}{subsection.11.27}
+\contentsline {subsubsection}{\numberline {11.27.1}Descripci\IeC {\'o}n}{89}{subsubsection.11.27.1}
+\contentsline {subsubsection}{\numberline {11.27.2}Portador}{89}{subsubsection.11.27.2}
+\contentsline {subsubsection}{\numberline {11.27.3}Esquema}{90}{subsubsection.11.27.3}
+\contentsline {subsection}{\numberline {11.28}Nombre: Todos los hombres del rey.}{90}{subsection.11.28}
+\contentsline {subsubsection}{\numberline {11.28.1}Descripci\IeC {\'o}n}{90}{subsubsection.11.28.1}
+\contentsline {subsubsection}{\numberline {11.28.2}Portador}{90}{subsubsection.11.28.2}
+\contentsline {subsubsection}{\numberline {11.28.3}Esquema}{90}{subsubsection.11.28.3}
+\contentsline {subsection}{\numberline {11.29}Nombre: Fuego mort\IeC {\'\i }fero.}{90}{subsection.11.29}
+\contentsline {subsubsection}{\numberline {11.29.1}Descripci\IeC {\'o}n}{90}{subsubsection.11.29.1}
+\contentsline {subsubsection}{\numberline {11.29.2}Portador}{90}{subsubsection.11.29.2}
+\contentsline {subsubsection}{\numberline {11.29.3}Esquema}{90}{subsubsection.11.29.3}
+\contentsline {subsection}{\numberline {11.30}Nombre: Penitencia.}{90}{subsection.11.30}
+\contentsline {subsubsection}{\numberline {11.30.1}Descripci\IeC {\'o}n}{90}{subsubsection.11.30.1}
+\contentsline {subsubsection}{\numberline {11.30.2}Portador}{90}{subsubsection.11.30.2}
+\contentsline {subsubsection}{\numberline {11.30.3}Esquema}{90}{subsubsection.11.30.3}
+\contentsline {section}{\numberline {12}Armas.}{91}{section.12}
+\contentsline {subsection}{\numberline {12.1}Nombre: Caracola.}{91}{subsection.12.1}
+\contentsline {subsubsection}{\numberline {12.1.1}Descripci\IeC {\'o}n}{91}{subsubsection.12.1.1}
+\contentsline {subsubsection}{\numberline {12.1.2}Imagen}{91}{subsubsection.12.1.2}
+\contentsline {subsubsection}{\numberline {12.1.3}Portador}{91}{subsubsection.12.1.3}
+\contentsline {subsection}{\numberline {12.2}Nombre: Atardecer de venus.}{91}{subsection.12.2}
+\contentsline {subsubsection}{\numberline {12.2.1}Descripci\IeC {\'o}n}{91}{subsubsection.12.2.1}
+\contentsline {subsubsection}{\numberline {12.2.2}Imagen}{91}{subsubsection.12.2.2}
+\contentsline {subsubsection}{\numberline {12.2.3}Portador}{91}{subsubsection.12.2.3}
+\contentsline {subsection}{\numberline {12.3}Nombre: Matlalpapalotl.}{91}{subsection.12.3}
+\contentsline {subsubsection}{\numberline {12.3.1}Descripci\IeC {\'o}n}{91}{subsubsection.12.3.1}
+\contentsline {subsubsection}{\numberline {12.3.2}Imagen}{91}{subsubsection.12.3.2}
+\contentsline {subsubsection}{\numberline {12.3.3}Portador}{91}{subsubsection.12.3.3}
+\contentsline {subsection}{\numberline {12.4}Nombre: Trepa viento.}{91}{subsection.12.4}
+\contentsline {subsubsection}{\numberline {12.4.1}Descripci\IeC {\'o}n}{91}{subsubsection.12.4.1}
+\contentsline {subsubsection}{\numberline {12.4.2}Imagen}{92}{subsubsection.12.4.2}
+\contentsline {subsubsection}{\numberline {12.4.3}Portador}{92}{subsubsection.12.4.3}
+\contentsline {subsection}{\numberline {12.5}Nombre: Arco solar.}{92}{subsection.12.5}
+\contentsline {subsubsection}{\numberline {12.5.1}Descripci\IeC {\'o}n}{92}{subsubsection.12.5.1}
+\contentsline {subsubsection}{\numberline {12.5.2}Imagen}{92}{subsubsection.12.5.2}
+\contentsline {subsubsection}{\numberline {12.5.3}Portador}{92}{subsubsection.12.5.3}
+\contentsline {section}{\numberline {13}Items.}{92}{section.13}
+\contentsline {subsection}{\numberline {13.1}Nombre: Peineta en forma de flor.}{92}{subsection.13.1}
+\contentsline {subsubsection}{\numberline {13.1.1}Descripci\IeC {\'o}n}{92}{subsubsection.13.1.1}
+\contentsline {subsubsection}{\numberline {13.1.2}Imagen}{92}{subsubsection.13.1.2}
+\contentsline {subsubsection}{\numberline {13.1.3}Portador}{92}{subsubsection.13.1.3}
+\contentsline {subsection}{\numberline {13.2}Nombre: Armadura espiritual.}{92}{subsection.13.2}
+\contentsline {subsubsection}{\numberline {13.2.1}Descripci\IeC {\'o}n}{92}{subsubsection.13.2.1}
+\contentsline {subsubsection}{\numberline {13.2.2}Imagen}{92}{subsubsection.13.2.2}
+\contentsline {subsubsection}{\numberline {13.2.3}Portador}{92}{subsubsection.13.2.3}
+\contentsline {section}{\numberline {14}Gui\IeC {\'o}n.}{93}{section.14}
+\contentsline {section}{\numberline {15}M\IeC {\'u}sica y sonidos.}{93}{section.15}
+\contentsline {subsection}{\numberline {15.1}M\IeC {\'u}sica de fondo}{93}{subsection.15.1}
+\contentsline {subsubsection}{\numberline {15.1.1}Nombre: M\IeC {\'u}sica mercado}{93}{subsubsection.15.1.1}
+\contentsline {subsubsection}{\numberline {15.1.2}Nombre: M\IeC {\'u}sica selva}{93}{subsubsection.15.1.2}
+\contentsline {subsubsection}{\numberline {15.1.3}Nombre: M\IeC {\'u}sica Xolotl}{93}{subsubsection.15.1.3}
+\contentsline {subsubsection}{\numberline {15.1.4}Nombre: M\IeC {\'u}sica plataforma segundo nivel}{93}{subsubsection.15.1.4}
+\contentsline {subsubsection}{\numberline {15.1.5}Nombre: M\IeC {\'u}sica jefe segundo nivel}{93}{subsubsection.15.1.5}
+\contentsline {subsubsection}{\numberline {15.1.6}Nombre: M\IeC {\'u}sica plataforma tercer nivel}{93}{subsubsection.15.1.6}
+\contentsline {subsubsection}{\numberline {15.1.7}Nombre: M\IeC {\'u}sica jefe tercer nivel}{93}{subsubsection.15.1.7}
+\contentsline {subsubsection}{\numberline {15.1.8}Nombre: M\IeC {\'u}sica plataforma cuarto nivel}{93}{subsubsection.15.1.8}
+\contentsline {subsubsection}{\numberline {15.1.9}Nombre: M\IeC {\'u}sica jefe cuarto nivel}{94}{subsubsection.15.1.9}
+\contentsline {subsubsection}{\numberline {15.1.10}Nombre: M\IeC {\'u}sica plataforma quinto nivel}{94}{subsubsection.15.1.10}
+\contentsline {subsubsection}{\numberline {15.1.11}Nombre: M\IeC {\'u}sica jefe quinto nivel}{94}{subsubsection.15.1.11}
+\contentsline {subsubsection}{\numberline {15.1.12}Nombre: M\IeC {\'u}sica plataforma sexto nivel}{97}{subsubsection.15.1.12}
+\contentsline {subsubsection}{\numberline {15.1.13}Nombre: M\IeC {\'u}sica jefe sexto nivel}{97}{subsubsection.15.1.13}
+\contentsline {subsection}{\numberline {15.2}Efectos de sonido}{97}{subsection.15.2}
+\contentsline {section}{\numberline {16}Imagenes de concepto.}{97}{section.16}
+\contentsline {section}{\numberline {17}Miembros de equipo.}{97}{section.17}
+\contentsline {section}{\numberline {18}Detalles de producci\IeC {\'o}n.}{97}{section.18}
+\contentsline {subsection}{\numberline {18.1}Fecha de inicio.}{97}{subsection.18.1}
+\contentsline {subsection}{\numberline {18.2}Fecha de terminaci\IeC {\'o}n.}{97}{subsection.18.2}
+\contentsline {subsection}{\numberline {18.3}Presupuesto.}{97}{subsection.18.3}
