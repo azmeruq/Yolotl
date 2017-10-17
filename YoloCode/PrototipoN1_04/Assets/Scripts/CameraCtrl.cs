@@ -21,9 +21,9 @@ public class CameraCtrl : MonoBehaviour {
 		CheckPosition();
 		if (CanMove) {
 			MoveCameraHorizontal ();
-		} else {
+		} /*else {
 			MoveCameraVertical ();
-		}
+		}*/
 
 
 
@@ -44,13 +44,15 @@ public class CameraCtrl : MonoBehaviour {
 		}
 	}
 
-	void OnTriggerEnter2D(Collider2D other){
+	void OnTriggerStay2D(Collider2D other){
 		//Debug.Log ("posicion player"+ limitLeft.position.x );
 		if (other.gameObject.CompareTag ("Limit")) {
 			//limit = other.gameObject.transform ;
-			Debug.Log("colission");
+			Debug.Log ("colission");
 			CanMove = false;
+			MoveCameraVertical ();
 		}
-
 	}
+	
+
 }
