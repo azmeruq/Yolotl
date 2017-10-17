@@ -11,7 +11,7 @@ public class DroppingPlatform : MonoBehaviour {
 
 	void Start () {
 		rb = GetComponent<Rigidbody2D> ();
-		player = FindObjectOfType<Player> ();
+		//player = FindObjectOfType<Player> ();
 		DroppingDelay = 0.3f;
 	}
 		

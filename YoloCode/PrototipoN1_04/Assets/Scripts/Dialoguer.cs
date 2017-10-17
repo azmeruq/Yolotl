@@ -27,7 +27,7 @@ public class Dialoguer : MonoBehaviour {
 	void Update () {
 	}
 
-	void OnTriggerStay2D(Collider2D other)
+	/*void OnTriggerStay2D(Collider2D other)
 	{
 		dMan = FindObjectOfType<DialogueManager> ();
 		if (other.gameObject.name == "Player" )
@@ -36,5 +36,5 @@ public class Dialoguer : MonoBehaviour {
 
 		} 
 
-	}
+	}*/
 }

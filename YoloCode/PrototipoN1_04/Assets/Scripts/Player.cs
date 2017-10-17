@@ -27,7 +27,7 @@ public class Player : MonoBehaviour {
 	private SpriteRenderer sr; // para voltear la orientacion del sprite y que pueda ver a la izquierda o a la derecha
 
 	// Classes
-	private Feet feet;
+	//private Feet feet;
 
 	// Para el disparo
 	//private GameObject tonalliPosition;
@@ -41,7 +41,7 @@ public class Player : MonoBehaviour {
 		rd = GetComponent<Rigidbody2D> ();
 		sr = GetComponent<SpriteRenderer> ();
 		//tonalliPosition = GameObject.FindGameObjectWithTag ("ReferenciaTonalli");
-		feet = FindObjectOfType<Feet> ();
+		//feet = FindObjectOfType<Feet> ();
 		//tonalli = GameObject.FindGameObjectWithTag ("Tonalli");
 		verticalSpeed = 600f;
 		isJumping = false;
