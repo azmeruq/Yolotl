@@ -54,7 +54,7 @@
 En total el jugador deberá de pasar 10 niveles para terminar el juego. Cada nivel está diseñado para que el jugador tenga que superar diferentes plataformas y derrotar enemigos (enemigos comunes y jefes de nivel). Algunos niveles están más orientados a la superación de obstáculos, otros a la exploración y algunos al combate, siendo la constante entre todos (salvo el nivel introductorio), el tener que derrotar a un jefe al final del nivel.
 \\
 \par
-La GUI contendrá cuatro botones(ver  figura): uno para moverse a la izquierda, otro para moverse a la derecha, otro más para saltar y uno para disparar tonalli. En la parte superior de la pantalla habrá dos iconos uno para indicar la cantidad de vida de Malinalli y otro para la cantidad de tonalli para disparar. La cantidad de tonalli disminuirá con cada ataque que el jugador efectué y cuando éste llegué a cero, el jugador podrá disparar hasta después de que se reestablezca la barra de tonalli o si logra obtener el ítem Flor de vainilla(ver figura \ref{fig:UsoTonalli} ). Cuando un disparo de tonalli colisiona con un enemigo, éste desaparece si es un enemigo común o se le infringe una cantidad de daño determinada en caso de que sea un jefe. La vida de Malinalli disminuirá si recibe ataques de los enemigos o colisiona con alguno (ver figura \ref{fig:Danio}). Cada enemigo tiene una cantidad de daño asignada, siendo los jefes de cada nivel los enemigos con mayor capacidad de infringir daño. La partida acabará si la vida de Malinalli llega a cero. El jugador podrá recuperar vida con el ítem Grano de Cacao.
+La GUI contendrá cuatro botones(ver  figura): uno para moverse a la izquierda, otro para moverse a la derecha, otro más para saltar y uno para disparar tonalli. En la parte superior de la pantalla habrá dos iconos uno para indicar la cantidad de vida de Malinalli y otro para la cantidad de tonalli para disparar. La cantidad de tonalli disminuirá con cada ataque que el jugador efectué y cuando éste llegué a cero, el jugador podrá disparar hasta después de que se reestablezca la barra de tonalli o si logra obtener el ítem Flor de vainilla(ver figura \ref{fig:UsoTonalli} ). Cuando un disparo de tonalli colisiona con un enemigo, éste desaparece si es un enemigo común o se le infringe una cantidad de daño determinada en caso de que sea un jefe (Ver figura \ref{fig:InterEnemigo}). La vida de Malinalli disminuirá si recibe ataques de los enemigos o colisiona con alguno (ver figura \ref{fig:Danio}). Cada enemigo tiene una cantidad de daño asignada, siendo los jefes de cada nivel los enemigos con mayor capacidad de infringir daño. La partida acabará si la vida de Malinalli llega a cero. El jugador podrá recuperar vida con el ítem Grano de Cacao.
 
 \begin{figure}
 				\centering
@@ -70,9 +70,18 @@ La GUI contendrá cuatro botones(ver  figura): uno para moverse a la izquierda, 
 				\label{fig:UsoTonalli}
 \end{figure}
 
+	\begin{figure}
+  \centering
+  \subfigure[Disparo de tonalli.]{\includegraphics[width=0.45 \textwidth]{Imagenes/PantallaInteraccionEnemigo}}
+   \subfigure[Colisión disparo de tonalli con enemigo común.]{\includegraphics[width=0.45 \textwidth]{Imagenes/PantallaInteraccionEnemigo02}}
+   \subfigure[Destrucción del enemigo y el disparo de tonalli.]{\includegraphics[width=0.45 \textwidth]{Imagenes/PantallaInteraccionEnemigo03}}
+  \caption{Interacción entre el enemigo y el disparo de tonallia}
+  \label{fig:InterEnemigo}
+\end{figure} 
+
 \begin{figure}
 				\centering
-				\includegraphics[height=0.3 \textheight]{Imagenes/nivel02_tonalli}
+				\includegraphics[height=0.3 \textheight]{Imagenes/nivel02_danio}
 				\caption{Cuando el jugador colisiona con un enemigo el personaje jugable recibe daño y su cantidad de  vida disminuye, el daño recibido depende del enemigo.}
 				\label{fig:Danio}
 \end{figure}
