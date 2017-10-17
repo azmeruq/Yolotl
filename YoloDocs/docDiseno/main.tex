@@ -6,7 +6,7 @@
 \usepackage[top=1in, bottom=1in, right=1in, left=1in]{geometry}
 
 %Paqueteria del glosario
-\usepackage[colorlinks]{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage[toc,style=altlistgroup,hyperfirst=false]{glossaries}
 \makeindex
 \makeglossaries
@@ -207,7 +207,6 @@ Ver figura \ref{fig:EstadosJuego}
 \end{figure} 
 
 
-
 \section{Interfaces}
 	\subsection{Interfaz 1.00 Pantalla de inicio.}
 	\subsubsection{Descripción de la pantalla}
@@ -274,7 +273,6 @@ La interfaz 3.0 cuenta con los siguientes botones:
 \end{figure} 
  
 	\section{Niveles}
-
 \subsection{Nivel 1}
 	\subsubsection{Título del nivel}
 	La chica y el perro.
@@ -282,14 +280,17 @@ La interfaz 3.0 cuenta con los siguientes botones:
 Nivel introductorio que le permite al jugador familiarizarse con las mecánicas básicas de juego: saltar, moverse y abrir y cerrar cuadros de dialogo. Además, este nivel servirá para mostrar el contexto histórico en el que se sitúa el argumento del juego.
 	\subsubsection{Descripción}
 	\begin{itemize}
-		\item\textbf{Tianguis}: El jugador controlará a Malinalli y recorrerá un mercado, en donde podrá dialogar con diferentes NPCS. Xólotl le robara un carta a Malinalli 
+		\item\textbf{Tianguis}: El jugador controlará a Malinalli y recorrerá un mercado, en donde podrá dialogar con diferentes NPCS. Xólotl le robara un carta a Malinalli.
+		Dentro del tianguis existen ciudadanos, cada uno el jugador al acercarse a una distancia predeterminada de ellos se le da la opción para que pueda comunicarse con ellos. Esto se ve al desplegarse un símbolo (representando la opción de poder dialogar) en la parte superior del ciudadano a hablar cuando uno se aproxima, así el jugador se le notifica que puede apretar el botón (ahora con el mismo símbolo) de diálogo, luego se despliega un recuadro adicional que contiene la información, para cerrar este recuadro y continuar se debe volver a oprimir el botón de diálogo.
 		\item\textbf{Selva}: Ella tendrá que perseguir a Xolotl por la selva, al final Xolotl adoptará la forma de un jaguar. Xólotl utiliza este encuentro para probar la valentía de Malinalli ante situaciones en las que se encuentre en peligro, pero sin la oportunidad de defenderse.    
+		Para ello el jugador cada que se aproxime a una distancia determinada del perro, el perro se desplaza en dirección horizontal a otra zona más adelante. Así hasta que el jugador accede a una zona diseñada para que no pueda escapar (como un agujero). Luego continua con la cinemática donde el perro se convierte en un jaguar para probar su valor.
 	\end{itemize}
 
 	\subsubsection{Objetivos}
 \begin{itemize}
 	\item \textbf{Tianguis}:
 	El jugador deberá de activar al menos cuatro diálogos para poder desbloquear la infección con Xólotl y que se active la cinemática donde éste le roba el objeto a Malinalli.
+	Para que el jugador pueda ver cuantos diálogos está activando, se mostrará en la ventana del lado superior izquierdo un contador con símbolo y después "x/4", siendo "x" el número de diálogos que se activen y "4" el número de de diálogos que el jugador debe activar antes de avanzar al siguiente apartado.
 	\item \textbf{Selva}: El jugador deberá de seguir a Xólotl. Durante la persecución deberá de superar obstáculos y plataformas saltándolos. Obtener la caracola.
 \end{itemize}
 	\subsubsection{Progreso}
@@ -329,9 +330,9 @@ Ningún item utilizable.
 		\end{itemize}	
 	\end{itemize}	
 
-\item NPC 
+\item NPC. Ver ciudadanos en \ref{per.ciudadanos}.
 	\begin{itemize}
-		\item Mujer comerciante.
+		\item Mujer comerciante. 
 		\item Mujer jarrón. 
 		\item Hombre jarrón. 
 		\item Hombre cacao.
@@ -342,7 +343,7 @@ Ningún item utilizable.
 \begin{itemize} 
 	\item Fondo:
 \begin{itemize}
-			\item Ciudad de Centla: Se ve el templo a la lejanía y unas casas. Este fondo se usará en la etapa del tianguis del nivel.
+			\item Ciudad de \ref{Centla}: Se ve el templo a la lejanía y unas casas. Este fondo se usará en la etapa del tianguis del nivel.
 			\item Selva: La ciudad se ve más alejada, hay árboles en un plano más cercano. Este fondo se utilizará en la etapa de la selva  
 \end{itemize}	
 	\item Suelo:
@@ -356,8 +357,8 @@ Ningún item utilizable.
 				Sin obstáculos.
 			\item Selva
 				\begin{itemize}
-					\item Caja.
-					\item Sacos Cacao.
+					\item Caja. Ver en \ref{obs.caja}.
+					\item Sacos Cacao. Ver en \ref{obs.saco}.
 				\end{itemize}
 		\end{itemize}
 	\item Objetos de fondo:
@@ -385,6 +386,7 @@ Ningún item utilizable.
 \end{itemize} 
 \item Efectos de sonido:
 	\begin{itemize}
+		\item Gente: Efecto sonóro de fondo de gente hablando y caminando en el tianguis
 		\item Pasos: Este efecto se activará cuando Malinalli camine.
 		\item Viento: Este efecto sonara cuando Malinalli se encuentra con el jaguar.
 		\item Ladrido: Este efecto sonara cuando Xólotl le robe el objeto a Malinalli.
@@ -429,10 +431,10 @@ Al final del nivel el jugador:
 \end{itemize}
 	\subsubsection{Enemigos}
 	\begin{itemize}
-		\item Fantasma rojo. Ver \ref{per.fantasmaR}.
-		\item Fantasma morado. 
-		\item Piedras filosas. 
-		\item Xochitonal.
+		\item Fantasma rojo. Ver en \ref{per.fantasmaR}.
+		\item Fantasma morado. Ver en \ref{per.fantasmaM}.
+		\item Piedras filosas. Ver en \ref{obs.piedrasF}.
+		\item Xochitonal. Ver en \ref{per.xochitonal}.
 			\begin{itemize}
 				\item Animación emerge del agua.
 				\item Animación se sumerge en el agua.
@@ -447,13 +449,13 @@ Al final del nivel el jugador:
 	\end{itemize}
 	\subsubsection{Personajes}
 	\begin{itemize}
-		\item Malinalli.
-		\item Xolotl (ajolote).
+		\item Malinalli. Ver en \ref{per.malinalli}.
+		\item Xolotl (ajolote). Ver en \ref{per.xolotl}.
 			\begin{itemize}
 				\item Animación salto.
 				\item Animación normal/nado.
 			\end{itemize}
-		\item Xochitonal.
+		\item Xochitonal. Ver en \ref{per.xochitonal}.
 	\end{itemize}
 	
 \subsubsection{Escenario}
@@ -467,7 +469,7 @@ Montañas en el plano más alejado, y a sus pies una pequeña linea que muestre 
 		\end{itemize}
 	\item Obstáculos:
 		\begin{itemize}
-			\item Piedras filosas.				
+			\item Piedras filosas. Ver en \ref{obs.piedrasF}.				
 		\end{itemize}
 	\item Objetos de fondo: 
 	\\
@@ -530,14 +532,14 @@ Al final del nivel el jugador:
 \end{itemize} 
 	\subsubsection{Enemigos}
 \begin{itemize}
-	\item 	Fantasma rojo.
-	\item Armadillo.
+	\item 	Fantasma rojo. Ver en \ref{per.fantasmaR}.
+	\item Armadillo. Ver en \ref{per.armadillo}.
 		\begin{itemize}
 			\item Animación de caminar.
 			\item Animación de sacar picos. 
 		\end{itemize}
-	\item Roca.
-	\item Tepeyóllotl
+	\item Roca. Ver en \ref{obs.rocas}.
+	\item Tepeyóllotl. Ver en \ref{per.tepeyollotl}. 
 		\begin{itemize}
 			\item Animación correr.
 			\item Animación saltar.
@@ -551,7 +553,7 @@ Al final del nivel el jugador:
 \end{itemize}
 	\subsubsection{Personajes}
 \begin{itemize}
-	\item Malinalli.
+	\item Malinalli. Ver en \ref{per.malinalli}.
 		\begin{itemize}
 			\item Animación correr.
 			\item Animación saltar.
@@ -559,8 +561,8 @@ Al final del nivel el jugador:
 			\item Animación saltar con caracola.
 			\item Animación normal.
 		\end{itemize}
-	\item Xolotl.
-	\item Tepeyóllotl
+	\item Xolotl. Ver en \ref{per.xolotl}.
+	\item Tepeyóllotl. Ver en \ref{per.tepeyollotl}.
 		\begin{itemize}
 			\item Animación correr.
 			\item Animación saltar.
@@ -579,8 +581,8 @@ Al final del nivel el jugador:
 		\end{itemize}
 	\item Obstáculos:
 		\begin{itemize}
-			\item Plataforma móvil.
-			\item Plataforma que cae.
+			\item Plataforma móvil. Ver en \ref{obs.plataformaM}.
+			\item Plataforma débil que cae. Ver en \ref{obs.plataformaD}.
 		\end{itemize}
 	\item Objetos de fondo:
 		\begin{itemize}
@@ -645,9 +647,9 @@ Al final del nivel el jugador:
         \item Desbloquear El nivel 5 del juego en el menú seleccionable.
         \subsubsection{Enemigos}
                 \begin{itemize}
-                        \item Fantasma rojo. 
-                        \item Picos de obsidiana. 
-                        \item Itzpapalotl.
+                        \item Fantasma rojo. Ver en \ref{per.fantasmaR}. 
+                        \item Picos de obsidiana. Ver en \ref{obs.piedrasF}.
+                        \item Itzpapalotl. Ver en \ref{per.itzpapalotl}.
                 \end{itemize}
         \subsubsection{Items}
                 \begin{itemize}
@@ -656,7 +658,7 @@ Al final del nivel el jugador:
                 \end{itemize}
         \subsubsection{Personajes}
         \begin{itemize}
-                \item Malinalli. 
+                \item Malinalli. Ver en \ref{per.malinalli}.
                 \begin{itemize}
                         \item Animación correr.
                         \item Animación saltar.
@@ -664,8 +666,8 @@ Al final del nivel el jugador:
                         \item Animación saltar caracola.
                         \item Animación normal.
                 \end{itemize}
-                \item Xolotl.
-                \item Itzpapalotl.
+                \item Xolotl.Ver en \ref{per.xolotl}.
+                \item Itzpapalotl. Ver en \ref{per.itzpapalotl}.
                 \begin{itemize}
                         \item Animación disparar fuego.
                         \item Animación embestida.
@@ -757,10 +759,8 @@ En este nivel el jugador deberá:
 
         \subsubsection{Enemigos}
 \begin{itemize}
-        \item Fantasma morado. 
-        \item Picos de hielo. 
-        \item Bola de nieve.
-        \item Chara enana.
+        \item Fantasma morado. Ver en \ref{per.fantasmaM}.
+        \item Chara enana. Ver en ??.
 \begin{itemize}
         \item   Animación vuelo.
 \end{itemize}			
@@ -772,7 +772,7 @@ En este nivel el jugador deberá:
 \end{itemize}
         \subsubsection{Personajes}
         \begin{itemize}
-                \item Malinalli.
+                \item Malinalli. Ver en \ref{per.malinalli}.
                 \begin{itemize}
                         \item Animación correr.
                         \item Animación saltar.
@@ -780,8 +780,8 @@ En este nivel el jugador deberá:
                         \item Animación saltar caracola.
                         \item Animación normal.
                 \end{itemize} 
-                \item Xolotl. 
-                \item Mictlecayotl.
+                \item Xolotl. Ver en \ref{per.xolotl}.
+                \item Mictlecayotl. Ver en \ref{per.mictlecayotl}.
                 \begin{itemize}
                         \item Animación disparar viento.
                         \item Animación invocar tornado.
@@ -801,8 +801,11 @@ En este nivel el jugador deberá:
         \item Suelo cubierto de nieve.
 \end{itemize} 
         \item Obstáculos:
-			\item Plataforma móvil.
-			\item Plataforma que cae.
+			\item Plataforma móvil. Ver en \ref{obs.plataformaM}.
+			\item Plataforma que cae. Ver en \ref{obs.plataformaD}.
+			\item Piso resbaladizo. Ver en \ref{obs.pisoC}.
+			\item Picos de hielo. Ver en \ref{obs.piedrasF}.
+			\item Bola de nieve. Ver en \ref{obs.bolasN}.
 		\end{itemize}
         \item Objetos de fondo: Sin objetos de fondo.
 \end{itemize}   
@@ -845,16 +848,30 @@ En este nivel el jugador deberá:
 	\subsubsection{Progreso}
 	Al terminar el nivel se adquiere un nuevo poder al arma. Se presentará una cinemática de los recuerdos de Malinalli. Se desbloqueará el nivel 5 del inframundo.
 	\subsubsection{Enemigos}
-	Fantasmas morados, fantasmas rojos, viento en contra, jefe del nivel.
+	\begin{itemize}
+		\item Fantasmas rojos. Ver en \ref{per.fantasmaR}.
+		
+	\end{itemize}
 	\subsubsection{Items}
 	**no hay**
 	\subsubsection{Personajes}
-	Malinalli, Xolotl, Tlazoltéotl.
+	\begin{itemize}
+		\item Malinalli. Ver en \ref{per.malinalli}.
+		\item Xolotl. Ver en \ref{per.xolotl}.
+		\item Tlazoltéotl. Ver en \ref{per.tlazolteotl}.
+	\end{itemize}
 \subsubsection{Escenario}
 \begin{itemize} 
 	\item Fondo:
+	\begin{itemize}
+		\item Zona de plataformas:
+		El nivel esta ubicado en el subterráneo, el fondo deberá parecer a una mina con cristales de luz verde que salen del suelo y de la pared.
+		\item Zona del jefe:
+		Es el interior del templo,el templos solo es iluminado por los cristales verdes. La batalla se desarrollara en un cuarto de entrenamiento por lo que habrán diferentes armas en las paredes.
+	\end{itemize}
 	\item Suelo:
 	\item Obstáculos:
+	\item Viento en contra. Ver en \ref{obs.vientoM}.
 	\item Objetos de fondo:
 \end{itemize}	
 	\subsubsection{Música y efectos de sonido}
@@ -878,7 +895,11 @@ En este nivel el jugador deberá:
 	\subsubsection{Items}
 	**no hay**
 	\subsubsection{Personajes}
-	Malinalli, Xolotl, Itztlacoliuhqui.
+	\begin{itemize}
+		\item Malinalli. Ver en \ref{per.malinalli}.
+		\item Xolotl. Ver en \ref{per.xolotl}.
+		\item Itztlacoliuhqui. Ver en \ref{per.itztlacoliuhqui}.
+	\end{itemize}
 	\subsubsection{Escenario}
 \begin{itemize} 
 	\item Fondo:
@@ -904,6 +925,12 @@ En este nivel el jugador deberá:
 	\subsubsection{Progreso}
 	Se presentará una cinemática de los recuerdos de Malinalli. Se desbloqueará el nivel 8 del inframundo.
 	\subsubsection{Enemigos}
+	\begin{itemize}
+		\item
+		\item
+		\item
+		\item
+	\end{itemize}
 	Fantasmas morados, fantasmas rojos, jaguares, Tepeyollotl.
 	\subsubsection{Items}
 	**no hay**
@@ -990,7 +1017,7 @@ Ver figura \ref{fig:ProgJuego}
 
 \section{Personajes}
 
-\subsection{Nombre: Malinalli Tenépal.} 
+\subsection{Nombre: Malinalli Tenépal.} \label{per.malinalli}
 	\subsubsection{Descripción:}
 Joven de quince años de origen mexica. Malinalli tiene el cabello negro y largo por debajo de la cintura, acostumbra a llevarlo suelto, usando solo una peineta con forma de flor para sujetarlo del lado izquierdo de la cabeza. Sus ojos son de color café obscuro y su piel es morena. Viste un top y un short color manta. Su calzado es propio del que usaban los guerreros mexicas de alto rango, siendo del mismo color que el resto de su ropa.   
 \subsubsection{Imagen}
@@ -1029,7 +1056,7 @@ Es la protagonista del juego y es a través de ella que el jugador verá como es
 	\item Armadura espiritual.
 \end{itemize}
 
-\subsection{Nombre: Xólotl}  
+\subsection{Nombre: Xólotl}  \label{per.xolotl}
 
 \subsubsection{Descripción:}
 En su forma de xoloitzcuintle es color verde grisáceo y un poco más grande que un xoloitzcuintle adulto normal. Porta una máscara blanca con decoraciones en la parte de los ojos y la nariz. Usa un collar con el símbolo del viento y un brazalete de oro en la pata delantera izquierda.
@@ -1077,7 +1104,7 @@ Sin ítems.
 \subsubsection{Personaje No-Jugable}
 Xólotl le explicara al jugador el funcionamiento del juego ya sea diciéndole cómo funcionan determinados ítems, que es lo que debe o no debe de hacer en cada nivel del inframundo, la historia de algunos enemigos y darle contexto al jugador sobre el estado actual de los dioses. Xólotl también será un compañero de apoyo en algunos combates o niveles.
 
-\subsection{Nombre: Xochitónal}  
+\subsection{Nombre: Xochitónal}  \label{per.xochitonal}
 
 \subsubsection{Descripción:}
 Iguana gigante de color rojo grisáceo y ojos naranjas. Porta una armadura de huesos que protege su espina dorsal, y su rostro.
@@ -1117,7 +1144,7 @@ Sin armas.
 \subsubsection{Ítems:}
 Sin ítems.
 
-\subsection{Nombre: Tepeyóllotl}  
+\subsection{Nombre: Tepeyóllotl}  \label{per.tepeyollotl}
 \subsubsection{Descripción:}    
 Dios jaguar, es de un tamaño ligeramente mayor al de un jaguar normal. Porta joyería fina para marcar su posición en la jerarquía divina. Usa un collar de oro con extensiones que protegen su espalda. Porta un arete de esmeralda en la oreja izquierda y un brazalete de oro en la pata izquierda. Su coraza de piedra cubre todo su cuerpo salvo por sus ojos. La coraza muestra pequeños detalles de como es Tepeyóllotl, omitiendo los detalles de su joyería y adornos, mostrando con pocas lineas detalles como su nariz y las lineas del hocico.
 \\
@@ -1167,7 +1194,7 @@ Sin armas.
 Sin ítem
 
 
-\subsection{Nombre: Itzpápalotl}  
+\subsection{Nombre: Itzpápalotl}  \label{per.itzpapalotl}
 \subsubsection{Descripción:}
 Diosa de altura media y complexión delgada. De piel blanca y ojos negros. Su larga cabellera negra va arreglada en un par de trenzas. Maquilla su cara con pintura de guerra negra. Su vestimenta es el de una guerrera, con algunas variantes del uniforme militar mexica para permitirle mayor agilidad y capacidad de vuelo.  Tiene un par de alas de mariposa hechas de obsidiana que le permiten volar y realizar ataques poderosos.    
 
@@ -1209,7 +1236,7 @@ Sin ítems.
 
 
 
-\subsection{Nombre: Mictlecayotl}  
+\subsection{Nombre: Mictlecayotl}  \label{per.mictlecayotl}
 
 \subsubsection{Descripción:}
 Mictlecayotl es una deidad guerrera por lo que su vestimenta está orientada a la batalla, porta una armadura ligera que le permite realizar rápidos ataques de viento, pero el costo de su rapidez es la poca defensa ante poderosos ataque que ofrece la armadura. En los antebrazos usa unos protectores que por su diseño también le permiten desgarrar a sus enemigos si estos se encuentran cerca de ella. Sus codos y sus rodillas son protegidas por unas conchas recogidas de los lagos del octavo nivel del Mictlán, estas conchas poseen la habilidad de proteger contra encantamientos que alteran el pensamiento a quien los porta. Lleva el cabello recogido en una coleta para evitar que le estorbe en combate. Su rostro esta maquillado con pintura para guerra. A manera de recordatorio de su antigua posición en la jerarquía divina porta un collar y aretes de oro. Es una mujer de estatura mediana, espalda ancha y piernas fuertes. 
@@ -1260,7 +1287,7 @@ Sus habilidades de viento también le permiten desvanecerse en el aire y aparece
 \subsubsection{Ítems:}
 Sin ítems.
 
-\subsection{Nombre: Tlazoltéotl}  
+\subsection{Nombre: Tlazoltéotl}  \label{per.tlazolteotl}
 \subsubsection{Descripción: }  
 De estatura pequeña y gran belleza. De todas las guardianas del Mictlán Tlazoltéotl es quien posee mayor feminidad. Es de piel morena, cabello negro y largo a la altura de la cintura que acostumbra a llevar suelto. De pechos grandes y cadera ancha. Al igual que la mayoria de los Dioses usa joyería de oro fino. En la mano derecha porta una delicada pulsera y en la mano izquierda usa un brazalete con labrados que le cubre casi todo el antebrazo. Usa un par de aretes de jade y un collar de oro adornado con un cuerno de jade de gran tamaño. Tlazoltéotl acostumbra a ir descalza ya que sus movimientos son parecidos a los de una danza y de esta manera se siente mas ligera. Viste un delgado top y una falda que le tiene una ligera abertura entre las piernas, la cual le permite moverse con mayor facilidad.
 \\
@@ -1305,7 +1332,7 @@ Sin ítems.
 
 
 
-\subsection{Nombre: Itztlacoliuhqui}  
+\subsection{Nombre: Itztlacoliuhqui}  \label{per.itztlacoliuhqui}
 
 \subsubsection{Descripción:}
 Dios de complexión corpulenta, piel blanca y de estatura alta. Tiene unas marcas negras en varias partes del cuerpo como señal de que se rebeló durante la creación del quito sol. Usa una venda en la frente para cubrir la herida causada por la flecha que le devolvió Tonatiuh. Toda a indumentaria que usa para como armadura esta hecha de oro con piedras de esmeraldas incrustadas, tal como la hombrera, el protector de cuello y pecho y los protectores de antebrazos. Porta una capa que se cruza a su cuerpo del lado izquierdo y usa un taparrabos como los que usan los nobles.
@@ -1359,7 +1386,7 @@ Como Dios del castigo, el pecado, la obsidiana y la desgracia humana, Itztlacoli
 \subsubsection{Ítems:}
 Sin ítems
 
-\subsection{Nombre: Nexoxcho}  
+\subsection{Nombre: Nexoxcho}  \label{per.nexoxcho}
 \subsubsection{Descripción:}
 Nexoxcho no posee una forma definida, su fisico depende de quien lo mire pues encarna los miedos más profundos de las personas.
 \\
@@ -1399,7 +1426,7 @@ Sin armas.
 \subsubsection{Ítems:}
 Sin ítems.
 
-\subsection{Nombre: Mictlantechtli}  
+\subsection{Nombre: Mictlantechtli}  \label{per.mictlantechtlu}
 \subsubsection{Descripción:}   
 Su figura es la de un esqueleto cuya calavera esta decorada con puntura morada de guerra. Porta un penacho de oro puro que refleja su condición como gobernante del Mictlán. El resto de su vestimenta emula una armadura de guerrero. Porta unas hombreras de oro con esmeraldas incrustadas, las hombreras se incrustan en un protector para el pecho que tiene diferentes grabados, mientras que sus protectores para los brazos están hechos de esmeraldas. Usa un taparrabo idéntico al que usan los tlatoanis, éste es sujetado por un delgado cinturón de oro. Mictlantechtli usa, ademas, una capa y zapatos característicos de quien es parte de la nobleza.
 \\
@@ -1458,7 +1485,7 @@ Sin ítems
 Nunca se encuentra con Malinalli en todo el juego, pero ha oido hablar de ella por Tepeyóllotl, el papel de Mictecacíhuatl es el de coordinar las acciones de los guardianes del inframundo y servir como un puente en la comunicación que existe entre Mictlantechtli y ellos.
 
 
-\subsection{Nombre: Mictecacíhuatl}  
+\subsection{Nombre: Mictecacíhuatl}  \label{per.mictecacihuatl}
 \subsubsection{Descripción:}   
 Al igual que Mictlantechtli,  Mictecacíhuatl es un esqueleto. Su vestimenta es parecida a la que usaban las damas de alta cuna en las cortes mexicas, con la diferencia de que su huipil no le cubre todas las piernas y es ligeramente más ajustado a la altura del pecho. Usa un collar de oro que cubre la mitad de su pecho. Arriba del huipil viste una capa que tiene una caída en V. Completando su conjunto de joyería lleva un brazalete con esmeralda incrustadas en la mano derecha y dos pulseras de oro en la izquierda. Porta un penacho de oro más discreto que el de su esposo. Usa un par de sandalias hechas de tela.
 \\
@@ -1499,7 +1526,7 @@ Sin armas.
 Sin ítems
 
 
-\subsection{Nombre: Tenépal}  
+\subsection{Nombre: Tenépal}  \label{per.tenepal}
 \subsubsection{Descripción:}   
 Hombre de mediana edad de piel morena, ojos café oscuro y cabello largo peinado en una media cola. No usa penacho para denotar su posición como gobernante, debido a que considera el accesorio como estorboso y pesado por lo que solo un par de plumas de Quetzal son utilizadas como símbolo de su poder. Viste una capa algodón fino y un taparrabo de manta con grabados de colores. Usa unas sandalias características de un guerrero mexica. Porta un par de brazaletes en cada brazo una en las muñecas y otra en el biceps.
 \\
@@ -1538,7 +1565,7 @@ En sus años como guerrero usaba una Macuahuitl para enfrentarse a sus enemigos.
 Sin ítems
 
 
-\subsection{Nombre: Cimatl}  
+\subsection{Nombre: Cimatl}  \label{per.cimatl}
 \subsubsection{Descripción:} 
 Mujer de edad media. Cimatl es una mujer bella, de piel morena y cabello largo. Lleva el pelo recogido en una especie de chongo como el que usaban las mujeres nobles de la capital del imperio. Viste una especie de chal que le llega hasta la altura de los codos y un huipil cuyo largo es hasta los tobillos. Una un par de pulseras de jade, una en cada mano y un collar de oro labrado por Mixtecos por lo que tiene una gran cantidad de detalles en su labrado. Ademas de eso, utiliza un par de aretes labrados en la misma zona. Porta unas sandalias que cubren la mayor parte de sus pies.
 \\
@@ -1581,7 +1608,7 @@ No posee armas ni esta amaestrada en la batalla.
 Sin ítems.
 
 
-\subsection{Nombre: Huenupan}  
+\subsection{Nombre: Huenupan}  \label{per.huenupan}
 \subsubsection{Descripción:} 
 Hombre de mediana edad y corpulencia delgada. De tez morena oscura y cabello largo. Usa un penacho para denotar su posición como cacique. Viste una capa de algodón fino que cuelga de sus espalada de manera recta y con un taparrabos de manta de colores. Porta dos brazaletes de diferentes acabados, uno en cada brazo. Y usa unas sandalias sencillas del color de su capa.     
 \\
@@ -1614,7 +1641,7 @@ Sin armas.
 Sin ítems.
 
 
-\subsection{Nombre: Quetzalcóatl}  
+\subsection{Nombre: Quetzalcóatl}  \label{per.quetzalcoatl}
 \subsubsection{Descripción:}
 Quetzalcóatl es descrito como un dios blanco y barbado pero nadie lo ha visto después de que decidiera exiliarse.
 \subsubsection{Status:}
@@ -1638,7 +1665,7 @@ Se sospecha que tiene en su poder muchas armas de carácter legendario.
 
 \subsection{Nombre: Ciudadanos} \label{per.ciudadanos}  
 \subsubsection{Descripción:}
-Personas comúnes de la época prehispánica mesoamericana.
+Personas comunes de la época prehispánica mesoamericana.
 \begin{itemize}
 	\item \textbf{Hombre con jarrón:}
 	Hombre adulto con solo ropaje cubriendo la parte baja del cuerpo, se encuentra cargando un jarrón con las manos por atrás.
@@ -1669,7 +1696,21 @@ Ver figura \ref{fig:Ciudadanos}.
 Los ciudadanos se encuentran para relatar al jugador la época en la que se encuentra, la situación actual que enfrentan, el lugar donde se encuentran y más datos para entender el contexto que lo rodea.
 \subsubsection{Encuentro:}
 En el nivel 1.
-
+\subsection{Nombre: Tunkuluchú}   \label{per.tecolote}
+\subsubsection{Descripción:}
+Ave de la familia de los buhos. En la mitología mexica este animal podía ingresar al inframundo y regresar al mundo sin restricciones. Este personaje se encuentra en todos los niveles con la función de un checkpoint.
+\subsubsection{Status:}
+NPC, checkpoint.
+\subsubsection{Imagen}
+Ver figura \ref{fig:tecolote}.
+\begin{figure}
+	\centering
+	\includegraphics[height=0.2 \textheight]{Imagenes/tecolote}
+	\caption{Tecolote de nombre Tunkuluchú.}
+	\label{fig:tecolote}
+\end{figure}
+\subsubsection{Encuentro:}
+Todos los niveles.
 \subsection{Nombre: Armadillo}  \label{per.armadillo} 
 \subsubsection{Descripción:}
 Animal de clima seco. Posee un caparazón dorsal formado por placas y con picos saliendo de estas, con cola bastante larga y extremidades cortas.
@@ -1767,43 +1808,140 @@ En el nivel 5.
 \subsubsection{Patrón de ataque:}
 En un ciclo, realizará la habilidad rapto cuando se aproxime el jugador a una distancia determinada, mientras no se realice la habilidad rapto la habilidad zopilotear estará activada. Este ciclo se repetirá hasta que el enemigo desaparezca.
 
+
 \section{Obstáculos}
-	\subsection{Nombre: Caja}
+	\subsection{Nombre: Caja} \label{obs.caja}
 \subsubsection{Descripción}
+Una caja de madera. El jugador al tocar tendrá una característica rígida. El jugador no podrá moverla, puede pararse sobre ella. No ocasiona ningún efecto adicional al tocarla.
 \subsubsection{Esquema}
-	\subsection{Nombre: Sacos cacao}
+Ver figura \ref{fig:caja}.
+\begin{figure}
+	\centering
+	\includegraphics[height=0.2 \textheight]{Imagenes/caja}
+	\caption{Caja de madera.}
+	\label{fig:caja}
+\end{figure}
+	\subsection{Nombre: Sacos cacao}\label{obs.saco}
 \subsubsection{Descripción}
+Sacos de tela blanquezco. El jugador al tocar tendrá una característica rígida. El jugador no podrá moverla, puede pararse sobre ella. No ocasiona ningún efecto adicional al tocarla.
 \subsubsection{Esquema}
-	\subsection{Nombre: Plataforma móvil}
+Ver figura \ref{fig:saco}.
+\begin{figure}
+	\centering
+	\includegraphics[height=0.2 \textheight]{Imagenes/saco}
+	\caption{Sacos de cacao.}
+	\label{fig:saco}
+\end{figure}
+	\subsection{Nombre: Plataforma móvil}\label{obs.plataformaM}
 	\subsubsection{Descripción}
+	Pedazo de terreno (cualquiera) que está en constante movimiento siguiendo un mismo patrón. El jugador al contacto, la plataforma tiene una característica rígida, puede posarse sobre de él y seguir su trayectoria.
 	\subsubsection{Esquema}
-		\subsection{Nombre: Plataforma débil}
+	Ver figura \ref{fig:plataformaM}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/plataformaM}
+		\caption{Plataforma móvil.}
+		\label{fig:plataformaM}
+	\end{figure}
+		\subsection{Nombre: Plataforma débil}\label{obs.plataformaD}
 	\subsubsection{Descripción}
+	Pedazo de terreno (cualquiera), de característica rígida. El jugador puede posarse sobre de esta, luego de pocos segundos la plataforma empieza a desaparecer. Luego de desaparecer, reaparece en segundos.
 	\subsubsection{Esquema}
-		\subsection{Nombre: Rocas}
+	Ver figura \ref{fig:plataformaD}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/plataformaD}
+		\caption{Plataforma débil.}
+		\label{fig:plafarmaD}
+	\end{figure}
+		\subsection{Nombre: Rocas}\label{obs.rocas}
 	\subsubsection{Descripción}
+	Conjunto de piedras o rocas posicionadas en un punto determinado, preferentemente alto. Este objeto cuenta con un área donde se detecta si ha pasado el jugador, de ser así las piedras caerán.
 	\subsubsection{Esquema}
-		\subsection{Nombre: Viento temporal}
+	Ver figura \ref{fig:rocas}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/rocas}
+		\caption{Rocas cayendo cuando el jugador ha paso por el área.}
+		\label{fig:rocas}
+	\end{figure}
+		\subsection{Nombre: Viento temporal}\label{obs.vientoT}
 	\subsubsection{Descripción}
+	Ráfaga de viento, este objeto no es rígido y puede ser visible solo por las animaciones ocasionales de líneas rectas horizontales pasando. El viento se activa por lapsos de tiempo constantes. El jugador al entrar en contacto con el viento le estará dando una velocidad constante negativa al eje horizontal, provocando un "empuje" del personaje. 
 	\subsubsection{Esquema}
-		\subsection{Nombre: Piedras filosas}
+	Ver figura \ref{fig:vientoT}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/vientoT}
+		\caption{Dirección que el viento toma respecto al jugador.}
+		\label{fig:vientoT}
+	\end{figure}
+		\subsection{Nombre: Piedras filosas}\label{obs.piedrasF}
 	\subsubsection{Descripción}
+	Piedras puntiagudas en forma de triángulo. Sobresalen del piso o muro de un terreno, son rígidas y no poseen ningún movimiento. Al contacto con el jugador le restan puntos de vida.
 	\subsubsection{Esquema}
-		\subsection{Nombre: Piso congelado}
+	Ver figura \ref{fig:piedrasF}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/piedrasF}
+		\caption{Sacos de cacao.}
+		\label{fig:piedrasF}
+	\end{figure}
+		\subsection{Nombre: Piso congelado}\label{obs.pisoC}
 	\subsubsection{Descripción}
+	Pedazo de hielo congelado en el piso de un terreno, es rígido. Al contacto con el jugador quita toda fricción del piso, ocasionando que no exista suficiente control del jugador de su velocidad y dirección horizontal.
 	\subsubsection{Esquema}
-		\subsection{Nombre: Hielo quebradizo}
+	Ver figura \ref{fig:pisoC}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/pisoC}
+		\caption{Piso congelado.}
+		\label{fig:pisoC}
+	\end{figure}
+		\subsection{Nombre: Hielo quebradizo}\label{obs.hieloQ}
 	\subsubsection{Descripción}
+	Pedazo de terreno, consta de hielo fracturado visualmente, es rígido. Al contacto con el jugador después de unos segundos empieza a desaparecer, reaparece luego de otros segundos más.
 	\subsubsection{Esquema}
-		\subsection{Nombre: Bolas de nieve}
+	Ver figura \ref{fig:hieloQ}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/hieloQ}
+		\caption{Hielo quebradizo y como se rompe cuando el jugador se para en cima.}
+		\label{fig:hieloQ}
+	\end{figure}
+		\subsection{Nombre: Bolas de nieve}\label{obs.bolasN}
 	\subsubsection{Descripción}
+	Conjunto de bolas de nieve, su característica es rígida. Posicionadas en un punto determinado, preferentemente alto. Este objeto cuenta con un área donde se detecta si ha pasado el jugador, de ser así las bolas de nieve caerán.
 	\subsubsection{Esquema}
-		\subsection{Nombre: Viento multidireccional}
+	Ver figura \ref{fig:bolasN}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/bolasN}
+		\caption{Sacos de cacao.}
+		\label{fig:bolasN}
+	\end{figure}
+		\subsection{Nombre: Viento multidireccional}\label{obs.vientoM}
 	\subsubsection{Descripción}
+		Ráfaga de viento, este objeto no es rígido y puede ser visible solo por las animaciones ocasionales de líneas rectas (horizontales, verticales, diagonales). El viento se activa por lapsos de tiempo constantes. El jugador al entrar en contacto con el viento le estará dando una velocidad constante en una dirección aleatoria que podría ser horizontal, vertical o en diagonal, provocando un "empuje" del personaje. 
 	\subsubsection{Esquema}
-		\subsection{Nombre: Lluvia de flechas}
+	Ver figura \ref{fig:vientoM}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/vientoM}
+		\caption{Sacos de cacao.}
+		\label{fig:vientoM}
+	\end{figure}
+		\subsection{Nombre: Lluvia de flechas}\label{obs.lluviaF}
 	\subsubsection{Descripción}
+	Consiste en flechas cayendo aleatoriamente sobre el eje horizontal hacia el piso y constantemente. Al contacto con el jugador le resta puntos de vida.
 	\subsubsection{Esquema}
+	Ver figura \ref{fig:lluviaF}.
+	\begin{figure}
+		\centering
+		\includegraphics[height=0.2 \textheight]{Imagenes/lluviaF}
+		\caption{Lluvia de flechas representada en un nivel.}
+		\label{fig:lluviaF}
+	\end{figure}
 
 \section{Habilidades.}
 	\subsection{Nombre: Rodar.} \label{hab.rodar}

@@ -300,239 +300,244 @@
 \BOOKMARK [3][-]{subsubsection.9.16.3}{Imagen}{subsection.9.16}% 300
 \BOOKMARK [3][-]{subsubsection.9.16.4}{Concepto:}{subsection.9.16}% 301
 \BOOKMARK [3][-]{subsubsection.9.16.5}{Encuentro:}{subsection.9.16}% 302
-\BOOKMARK [2][-]{subsection.9.17}{Nombre: Armadillo}{section.9}% 303
+\BOOKMARK [2][-]{subsection.9.17}{Nombre: Tunkuluch\372}{section.9}% 303
 \BOOKMARK [3][-]{subsubsection.9.17.1}{Descripci\363n:}{subsection.9.17}% 304
 \BOOKMARK [3][-]{subsubsection.9.17.2}{Status:}{subsection.9.17}% 305
 \BOOKMARK [3][-]{subsubsection.9.17.3}{Imagen}{subsection.9.17}% 306
-\BOOKMARK [3][-]{subsubsection.9.17.4}{Concepto:}{subsection.9.17}% 307
-\BOOKMARK [3][-]{subsubsection.9.17.5}{Encuentro:}{subsection.9.17}% 308
-\BOOKMARK [3][-]{subsubsection.9.17.6}{Habilidades:}{subsection.9.17}% 309
-\BOOKMARK [3][-]{subsubsection.9.17.7}{Patr\363n de ataque:}{subsection.9.17}% 310
-\BOOKMARK [2][-]{subsection.9.18}{Nombre: Fantasma rojo}{section.9}% 311
-\BOOKMARK [3][-]{subsubsection.9.18.1}{Descripci\363n:}{subsection.9.18}% 312
-\BOOKMARK [3][-]{subsubsection.9.18.2}{Status:}{subsection.9.18}% 313
-\BOOKMARK [3][-]{subsubsection.9.18.3}{Imagen}{subsection.9.18}% 314
-\BOOKMARK [3][-]{subsubsection.9.18.4}{Encuentro:}{subsection.9.18}% 315
-\BOOKMARK [3][-]{subsubsection.9.18.5}{Habilidades:}{subsection.9.18}% 316
-\BOOKMARK [3][-]{subsubsection.9.18.6}{Patr\363n de ataque:}{subsection.9.18}% 317
-\BOOKMARK [2][-]{subsection.9.19}{Nombre: Fantasma morado}{section.9}% 318
-\BOOKMARK [3][-]{subsubsection.9.19.1}{Descripci\363n:}{subsection.9.19}% 319
-\BOOKMARK [3][-]{subsubsection.9.19.2}{Status:}{subsection.9.19}% 320
-\BOOKMARK [3][-]{subsubsection.9.19.3}{Imagen}{subsection.9.19}% 321
-\BOOKMARK [3][-]{subsubsection.9.19.4}{Encuentro:}{subsection.9.19}% 322
-\BOOKMARK [3][-]{subsubsection.9.19.5}{Habilidades:}{subsection.9.19}% 323
-\BOOKMARK [3][-]{subsubsection.9.19.6}{Patr\363n de ataque:}{subsection.9.19}% 324
-\BOOKMARK [2][-]{subsection.9.20}{Nombre: Zopilote}{section.9}% 325
-\BOOKMARK [3][-]{subsubsection.9.20.1}{Descripci\363n:}{subsection.9.20}% 326
-\BOOKMARK [3][-]{subsubsection.9.20.2}{Status:}{subsection.9.20}% 327
-\BOOKMARK [3][-]{subsubsection.9.20.3}{Imagen}{subsection.9.20}% 328
-\BOOKMARK [3][-]{subsubsection.9.20.4}{Encuentro:}{subsection.9.20}% 329
-\BOOKMARK [3][-]{subsubsection.9.20.5}{Habilidades:}{subsection.9.20}% 330
-\BOOKMARK [3][-]{subsubsection.9.20.6}{Patr\363n de ataque:}{subsection.9.20}% 331
-\BOOKMARK [1][-]{section.10}{Obst\341culos}{}% 332
-\BOOKMARK [2][-]{subsection.10.1}{Nombre: Caja}{section.10}% 333
-\BOOKMARK [3][-]{subsubsection.10.1.1}{Descripci\363n}{subsection.10.1}% 334
-\BOOKMARK [3][-]{subsubsection.10.1.2}{Esquema}{subsection.10.1}% 335
-\BOOKMARK [2][-]{subsection.10.2}{Nombre: Sacos cacao}{section.10}% 336
-\BOOKMARK [3][-]{subsubsection.10.2.1}{Descripci\363n}{subsection.10.2}% 337
-\BOOKMARK [3][-]{subsubsection.10.2.2}{Esquema}{subsection.10.2}% 338
-\BOOKMARK [2][-]{subsection.10.3}{Nombre: Plataforma m\363vil}{section.10}% 339
-\BOOKMARK [3][-]{subsubsection.10.3.1}{Descripci\363n}{subsection.10.3}% 340
-\BOOKMARK [3][-]{subsubsection.10.3.2}{Esquema}{subsection.10.3}% 341
-\BOOKMARK [2][-]{subsection.10.4}{Nombre: Plataforma d\351bil}{section.10}% 342
-\BOOKMARK [3][-]{subsubsection.10.4.1}{Descripci\363n}{subsection.10.4}% 343
-\BOOKMARK [3][-]{subsubsection.10.4.2}{Esquema}{subsection.10.4}% 344
-\BOOKMARK [2][-]{subsection.10.5}{Nombre: Rocas}{section.10}% 345
-\BOOKMARK [3][-]{subsubsection.10.5.1}{Descripci\363n}{subsection.10.5}% 346
-\BOOKMARK [3][-]{subsubsection.10.5.2}{Esquema}{subsection.10.5}% 347
-\BOOKMARK [2][-]{subsection.10.6}{Nombre: Viento temporal}{section.10}% 348
-\BOOKMARK [3][-]{subsubsection.10.6.1}{Descripci\363n}{subsection.10.6}% 349
-\BOOKMARK [3][-]{subsubsection.10.6.2}{Esquema}{subsection.10.6}% 350
-\BOOKMARK [2][-]{subsection.10.7}{Nombre: Piedras filosas}{section.10}% 351
-\BOOKMARK [3][-]{subsubsection.10.7.1}{Descripci\363n}{subsection.10.7}% 352
-\BOOKMARK [3][-]{subsubsection.10.7.2}{Esquema}{subsection.10.7}% 353
-\BOOKMARK [2][-]{subsection.10.8}{Nombre: Piso congelado}{section.10}% 354
-\BOOKMARK [3][-]{subsubsection.10.8.1}{Descripci\363n}{subsection.10.8}% 355
-\BOOKMARK [3][-]{subsubsection.10.8.2}{Esquema}{subsection.10.8}% 356
-\BOOKMARK [2][-]{subsection.10.9}{Nombre: Hielo quebradizo}{section.10}% 357
-\BOOKMARK [3][-]{subsubsection.10.9.1}{Descripci\363n}{subsection.10.9}% 358
-\BOOKMARK [3][-]{subsubsection.10.9.2}{Esquema}{subsection.10.9}% 359
-\BOOKMARK [2][-]{subsection.10.10}{Nombre: Bolas de nieve}{section.10}% 360
-\BOOKMARK [3][-]{subsubsection.10.10.1}{Descripci\363n}{subsection.10.10}% 361
-\BOOKMARK [3][-]{subsubsection.10.10.2}{Esquema}{subsection.10.10}% 362
-\BOOKMARK [2][-]{subsection.10.11}{Nombre: Viento multidireccional}{section.10}% 363
-\BOOKMARK [3][-]{subsubsection.10.11.1}{Descripci\363n}{subsection.10.11}% 364
-\BOOKMARK [3][-]{subsubsection.10.11.2}{Esquema}{subsection.10.11}% 365
-\BOOKMARK [2][-]{subsection.10.12}{Nombre: Lluvia de flechas}{section.10}% 366
-\BOOKMARK [3][-]{subsubsection.10.12.1}{Descripci\363n}{subsection.10.12}% 367
-\BOOKMARK [3][-]{subsubsection.10.12.2}{Esquema}{subsection.10.12}% 368
-\BOOKMARK [1][-]{section.11}{Habilidades.}{}% 369
-\BOOKMARK [2][-]{subsection.11.1}{Nombre: Rodar.}{section.11}% 370
-\BOOKMARK [3][-]{subsubsection.11.1.1}{Descripci\363n}{subsection.11.1}% 371
-\BOOKMARK [3][-]{subsubsection.11.1.2}{Portador}{subsection.11.1}% 372
-\BOOKMARK [3][-]{subsubsection.11.1.3}{Esquema}{subsection.11.1}% 373
-\BOOKMARK [2][-]{subsection.11.2}{Nombre: Desenrrollar.}{section.11}% 374
-\BOOKMARK [3][-]{subsubsection.11.2.1}{Descripci\363n}{subsection.11.2}% 375
-\BOOKMARK [3][-]{subsubsection.11.2.2}{Portador}{subsection.11.2}% 376
-\BOOKMARK [3][-]{subsubsection.11.2.3}{Esquema}{subsection.11.2}% 377
-\BOOKMARK [2][-]{subsection.11.3}{Nombre: Disparo rojo.}{section.11}% 378
-\BOOKMARK [3][-]{subsubsection.11.3.1}{Descripci\363n}{subsection.11.3}% 379
-\BOOKMARK [3][-]{subsubsection.11.3.2}{Portador}{subsection.11.3}% 380
-\BOOKMARK [3][-]{subsubsection.11.3.3}{Esquema}{subsection.11.3}% 381
-\BOOKMARK [2][-]{subsection.11.4}{Nombre: Flotar en vertical.}{section.11}% 382
-\BOOKMARK [3][-]{subsubsection.11.4.1}{Descripci\363n}{subsection.11.4}% 383
-\BOOKMARK [3][-]{subsubsection.11.4.2}{Portador}{subsection.11.4}% 384
-\BOOKMARK [3][-]{subsubsection.11.4.3}{Esquema}{subsection.11.4}% 385
-\BOOKMARK [2][-]{subsection.11.5}{Nombre: Embestida.}{section.11}% 386
-\BOOKMARK [3][-]{subsubsection.11.5.1}{Descripci\363n}{subsection.11.5}% 387
-\BOOKMARK [3][-]{subsubsection.11.5.2}{Portador}{subsection.11.5}% 388
-\BOOKMARK [3][-]{subsubsection.11.5.3}{Esquema}{subsection.11.5}% 389
-\BOOKMARK [2][-]{subsection.11.6}{Nombre: Flotar en tri\341ngulo.}{section.11}% 390
-\BOOKMARK [3][-]{subsubsection.11.6.1}{Descripci\363n}{subsection.11.6}% 391
-\BOOKMARK [3][-]{subsubsection.11.6.2}{Portador}{subsection.11.6}% 392
-\BOOKMARK [3][-]{subsubsection.11.6.3}{Esquema}{subsection.11.6}% 393
-\BOOKMARK [2][-]{subsection.11.7}{Nombre: Rapto.}{section.11}% 394
-\BOOKMARK [3][-]{subsubsection.11.7.1}{Descripci\363n}{subsection.11.7}% 395
-\BOOKMARK [3][-]{subsubsection.11.7.2}{Portador}{subsection.11.7}% 396
-\BOOKMARK [3][-]{subsubsection.11.7.3}{Esquema}{subsection.11.7}% 397
-\BOOKMARK [2][-]{subsection.11.8}{Nombre: Zopilotear.}{section.11}% 398
-\BOOKMARK [3][-]{subsubsection.11.8.1}{Descripci\363n}{subsection.11.8}% 399
-\BOOKMARK [3][-]{subsubsection.11.8.2}{Portador}{subsection.11.8}% 400
-\BOOKMARK [3][-]{subsubsection.11.8.3}{Esquema}{subsection.11.8}% 401
-\BOOKMARK [2][-]{subsection.11.9}{Nombre: Disparo de tonalli.}{section.11}% 402
-\BOOKMARK [3][-]{subsubsection.11.9.1}{Descripci\363n}{subsection.11.9}% 403
-\BOOKMARK [3][-]{subsubsection.11.9.2}{Portador}{subsection.11.9}% 404
-\BOOKMARK [3][-]{subsubsection.11.9.3}{Esquema}{subsection.11.9}% 405
-\BOOKMARK [2][-]{subsection.11.10}{Nombre: Zambullida.}{section.11}% 406
-\BOOKMARK [3][-]{subsubsection.11.10.1}{Descripci\363n}{subsection.11.10}% 407
-\BOOKMARK [3][-]{subsubsection.11.10.2}{Portador}{subsection.11.10}% 408
-\BOOKMARK [3][-]{subsubsection.11.10.3}{Esquema}{subsection.11.10}% 409
-\BOOKMARK [2][-]{subsection.11.11}{Nombre: Burbujas.}{section.11}% 410
-\BOOKMARK [3][-]{subsubsection.11.11.1}{Descripci\363n}{subsection.11.11}% 411
-\BOOKMARK [3][-]{subsubsection.11.11.2}{Portador}{subsection.11.11}% 412
-\BOOKMARK [3][-]{subsubsection.11.11.3}{Esquema}{subsection.11.11}% 413
-\BOOKMARK [2][-]{subsection.11.12}{Nombre: Coraza.}{section.11}% 414
-\BOOKMARK [3][-]{subsubsection.11.12.1}{Descripci\363n}{subsection.11.12}% 415
-\BOOKMARK [3][-]{subsubsection.11.12.2}{Portador}{subsection.11.12}% 416
-\BOOKMARK [3][-]{subsubsection.11.12.3}{Esquema}{subsection.11.12}% 417
-\BOOKMARK [2][-]{subsection.11.13}{Nombre: Impacto.}{section.11}% 418
-\BOOKMARK [3][-]{subsubsection.11.13.1}{Descripci\363n}{subsection.11.13}% 419
-\BOOKMARK [3][-]{subsubsection.11.13.2}{Portador}{subsection.11.13}% 420
-\BOOKMARK [3][-]{subsubsection.11.13.3}{Esquema}{subsection.11.13}% 421
-\BOOKMARK [2][-]{subsection.11.14}{Nombre de la habilidad: Luvia de rocas.}{section.11}% 422
-\BOOKMARK [3][-]{subsubsection.11.14.1}{Descripci\363n}{subsection.11.14}% 423
-\BOOKMARK [3][-]{subsubsection.11.14.2}{Portador}{subsection.11.14}% 424
-\BOOKMARK [3][-]{subsubsection.11.14.3}{Esquema}{subsection.11.14}% 425
-\BOOKMARK [2][-]{subsection.11.15}{Nombre: Rugido aturdidor.}{section.11}% 426
-\BOOKMARK [3][-]{subsubsection.11.15.1}{Descripci\363n}{subsection.11.15}% 427
-\BOOKMARK [3][-]{subsubsection.11.15.2}{Portador}{subsection.11.15}% 428
-\BOOKMARK [3][-]{subsubsection.11.15.3}{Esquema}{subsection.11.15}% 429
-\BOOKMARK [2][-]{subsection.11.16}{Nombre: Circulo de fuego.}{section.11}% 430
-\BOOKMARK [3][-]{subsubsection.11.16.1}{Descripci\363n}{subsection.11.16}% 431
-\BOOKMARK [3][-]{subsubsection.11.16.2}{Portador}{subsection.11.16}% 432
-\BOOKMARK [3][-]{subsubsection.11.16.3}{Esquema}{subsection.11.16}% 433
-\BOOKMARK [2][-]{subsection.11.17}{Nombre: Embestida aerea.}{section.11}% 434
-\BOOKMARK [3][-]{subsubsection.11.17.1}{Descripci\363n}{subsection.11.17}% 435
-\BOOKMARK [3][-]{subsubsection.11.17.2}{Portador}{subsection.11.17}% 436
-\BOOKMARK [3][-]{subsubsection.11.17.3}{Esquema}{subsection.11.17}% 437
-\BOOKMARK [2][-]{subsection.11.18}{Nombre: Invisibilidad.}{section.11}% 438
-\BOOKMARK [3][-]{subsubsection.11.18.1}{Descripci\363n}{subsection.11.18}% 439
-\BOOKMARK [3][-]{subsubsection.11.18.2}{Portador}{subsection.11.18}% 440
-\BOOKMARK [3][-]{subsubsection.11.18.3}{Esquema}{subsection.11.18}% 441
-\BOOKMARK [2][-]{subsection.11.19}{Nombre: Tornado.}{section.11}% 442
-\BOOKMARK [3][-]{subsubsection.11.19.1}{Descripci\363n}{subsection.11.19}% 443
-\BOOKMARK [3][-]{subsubsection.11.19.2}{Portador}{subsection.11.19}% 444
-\BOOKMARK [3][-]{subsubsection.11.19.3}{Esquema}{subsection.11.19}% 445
-\BOOKMARK [2][-]{subsection.11.20}{Nombre: Ventisca.}{section.11}% 446
-\BOOKMARK [3][-]{subsubsection.11.20.1}{Descripci\363n}{subsection.11.20}% 447
-\BOOKMARK [3][-]{subsubsection.11.20.2}{Portador}{subsection.11.20}% 448
-\BOOKMARK [3][-]{subsubsection.11.20.3}{Esquema}{subsection.11.20}% 449
-\BOOKMARK [2][-]{subsection.11.21}{Nombre: Ra\355z del diablo.}{section.11}% 450
-\BOOKMARK [3][-]{subsubsection.11.21.1}{Descripci\363n}{subsection.11.21}% 451
-\BOOKMARK [3][-]{subsubsection.11.21.2}{Portador}{subsection.11.21}% 452
-\BOOKMARK [3][-]{subsubsection.11.21.3}{Esquema}{subsection.11.21}% 453
-\BOOKMARK [2][-]{subsection.11.22}{Nombre: Energ\355a corrupta.}{section.11}% 454
-\BOOKMARK [3][-]{subsubsection.11.22.1}{Descripci\363n}{subsection.11.22}% 455
-\BOOKMARK [3][-]{subsubsection.11.22.2}{Portador}{subsection.11.22}% 456
-\BOOKMARK [3][-]{subsubsection.11.22.3}{Esquema}{subsection.11.22}% 457
-\BOOKMARK [2][-]{subsection.11.23}{Nombre: Circulo protector.}{section.11}% 458
-\BOOKMARK [3][-]{subsubsection.11.23.1}{Descripci\363n}{subsection.11.23}% 459
-\BOOKMARK [3][-]{subsubsection.11.23.2}{Portador}{subsection.11.23}% 460
-\BOOKMARK [3][-]{subsubsection.11.23.3}{Esquema}{subsection.11.23}% 461
-\BOOKMARK [2][-]{subsection.11.24}{Nombre: LLuvia de lava.}{section.11}% 462
-\BOOKMARK [3][-]{subsubsection.11.24.1}{Descripci\363n}{subsection.11.24}% 463
-\BOOKMARK [3][-]{subsubsection.11.24.2}{Portador}{subsection.11.24}% 464
-\BOOKMARK [3][-]{subsubsection.11.24.3}{Esquema}{subsection.11.24}% 465
-\BOOKMARK [2][-]{subsection.11.25}{Nombre: Manotazo.}{section.11}% 466
-\BOOKMARK [3][-]{subsubsection.11.25.1}{Descripci\363n}{subsection.11.25}% 467
-\BOOKMARK [3][-]{subsubsection.11.25.2}{Portador}{subsection.11.25}% 468
-\BOOKMARK [3][-]{subsubsection.11.25.3}{Esquema}{subsection.11.25}% 469
-\BOOKMARK [2][-]{subsection.11.26}{Nombre: Lluvia de flechas.}{section.11}% 470
-\BOOKMARK [3][-]{subsubsection.11.26.1}{Descripci\363n}{subsection.11.26}% 471
-\BOOKMARK [3][-]{subsubsection.11.26.2}{Portador}{subsection.11.26}% 472
-\BOOKMARK [3][-]{subsubsection.11.26.3}{Esquema}{subsection.11.26}% 473
-\BOOKMARK [2][-]{subsection.11.27}{Nombre: Todos los hombres del rey.}{section.11}% 474
-\BOOKMARK [3][-]{subsubsection.11.27.1}{Descripci\363n}{subsection.11.27}% 475
-\BOOKMARK [3][-]{subsubsection.11.27.2}{Portador}{subsection.11.27}% 476
-\BOOKMARK [3][-]{subsubsection.11.27.3}{Esquema}{subsection.11.27}% 477
-\BOOKMARK [2][-]{subsection.11.28}{Nombre: Fuego mort\355fero.}{section.11}% 478
-\BOOKMARK [3][-]{subsubsection.11.28.1}{Descripci\363n}{subsection.11.28}% 479
-\BOOKMARK [3][-]{subsubsection.11.28.2}{Portador}{subsection.11.28}% 480
-\BOOKMARK [3][-]{subsubsection.11.28.3}{Esquema}{subsection.11.28}% 481
-\BOOKMARK [2][-]{subsection.11.29}{Nombre: Penitencia.}{section.11}% 482
-\BOOKMARK [3][-]{subsubsection.11.29.1}{Descripci\363n}{subsection.11.29}% 483
-\BOOKMARK [3][-]{subsubsection.11.29.2}{Portador}{subsection.11.29}% 484
-\BOOKMARK [3][-]{subsubsection.11.29.3}{Esquema}{subsection.11.29}% 485
-\BOOKMARK [1][-]{section.12}{Armas.}{}% 486
-\BOOKMARK [2][-]{subsection.12.1}{Nombre: Caracola.}{section.12}% 487
-\BOOKMARK [3][-]{subsubsection.12.1.1}{Descripci\363n}{subsection.12.1}% 488
-\BOOKMARK [3][-]{subsubsection.12.1.2}{Imagen}{subsection.12.1}% 489
-\BOOKMARK [3][-]{subsubsection.12.1.3}{Portador}{subsection.12.1}% 490
-\BOOKMARK [2][-]{subsection.12.2}{Nombre: Atardecer de venus.}{section.12}% 491
-\BOOKMARK [3][-]{subsubsection.12.2.1}{Descripci\363n}{subsection.12.2}% 492
-\BOOKMARK [3][-]{subsubsection.12.2.2}{Imagen}{subsection.12.2}% 493
-\BOOKMARK [3][-]{subsubsection.12.2.3}{Portador}{subsection.12.2}% 494
-\BOOKMARK [2][-]{subsection.12.3}{Nombre: Matlalpapalotl.}{section.12}% 495
-\BOOKMARK [3][-]{subsubsection.12.3.1}{Descripci\363n}{subsection.12.3}% 496
-\BOOKMARK [3][-]{subsubsection.12.3.2}{Imagen}{subsection.12.3}% 497
-\BOOKMARK [3][-]{subsubsection.12.3.3}{Portador}{subsection.12.3}% 498
-\BOOKMARK [2][-]{subsection.12.4}{Nombre: Trepa viento.}{section.12}% 499
-\BOOKMARK [3][-]{subsubsection.12.4.1}{Descripci\363n}{subsection.12.4}% 500
-\BOOKMARK [3][-]{subsubsection.12.4.2}{Imagen}{subsection.12.4}% 501
-\BOOKMARK [3][-]{subsubsection.12.4.3}{Portador}{subsection.12.4}% 502
-\BOOKMARK [2][-]{subsection.12.5}{Nombre: Arco solar.}{section.12}% 503
-\BOOKMARK [3][-]{subsubsection.12.5.1}{Descripci\363n}{subsection.12.5}% 504
-\BOOKMARK [3][-]{subsubsection.12.5.2}{Imagen}{subsection.12.5}% 505
-\BOOKMARK [3][-]{subsubsection.12.5.3}{Portador}{subsection.12.5}% 506
-\BOOKMARK [1][-]{section.13}{Items.}{}% 507
-\BOOKMARK [2][-]{subsection.13.1}{Nombre: Peineta en forma de flor.}{section.13}% 508
-\BOOKMARK [3][-]{subsubsection.13.1.1}{Descripci\363n}{subsection.13.1}% 509
-\BOOKMARK [3][-]{subsubsection.13.1.2}{Imagen}{subsection.13.1}% 510
-\BOOKMARK [3][-]{subsubsection.13.1.3}{Portador}{subsection.13.1}% 511
-\BOOKMARK [2][-]{subsection.13.2}{Nombre: Armadura espiritual.}{section.13}% 512
-\BOOKMARK [3][-]{subsubsection.13.2.1}{Descripci\363n}{subsection.13.2}% 513
-\BOOKMARK [3][-]{subsubsection.13.2.2}{Imagen}{subsection.13.2}% 514
-\BOOKMARK [3][-]{subsubsection.13.2.3}{Portador}{subsection.13.2}% 515
-\BOOKMARK [1][-]{section.14}{Gui\363n.}{}% 516
-\BOOKMARK [1][-]{section.15}{M\372sica y sonidos.}{}% 517
-\BOOKMARK [2][-]{subsection.15.1}{M\372sica de fondo}{section.15}% 518
-\BOOKMARK [3][-]{subsubsection.15.1.1}{Nombre: M\372sica mercado}{subsection.15.1}% 519
-\BOOKMARK [3][-]{subsubsection.15.1.2}{Nombre: M\372sica selva}{subsection.15.1}% 520
-\BOOKMARK [3][-]{subsubsection.15.1.3}{Nombre: M\372sica Xolotl}{subsection.15.1}% 521
-\BOOKMARK [3][-]{subsubsection.15.1.4}{Nombre: M\372sica plataforma segundo nivel}{subsection.15.1}% 522
-\BOOKMARK [3][-]{subsubsection.15.1.5}{Nombre: M\372sica jefe segundo nivel}{subsection.15.1}% 523
-\BOOKMARK [3][-]{subsubsection.15.1.6}{Nombre: M\372sica plataforma tercer nivel}{subsection.15.1}% 524
-\BOOKMARK [3][-]{subsubsection.15.1.7}{Nombre: M\372sica jefe tercer nivel}{subsection.15.1}% 525
-\BOOKMARK [3][-]{subsubsection.15.1.8}{Nombre: M\372sica plataforma cuarto nivel}{subsection.15.1}% 526
-\BOOKMARK [3][-]{subsubsection.15.1.9}{Nombre: M\372sica jefe cuarto nivel}{subsection.15.1}% 527
-\BOOKMARK [3][-]{subsubsection.15.1.10}{Nombre: M\372sica plataforma quinto nivel}{subsection.15.1}% 528
-\BOOKMARK [3][-]{subsubsection.15.1.11}{Nombre: M\372sica jefe quinto nivel}{subsection.15.1}% 529
-\BOOKMARK [3][-]{subsubsection.15.1.12}{Nombre: M\372sica plataforma sexto nivel}{subsection.15.1}% 530
-\BOOKMARK [3][-]{subsubsection.15.1.13}{Nombre: M\372sica jefe sexto nivel}{subsection.15.1}% 531
-\BOOKMARK [2][-]{subsection.15.2}{Efectos de sonido}{section.15}% 532
-\BOOKMARK [1][-]{section.16}{Imagenes de concepto.}{}% 533
-\BOOKMARK [1][-]{section.17}{Miembros de equipo.}{}% 534
-\BOOKMARK [1][-]{section.18}{Detalles de producci\363n.}{}% 535
-\BOOKMARK [2][-]{subsection.18.1}{Fecha de inicio.}{section.18}% 536
-\BOOKMARK [2][-]{subsection.18.2}{Fecha de terminaci\363n.}{section.18}% 537
-\BOOKMARK [2][-]{subsection.18.3}{Presupuesto.}{section.18}% 538
+\BOOKMARK [3][-]{subsubsection.9.17.4}{Encuentro:}{subsection.9.17}% 307
+\BOOKMARK [2][-]{subsection.9.18}{Nombre: Armadillo}{section.9}% 308
+\BOOKMARK [3][-]{subsubsection.9.18.1}{Descripci\363n:}{subsection.9.18}% 309
+\BOOKMARK [3][-]{subsubsection.9.18.2}{Status:}{subsection.9.18}% 310
+\BOOKMARK [3][-]{subsubsection.9.18.3}{Imagen}{subsection.9.18}% 311
+\BOOKMARK [3][-]{subsubsection.9.18.4}{Concepto:}{subsection.9.18}% 312
+\BOOKMARK [3][-]{subsubsection.9.18.5}{Encuentro:}{subsection.9.18}% 313
+\BOOKMARK [3][-]{subsubsection.9.18.6}{Habilidades:}{subsection.9.18}% 314
+\BOOKMARK [3][-]{subsubsection.9.18.7}{Patr\363n de ataque:}{subsection.9.18}% 315
+\BOOKMARK [2][-]{subsection.9.19}{Nombre: Fantasma rojo}{section.9}% 316
+\BOOKMARK [3][-]{subsubsection.9.19.1}{Descripci\363n:}{subsection.9.19}% 317
+\BOOKMARK [3][-]{subsubsection.9.19.2}{Status:}{subsection.9.19}% 318
+\BOOKMARK [3][-]{subsubsection.9.19.3}{Imagen}{subsection.9.19}% 319
+\BOOKMARK [3][-]{subsubsection.9.19.4}{Encuentro:}{subsection.9.19}% 320
+\BOOKMARK [3][-]{subsubsection.9.19.5}{Habilidades:}{subsection.9.19}% 321
+\BOOKMARK [3][-]{subsubsection.9.19.6}{Patr\363n de ataque:}{subsection.9.19}% 322
+\BOOKMARK [2][-]{subsection.9.20}{Nombre: Fantasma morado}{section.9}% 323
+\BOOKMARK [3][-]{subsubsection.9.20.1}{Descripci\363n:}{subsection.9.20}% 324
+\BOOKMARK [3][-]{subsubsection.9.20.2}{Status:}{subsection.9.20}% 325
+\BOOKMARK [3][-]{subsubsection.9.20.3}{Imagen}{subsection.9.20}% 326
+\BOOKMARK [3][-]{subsubsection.9.20.4}{Encuentro:}{subsection.9.20}% 327
+\BOOKMARK [3][-]{subsubsection.9.20.5}{Habilidades:}{subsection.9.20}% 328
+\BOOKMARK [3][-]{subsubsection.9.20.6}{Patr\363n de ataque:}{subsection.9.20}% 329
+\BOOKMARK [2][-]{subsection.9.21}{Nombre: Zopilote}{section.9}% 330
+\BOOKMARK [3][-]{subsubsection.9.21.1}{Descripci\363n:}{subsection.9.21}% 331
+\BOOKMARK [3][-]{subsubsection.9.21.2}{Status:}{subsection.9.21}% 332
+\BOOKMARK [3][-]{subsubsection.9.21.3}{Imagen}{subsection.9.21}% 333
+\BOOKMARK [3][-]{subsubsection.9.21.4}{Encuentro:}{subsection.9.21}% 334
+\BOOKMARK [3][-]{subsubsection.9.21.5}{Habilidades:}{subsection.9.21}% 335
+\BOOKMARK [3][-]{subsubsection.9.21.6}{Patr\363n de ataque:}{subsection.9.21}% 336
+\BOOKMARK [1][-]{section.10}{Obst\341culos}{}% 337
+\BOOKMARK [2][-]{subsection.10.1}{Nombre: Caja}{section.10}% 338
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Descripci\363n}{subsection.10.1}% 339
+\BOOKMARK [3][-]{subsubsection.10.1.2}{Esquema}{subsection.10.1}% 340
+\BOOKMARK [2][-]{subsection.10.2}{Nombre: Sacos cacao}{section.10}% 341
+\BOOKMARK [3][-]{subsubsection.10.2.1}{Descripci\363n}{subsection.10.2}% 342
+\BOOKMARK [3][-]{subsubsection.10.2.2}{Esquema}{subsection.10.2}% 343
+\BOOKMARK [2][-]{subsection.10.3}{Nombre: Plataforma m\363vil}{section.10}% 344
+\BOOKMARK [3][-]{subsubsection.10.3.1}{Descripci\363n}{subsection.10.3}% 345
+\BOOKMARK [3][-]{subsubsection.10.3.2}{Esquema}{subsection.10.3}% 346
+\BOOKMARK [2][-]{subsection.10.4}{Nombre: Plataforma d\351bil}{section.10}% 347
+\BOOKMARK [3][-]{subsubsection.10.4.1}{Descripci\363n}{subsection.10.4}% 348
+\BOOKMARK [3][-]{subsubsection.10.4.2}{Esquema}{subsection.10.4}% 349
+\BOOKMARK [2][-]{subsection.10.5}{Nombre: Rocas}{section.10}% 350
+\BOOKMARK [3][-]{subsubsection.10.5.1}{Descripci\363n}{subsection.10.5}% 351
+\BOOKMARK [3][-]{subsubsection.10.5.2}{Esquema}{subsection.10.5}% 352
+\BOOKMARK [2][-]{subsection.10.6}{Nombre: Viento temporal}{section.10}% 353
+\BOOKMARK [3][-]{subsubsection.10.6.1}{Descripci\363n}{subsection.10.6}% 354
+\BOOKMARK [3][-]{subsubsection.10.6.2}{Esquema}{subsection.10.6}% 355
+\BOOKMARK [2][-]{subsection.10.7}{Nombre: Piedras filosas}{section.10}% 356
+\BOOKMARK [3][-]{subsubsection.10.7.1}{Descripci\363n}{subsection.10.7}% 357
+\BOOKMARK [3][-]{subsubsection.10.7.2}{Esquema}{subsection.10.7}% 358
+\BOOKMARK [2][-]{subsection.10.8}{Nombre: Piso congelado}{section.10}% 359
+\BOOKMARK [3][-]{subsubsection.10.8.1}{Descripci\363n}{subsection.10.8}% 360
+\BOOKMARK [3][-]{subsubsection.10.8.2}{Esquema}{subsection.10.8}% 361
+\BOOKMARK [2][-]{subsection.10.9}{Nombre: Hielo quebradizo}{section.10}% 362
+\BOOKMARK [3][-]{subsubsection.10.9.1}{Descripci\363n}{subsection.10.9}% 363
+\BOOKMARK [3][-]{subsubsection.10.9.2}{Esquema}{subsection.10.9}% 364
+\BOOKMARK [2][-]{subsection.10.10}{Nombre: Bolas de nieve}{section.10}% 365
+\BOOKMARK [3][-]{subsubsection.10.10.1}{Descripci\363n}{subsection.10.10}% 366
+\BOOKMARK [3][-]{subsubsection.10.10.2}{Esquema}{subsection.10.10}% 367
+\BOOKMARK [2][-]{subsection.10.11}{Nombre: Viento multidireccional}{section.10}% 368
+\BOOKMARK [3][-]{subsubsection.10.11.1}{Descripci\363n}{subsection.10.11}% 369
+\BOOKMARK [3][-]{subsubsection.10.11.2}{Esquema}{subsection.10.11}% 370
+\BOOKMARK [2][-]{subsection.10.12}{Nombre: Lluvia de flechas}{section.10}% 371
+\BOOKMARK [3][-]{subsubsection.10.12.1}{Descripci\363n}{subsection.10.12}% 372
+\BOOKMARK [3][-]{subsubsection.10.12.2}{Esquema}{subsection.10.12}% 373
+\BOOKMARK [1][-]{section.11}{Habilidades.}{}% 374
+\BOOKMARK [2][-]{subsection.11.1}{Nombre: Rodar.}{section.11}% 375
+\BOOKMARK [3][-]{subsubsection.11.1.1}{Descripci\363n}{subsection.11.1}% 376
+\BOOKMARK [3][-]{subsubsection.11.1.2}{Portador}{subsection.11.1}% 377
+\BOOKMARK [3][-]{subsubsection.11.1.3}{Esquema}{subsection.11.1}% 378
+\BOOKMARK [2][-]{subsection.11.2}{Nombre: Desenrrollar.}{section.11}% 379
+\BOOKMARK [3][-]{subsubsection.11.2.1}{Descripci\363n}{subsection.11.2}% 380
+\BOOKMARK [3][-]{subsubsection.11.2.2}{Portador}{subsection.11.2}% 381
+\BOOKMARK [3][-]{subsubsection.11.2.3}{Esquema}{subsection.11.2}% 382
+\BOOKMARK [2][-]{subsection.11.3}{Nombre: Disparo rojo.}{section.11}% 383
+\BOOKMARK [3][-]{subsubsection.11.3.1}{Descripci\363n}{subsection.11.3}% 384
+\BOOKMARK [3][-]{subsubsection.11.3.2}{Portador}{subsection.11.3}% 385
+\BOOKMARK [3][-]{subsubsection.11.3.3}{Esquema}{subsection.11.3}% 386
+\BOOKMARK [2][-]{subsection.11.4}{Nombre: Flotar en vertical.}{section.11}% 387
+\BOOKMARK [3][-]{subsubsection.11.4.1}{Descripci\363n}{subsection.11.4}% 388
+\BOOKMARK [3][-]{subsubsection.11.4.2}{Portador}{subsection.11.4}% 389
+\BOOKMARK [3][-]{subsubsection.11.4.3}{Esquema}{subsection.11.4}% 390
+\BOOKMARK [2][-]{subsection.11.5}{Nombre: Embestida.}{section.11}% 391
+\BOOKMARK [3][-]{subsubsection.11.5.1}{Descripci\363n}{subsection.11.5}% 392
+\BOOKMARK [3][-]{subsubsection.11.5.2}{Portador}{subsection.11.5}% 393
+\BOOKMARK [3][-]{subsubsection.11.5.3}{Esquema}{subsection.11.5}% 394
+\BOOKMARK [2][-]{subsection.11.6}{Nombre: Flotar en tri\341ngulo.}{section.11}% 395
+\BOOKMARK [3][-]{subsubsection.11.6.1}{Descripci\363n}{subsection.11.6}% 396
+\BOOKMARK [3][-]{subsubsection.11.6.2}{Portador}{subsection.11.6}% 397
+\BOOKMARK [3][-]{subsubsection.11.6.3}{Esquema}{subsection.11.6}% 398
+\BOOKMARK [2][-]{subsection.11.7}{Nombre: Rapto.}{section.11}% 399
+\BOOKMARK [3][-]{subsubsection.11.7.1}{Descripci\363n}{subsection.11.7}% 400
+\BOOKMARK [3][-]{subsubsection.11.7.2}{Portador}{subsection.11.7}% 401
+\BOOKMARK [3][-]{subsubsection.11.7.3}{Esquema}{subsection.11.7}% 402
+\BOOKMARK [2][-]{subsection.11.8}{Nombre: Zopilotear.}{section.11}% 403
+\BOOKMARK [3][-]{subsubsection.11.8.1}{Descripci\363n}{subsection.11.8}% 404
+\BOOKMARK [3][-]{subsubsection.11.8.2}{Portador}{subsection.11.8}% 405
+\BOOKMARK [3][-]{subsubsection.11.8.3}{Esquema}{subsection.11.8}% 406
+\BOOKMARK [2][-]{subsection.11.9}{Nombre: Disparo de tonalli.}{section.11}% 407
+\BOOKMARK [3][-]{subsubsection.11.9.1}{Descripci\363n}{subsection.11.9}% 408
+\BOOKMARK [3][-]{subsubsection.11.9.2}{Portador}{subsection.11.9}% 409
+\BOOKMARK [3][-]{subsubsection.11.9.3}{Esquema}{subsection.11.9}% 410
+\BOOKMARK [2][-]{subsection.11.10}{Nombre: Zambullida.}{section.11}% 411
+\BOOKMARK [3][-]{subsubsection.11.10.1}{Descripci\363n}{subsection.11.10}% 412
+\BOOKMARK [3][-]{subsubsection.11.10.2}{Portador}{subsection.11.10}% 413
+\BOOKMARK [3][-]{subsubsection.11.10.3}{Esquema}{subsection.11.10}% 414
+\BOOKMARK [2][-]{subsection.11.11}{Nombre: Burbujas.}{section.11}% 415
+\BOOKMARK [3][-]{subsubsection.11.11.1}{Descripci\363n}{subsection.11.11}% 416
+\BOOKMARK [3][-]{subsubsection.11.11.2}{Portador}{subsection.11.11}% 417
+\BOOKMARK [3][-]{subsubsection.11.11.3}{Esquema}{subsection.11.11}% 418
+\BOOKMARK [2][-]{subsection.11.12}{Nombre: Coraza.}{section.11}% 419
+\BOOKMARK [3][-]{subsubsection.11.12.1}{Descripci\363n}{subsection.11.12}% 420
+\BOOKMARK [3][-]{subsubsection.11.12.2}{Portador}{subsection.11.12}% 421
+\BOOKMARK [3][-]{subsubsection.11.12.3}{Esquema}{subsection.11.12}% 422
+\BOOKMARK [2][-]{subsection.11.13}{Nombre: Impacto.}{section.11}% 423
+\BOOKMARK [3][-]{subsubsection.11.13.1}{Descripci\363n}{subsection.11.13}% 424
+\BOOKMARK [3][-]{subsubsection.11.13.2}{Portador}{subsection.11.13}% 425
+\BOOKMARK [3][-]{subsubsection.11.13.3}{Esquema}{subsection.11.13}% 426
+\BOOKMARK [2][-]{subsection.11.14}{Nombre de la habilidad: Luvia de rocas.}{section.11}% 427
+\BOOKMARK [3][-]{subsubsection.11.14.1}{Descripci\363n}{subsection.11.14}% 428
+\BOOKMARK [3][-]{subsubsection.11.14.2}{Portador}{subsection.11.14}% 429
+\BOOKMARK [3][-]{subsubsection.11.14.3}{Esquema}{subsection.11.14}% 430
+\BOOKMARK [2][-]{subsection.11.15}{Nombre: Rugido aturdidor.}{section.11}% 431
+\BOOKMARK [3][-]{subsubsection.11.15.1}{Descripci\363n}{subsection.11.15}% 432
+\BOOKMARK [3][-]{subsubsection.11.15.2}{Portador}{subsection.11.15}% 433
+\BOOKMARK [3][-]{subsubsection.11.15.3}{Esquema}{subsection.11.15}% 434
+\BOOKMARK [2][-]{subsection.11.16}{Nombre: Circulo de fuego.}{section.11}% 435
+\BOOKMARK [3][-]{subsubsection.11.16.1}{Descripci\363n}{subsection.11.16}% 436
+\BOOKMARK [3][-]{subsubsection.11.16.2}{Portador}{subsection.11.16}% 437
+\BOOKMARK [3][-]{subsubsection.11.16.3}{Esquema}{subsection.11.16}% 438
+\BOOKMARK [2][-]{subsection.11.17}{Nombre: Embestida aerea.}{section.11}% 439
+\BOOKMARK [3][-]{subsubsection.11.17.1}{Descripci\363n}{subsection.11.17}% 440
+\BOOKMARK [3][-]{subsubsection.11.17.2}{Portador}{subsection.11.17}% 441
+\BOOKMARK [3][-]{subsubsection.11.17.3}{Esquema}{subsection.11.17}% 442
+\BOOKMARK [2][-]{subsection.11.18}{Nombre: Invisibilidad.}{section.11}% 443
+\BOOKMARK [3][-]{subsubsection.11.18.1}{Descripci\363n}{subsection.11.18}% 444
+\BOOKMARK [3][-]{subsubsection.11.18.2}{Portador}{subsection.11.18}% 445
+\BOOKMARK [3][-]{subsubsection.11.18.3}{Esquema}{subsection.11.18}% 446
+\BOOKMARK [2][-]{subsection.11.19}{Nombre: Tornado.}{section.11}% 447
+\BOOKMARK [3][-]{subsubsection.11.19.1}{Descripci\363n}{subsection.11.19}% 448
+\BOOKMARK [3][-]{subsubsection.11.19.2}{Portador}{subsection.11.19}% 449
+\BOOKMARK [3][-]{subsubsection.11.19.3}{Esquema}{subsection.11.19}% 450
+\BOOKMARK [2][-]{subsection.11.20}{Nombre: Ventisca.}{section.11}% 451
+\BOOKMARK [3][-]{subsubsection.11.20.1}{Descripci\363n}{subsection.11.20}% 452
+\BOOKMARK [3][-]{subsubsection.11.20.2}{Portador}{subsection.11.20}% 453
+\BOOKMARK [3][-]{subsubsection.11.20.3}{Esquema}{subsection.11.20}% 454
+\BOOKMARK [2][-]{subsection.11.21}{Nombre: Ra\355z del diablo.}{section.11}% 455
+\BOOKMARK [3][-]{subsubsection.11.21.1}{Descripci\363n}{subsection.11.21}% 456
+\BOOKMARK [3][-]{subsubsection.11.21.2}{Portador}{subsection.11.21}% 457
+\BOOKMARK [3][-]{subsubsection.11.21.3}{Esquema}{subsection.11.21}% 458
+\BOOKMARK [2][-]{subsection.11.22}{Nombre: Energ\355a corrupta.}{section.11}% 459
+\BOOKMARK [3][-]{subsubsection.11.22.1}{Descripci\363n}{subsection.11.22}% 460
+\BOOKMARK [3][-]{subsubsection.11.22.2}{Portador}{subsection.11.22}% 461
+\BOOKMARK [3][-]{subsubsection.11.22.3}{Esquema}{subsection.11.22}% 462
+\BOOKMARK [2][-]{subsection.11.23}{Nombre: Circulo protector.}{section.11}% 463
+\BOOKMARK [3][-]{subsubsection.11.23.1}{Descripci\363n}{subsection.11.23}% 464
+\BOOKMARK [3][-]{subsubsection.11.23.2}{Portador}{subsection.11.23}% 465
+\BOOKMARK [3][-]{subsubsection.11.23.3}{Esquema}{subsection.11.23}% 466
+\BOOKMARK [2][-]{subsection.11.24}{Nombre: LLuvia de lava.}{section.11}% 467
+\BOOKMARK [3][-]{subsubsection.11.24.1}{Descripci\363n}{subsection.11.24}% 468
+\BOOKMARK [3][-]{subsubsection.11.24.2}{Portador}{subsection.11.24}% 469
+\BOOKMARK [3][-]{subsubsection.11.24.3}{Esquema}{subsection.11.24}% 470
+\BOOKMARK [2][-]{subsection.11.25}{Nombre: Manotazo.}{section.11}% 471
+\BOOKMARK [3][-]{subsubsection.11.25.1}{Descripci\363n}{subsection.11.25}% 472
+\BOOKMARK [3][-]{subsubsection.11.25.2}{Portador}{subsection.11.25}% 473
+\BOOKMARK [3][-]{subsubsection.11.25.3}{Esquema}{subsection.11.25}% 474
+\BOOKMARK [2][-]{subsection.11.26}{Nombre: Lluvia de flechas.}{section.11}% 475
+\BOOKMARK [3][-]{subsubsection.11.26.1}{Descripci\363n}{subsection.11.26}% 476
+\BOOKMARK [3][-]{subsubsection.11.26.2}{Portador}{subsection.11.26}% 477
+\BOOKMARK [3][-]{subsubsection.11.26.3}{Esquema}{subsection.11.26}% 478
+\BOOKMARK [2][-]{subsection.11.27}{Nombre: Todos los hombres del rey.}{section.11}% 479
+\BOOKMARK [3][-]{subsubsection.11.27.1}{Descripci\363n}{subsection.11.27}% 480
+\BOOKMARK [3][-]{subsubsection.11.27.2}{Portador}{subsection.11.27}% 481
+\BOOKMARK [3][-]{subsubsection.11.27.3}{Esquema}{subsection.11.27}% 482
+\BOOKMARK [2][-]{subsection.11.28}{Nombre: Fuego mort\355fero.}{section.11}% 483
+\BOOKMARK [3][-]{subsubsection.11.28.1}{Descripci\363n}{subsection.11.28}% 484
+\BOOKMARK [3][-]{subsubsection.11.28.2}{Portador}{subsection.11.28}% 485
+\BOOKMARK [3][-]{subsubsection.11.28.3}{Esquema}{subsection.11.28}% 486
+\BOOKMARK [2][-]{subsection.11.29}{Nombre: Penitencia.}{section.11}% 487
+\BOOKMARK [3][-]{subsubsection.11.29.1}{Descripci\363n}{subsection.11.29}% 488
+\BOOKMARK [3][-]{subsubsection.11.29.2}{Portador}{subsection.11.29}% 489
+\BOOKMARK [3][-]{subsubsection.11.29.3}{Esquema}{subsection.11.29}% 490
+\BOOKMARK [1][-]{section.12}{Armas.}{}% 491
+\BOOKMARK [2][-]{subsection.12.1}{Nombre: Caracola.}{section.12}% 492
+\BOOKMARK [3][-]{subsubsection.12.1.1}{Descripci\363n}{subsection.12.1}% 493
+\BOOKMARK [3][-]{subsubsection.12.1.2}{Imagen}{subsection.12.1}% 494
+\BOOKMARK [3][-]{subsubsection.12.1.3}{Portador}{subsection.12.1}% 495
+\BOOKMARK [2][-]{subsection.12.2}{Nombre: Atardecer de venus.}{section.12}% 496
+\BOOKMARK [3][-]{subsubsection.12.2.1}{Descripci\363n}{subsection.12.2}% 497
+\BOOKMARK [3][-]{subsubsection.12.2.2}{Imagen}{subsection.12.2}% 498
+\BOOKMARK [3][-]{subsubsection.12.2.3}{Portador}{subsection.12.2}% 499
+\BOOKMARK [2][-]{subsection.12.3}{Nombre: Matlalpapalotl.}{section.12}% 500
+\BOOKMARK [3][-]{subsubsection.12.3.1}{Descripci\363n}{subsection.12.3}% 501
+\BOOKMARK [3][-]{subsubsection.12.3.2}{Imagen}{subsection.12.3}% 502
+\BOOKMARK [3][-]{subsubsection.12.3.3}{Portador}{subsection.12.3}% 503
+\BOOKMARK [2][-]{subsection.12.4}{Nombre: Trepa viento.}{section.12}% 504
+\BOOKMARK [3][-]{subsubsection.12.4.1}{Descripci\363n}{subsection.12.4}% 505
+\BOOKMARK [3][-]{subsubsection.12.4.2}{Imagen}{subsection.12.4}% 506
+\BOOKMARK [3][-]{subsubsection.12.4.3}{Portador}{subsection.12.4}% 507
+\BOOKMARK [2][-]{subsection.12.5}{Nombre: Arco solar.}{section.12}% 508
+\BOOKMARK [3][-]{subsubsection.12.5.1}{Descripci\363n}{subsection.12.5}% 509
+\BOOKMARK [3][-]{subsubsection.12.5.2}{Imagen}{subsection.12.5}% 510
+\BOOKMARK [3][-]{subsubsection.12.5.3}{Portador}{subsection.12.5}% 511
+\BOOKMARK [1][-]{section.13}{Items.}{}% 512
+\BOOKMARK [2][-]{subsection.13.1}{Nombre: Peineta en forma de flor.}{section.13}% 513
+\BOOKMARK [3][-]{subsubsection.13.1.1}{Descripci\363n}{subsection.13.1}% 514
+\BOOKMARK [3][-]{subsubsection.13.1.2}{Imagen}{subsection.13.1}% 515
+\BOOKMARK [3][-]{subsubsection.13.1.3}{Portador}{subsection.13.1}% 516
+\BOOKMARK [2][-]{subsection.13.2}{Nombre: Armadura espiritual.}{section.13}% 517
+\BOOKMARK [3][-]{subsubsection.13.2.1}{Descripci\363n}{subsection.13.2}% 518
+\BOOKMARK [3][-]{subsubsection.13.2.2}{Imagen}{subsection.13.2}% 519
+\BOOKMARK [3][-]{subsubsection.13.2.3}{Portador}{subsection.13.2}% 520
+\BOOKMARK [1][-]{section.14}{Gui\363n.}{}% 521
+\BOOKMARK [1][-]{section.15}{M\372sica y sonidos.}{}% 522
+\BOOKMARK [2][-]{subsection.15.1}{M\372sica de fondo}{section.15}% 523
+\BOOKMARK [3][-]{subsubsection.15.1.1}{Nombre: M\372sica mercado}{subsection.15.1}% 524
+\BOOKMARK [3][-]{subsubsection.15.1.2}{Nombre: M\372sica selva}{subsection.15.1}% 525
+\BOOKMARK [3][-]{subsubsection.15.1.3}{Nombre: M\372sica Xolotl}{subsection.15.1}% 526
+\BOOKMARK [3][-]{subsubsection.15.1.4}{Nombre: M\372sica plataforma segundo nivel}{subsection.15.1}% 527
+\BOOKMARK [3][-]{subsubsection.15.1.5}{Nombre: M\372sica jefe segundo nivel}{subsection.15.1}% 528
+\BOOKMARK [3][-]{subsubsection.15.1.6}{Nombre: M\372sica plataforma tercer nivel}{subsection.15.1}% 529
+\BOOKMARK [3][-]{subsubsection.15.1.7}{Nombre: M\372sica jefe tercer nivel}{subsection.15.1}% 530
+\BOOKMARK [3][-]{subsubsection.15.1.8}{Nombre: M\372sica plataforma cuarto nivel}{subsection.15.1}% 531
+\BOOKMARK [3][-]{subsubsection.15.1.9}{Nombre: M\372sica jefe cuarto nivel}{subsection.15.1}% 532
+\BOOKMARK [3][-]{subsubsection.15.1.10}{Nombre: M\372sica plataforma quinto nivel}{subsection.15.1}% 533
+\BOOKMARK [3][-]{subsubsection.15.1.11}{Nombre: M\372sica jefe quinto nivel}{subsection.15.1}% 534
+\BOOKMARK [3][-]{subsubsection.15.1.12}{Nombre: M\372sica plataforma sexto nivel}{subsection.15.1}% 535
+\BOOKMARK [3][-]{subsubsection.15.1.13}{Nombre: M\372sica jefe sexto nivel}{subsection.15.1}% 536
+\BOOKMARK [2][-]{subsection.15.2}{Efectos de sonido}{section.15}% 537
+\BOOKMARK [1][-]{section.16}{Imagenes de concepto.}{}% 538
+\BOOKMARK [1][-]{section.17}{Miembros de equipo.}{}% 539
+\BOOKMARK [1][-]{section.18}{Detalles de producci\363n.}{}% 540
+\BOOKMARK [2][-]{subsection.18.1}{Fecha de inicio.}{section.18}% 541
+\BOOKMARK [2][-]{subsection.18.2}{Fecha de terminaci\363n.}{section.18}% 542
+\BOOKMARK [2][-]{subsection.18.3}{Presupuesto.}{section.18}% 543
