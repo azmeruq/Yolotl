@@ -54,7 +54,28 @@
 En total el jugador deberá de pasar 10 niveles para terminar el juego. Cada nivel está diseñado para que el jugador tenga que superar diferentes plataformas y derrotar enemigos (enemigos comunes y jefes de nivel). Algunos niveles están más orientados a la superación de obstáculos, otros a la exploración y algunos al combate, siendo la constante entre todos (salvo el nivel introductorio), el tener que derrotar a un jefe al final del nivel.
 \\
 \par
-La GUI contendrá cuatro botones: uno para moverse a la izquierda, otro para moverse a la derecha, otro más para saltar y uno para disparar tonalli. En la parte superior de la pantalla habrá dos iconos uno para indicar la cantidad de vida de Malinalli y otro para la cantidad de tonalli para atacar. La cantidad de tonalli disminuirá con cada ataque que el jugador efectué y cuando éste llegué a cero, el jugador podrá atacar hasta después de que se reestablezca la barra de tonalli o si logra obtener el ítem Flor de vainilla. La vida de Malinalli disminuirá si recibe ataques de los enemigos o colisiona con alguno, la partida acabará si la vida de Malinalli llega a cero. El jugador podrá recuperar vida con el ítem Grano de Cacao.
+La GUI contendrá cuatro botones(ver  figura): uno para moverse a la izquierda, otro para moverse a la derecha, otro más para saltar y uno para disparar tonalli. En la parte superior de la pantalla habrá dos iconos uno para indicar la cantidad de vida de Malinalli y otro para la cantidad de tonalli para disparar. La cantidad de tonalli disminuirá con cada ataque que el jugador efectué y cuando éste llegué a cero, el jugador podrá disparar hasta después de que se reestablezca la barra de tonalli o si logra obtener el ítem Flor de vainilla(ver figura \ref{fig:UsoTonalli} ). Cuando un disparo de tonalli colisiona con un enemigo, éste desaparece si es un enemigo común o se le infringe una cantidad de daño determinada en caso de que sea un jefe. La vida de Malinalli disminuirá si recibe ataques de los enemigos o colisiona con alguno (ver figura \ref{fig:Danio}). Cada enemigo tiene una cantidad de daño asignada, siendo los jefes de cada nivel los enemigos con mayor capacidad de infringir daño. La partida acabará si la vida de Malinalli llega a cero. El jugador podrá recuperar vida con el ítem Grano de Cacao.
+
+\begin{figure}
+				\centering
+				\includegraphics[height=0.3 \textheight]{Imagenes/ControlCorrerDer}
+				\caption{1 Información del personaje jugable, barra verde indicador de la cantidad de vida, barra azul cantidad de tonalli. 2 Objetivos del nivel o información útil. 3 Botón moverse izquierda. 4 Botón moverse derecha. 5 Botón disparar tonalli. 6 Botón saltar.}
+				\label{fig:GUI}
+\end{figure}
+
+\begin{figure}
+				\centering
+				\includegraphics[height=0.3 \textheight]{Imagenes/nivel02_tonalli}
+				\caption{Cuando el jugador dispara se consume una fracción de la barra de tonalli.}
+				\label{fig:UsoTonalli}
+\end{figure}
+
+\begin{figure}
+				\centering
+				\includegraphics[height=0.3 \textheight]{Imagenes/nivel02_tonalli}
+				\caption{Cuando el jugador colisiona con un enemigo el personaje jugable recibe daño y su cantidad de  vida disminuye, el daño recibido depende del enemigo.}
+				\label{fig:Danio}
+\end{figure}
   		
     	\subsection{Sinopsis de contenido:} 
 La historia se centra en Malinalli Tenelpan, una joven esclava que desea revivir a su padre, y el dios Xólotl, un Dios exiliado que se ha ofrecido a revivir al padre de Malinalli a cambio de su ayuda, cuyo objetivo es restaurar el orden de la jerarquía divina luego de que Tezcatlipoca y Quetzalcóatl la sumergieran en un espiral de caos con sus múltiples batallas por el liderazgo de los dioses. 
@@ -179,7 +200,22 @@ El juego se manejara en 2D, desde una perspectiva lateral. La cámara será orto
 	\subsection{Periféricos}
 	Patalla táctil.
 	\subsection{Controles}
-	Del lado izquierdo inferior de la pantalla existirán dos botones de movimiento izquierdo y movimiento derecho en ese orden. Del lado derecho inferior estarán los botones de salto y ataque. Todos estos botones son de forma circular y ocupan un cuarto de la pantalla.
+	Del lado izquierdo inferior de la pantalla existirán cuatro botones: dos botones de desplazamiento, uno de salto y otro de disparo.Todos estos botones son de forma circular y en conjunto ocupan un cuarto de la pantalla (ver figura \ref{fig:Controles}). A continuación se describirá cada botón y su funcionamiento.
+	\begin{itemize}
+		\item \textbf{Botón moverse derecha:} Botón cuyo icono es una flecha apuntando hacia la derecha. Permite al personaje jugable desplazarse hacia la derecha.
+		\item \textbf{Botón moverse izquierda:} Botón cuyo icono es una flecha apuntando hacia la izquierda. Permite al personaje jugable desplazarse hacia la izquierda.
+		\item \textbf{Botón disparar:} Botón cuyo icono es una flama girada noventa grados en sentido contrario de las manecillas del reloj. La acción de este botón depende de la cantidad de tonalli del personaje jugable. Cuando ésta es mayor a cero, el jugador dispara esferas de energía que desaparecen después de determinado tiempo. Estas esferas de energía pueden efectuar una cantidad de daño en los enemigos de cada nivel pero no tienen efecto sobre los obstáculos. Cada disparo decrementa la cantidad de tonalli total de manera constante, cuando ésta llega a cero el jugador no podrá realizar ningún disparo hasta que se recargue la barra de cantidad de tonalli(la cual tiene un tiempo de recarga automática una vez que llega a cero) o toque el item de flor de vainilla.
+		\item \textbf{Botón saltar:} El icono de este botón es una flecha que apunta hacia arriba. Este botón solamente se puede accionar dos veces seguidas, es decir permite hacer de manera consecutiva dos saltos.  
+	\end{itemize}
+	\begin{figure}
+  \centering
+  \subfigure[Acción del botón de moverse derecha.]{\includegraphics[width=0.45 \textwidth]{Imagenes/ControlCorrerDerGUI}}
+   \subfigure[Acción del botón de moverse izquierda.]{\includegraphics[width=0.45 \textwidth]{Imagenes/ControlCorrerIzq}}
+   \subfigure[Acción del botón de disparar.]{\includegraphics[width=0.45 \textwidth]{Imagenes/Controldispara}}
+   \subfigure[Acción del botón de saltar.]{\includegraphics[width=0.45 \textwidth]{Imagenes/ControlSalta}}
+  \caption{Acciones que desencadena cada botón.}
+  \label{fig:Controles}
+\end{figure} 
 	\subsection{Guardar/Cargar}
 Dentro del juego existen dos tipos de guardado en el juego: el guardado automático y el checkpoint. Y uno que guarda las estadísticas del personaje.
 \begin{itemize}
@@ -463,10 +499,26 @@ Malinalli y Xólotl se adentran al inframundo. Su primer reto a superar será cr
 	\subsubsection{Objetivos}
 \begin{itemize}
 	\item Aprender a utilizar el funcionamiento de los ataques de Malinalli y de los ítems de curación.
-	\item El jugador deberá de atravesar el lago derrotando a los enemigos que encuentre en el camino.
-	\item El jugador deberá evitar tocar los Xoloitzcuintles que hay en todo el nivel. Por cada Xoloitzcuintle tocado el poder de Xochitonal incrementará.
+	\item El jugador deberá de atravesar el lago derrotando a los enemigos que encuentre en el camino. Para derrotar a los enemigos el jugador disparará tonalli.
+	\item El jugador deberá evitar tocar los Xoloitzcuintles que hay en todo el nivel. La cantidad en la que se incrementa el daño que puede infringir Xochitonal y el numero de Xoloitzcuintles tocados se mostraran en la parte superior derecha de la pantalla (Ver figura \ref{fig:GUICtrlNivel2}). Una vez que el jugador hace contacto con un Xoloitzcuintle, el Xoloitzcuintle desaparecera y se incrementara en uno el indicador de la cantidad de Xoloitzcuintles tocados y el indicador de la cantidad de daño que puede efectuar Xochitonal (Ver figura \ref{fig:InterNivel2}). 
 	\item El jugador deberá vencer al guardián del primer nivel del inframundo, Xochitonal.
 \end{itemize}
+
+
+\begin{figure}
+  \centering
+   \includegraphics[width=0.4 \textwidth]{Imagenes/nivel02_xolo}
+  \caption{1. Indicador de la cantidad de daño que puede efectuar Xochitonal. 2. Indicador de la cantidad de Xoloitzcuintles tocados.}
+  \label{fig:GUICtrlNivel2}
+\end{figure} 
+
+\begin{figure}
+  \centering
+   \includegraphics[width=0.4 \textwidth]{Imagenes/nivel02_xoloContacto}
+  \caption{Cuando el jugador hace contacto con un Xoloitzcuintle los indicadores se modifican.}
+  \label{fig:InterNivel2}
+\end{figure} 
+
 	\subsubsection{Progreso}
 Al final del nivel el jugador:
 \begin{itemize}
