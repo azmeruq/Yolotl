@@ -35,8 +35,13 @@ public class Player : MonoBehaviour {
 	public Transform tonalliPosition;
 	public GameObject tonalli;
 
+	//Comunicación con el DIALOGUEMANAGER
+	private DialogueManager dMan;
+	//private NPC npc;
+
 	// Use this for initialization
 	void Start () {
+		dMan = FindObjectOfType<DialogueManager>();
 		anim = GetComponent<Animator> ();
 		rd = GetComponent<Rigidbody2D> ();
 		sr = GetComponent<SpriteRenderer> ();
@@ -79,8 +84,12 @@ public class Player : MonoBehaviour {
 			jump ();
 		}
 
-		if (Input.GetKeyDown(KeyCode.Space)){
-			Fire ();	
+		if (Input.GetKeyDown (KeyCode.Space) && (dMan.getPlayerIsCloseToTalk () == true)) {
+			dMan.ShowBox ();
+		}  
+		if(Input.GetKeyDown (KeyCode.Space) && (dMan.getPlayerIsCloseToTalk () == false))
+		{
+			Fire ();
 		}
 
 		showFaling ();

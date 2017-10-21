@@ -8,18 +8,23 @@ public class NPC : MonoBehaviour {
 	public Player player;
 	public GameObject symbol;
 	//public Text dText;
+	//necesitamos al manejador de dialogo
+	private DialogueManager dMan;
 
 	public string dialogue;
-	public bool dialogueActivated;
-	public bool playerIsClose;
+	//public bool dialogueActivated;
+//	public bool playerIsCloseToTalk;
 
 	// Use this for initialization
 	void Start () {
 		player = FindObjectOfType<Player> ();
+		dMan = FindObjectOfType<DialogueManager> ();
+
 		setDialogue (dialogue);
 		//dialogue = " ";
-		dialogueActivated = false;
-		playerIsClose = false;
+		//dialogueActivated = false;
+	//	setPlayerIsCloseToTalk(false);
+		//playerIsCloseToTalk = false;
 	}
 	
 	// Update is called once per frame
@@ -27,25 +32,31 @@ public class NPC : MonoBehaviour {
 		
 	}
 
-	void setDialogue(string dialogue){
-		dialogue = dialogue;
+	void setDialogue(string dia){
+		dialogue = dia;
 	}
 
 	string getDialogue(){
 		return dialogue;
 	}
 
+	/*
+	public void setPlayerIsCloseToTalk(bool what){
+		playerIsCloseToTalk = what;
+	}
+
+	public bool getPlayerIsCloseToTalk(){
+		return playerIsCloseToTalk;
+	}
+	*/
+
 	void showSymbol(){
-		/*
-		 * Activar simbolo sobre cabeza de NPC
-		*/
+		 // Activar simbolo sobre cabeza de NPC
 		symbol.SetActive (true);
 	}
 
 	void hideSymbol(){
-		/*
-		 *  Desactivar simbolo sobre cabeza de NPC
-		*/
+		 // Desactivar simbolo sobre cabeza de NPC
 		symbol.SetActive (false);
 	}
 
@@ -54,7 +65,11 @@ public class NPC : MonoBehaviour {
 		if (other.gameObject.name == "Player" )
 		{
 			showSymbol();
-			Debug.LogError("se puede activar mi dialogo");
+
+			Debug.Log("SI puede activar el dialogo");
+			//playerIsCloseToTalk = true;
+			dMan.setPlayerIsCloseToTalk(true);
+			dMan.setActualDialogue(getDialogue());
 		} 
 	}
 
@@ -62,9 +77,10 @@ public class NPC : MonoBehaviour {
 	{
 		if (other.gameObject.name == "Player" )
 		{
-			//dialogueActivated = true;
-
 			hideSymbol ();
+			//playerIsCloseToTalk = false;
+			dMan.setPlayerIsCloseToTalk(false);
+			Debug.Log("NO puede activar el dialogo");
 		} 
 	}
 

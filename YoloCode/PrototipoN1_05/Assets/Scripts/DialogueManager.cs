@@ -13,12 +13,53 @@ public class DialogueManager : MonoBehaviour {
 	public GameObject dBox;
 	//variable de texto
 	public Text dText;
+	public bool dialogueActivated;
+	private string dialogue;
+	public bool playerIsCloseToTalk;
 
+	//para averiguar si el player esta cerca de un NPC
+	//private NPC npc;
 
-	public void ShowBox(string dialogue)
+	void Start () {
+		setActualDialogue (" ");
+		//instanciamos npc
+		//npc = FindObjectOfType<NPC>();
+		setPlayerIsCloseToTalk(false);
+	}
+
+	public void setPlayerIsCloseToTalk(bool what){
+		playerIsCloseToTalk = what;
+	}
+
+	public bool getPlayerIsCloseToTalk(){
+		return playerIsCloseToTalk;
+	}
+
+	public void setActualDialogue(string dia)
 	{
-		dBox.SetActive (true);
+		dialogue = dia; 
+	}
+
+	public string getActualDialogue()
+	{
+		return dialogue; 
+	}
+
+	public void ShowBox()
+	{
 		//se escribe lo que se haya mandado
-		dText.text = dialogue;
+		Debug.Log (getActualDialogue());
+		dText.text = getActualDialogue();
+		//se activa el cuadro de texto y la variable de activacion es verdadera para el contador
+		dialogueActivated = true;
+		//se activa cuadro de dialogo
+		dBox.SetActive (true);
+
+	}
+
+	public void HideBox()
+	{
+		//se desactiva cuadro de dialogo
+		dBox.SetActive (false);
 	}
 }
