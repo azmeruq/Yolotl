@@ -5,12 +5,13 @@
 
 		\section{Título:} Yolotl.
 		%---------------------------------------------------------
-		\section{Diseñadoras:} Hernández Bautista 				Yasmine Pilar.
+		\section{Diseñadoras:} Hernández Bautista 				Yasmine Pilar,  Márquez Hernández Karla Rocío..
 %---------------------------------------------------------
     	\section{Género:} Plataforma. Aventura.
     	%---------------------------------------------------------
-   		\section{Plataforma:} Dispositivos móviles Android.    		
-   		Dispositivo de prueba 1:
+   		\section{Plataforma:} Dispositivos móviles Android.    			\begin{itemize}
+   		
+			\item Dispositivo de prueba 1:
    		\begin{itemize}
    			\item Versión 5.2
    			\item Modelo Huawei TAG-L13
@@ -18,6 +19,21 @@
    			\item IPS TFT 16M colors 720 x 1280 px (5,00) 294 ppi
    			\item RAM 2GB
    			
+   		\end{itemize}
+   		
+   		\item Dispositivo de prueba 2:
+   		\begin{itemize}
+   			\item Versión 7.0
+   			\item Modelo ASUS X008DC
+   			\item CPU MediaTek Quad Core Processor
+   			\item GPU Mali T720
+   			\item RAM 3GB LPDDR3
+   			\item PANEL 5.2-inch
+   			HD(1280 x 720) IPS display 
+   			75 por ciento screen-to-body ratio
+   			400nits brightness 
+   		\end{itemize}   		
+   		
    		\end{itemize}
 %---------------------------------------------------------   
     	\section{Versión:} V03.18/10/17
@@ -140,6 +156,7 @@ La GUI contendrá cuatro botones(ver  figura \ref{fig:GUI}): uno para moverse a 
 \textbf{Hardware}:
 \begin{itemize}
 	\item Computadora DELL Inspiron 15.Procesador Intel Core i3-4005U CPU de 1.70 GHz de 64 bits. Memoria ram de 8GB.
+	\item Lenovo G40. Intel Core i3 4005U CPU 1.7 Khz de 64 bits. Memoria ram de 8GB. Tarjeta gráfica AMD Radeon R5 235 de 1GB
 	\item Tableta digitalizadora Intuos pen small
 	\item Huawei TAG-L13. CPU de ocho núcleos a 1.5 GHZ, RAM 2GB, resolucion de 720 X 1280.
 \end{itemize}
@@ -157,6 +174,7 @@ La GUI contendrá cuatro botones(ver  figura \ref{fig:GUI}): uno para moverse a 
 	\item Android Studio version 2.3.3.
 	\item Sistema Adroid 5.1.
 	\item Unity Remote 5.
+	\item Autodesk SketchBook  v3.7.6.
 	
 \end{itemize}	
 %---------------------------------------------------------	

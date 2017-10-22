@@ -91,7 +91,7 @@
 \contentsline {subsection}{\numberline {7.5.4}Objetivos}{36}{subsection.7.5.4}
 \contentsline {subsection}{\numberline {7.5.5}Progreso}{36}{subsection.7.5.5}
 \contentsline {subsection}{\numberline {7.5.6}Enemigos}{36}{subsection.7.5.6}
-\contentsline {subsection}{\numberline {7.5.7}Items}{36}{subsection.7.5.7}
+\contentsline {subsection}{\numberline {7.5.7}Items}{37}{subsection.7.5.7}
 \contentsline {subsection}{\numberline {7.5.8}Personajes}{37}{subsection.7.5.8}
 \contentsline {subsection}{\numberline {7.5.9}Escenario}{37}{subsection.7.5.9}
 \contentsline {subsection}{\numberline {7.5.10}Referencia a BGM y SFX}{38}{subsection.7.5.10}
@@ -616,6 +616,8 @@
 \contentsline {subsection}{\numberline {15.2.9}Aleteo de alas.}{139}{subsection.15.2.9}
 \contentsline {subsection}{\numberline {15.2.10}Sonido de fuego}{139}{subsection.15.2.10}
 \contentsline {subsection}{\numberline {15.2.11}Hielo resquebraj\IeC {\'a}ndose.}{139}{subsection.15.2.11}
+\contentsline {subsection}{\numberline {15.2.12}Pasos sobre el hielo.}{139}{subsection.15.2.12}
+\contentsline {subsection}{\numberline {15.2.13}Respiraci\IeC {\'o}n}{139}{subsection.15.2.13}
 \contentsline {chapter}{\numberline {16}Referencia a FX}{141}{chapter.16}
 \contentsline {section}{\numberline {16.1}Circulo de luz.}{141}{section.16.1}
 \contentsline {section}{\numberline {16.2}Oleaje}{141}{section.16.2}
@@ -625,6 +627,7 @@
 \contentsline {section}{\numberline {16.6}Explosi\IeC {\'o}n de energ\IeC {\'\i }a tonalli verde.}{141}{section.16.6}
 \contentsline {section}{\numberline {16.7}Explosion rocas.}{141}{section.16.7}
 \contentsline {section}{\numberline {16.8}Haz de luz}{142}{section.16.8}
+\contentsline {section}{\numberline {16.9}Ventisca de nieve.}{142}{section.16.9}
 \contentsline {chapter}{\numberline {17}Imagenes de concepto.}{143}{chapter.17}
 \contentsline {chapter}{\numberline {18}Miembros de equipo.}{147}{chapter.18}
 \contentsline {chapter}{\numberline {19}Fecha de inicio.}{149}{chapter.19}

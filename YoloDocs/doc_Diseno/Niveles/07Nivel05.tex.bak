@@ -19,17 +19,17 @@ En este nivel el jugador deberá:
         \item Habrá incrementado la energía espiritual de Malinalli. 
         \item Desbloqueara las siguientes cinemáticas:
 \begin{itemize}
-        \item Cinemática 24. 
-        \item Cinemática 25.
-        \item Cinemática 26.
-        \item Cinemática 27.
+        \item Cinemática 24 (ver apartado \ref{Cin:Cinematica24}). 
+        \item Cinemática 25 (ver apartado \ref{Cin:Cinematica25}).
+        \item Cinemática 26 (ver apartado \ref{Cin:Cinematica26}).
+        \item Cinemática 27 (ver apartado \ref{Cin:Cinematica27}).
 \end{itemize}
         \item Desbloqueará El nivel 6 (ver apartado  \ref{Nivel:Niv06}) del juego en el menú seleccionable (ver apartado \ref{inter:interfaz03}).
 \end{itemize}
 
         \subsection{Enemigos}
 \begin{itemize}
-        \item Fantasma morado (ver apartado \ref{per.fantasmaM}).
+        \item Fantasma morado (ver apartado \ref{per:fantasmaM}).
         \begin{itemize}
 				\item Animación fuego.
 		\end{itemize}
@@ -38,10 +38,14 @@ En este nivel el jugador deberá:
 				\item Animación vuelo.
 				\item Animación caída en picada.
 		\end{itemize}
-		\item Mictlecayotl (ver apartado \ref{per.mictlecayotl}).
+		\item Mictlecayotl (ver apartado \ref{per:mictlecayotl}).
 \begin{itemize}
-        \item   Animación vuelo.
-        
+        \item Animación volar.
+        \item Animación disparar viento.
+        \item Animación invocar tornado.
+        \item Animación volar.
+        \item Animación recibir daño.
+		\item Animación morir.
 \end{itemize}			
 \end{itemize}
         \subsection{Items}
@@ -51,7 +55,7 @@ En este nivel el jugador deberá:
 \end{itemize}
         \subsection{Personajes}
         \begin{itemize}
-                \item Malinalli. Ver en \ref{per.malinalli}.
+                \item Malinalli. Ver en \ref{per:malinalli}.
                 \begin{itemize}
                         \item Animación correr.
                         \item Animación saltar.
@@ -61,18 +65,16 @@ En este nivel el jugador deberá:
                         \item Animación recibir daño.
 						\item Animación morir.
                 \end{itemize} 
-                \item Xolotl. Ver en \ref{per.xolotl}.
+                \item Xolotl. Ver en \ref{per:xolotl}.
                 \begin{itemize}
 					\item Animación salto.
 					\item Animación normal.
 				\end{itemize}
-                \item Mictlecayotl. Ver en \ref{per.mictlecayotl}.
+                \item Mictlecayotl. Ver en \ref{per:mictlecayotl}.
                 \begin{itemize}
                         \item Animación disparar viento.
                         \item Animación invocar tornado.
-                        \item Animación correr caracola.
-                        \item Animación saltar caracola.
-                        \item Animación normal.
+                        \item Animación volar.
                         \item Animación recibir daño.
 						\item Animación morir.
                 \end{itemize} 
@@ -88,11 +90,11 @@ En este nivel el jugador deberá:
         \item Suelo cubierto de nieve.
 \end{itemize} 
         \item Obstáculos:
-			\item Plataforma móvil. Ver en \ref{obs.plataformaM}.
-			\item Plataforma que cae. Ver en \ref{obs.plataformaD}.
-			\item Piso resbaladizo. Ver en \ref{obs.pisoC}.
-			\item Picos de hielo. Ver en \ref{obs.piedrasF}.
-			\item Bola de nieve. Ver en \ref{obs.bolasN}.
+			\item Plataforma móvil (ver apartado \ref{obs.plataformaM}).
+			\item Plataforma que cae (ver apartado \ref{obs.plataformaD}).
+			\item Piso resbaladizo. (ver apartado \ref{obs.pisoC}).
+			\item Plataforma que desaparece (ver apartado \ref{obs.PlatDes}).
+			\item Bola de nieve (ver apartado \ref{obs.bolasN}).
 		\end{itemize}
         \item Objetos de fondo: Sin objetos de fondo.
 \end{itemize}   
@@ -108,6 +110,7 @@ En este nivel el jugador deberá:
         \item Viento (ver apartado \ref{SFX:Viento}).
         \item Hielo resquebrajándose (ver apartado \ref{SFX:HieloRes}).
         \item Pasos sobre el hielo o la nieve(ver apartado \ref{SFX:PasHiel}).	
+\end{itemize}
 \end{itemize}
 
         \subsection{Referencia a FX}

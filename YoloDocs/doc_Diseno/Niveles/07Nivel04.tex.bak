@@ -31,7 +31,7 @@ Al final del nivel el jugador:
         \item Desbloquear El nivel 5 (ver apartado \ref{Nivel:Niv05}) del juego en el menú seleccionable (ver apartado \ref{inter:interfaz03}).
         \subsection{Enemigos}
                 \begin{itemize}
-                        \item Fantasma rojo. Ver en \ref{per.fantasmaR}. 
+                        \item Fantasma rojo. Ver en \ref{per:fantasmaR}. 
             \begin{itemize}
 				\item Animación fuego.
 				\item Animación disparo.
@@ -40,8 +40,8 @@ Al final del nivel el jugador:
 			\begin{itemize}
 				\item Animación fuego.
 			\end{itemize}
-            \item Picos de obsidiana (ver apartado \ref{obs.piedrasF}).
-             \item Itzpapalotl (ver apartado \ref{per.itzpapalotl}).
+            \item Picos de obsidiana (ver apartado \ref{obs:piedrasF}).
+             \item Itzpapalotl (ver apartado \ref{per:itzpapalotl}).
                 \end{itemize}
         \subsection{Items}
                 \begin{itemize}
@@ -52,7 +52,7 @@ Al final del nivel el jugador:
                 \end{itemize}
         \subsection{Personajes}
         \begin{itemize}
-                \item Malinalli (ver apartado \ref{per.malinalli}).
+                \item Malinalli (ver apartado \ref{per:malinalli}).
                 \begin{itemize}
                         \item Animación correr.
                         \item Animación saltar.
@@ -62,12 +62,12 @@ Al final del nivel el jugador:
                         \item Animación recibir daño.
 						\item Animación morir.
                 \end{itemize}
-                \item Xolotl (ver apartado \ref{per.xolotl}).
+                \item Xolotl (ver apartado \ref{per:xolotl}).
                 	\begin{itemize}
 						\item Animación salto.
 						\item Animación normal.
 					\end{itemize}
-                \item Itzpapalotl (ver apartado \ref{per.itzpapalotl}).
+                \item Itzpapalotl (ver apartado \ref{per:itzpapalotl}).
                 \begin{itemize}
                         \item Animación disparar fuego.
                         \item Animación embestida.
@@ -94,7 +94,7 @@ Es el interior del templo,el templos solo es iluminado por los cristales verdes.
                 \end{itemize}
 	  \item Obstáculos:
                 \begin{itemize}
-                        \item Viento.
+                        \item Viento (ver apartado \ref{obs.vientoT}).
                 \end{itemize}
         \item Objetos de fondo:
                 \begin{itemize}

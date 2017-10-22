@@ -8,7 +8,7 @@
 	\subsection{Objetivos}
 	En este nivel el jugador:
 	\begin{itemize}
-		\item Atravesar la zona de plataformas del nivel. En este nivel Xólotl (ver aparatado \ref{per:xolotl}) se transformara en un ave y surcara el nivel volando por lo que el jugador deberá de mantenerse sobre él para poder avanzar. Xólotl contara con una velocidad predefinida y el jugador no la podrá modificar, Xólotl sólo disminuirá su velocidad en las zonas con enemigos para darle tiempo al jugador de poder centrarse en la batalla o en las zonas de plataformas para que el jugador pueda obtener ítems. Xólotl contará con una barra de vida parecida a la de Malinalli, esta barra estará ubicada en la parte superior derecha de la pantalla y estará precedida por la imagen de Xólotl. La cantidad de vida de Xólotl disminuirá si colisiona con  los enemigos o con sus ataques; si la barra de vida de Xólotl llega cero, éste desaparecerá y el jugador perderá la partida. Al igual que Malinalli, Xólotl podrá recuperar vida con el ítem grano de cacao (ver apartado ).
+		\item Atravesar la zona de plataformas del nivel. En este nivel Xólotl (ver aparatado \ref{per:xolotl})
 	\end{itemize}	 
 	\subsection{Progreso}
 	Al terminar el nivel se adquiere un nuevo poder al arma. Se presentará una cinemática de los recuerdos de Malinalli. Se desbloqueará el nivel 5 del inframundo.
