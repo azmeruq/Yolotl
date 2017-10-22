@@ -1,0 +1,45 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage[top=1in, bottom=1in, right=1in, left=1in]{geometry}
+
+\begin{document}
+	\author{Hernández Bautista Yasmine Pilar, Márquez 		Hernández Karla Rocío}
+	\title{Documento de diseño}
+	\maketitle
+	\tableofcontents
+	
+	\section{Concepto}
+		\subsection{Título:} Yolotl.
+		\subsection{Diseñadoras:} Hernández Bautista 				Yasmine Pilar, Márquez Hernández Karla Rocío.
+    	\subsection{Género:} Plataforma.
+   		\subsection{Plataforma:} Dispositivos móviles 				Android.
+    	\subsection{Versión:} V02.12/07/17
+   		\subsection{Sinopsis de jugabilidad:} 
+   		
+    	\subsection{Sinopsis de contenido:} 
+Xolotl, el Dios gemelo de Quetzalcoatl, quiere ser el líder de los dioses aztecas; para ello necesita hacerse de las armas que dejó Quetzalcoatl cuando bajó al inframundo. Él no puede realizar el viaje por sí mismo ya que no tiene el poder suficiente y si se muestra libremente en el Mictlan los otros dioses descubrirían su paradero. Por tal motivo, Xolotl necesita que alguien más lo ayude en su travesía y se haga del poder de los guardianes del inframundo para fortalecerlo.
+\\
+\par
+Xolotl observa a Malinalli y decide que ella está lo suficientemente desesperada como para ayudarlo en su misión si le ofrece algo que ella desea. Así que decide ofrecerle un trato: Ella lo ayuda a obtener el poder de los guardianes del inframundo y él a cambio promete revivir a su padre para que recupere su reino. Malinalli acepta el trato, dando así inicio la alianza entre ambos.
+\\
+\par   	
+ Xolotl tomará diversas formas para ayudar a Malinalli en el viaje al inframundo y así no ser descubierto por los otros Dioses que moran el inframundo. En cada nivel del inframundo se contará la vida de Malinalli hasta antes de hacer el trato con Xolotl. Se verá la vida de Malinalli cuando era de la nobleza, cuando su padre murió y cuando fue vendida como esclava.
+\\
+\par
+Como consecuencia de los retos que tienen que enfrentar, Malinalli y Xolotl, y de los peligros que superarán, ambos personajes desarrollarán un fuerte vínculo de amistad y respeto. Xolotl ve en Malinalli un reflejo de él, ya que ambos han perdido cosas que atesoran a manos de terceros: Malinalli a su padre y él el respeto de sus hermanos.
+\\
+\par
+Si bien la amistad entre Xolotl y Malinalli, le permite a Malinalli desarrollar una mejor sincronización en sus ataques, la amistad no es lo suficientemente fuerte como para cambiar los deseos de Malinalli. Su principal motivación es la promesa de reencontrarse con su padre, siendo esto lo único en su mente durante todo el viaje.
+\\
+\par
+Durante uno de los retos en los niveles del inframundo, Malinalli le pregunta a Xolotl el motivo por el cual el resto de los Dioses lo desprecian. Él duda en responder, pero termina por contarle que cuando los dioses rehicieron el mundo todos ofrecieron una parte de ellos para rehacer lo que había sido destruido, mientras que Xolotl se había negado a ser sacrificado. Siendo tachado de cobarde por los otros dioses sin darle la oportunidad de explicar su postura. Desde el punto de vista de Xolotl, los sacrificios que hicieron los Dioses para hacer el quinto sol fueron injustos, ya que los únicos que debieron de haber ofrecido su ser para rehacer el mundo debieron de haber sido Quetzalcoatl y Tezcatlipoca, al ser éstos dos los culpables de la destrucción de los anteriores ciclos. Para Xolotl, la discordia existente entre Quetazalcoalt y Tezcatlipoca es algo que debe de acabarse por el bien de todos o de lo contrario terminará por consumir todo. Xolotl le cuenta a Malinalli que su viaje al Mictlán es solo el inicio de su cruzada para derrotar a los Dioses duales.
+\\
+\par
+Con cada guardián del inframundo que derrotan, Xolotl va obteniendo nuevos poderes. Cuando finalmente llegan al último nivel del Mictlan, ambos deben de enfrentarse a Mictlantecuhtli para que de esta manera Xolotl pueda reclamar el inframundo como suyo. La batalla contra éste Dios es particularmente difícil ya que Mictlantecuhtli es uno de los dioses más astutos de todos. Justo cuando Mictlantecuhtli siente cercana su derrota recurre a romper el vínculo entre Malinalli y Xolotl para hacer que éste último pierda el poder de los guardianes del inframundo y así pueda derrotarlo. Mictlantecuhtli recurre a encerrar a Malinalli en una ilusión en donde le revela que nadie puede revivir a su padre, debido a que éste ya completó su ciclo de purificación y que su alma ya debe ser parte de los trece cielos, lo que significaría que aun si Malinalli encontrara la energía del alma de su padre, en dicha energía ya no quedaría ningún vestigio de su existencia, siendo éste un proceso que ningún Dios puede revertir. Malinalli le responde a Mictlantecuhtli que ya se había dado cuenta de ello antes y que no es el alma de su padre lo que ahora busca, ella comprende que lo que le han quitado no puede ser devuelto por nadie, no obstante, lo que sí puede hacer es quitarles lo mismo a aquellos que le robaron lo que amaba. El objetivo de Malinalli es destruir al imperio que ha contaminado la tierra con su codicia y su soberbia, pero para destruir al imperio que le quitó todo primero debe de acabar con los Dioses que los protegen. Fuera de la ilusión, Malinalli y Xolotl derrotan a Mictlantecuhtli. Sin embargo, la Señora del Inframundo ha huido hacia los trece cielos para advertirle al resto de los Dioses sobre los planes de Xolotl.
+\\
+\par
+Xolotl le dice a Malinalli que su poder aún no es suficiente para resucitar al padre de ésta, pero una vez obtenga el control de los trece cielos Xolotl podrá cumplir con su parte del trato.  Ambos parten hacia los trece cielos.  El objetivo de Xolotl: derrotar a Quetzalcoatl y a Tezcatlipoca. 
+   
+\end{document}
