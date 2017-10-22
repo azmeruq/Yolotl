@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\MovingPlatform.cs" />
      <Compile Include="Assets\Scripts\NPC.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\leeArchivos.cs" />
      <Compile Include="Assets\Scripts\loaderScene.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/Yas/Documents/yolotl/Yolotl/YoloCode/PrototipoN1_05/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
