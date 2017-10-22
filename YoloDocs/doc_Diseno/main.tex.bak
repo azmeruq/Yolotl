@@ -1,0 +1,47 @@
+\documentclass[11pt,letterpaper]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{subfigure}
+
+\usepackage[top=1in, bottom=1in, right=1in, left=1in]{geometry}
+
+%Paqueteria del glosario
+\usepackage[hidelinks]{hyperref}
+\usepackage[toc,style=altlistgroup,hyperfirst=false]{glossaries}
+\makeindex
+\makeglossaries
+\input{./glosario.tex}
+
+\begin{document}
+	\author{Hernández Bautista Yasmine Pilar, Márquez 		Hernández Karla Rocío}
+	\title{Documento de diseño}
+	\maketitle
+	\frontmatter
+	\tableofcontents
+	
+	\mainmatter
+	\include{01Concepto}
+	\include{02HistorialVer}
+	\include{03VisionGeneral}
+	\include{04MecanicaJuego}
+	\include{05EstadoJuego}
+	\include{06Interfaces}
+	\include{07Niveles}
+	\include{08Progreso}
+	\include{09Personajes}
+	\include{10Obstaculos}
+	\include{11Habilidades}
+ 	\include{12Armas}
+	\include{13Items}
+	\include{14GuionLiterario}
+	\include{15MusicaYSonido}
+	\include{15EfectosEspeciales}
+	\include{16ImagenesConcepto}
+	\include{17MiembrosEquipo}
+	\include{18fechaInicio}
+	\include{19fechaFin}
+	\include{20Presupuesto}
+
+\printglossary
+\end{document}
