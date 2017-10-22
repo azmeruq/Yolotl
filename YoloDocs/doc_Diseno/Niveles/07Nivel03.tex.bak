@@ -88,7 +88,7 @@ Al final del nivel el jugador:
 	\item Obstáculos:
 		\begin{itemize}
 			\item Plataforma móvil (ver apartado \ref{obs.plataformaM}).
-			\item Plataforma débil que cae (ver apartado \ref{obs.plataformaD}).
+			\item Plataforma que cae (ver apartado \ref{obs.plataformaD}).
 		\end{itemize}
 	\item Objetos de fondo:
 		\begin{itemize}
@@ -98,12 +98,12 @@ Al final del nivel el jugador:
 \end{itemize}	
 	\subsection{Referencia a BGM y SFX}
 \begin{itemize}
-	\item Temas del juego:
+	\item BGM:
 		\begin{itemize}
 			\item Música plataforma tercer nivel (ver apartado\ref{Musica:N03_ZN01}).
 			\item Nombre: Música jefe tercer nivel (ver apartado \ref{Musica:N03_ZN02}).
 		\end{itemize}
-	\item Efectos de sonido:
+	\item SFX:
 		\begin{itemize}
 			\item Viento (ver apartado \ref{SFX:Viento}).
 			\item Rugido (ver apartado \ref{SFX:Rugido}).

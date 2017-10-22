@@ -41,7 +41,7 @@ Al final del nivel el jugador:
 			\item Cinemática 9 (ver apartado \ref{Cin:Cinematica09}).
 			\item Cinemática 10 (ver apartado \ref{Cin:Cinematica10}).
 		\end{itemize}
-	\item Tendrá disponible el tercer nivel del juego \ref{Nivel:Niv03}. 
+	\item Tendrá disponible el tercer nivel del juego \ref{Nivel:Niv03} en el menú de selección de nivel (ver apartado \ref{inter:interfaz03}). 
 \end{itemize}
 	\subsection{Enemigos}
 	\begin{itemize}

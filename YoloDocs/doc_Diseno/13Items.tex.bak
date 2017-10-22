@@ -33,3 +33,7 @@
 	\subsection{Imagen}
 	\subsection{Portador}
 	Sin portador. 
+	
+	\section{Mariposa} \label{item:Mariposa}
+		\subsection{}
+		Mariposa azul de tamaño normal. Se encontrara en diferentes puntos del mapa del nivel 4 (ver apartado \ref{Nivel:Niv04})  para indicarle al jugador que esta siguiendo el camino correcto al templo de Itzpapálotl.

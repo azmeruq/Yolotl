@@ -81,8 +81,8 @@
 \BOOKMARK [2][-]{subsection.7.4.7}{Items}{section.7.4}% 81
 \BOOKMARK [2][-]{subsection.7.4.8}{Personajes}{section.7.4}% 82
 \BOOKMARK [2][-]{subsection.7.4.9}{Escenario}{section.7.4}% 83
-\BOOKMARK [2][-]{subsection.7.4.10}{M\372sica y efectos de sonido}{section.7.4}% 84
-\BOOKMARK [2][-]{subsection.7.4.11}{Referencia a BGM y SFX}{section.7.4}% 85
+\BOOKMARK [2][-]{subsection.7.4.10}{Referencia a BGM y SFX}{section.7.4}% 84
+\BOOKMARK [2][-]{subsection.7.4.11}{Referencia a FX}{section.7.4}% 85
 \BOOKMARK [1][-]{section.7.5}{Nivel 5}{chapter.7}% 86
 \BOOKMARK [2][-]{subsection.7.5.1}{T\355tulo del nivel}{section.7.5}% 87
 \BOOKMARK [2][-]{subsection.7.5.2}{Encuentro}{section.7.5}% 88
@@ -93,8 +93,8 @@
 \BOOKMARK [2][-]{subsection.7.5.7}{Items}{section.7.5}% 93
 \BOOKMARK [2][-]{subsection.7.5.8}{Personajes}{section.7.5}% 94
 \BOOKMARK [2][-]{subsection.7.5.9}{Escenario}{section.7.5}% 95
-\BOOKMARK [2][-]{subsection.7.5.10}{M\372sica y efectos de sonido}{section.7.5}% 96
-\BOOKMARK [2][-]{subsection.7.5.11}{Referencia a BGM y SFX}{section.7.5}% 97
+\BOOKMARK [2][-]{subsection.7.5.10}{Referencia a BGM y SFX}{section.7.5}% 96
+\BOOKMARK [2][-]{subsection.7.5.11}{Referencia a FX}{section.7.5}% 97
 \BOOKMARK [1][-]{section.7.6}{Nivel 6}{chapter.7}% 98
 \BOOKMARK [2][-]{subsection.7.6.1}{T\355tulo del nivel}{section.7.6}% 99
 \BOOKMARK [2][-]{subsection.7.6.2}{Encuentro}{section.7.6}% 100
@@ -352,7 +352,7 @@
 \BOOKMARK [1][-]{section.10.3}{Nombre: Plataforma m\363vil}{chapter.10}% 352
 \BOOKMARK [2][-]{subsection.10.3.1}{Descripci\363n}{section.10.3}% 353
 \BOOKMARK [2][-]{subsection.10.3.2}{Esquema}{section.10.3}% 354
-\BOOKMARK [1][-]{section.10.4}{Nombre: Plataforma d\351bil}{chapter.10}% 355
+\BOOKMARK [1][-]{section.10.4}{Nombre: Plataforma que cae.}{chapter.10}% 355
 \BOOKMARK [2][-]{subsection.10.4.1}{Descripci\363n}{section.10.4}% 356
 \BOOKMARK [2][-]{subsection.10.4.2}{Esquema}{section.10.4}% 357
 \BOOKMARK [1][-]{section.10.5}{Nombre: Rocas}{chapter.10}% 358
@@ -535,88 +535,94 @@
 \BOOKMARK [2][-]{subsection.13.4.1}{Descripci\363n}{section.13.4}% 535
 \BOOKMARK [2][-]{subsection.13.4.2}{Imagen}{section.13.4}% 536
 \BOOKMARK [2][-]{subsection.13.4.3}{Portador}{section.13.4}% 537
-\BOOKMARK [0][-]{chapter.14}{Gui\363n}{}% 538
-\BOOKMARK [1][-]{section.14.1}{Cinem\341tica 1. Afueras de Tenochtitlan. exterior / tarde.}{chapter.14}% 539
-\BOOKMARK [1][-]{section.14.2}{Cinem\341tica 2. Mercado de Centla. Exterior /d\355a.}{chapter.14}% 540
-\BOOKMARK [1][-]{section.14.3}{Cinem\341tica 3. Selva a las afueras de Centla. Exterior /d\355a.}{chapter.14}% 541
-\BOOKMARK [1][-]{section.14.4}{Cinem\341tica 4. A las orillas del rio Apanohuacalhuia en el Itzcuintlan. Exterior /noche.}{chapter.14}% 542
-\BOOKMARK [1][-]{section.14.5}{Cinem\341tica 5. A mitad del rio Apanohuacalhuia en el Itzcuintlan. exterior / noche.}{chapter.14}% 543
-\BOOKMARK [1][-]{section.14.6}{Cinem\341tica 6. A mitad del rio Apanohuacalhuia en el Itzcuintlan. Exterior / noche.}{chapter.14}% 544
-\BOOKMARK [1][-]{section.14.7}{Cinem\341tica 7. palacio de Olula. interior/ d\355a.}{chapter.14}% 545
-\BOOKMARK [1][-]{section.14.8}{Cinematica 8. a las orillas del rio Apanohuacalhuia en el Itzcuintlan. Exterior /noche.}{chapter.14}% 546
-\BOOKMARK [1][-]{section.14.9}{Cinem\341tica 9. Castillo de Mictlantecuhtli. Interior /noche.}{chapter.14}% 547
-\BOOKMARK [1][-]{section.14.10}{Cinem\341tica 10. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 548
-\BOOKMARK [1][-]{section.14.11}{cinem\341tica 11. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 549
-\BOOKMARK [1][-]{section.14.12}{Cinem\341tica 12. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 550
-\BOOKMARK [1][-]{section.14.13}{Cinem\341tica 13. Guarida de Itzp\341palot. interior/tarde.}{chapter.14}% 551
-\BOOKMARK [1][-]{section.14.14}{Cinem\341tica 14. Entrada al Itzt\351petl. Interior /noche.}{chapter.14}% 552
-\BOOKMARK [1][-]{section.14.15}{Cinem\341tica 15. guarida de itzp\341palotl. interior/noche.}{chapter.14}% 553
-\BOOKMARK [1][-]{section.14.16}{Cinem\341tica 16. guarida de itzp\341palotl. interior/noche.}{chapter.14}% 554
-\BOOKMARK [1][-]{section.14.17}{Cinem\341tica 17. Zona des\351rtica monta\361osa. exterior/tarde.}{chapter.14}% 555
-\BOOKMARK [1][-]{section.14.18}{Cinem\341tica 18. Castillo de Mictlantecuhtli. Interior /noche.}{chapter.14}% 556
-\BOOKMARK [1][-]{section.14.19}{Cinem\341tica 19. Guarida de Itzp\341palotl. Interior /noche.}{chapter.14}% 557
-\BOOKMARK [1][-]{section.14.20}{Cinem\341tica 20. Guarida de Itzp\341palotl. Interior /noche.}{chapter.14}% 558
-\BOOKMARK [1][-]{section.14.21}{Cinematica 21. Guarida de Itztlacoliuhqui. Interior /tarde.}{chapter.14}% 559
-\BOOKMARK [1][-]{section.14.22}{Cinem\341tica 22. entrada al Cehuel\363yan. ext/d\355a.}{chapter.14}% 560
-\BOOKMARK [1][-]{section.14.23}{Cinem\341tica 23. Entrada a la guarida de Mictlecayotl. ext/d\355a.}{chapter.14}% 561
-\BOOKMARK [1][-]{section.14.24}{Cinem\341tica 24. entrada al Cehuel\363yan. ext/d\355a.}{chapter.14}% 562
-\BOOKMARK [1][-]{section.14.25}{Cinem\341tica 25. Palacio de Oluta. int/d\355a.}{chapter.14}% 563
-\BOOKMARK [1][-]{section.14.26}{Cinem\341tica 26. Guarida de Tepey\363llotl en el Teyollocualoyan. int/d\355a.}{chapter.14}% 564
-\BOOKMARK [1][-]{section.14.27}{Cinem\341tica 27.Entrada al Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 565
-\BOOKMARK [1][-]{section.14.28}{Cinem\341tica 28. Guarida de Tlazolt\351olt en el Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 566
-\BOOKMARK [1][-]{section.14.29}{Cinem\341tica 29. Guarida de Tlazolt\351olt en el Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 567
-\BOOKMARK [1][-]{section.14.30}{Cinematica 30. Palacio de Olula. int/d\355a. }{chapter.14}% 568
-\BOOKMARK [1][-]{section.14.31}{Cinem\341tica 31. Entrada a Temiminaloyan. ext/tarde.}{chapter.14}% 569
-\BOOKMARK [1][-]{section.14.32}{Cinem\341tica 32. Guarida de Itztlacoliuhqui. int/tarde.}{chapter.14}% 570
-\BOOKMARK [1][-]{section.14.33}{Cinem\341tica 33. Guarida de Itztlacoliuhqui. int/tarde.}{chapter.14}% 571
-\BOOKMARK [1][-]{section.14.34}{Cinem\341tica 34. Palacio de Oluta. int/d\355a. }{chapter.14}% 572
-\BOOKMARK [1][-]{section.14.35}{Cinem\341tica 35. Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 573
-\BOOKMARK [1][-]{section.14.36}{Cinem\341tica 36. guarida de Tepey\363llotl en el Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 574
-\BOOKMARK [1][-]{section.14.37}{Cinem\341tica 37. guarida de Tepey\363llotl en el Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 575
-\BOOKMARK [1][-]{section.14.38}{Cinem\341tica 38. Palacio de Mictlantecuhtli. int/d\355a.}{chapter.14}% 576
-\BOOKMARK [1][-]{section.14.39}{Cinem\341tica 39. A orillas del r\355o del Apanohualoyan. ext/noche.}{chapter.14}% 577
-\BOOKMARK [1][-]{section.14.40}{Cinem\341tica 40. Mercado de Tula. ext/noche. }{chapter.14}% 578
-\BOOKMARK [1][-]{section.14.41}{Cinem\341tica 41. Templo mayor de Tula. int/noche.}{chapter.14}% 579
-\BOOKMARK [1][-]{section.14.42}{Cinem\341tica 42. Palacio de Oluta. int/noche. }{chapter.14}% 580
-\BOOKMARK [1][-]{section.14.43}{Cinem\341tica 43. Palacio de Oluta. int/noche. }{chapter.14}% 581
-\BOOKMARK [1][-]{section.14.44}{Cinem\341tica 44. Palacio de Oluta. int/noche. }{chapter.14}% 582
-\BOOKMARK [1][-]{section.14.45}{Cinem\341tica 45. Profundidades del r\355o Apanohualoyan. ext/noche. }{chapter.14}% 583
-\BOOKMARK [1][-]{section.14.46}{Cinem\341tica 46. Palacio de Mictlantecuhtli. int/noche.}{chapter.14}% 584
-\BOOKMARK [1][-]{section.14.47}{Cinem\341tica 47. Palacio de Mictlantecuhtli. int/noche.}{chapter.14}% 585
-\BOOKMARK [0][-]{chapter.15}{BGM y SFX.}{}% 586
-\BOOKMARK [1][-]{section.15.1}{BGM}{chapter.15}% 587
-\BOOKMARK [2][-]{subsection.15.1.1}{M\372sica mercado}{section.15.1}% 588
-\BOOKMARK [2][-]{subsection.15.1.2}{M\372sica selva}{section.15.1}% 589
-\BOOKMARK [2][-]{subsection.15.1.3}{M\372sica Xolotl}{section.15.1}% 590
-\BOOKMARK [2][-]{subsection.15.1.4}{M\372sica plataforma segundo nivel}{section.15.1}% 591
-\BOOKMARK [2][-]{subsection.15.1.5}{M\372sica jefe segundo nivel}{section.15.1}% 592
-\BOOKMARK [2][-]{subsection.15.1.6}{M\372sica plataforma tercer nivel}{section.15.1}% 593
-\BOOKMARK [2][-]{subsection.15.1.7}{Nombre: M\372sica jefe tercer nivel}{section.15.1}% 594
-\BOOKMARK [2][-]{subsection.15.1.8}{M\372sica plataforma cuarto nivel}{section.15.1}% 595
-\BOOKMARK [2][-]{subsection.15.1.9}{Nombre: M\372sica jefe cuarto nivel}{section.15.1}% 596
-\BOOKMARK [2][-]{subsection.15.1.10}{M\372sica plataforma quinto nivel}{section.15.1}% 597
-\BOOKMARK [2][-]{subsection.15.1.11}{M\372sica jefe quinto nivel}{section.15.1}% 598
-\BOOKMARK [2][-]{subsection.15.1.12}{M\372sica plataforma sexto nivel}{section.15.1}% 599
-\BOOKMARK [2][-]{subsection.15.1.13}{M\372sica jefe sexto nivel}{section.15.1}% 600
-\BOOKMARK [1][-]{section.15.2}{Efectos de sonido}{chapter.15}% 601
-\BOOKMARK [2][-]{subsection.15.2.1}{Bullicio.}{section.15.2}% 602
-\BOOKMARK [2][-]{subsection.15.2.2}{Pasos.}{section.15.2}% 603
-\BOOKMARK [2][-]{subsection.15.2.3}{Viento.}{section.15.2}% 604
-\BOOKMARK [2][-]{subsection.15.2.4}{Ladrido.}{section.15.2}% 605
-\BOOKMARK [2][-]{subsection.15.2.5}{Explosi\363n de agua.}{section.15.2}% 606
-\BOOKMARK [2][-]{subsection.15.2.6}{Salpicadura de agua.}{section.15.2}% 607
-\BOOKMARK [2][-]{subsection.15.2.7}{Rugido.}{section.15.2}% 608
-\BOOKMARK [2][-]{subsection.15.2.8}{Roca estrell\341ndose.}{section.15.2}% 609
-\BOOKMARK [0][-]{chapter.16}{Referencia a FX}{}% 610
-\BOOKMARK [1][-]{section.16.1}{Circulo de luz.}{chapter.16}% 611
-\BOOKMARK [1][-]{section.16.2}{Oleaje}{chapter.16}% 612
-\BOOKMARK [1][-]{section.16.3}{Salpucadura de agua.}{chapter.16}% 613
-\BOOKMARK [1][-]{section.16.4}{Explosi\363n de burbuja}{chapter.16}% 614
-\BOOKMARK [1][-]{section.16.5}{Explosi\363n de energ\355a tonalli rojo}{chapter.16}% 615
-\BOOKMARK [1][-]{section.16.6}{Explosi\363n de energ\355a tonalli verde.}{chapter.16}% 616
-\BOOKMARK [1][-]{section.16.7}{Explosion rocas.}{chapter.16}% 617
-\BOOKMARK [0][-]{chapter.17}{Imagenes de concepto.}{}% 618
-\BOOKMARK [0][-]{chapter.18}{Miembros de equipo.}{}% 619
-\BOOKMARK [0][-]{chapter.19}{Fecha de inicio.}{}% 620
-\BOOKMARK [0][-]{chapter.20}{Fecha de terminaci\363n.}{}% 621
-\BOOKMARK [0][-]{chapter.21}{Presupuesto.}{}% 622
+\BOOKMARK [1][-]{section.13.5}{Mariposa}{chapter.13}% 538
+\BOOKMARK [2][-]{subsection.13.5.1}{}{section.13.5}% 539
+\BOOKMARK [0][-]{chapter.14}{Gui\363n}{}% 540
+\BOOKMARK [1][-]{section.14.1}{Cinem\341tica 1. Afueras de Tenochtitlan. exterior / tarde.}{chapter.14}% 541
+\BOOKMARK [1][-]{section.14.2}{Cinem\341tica 2. Mercado de Centla. Exterior /d\355a.}{chapter.14}% 542
+\BOOKMARK [1][-]{section.14.3}{Cinem\341tica 3. Selva a las afueras de Centla. Exterior /d\355a.}{chapter.14}% 543
+\BOOKMARK [1][-]{section.14.4}{Cinem\341tica 4. A las orillas del rio Apanohuacalhuia en el Itzcuintlan. Exterior /noche.}{chapter.14}% 544
+\BOOKMARK [1][-]{section.14.5}{Cinem\341tica 5. A mitad del rio Apanohuacalhuia en el Itzcuintlan. exterior / noche.}{chapter.14}% 545
+\BOOKMARK [1][-]{section.14.6}{Cinem\341tica 6. A mitad del rio Apanohuacalhuia en el Itzcuintlan. Exterior / noche.}{chapter.14}% 546
+\BOOKMARK [1][-]{section.14.7}{Cinem\341tica 7. palacio de Olula. interior/ d\355a.}{chapter.14}% 547
+\BOOKMARK [1][-]{section.14.8}{Cinematica 8. a las orillas del rio Apanohuacalhuia en el Itzcuintlan. Exterior /noche.}{chapter.14}% 548
+\BOOKMARK [1][-]{section.14.9}{Cinem\341tica 9. Castillo de Mictlantecuhtli. Interior /noche.}{chapter.14}% 549
+\BOOKMARK [1][-]{section.14.10}{Cinem\341tica 10. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 550
+\BOOKMARK [1][-]{section.14.11}{cinem\341tica 11. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 551
+\BOOKMARK [1][-]{section.14.12}{Cinem\341tica 12. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 552
+\BOOKMARK [1][-]{section.14.13}{Cinem\341tica 13. Guarida de Itzp\341palot. interior/tarde.}{chapter.14}% 553
+\BOOKMARK [1][-]{section.14.14}{Cinem\341tica 14. Entrada al Itzt\351petl. Interior /noche.}{chapter.14}% 554
+\BOOKMARK [1][-]{section.14.15}{Cinem\341tica 15. guarida de itzp\341palotl. interior/noche.}{chapter.14}% 555
+\BOOKMARK [1][-]{section.14.16}{Cinem\341tica 16. guarida de itzp\341palotl. interior/noche.}{chapter.14}% 556
+\BOOKMARK [1][-]{section.14.17}{Cinem\341tica 17. Zona des\351rtica monta\361osa. exterior/tarde.}{chapter.14}% 557
+\BOOKMARK [1][-]{section.14.18}{Cinem\341tica 18. Castillo de Mictlantecuhtli. Interior /noche.}{chapter.14}% 558
+\BOOKMARK [1][-]{section.14.19}{Cinem\341tica 19. Guarida de Itzp\341palotl. Interior /noche.}{chapter.14}% 559
+\BOOKMARK [1][-]{section.14.20}{Cinem\341tica 20. Guarida de Itzp\341palotl. Interior /noche.}{chapter.14}% 560
+\BOOKMARK [1][-]{section.14.21}{Cinematica 21. Guarida de Itztlacoliuhqui. Interior /tarde.}{chapter.14}% 561
+\BOOKMARK [1][-]{section.14.22}{Cinem\341tica 22. entrada al Cehuel\363yan. ext/d\355a.}{chapter.14}% 562
+\BOOKMARK [1][-]{section.14.23}{Cinem\341tica 23. Entrada a la guarida de Mictlecayotl. ext/d\355a.}{chapter.14}% 563
+\BOOKMARK [1][-]{section.14.24}{Cinem\341tica 24. entrada al Cehuel\363yan. ext/d\355a.}{chapter.14}% 564
+\BOOKMARK [1][-]{section.14.25}{Cinem\341tica 25. Palacio de Oluta. int/d\355a.}{chapter.14}% 565
+\BOOKMARK [1][-]{section.14.26}{Cinem\341tica 26. Guarida de Tepey\363llotl en el Teyollocualoyan. int/d\355a.}{chapter.14}% 566
+\BOOKMARK [1][-]{section.14.27}{Cinem\341tica 27.Entrada al Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 567
+\BOOKMARK [1][-]{section.14.28}{Cinem\341tica 28. Guarida de Tlazolt\351olt en el Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 568
+\BOOKMARK [1][-]{section.14.29}{Cinem\341tica 29. Guarida de Tlazolt\351olt en el Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 569
+\BOOKMARK [1][-]{section.14.30}{Cinematica 30. Palacio de Olula. int/d\355a. }{chapter.14}% 570
+\BOOKMARK [1][-]{section.14.31}{Cinem\341tica 31. Entrada a Temiminaloyan. ext/tarde.}{chapter.14}% 571
+\BOOKMARK [1][-]{section.14.32}{Cinem\341tica 32. Guarida de Itztlacoliuhqui. int/tarde.}{chapter.14}% 572
+\BOOKMARK [1][-]{section.14.33}{Cinem\341tica 33. Guarida de Itztlacoliuhqui. int/tarde.}{chapter.14}% 573
+\BOOKMARK [1][-]{section.14.34}{Cinem\341tica 34. Palacio de Oluta. int/d\355a. }{chapter.14}% 574
+\BOOKMARK [1][-]{section.14.35}{Cinem\341tica 35. Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 575
+\BOOKMARK [1][-]{section.14.36}{Cinem\341tica 36. guarida de Tepey\363llotl en el Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 576
+\BOOKMARK [1][-]{section.14.37}{Cinem\341tica 37. guarida de Tepey\363llotl en el Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 577
+\BOOKMARK [1][-]{section.14.38}{Cinem\341tica 38. Palacio de Mictlantecuhtli. int/d\355a.}{chapter.14}% 578
+\BOOKMARK [1][-]{section.14.39}{Cinem\341tica 39. A orillas del r\355o del Apanohualoyan. ext/noche.}{chapter.14}% 579
+\BOOKMARK [1][-]{section.14.40}{Cinem\341tica 40. Mercado de Tula. ext/noche. }{chapter.14}% 580
+\BOOKMARK [1][-]{section.14.41}{Cinem\341tica 41. Templo mayor de Tula. int/noche.}{chapter.14}% 581
+\BOOKMARK [1][-]{section.14.42}{Cinem\341tica 42. Palacio de Oluta. int/noche. }{chapter.14}% 582
+\BOOKMARK [1][-]{section.14.43}{Cinem\341tica 43. Palacio de Oluta. int/noche. }{chapter.14}% 583
+\BOOKMARK [1][-]{section.14.44}{Cinem\341tica 44. Palacio de Oluta. int/noche. }{chapter.14}% 584
+\BOOKMARK [1][-]{section.14.45}{Cinem\341tica 45. Profundidades del r\355o Apanohualoyan. ext/noche. }{chapter.14}% 585
+\BOOKMARK [1][-]{section.14.46}{Cinem\341tica 46. Palacio de Mictlantecuhtli. int/noche.}{chapter.14}% 586
+\BOOKMARK [1][-]{section.14.47}{Cinem\341tica 47. Palacio de Mictlantecuhtli. int/noche.}{chapter.14}% 587
+\BOOKMARK [0][-]{chapter.15}{BGM y SFX.}{}% 588
+\BOOKMARK [1][-]{section.15.1}{BGM}{chapter.15}% 589
+\BOOKMARK [2][-]{subsection.15.1.1}{M\372sica mercado}{section.15.1}% 590
+\BOOKMARK [2][-]{subsection.15.1.2}{M\372sica selva}{section.15.1}% 591
+\BOOKMARK [2][-]{subsection.15.1.3}{M\372sica Xolotl}{section.15.1}% 592
+\BOOKMARK [2][-]{subsection.15.1.4}{M\372sica plataforma segundo nivel}{section.15.1}% 593
+\BOOKMARK [2][-]{subsection.15.1.5}{M\372sica jefe segundo nivel}{section.15.1}% 594
+\BOOKMARK [2][-]{subsection.15.1.6}{M\372sica plataforma tercer nivel}{section.15.1}% 595
+\BOOKMARK [2][-]{subsection.15.1.7}{Nombre: M\372sica jefe tercer nivel}{section.15.1}% 596
+\BOOKMARK [2][-]{subsection.15.1.8}{M\372sica plataforma cuarto nivel}{section.15.1}% 597
+\BOOKMARK [2][-]{subsection.15.1.9}{Nombre: M\372sica jefe cuarto nivel}{section.15.1}% 598
+\BOOKMARK [2][-]{subsection.15.1.10}{M\372sica plataforma quinto nivel}{section.15.1}% 599
+\BOOKMARK [2][-]{subsection.15.1.11}{M\372sica jefe quinto nivel}{section.15.1}% 600
+\BOOKMARK [2][-]{subsection.15.1.12}{M\372sica plataforma sexto nivel}{section.15.1}% 601
+\BOOKMARK [2][-]{subsection.15.1.13}{M\372sica jefe sexto nivel}{section.15.1}% 602
+\BOOKMARK [1][-]{section.15.2}{Efectos de sonido}{chapter.15}% 603
+\BOOKMARK [2][-]{subsection.15.2.1}{Bullicio.}{section.15.2}% 604
+\BOOKMARK [2][-]{subsection.15.2.2}{Pasos.}{section.15.2}% 605
+\BOOKMARK [2][-]{subsection.15.2.3}{Viento.}{section.15.2}% 606
+\BOOKMARK [2][-]{subsection.15.2.4}{Ladrido.}{section.15.2}% 607
+\BOOKMARK [2][-]{subsection.15.2.5}{Explosi\363n de agua.}{section.15.2}% 608
+\BOOKMARK [2][-]{subsection.15.2.6}{Salpicadura de agua.}{section.15.2}% 609
+\BOOKMARK [2][-]{subsection.15.2.7}{Rugido.}{section.15.2}% 610
+\BOOKMARK [2][-]{subsection.15.2.8}{Roca estrell\341ndose.}{section.15.2}% 611
+\BOOKMARK [2][-]{subsection.15.2.9}{Aleteo de alas.}{section.15.2}% 612
+\BOOKMARK [2][-]{subsection.15.2.10}{Sonido de fuego}{section.15.2}% 613
+\BOOKMARK [2][-]{subsection.15.2.11}{Hielo resquebraj\341ndose.}{section.15.2}% 614
+\BOOKMARK [0][-]{chapter.16}{Referencia a FX}{}% 615
+\BOOKMARK [1][-]{section.16.1}{Circulo de luz.}{chapter.16}% 616
+\BOOKMARK [1][-]{section.16.2}{Oleaje}{chapter.16}% 617
+\BOOKMARK [1][-]{section.16.3}{Salpucadura de agua.}{chapter.16}% 618
+\BOOKMARK [1][-]{section.16.4}{Explosi\363n de burbuja}{chapter.16}% 619
+\BOOKMARK [1][-]{section.16.5}{Explosi\363n de energ\355a tonalli rojo}{chapter.16}% 620
+\BOOKMARK [1][-]{section.16.6}{Explosi\363n de energ\355a tonalli verde.}{chapter.16}% 621
+\BOOKMARK [1][-]{section.16.7}{Explosion rocas.}{chapter.16}% 622
+\BOOKMARK [1][-]{section.16.8}{Haz de luz}{chapter.16}% 623
+\BOOKMARK [0][-]{chapter.17}{Imagenes de concepto.}{}% 624
+\BOOKMARK [0][-]{chapter.18}{Miembros de equipo.}{}% 625
+\BOOKMARK [0][-]{chapter.19}{Fecha de inicio.}{}% 626
+\BOOKMARK [0][-]{chapter.20}{Fecha de terminaci\363n.}{}% 627
+\BOOKMARK [0][-]{chapter.21}{Presupuesto.}{}% 628

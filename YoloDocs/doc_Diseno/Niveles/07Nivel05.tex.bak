@@ -19,10 +19,10 @@ En este nivel el jugador deberá:
         \item Habrá incrementado la energía espiritual de Malinalli. 
         \item Desbloqueara las siguientes cinemáticas:
 \begin{itemize}
-        \item Cinemática 24 (ver apartado \ref{Cin:Cinematica24}). 
-        \item Cinemática 25 (ver apartado \ref{Cin:Cinematica25}).
-        \item Cinemática 26 (ver apartado \ref{Cin:Cinematica26}).
-        \item Cinemática 27 (ver apartado \ref{Cin:Cinematica27}).
+        \item Cinemática 24. 
+        \item Cinemática 25.
+        \item Cinemática 26.
+        \item Cinemática 27.
 \end{itemize}
         \item Desbloqueará El nivel 6 (ver apartado  \ref{Nivel:Niv06}) del juego en el menú seleccionable (ver apartado \ref{inter:interfaz03}).
 \end{itemize}
@@ -40,12 +40,8 @@ En este nivel el jugador deberá:
 		\end{itemize}
 		\item Mictlecayotl (ver apartado \ref{per.mictlecayotl}).
 \begin{itemize}
-        \item Animación volar.
-        \item Animación disparar viento.
-        \item Animación invocar tornado.
-        \item Animación volar.
-        \item Animación recibir daño.
-		\item Animación morir.
+        \item   Animación vuelo.
+        
 \end{itemize}			
 \end{itemize}
         \subsection{Items}
@@ -74,7 +70,9 @@ En este nivel el jugador deberá:
                 \begin{itemize}
                         \item Animación disparar viento.
                         \item Animación invocar tornado.
-                        \item Animación volar.
+                        \item Animación correr caracola.
+                        \item Animación saltar caracola.
+                        \item Animación normal.
                         \item Animación recibir daño.
 						\item Animación morir.
                 \end{itemize} 

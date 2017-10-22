@@ -8,7 +8,8 @@ Tercer nivel del inframundo, se desbloquea derrotando a Tepeyollótl en el terce
         \subsection{Objetivos}
 En este nivel el jugador deberá:        
 \begin{itemize}
-        \item Descubrir el camino correcto hacia el templo de Itzpapálotl, el jugador podrá explorar de manera horizontal y vertical el nivel.
+        \item Descubrir el camino correcto hacia el templo de Itzpapálotl, el jugador podrá explorar de manera horizontal y vertical el nivel. A manera de ayudarle al jugador a encontrar el camino, habrá pequeñas mariposas azules en las zonas del mapa que correspondan al camino hacia la guarida de Itzpapálotl. 
+        \item Encontrar tres llaves que permiten abrir la entrada a la guarida de Itzpapálotl. Cada llave estará oculta en una zona del mapa custodiada por un enemigo. El jugador deberá de derrotar al enemigo que protege la llave, una vez derrotado el enemigo, éste explotará dejando caer la llave en la posición en la que se encontraba al momento de ser derrotado. Una vez que el jugador derrote al enemigo, deberá de colisionar con la llave para obtenerla. Cuando el jugador colisione con la llave el contador que lleva el control de cuantas llaves ha recogido el jugador se actualizara en uno. El contador de las llaves se ubicará en la parte superior derecha de la pantalla precedido por el icono de la llave. 
         \item Superar las diferentes plataformas y obstáculos que hay en el laberinto. 
         \item Derrotar a los enemigos que hay en el laberinto.
         \item Derrotar a Itzpapálotl.
@@ -27,7 +28,7 @@ Al final del nivel el jugador:
 			\item Cinemática 21 (ver apartado \ref{Cin:Cinematica21}).
 			\item Cinemática 22 (ver apartado \ref{Cin:Cinematica22}).
 		\end{itemize}
-        \item Desbloquear El nivel 5 (ver apartado \ref{Nivel:Niv03}) del juego en el menú seleccionable (ver apartado \ref{inter:interfaz03}).
+        \item Desbloquear El nivel 5 (ver apartado \ref{Nivel:Niv05}) del juego en el menú seleccionable (ver apartado \ref{inter:interfaz03}).
         \subsection{Enemigos}
                 \begin{itemize}
                         \item Fantasma rojo. Ver en \ref{per.fantasmaR}. 
@@ -35,17 +36,23 @@ Al final del nivel el jugador:
 				\item Animación fuego.
 				\item Animación disparo.
 			\end{itemize}
-                        \item Picos de obsidiana. Ver en \ref{obs.piedrasF}.
-                        \item Itzpapalotl. Ver en \ref{per.itzpapalotl}.
+			\item Fantasma morado (ver apartado \ref{per:fantasmaM}).
+			\begin{itemize}
+				\item Animación fuego.
+			\end{itemize}
+            \item Picos de obsidiana (ver apartado \ref{obs.piedrasF}).
+             \item Itzpapalotl (ver apartado \ref{per.itzpapalotl}).
                 \end{itemize}
         \subsection{Items}
                 \begin{itemize}
-                        \item   Cacao.
-                        \item Flor de Vainilla.
+                        \item   Cacao (ver apartado \ref{item:cacao}).
+                        \item Flor de Vainilla (ver apartado \ref{item:vainilla}).
+                        \item Llave a la guarida de Itzpapálotl.
+                        \item Mariposa azul (ver apartado \ref{item:Mariposa})
                 \end{itemize}
         \subsection{Personajes}
         \begin{itemize}
-                \item Malinalli. Ver en \ref{per.malinalli}.
+                \item Malinalli (ver apartado \ref{per.malinalli}).
                 \begin{itemize}
                         \item Animación correr.
                         \item Animación saltar.
@@ -55,12 +62,12 @@ Al final del nivel el jugador:
                         \item Animación recibir daño.
 						\item Animación morir.
                 \end{itemize}
-                \item Xolotl.Ver en \ref{per.xolotl}.
+                \item Xolotl (ver apartado \ref{per.xolotl}).
                 	\begin{itemize}
 						\item Animación salto.
 						\item Animación normal.
 					\end{itemize}
-                \item Itzpapalotl. Ver en \ref{per.itzpapalotl}.
+                \item Itzpapalotl (ver apartado \ref{per.itzpapalotl}).
                 \begin{itemize}
                         \item Animación disparar fuego.
                         \item Animación embestida.
@@ -91,28 +98,29 @@ Es el interior del templo,el templos solo es iluminado por los cristales verdes.
                 \end{itemize}
         \item Objetos de fondo:
                 \begin{itemize}
-                        \item Mariposa: Esta se encontrara si se esta siguiendo el camino correcto para llegar al templo.
+                        \item Cristal verde: Cristal de luz verde que ilumina algunas zonas de la cueva.
                 \end{itemize}
 \end{itemize}   
 
-        \subsection{Música y efectos de sonido}
+        \subsection{Referencia a BGM y SFX}
                 \begin{itemize}
-                        \item Temas del juego.
+                        \item BGM.
                 \begin{itemize}
                         \item Música plataforma cuarto nivel (ver apartado \ref{Musica:N04_ZN01}).
 				\item Música jefe cuarto nivel (ver apartado \ref{Musica:N04_ZN02})
                 \end{itemize}
-				\item Efectos de sonido.
+				\item SFX.
                 \begin{itemize}
-                        \item 
+                        \item Aleteo de alas (ver apartado \ref{SFX:Aleteo}).
                         \item Viento (ver apartado\ref{SFX:Viento}).
-                        \item Sonido de fuego.				
+                        \item Sonido de fuego (ver apartado \ref{SFX:Fuego}).			
                 \end{itemize}
                 \end{itemize}
 
-        \subsection{Referencia a BGM y SFX}
+        \subsection{Referencia a FX}
 \begin{itemize}    
-    \item Explosión de burbuja (Ver apartado \ref{FX:ExpAgua}).
 	\item Explosión de energía tonalli rojo (Ver apartado \ref{FX:ExpTonR})
-        \item Haz de luz \ref{FX:HazLuz}
+	\item Explosión de energía tonalli verde (Ver apartado \ref{FX:ExpTonV})
+    \item Haz de luz \ref{FX:HazLuz}
+    
 \end{itemize}
