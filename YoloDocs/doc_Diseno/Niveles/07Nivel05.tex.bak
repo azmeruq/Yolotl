@@ -9,7 +9,7 @@ Malinalli y Xólotl han llegado al Cehuelóyan, nivel del Mictlán custodiad por
 En este nivel el jugador deberá:
 \begin{itemize}
         \item Superar las diferentes plataformas. El nivel estará más centrado en las plataformas que en derrotar enemigos. Nuevamente el juego vuelve a implementar una progresión horizontal para la exploración. 
-        \item  Derrotar a Mictlecayotl. La batalla contra el jefe de zona se desarrollará en una serie de plataformas que modificaran su posición cada determinado tiempo o desaparecerán . 
+        \item  Derrotar a Mictlecayotl. La batalla contra el jefe de zona se desarrollará en una serie de plataformas que modificaran su posición cada determinado tiempo o desaparecerán. El jugador deberá saltar constantemente para no caer de la plataformas mientras ataca a Mictlecayotl y a su vez deberá evitar los ataques de la diosa.
 \end{itemize}
 
 
@@ -118,5 +118,5 @@ En este nivel el jugador deberá:
         \item Ventisca de nieve: (ver apartado \ref{FX:VenNieve}).
         \item Explosión de energía tonalli rojo (Ver apartado \ref{FX:ExpTonR})
 	\item Explosión de energía tonalli verde (Ver apartado \ref{FX:ExpTonV})
-	\item Respiración (\ref{Ver apartado SFX:Respiracion}) 
+	\item Respiración (\ref{Ver apartado FX:Respiracion}) 
 \end{itemize} 
