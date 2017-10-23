@@ -13,6 +13,7 @@ Este efecto sonará cuando Xólotl le robe el objeto a Malinalli.
 %-------------------------------------
 \subsection{Explosión de agua.} \label{SFX:ExpAgua}
  Este sonido se usará cuando de utilice la habilidad burbuja (ver apartado \ref{hab.burbujas}).
+ %-------------------------------------
 \subsection{Salpicadura de agua.} \label{SFX:SalAgua}
 Sonido cuando un personaje salta y aterriza en el agua.  
 %-------------------------------------
@@ -45,3 +46,6 @@ Sonido de golpe con el puño contra superficie solida con gran fuerza.
 %-----------------------------------------
 \subsection{Silbido} \label{SFX:silbido}
 Sonido de silbido en el aire, este sonido indica que activara la habilidad lluvia de flechas (ver apartado \ref{hab.LluviaFle}).
+%-------------------------------------------
+\subsection{Gritos de personas} \label{SFX:griPersonas}
+Gritos de desesperación de personas.
