@@ -17,7 +17,7 @@ En este nivel el jugador deberá:
         \subsection{Progreso}
 Al final del nivel el jugador:
 \begin{itemize}
-        \item Aumentará el valor de la salud de Malinalli.
+        \item Aumentará la cantidad de vida de Malinalli.
         \item Desbloquear las siguientes cinemáticas:
 		\begin{itemize}
 			\item Cinemática 16 (ver apartado \ref{Cin:Cinematica16}).
@@ -29,6 +29,7 @@ Al final del nivel el jugador:
 			\item Cinemática 22 (ver apartado \ref{Cin:Cinematica22}).
 		\end{itemize}
         \item Desbloquear El nivel 5 (ver apartado \ref{Nivel:Niv05}) del juego en el menú seleccionable (ver apartado \ref{inter:interfaz03}).
+\end{itemize}        
         \subsection{Enemigos}
                 \begin{itemize}
                         \item Fantasma rojo. Ver en \ref{per:fantasmaR}. 

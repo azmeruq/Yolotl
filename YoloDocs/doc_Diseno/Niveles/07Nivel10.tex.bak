@@ -1,6 +1,6 @@
 \section{Nivel 10} \label{Nivel:Niv10}
 	\subsection{Título del nivel}
-	Chiconahualóyan: lugar donde se tienen nueve aguas
+	El rey del Mictlán.
 	\subsection{Encuentro}
 	Este nivel estará disponible después de vencer al jefe del noveno nivel (ver apartado \ref{Nivel:Niv09}). 
 	\subsection{Descripción}
@@ -9,13 +9,12 @@
 	El jugador deberá:
 	\begin{itemize}
 		\item Llegar a la sala del trono de Mictlantecutli. El jugador atravesará un pasillo recto sin enemigos ni plataformas. 
-		\item Derrotar a Mictlantecutli. La batalla contra Mictlantecutlin estará dividida en tres etapas, en cada una Mictlantecutli cambiará de forma y su fuerza se incrementará. 
+		\item Derrotar a Mictlantecutli. La batalla contra Mictlantecutlin estará dividida en tres etapas, en cada una Mictlantecutli cambiará de forma y su fuerza se incrementará. Cada vez que el jugador le baje un cuarto de la cantidad de vida total de Mictlantecutlin aparecerán los items  de grano de cacao (ver apartado \ref{item:cacao}) y flor de vainilla (ver apartado \ref{item:vainilla}).
 		\begin{itemize}
 			\item En la primera etapa Mictlantecutli se enfrentara al jugador en su forma normal (ver figura ), sus ataques serán rápidos. 
 			\item En su segunda etapa Mictlantecutli toma una forma gigantesca y utiliza un patrón de ataque parecido al de Itztlacoliuhqui en el séptimo nivel (ver apartado \ref {Nivel:Niv07}). 
 			\item En su tercera y última etapa, Mictlantecutlin recupera su tamaño normal, su forma vuelve a ser la de antes pero ahora se muestra de color verde como si fuera un espectro, el suelo desaparece y aparecen diferentes plataformas. Esta batalla seguirá la mecánica de que las plataformas aparezcan y desaparezcan o se muevan como en la batalla contra Mictlecayotl en el quinto nivel (ver apartado \ref {Nivel:Niv05}). En esta etapa las habilidades de Mictlantecutlin serán una combinación de las habilidades más fuertes de los guardianes de los niveles anteriores.
 		\end{itemize}
-		cada vez que el jugador le baje un cuarto de la cantidad de vida total de Mictlantecutlin aparecerán los items  de grano de cacao (ver apartado \ref{item:cacao}) y flor de vainilla (ver apartado \ref{item:vainilla}).
 	\end{itemize}
 	\subsection{Progreso}
 	Desbloqueara las siguientes cinemáticas:
@@ -25,19 +24,6 @@
 \end{itemize}
 	\subsection{Enemigos}
 	\begin{itemize}
-		\item Fantasmas rojos (ver apartado \ref{per:fantasmaR}).
-		\begin{itemize}
-				\item Animación fuego.
-				\item Animación disparo.
-		\end{itemize}
-		\item Fantasmas morados (ver apartado \ref{per:fantasmaM}).
-		\begin{itemize}
-				\item Animación fuego.
-		\end{itemize}
-		\item Jaguar. Ver en \ref{per.jaguar}.
-			\begin{itemize}
-				\item 
-			\end{itemize}
 		\item Mictlantecutli (ver apartado \ref{per.mictlantecutli}).
 	\end{itemize}
 	\subsection{Items}
@@ -117,7 +103,7 @@
 			\item Antorchas.
 		\end{itemize}
 \end{itemize}	
-	\subsection{Referencia a BGM y SFX}}
+	\subsection{Referencia a BGM y SFX}
 	\begin{itemize}
 		\item BGM.
 			\begin{itemize}
@@ -139,7 +125,7 @@
 		\item Explosión de burbuja (ver apartado\ref{FX:ExpAgua}).
 		\item Explosión de energía tonalli rojo (ver apartado \ref{FX:ExpTonR}).
 		\item Explosión de energía tonalli verde (ver apartado \ref{FX:ExpTonV}).
-		\item Explosion rocas  (ver apartado\refFX:ExpRoc}).
+		\item Explosion rocas  (ver apartado\ref{FX:ExpRoc}).
 		\item Cámara obscura (ver apartado \ref{FX:CamObs}).
 		\item Explosión de hueso (ver apartado \ref{FX:exHuesos}).
 	\end{itemize}
