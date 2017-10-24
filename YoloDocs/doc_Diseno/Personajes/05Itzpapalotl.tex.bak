@@ -17,23 +17,23 @@ Jefe enemigo del cuarto nivel del juego.
 	En un principio Itzpápalotl no toma muy enserio el ataque de Xólotl al Mictlán, principalmente a que las anteriores invasiones al Mictlán habían sido detenidas únicamente con el poder de Xochitónal. Su encuentro contra Xólotl y Malinalli la toma por sorpresa ya que ella confiaba en que Tepeyóllotl sería capaz de eliminar a los invasores sin ningún problema. Es precisamente su exceso de confianza lo que define su  derrota en el enfrentamiento contra Malinalli. Cuando es derrotada por Malinalli, Itzpápalotl utiliza lo último que le queda de energía para enviarle un ultimo mensaje a Itztlacoliuhqui, mostrando que por sobre su deber estaba el amor que sentía por él.
 	\item \textbf{Relaciones:}
 	\begin{itemize}
-		\item \textbf{Itztlacoliuhqui:} Esposo de Itzpápalotl. En él Itzpápalotl encontró la calma y el lugar seguro que necesitaba. Él es quien Itzpápalotl ama más y quien ocupa su prioridad número uno.  
+		\item \textbf{Itztlacoliuhqui:} Esposo de Itzpápalotl. En él Itzpápalotl encontró la calma y el lugar seguro que necesitaba. Él es quien Itzpápalotl ama más y quien ocupa su prioridad número uno (ver aparatado \ref{per:itztlacoliuhqui}).  
 		\item \textbf{Tezcatlipoca:} Le permitió a Itzpápalotl integrarse a los guardianes del Mictlán luego de que perdieran la guerra contra los Dioses del norte.   
 	\end{itemize}                     
 \end{itemize}
 
 \subsection{Encuentro:}
 \begin{itemize}
-	\item Su primera aparición es en la cinemática 9. 
-	\item Su primer y único encuentro con Malinalli es en el cuarto nivel del juego.
+	\item Su primera aparición es en la cinemática 9 (ver aparatado \ref{Cin:Cinematica09}). 
+	\item Su primer y único encuentro con Malinalli es en el cuarto nivel del juego (ver aparatado \ref{Nivel:Niv04}).
 \end{itemize}
 \subsection{Habilidades:}
 \begin{itemize}
-	\item \textbf{Circulo de fuego:} Itzpápalotl se eleva en el aire y se rodea a sí misma con fuego, este ataque sera usado cuando el jugador se encuentre junto a ella.
-	\item \textbf{Embestida aerea:} Itzpápalotl usara este ataque cuando este lejos del jugador. Itzpápalotl saltar y en el aire se lanza contra el enemigo en diagonal.
-	\item \textbf{Invisibilidad:} Esta habilidad le permite ser indetectable al ojo de dioses y humanos, permitiendole tomar una posición ventajosa en combate.
+	\item Circulo de fuego (ver aparatado \ref{hab.CirFue}).
+	\item Embestida aerea (ver aparatado \ref{hab.Invis}).
+	\item Invisibilidad (ver aparatado \ref{hab.Invis}).
 \end{itemize}
-\subsection{Armas:}
-\textbf{Matlalpapalotl} Tepoztopilli hecho de obsidiana. Arma creada por Iztpapalotl a partir de las almas de los enemigos derrotados durante la guerra contra los dioses del norte. Es un arma de gran poder, es ligera, ideal para el combate aéreo.
+\subsection{Armas:})
+Matlalpapalotl (ver aparatado \ref{Arma:LanzaItzpapalotl}).
 \subsection{Ítems:}
 Sin ítems.

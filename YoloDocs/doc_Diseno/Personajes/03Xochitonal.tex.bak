@@ -17,9 +17,9 @@ Jefe-enemigo del primer nivel.
 	Xochitónal es el primer jefe a derrotar por lo que su rol no tiene mucho peso sobre la historia.
 	\item \textbf{Relaciones:}
 	\begin{itemize}
-		\item \textbf{Mictlantecuhtli:} Es su creador. Xochitónal guarda un profundo respeto por él y procura a odecerlo en la medida que sus habilidades se lo permitan. Su lealtad hacia él es tanta que Xochitónal esta dispuesto a morir por su creador (ver aparatado \ref{per:mictlantecutli}). 
-		\item \textbf{Mictecacíhuatl:} Como esposa de su creador. Xochitónal tiene una relación de absoluto respeto hacia la reina del Mictlán (ver aparatado \ref{per:mictecacihuatl}). 
-		\item \textbf{Xólotl:} Dado que fue creado después del quinto sol, nuca pudo convivir con Xólotl por lo que su opinion hacia él se basa totalmente en lo poco que ha escuchado de los demás guardianes del inframundo (ver aparatado \ref{per:xolotl}).
+		\item \textbf{Mictlantecuhtli:} Es su creador. Xochitónal guarda un profundo respeto por él y procura a odecerlo en la medida que sus habilidades se lo permitan. Su lealtad hacia él es tanta que Xochitónal esta dispuesto a morir por su creador.
+		\item \textbf{Mictecacíhuatl:} Como esposa de su creador. Xochitónal tiene una relación de absoluto respeto hacia la reina del Mictlán. 
+		\item \textbf{Xólotl:} Dado que fue creado después del quinto sol, nuca pudo convivir con Xólotl por lo que su opinion hacia él se basa totalmente en lo poco que ha escuchado de los demás guardianes del inframundo.
 	\end{itemize}			  
 \end{itemize} 
 \subsection{Encuentro:}
@@ -31,7 +31,7 @@ Jefe-enemigo del primer nivel.
 Al ser el guardián del río  Apanohuacalhuia, las habilidades de Xochitónal son sobre el control del agua:
 \begin{itemize}
 	\item Zambullida (ver aparatado \ref{hab.zambullida}).  
-	\item Burbujas (ver aparatado \ref{hab.burbujas}).
+	\item Burbujas: Zochitónal dispara burbujas que seguirán al jugador por un tiempo. 
 \end{itemize}
 \subsection{Armas:}
 Sin armas.

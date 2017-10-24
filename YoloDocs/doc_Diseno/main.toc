@@ -206,23 +206,23 @@
 \contentsline {section}{\numberline {9.6}Nombre: Mictlecayotl}{63}{section.9.6}
 \contentsline {subsection}{\numberline {9.6.1}Descripci\IeC {\'o}n:}{63}{subsection.9.6.1}
 \contentsline {subsection}{\numberline {9.6.2}Status:}{63}{subsection.9.6.2}
-\contentsline {subsection}{\numberline {9.6.3}Imagen}{64}{subsection.9.6.3}
-\contentsline {subsection}{\numberline {9.6.4}Concepto:}{64}{subsection.9.6.4}
+\contentsline {subsection}{\numberline {9.6.3}Imagen}{63}{subsection.9.6.3}
+\contentsline {subsection}{\numberline {9.6.4}Concepto:}{63}{subsection.9.6.4}
 \contentsline {subsection}{\numberline {9.6.5}Encuentro:}{64}{subsection.9.6.5}
-\contentsline {subsection}{\numberline {9.6.6}Habilidades:}{65}{subsection.9.6.6}
+\contentsline {subsection}{\numberline {9.6.6}Habilidades:}{64}{subsection.9.6.6}
 \contentsline {subsection}{\numberline {9.6.7}Armas:}{65}{subsection.9.6.7}
 \contentsline {subsection}{\numberline {9.6.8}\IeC {\'I}tems:}{65}{subsection.9.6.8}
 \contentsline {section}{\numberline {9.7}Nombre: Tlazolt\IeC {\'e}otl}{65}{section.9.7}
 \contentsline {subsection}{\numberline {9.7.1}Descripci\IeC {\'o}n: }{65}{subsection.9.7.1}
 \contentsline {subsection}{\numberline {9.7.2}Status:}{65}{subsection.9.7.2}
-\contentsline {subsection}{\numberline {9.7.3}Imagen}{66}{subsection.9.7.3}
-\contentsline {subsection}{\numberline {9.7.4}Concepto:}{66}{subsection.9.7.4}
+\contentsline {subsection}{\numberline {9.7.3}Imagen}{65}{subsection.9.7.3}
+\contentsline {subsection}{\numberline {9.7.4}Concepto:}{65}{subsection.9.7.4}
 \contentsline {subsection}{\numberline {9.7.5}Encuentro:}{66}{subsection.9.7.5}
 \contentsline {subsection}{\numberline {9.7.6}Habilidades:}{66}{subsection.9.7.6}
 \contentsline {subsection}{\numberline {9.7.7}Armas:}{66}{subsection.9.7.7}
 \contentsline {subsection}{\numberline {9.7.8}\IeC {\'I}tems:}{66}{subsection.9.7.8}
-\contentsline {section}{\numberline {9.8}Nombre: Itztlacoliuhqui}{67}{section.9.8}
-\contentsline {subsection}{\numberline {9.8.1}Descripci\IeC {\'o}n:}{67}{subsection.9.8.1}
+\contentsline {section}{\numberline {9.8}Nombre: Itztlacoliuhqui}{66}{section.9.8}
+\contentsline {subsection}{\numberline {9.8.1}Descripci\IeC {\'o}n:}{66}{subsection.9.8.1}
 \contentsline {subsection}{\numberline {9.8.2}Status:}{67}{subsection.9.8.2}
 \contentsline {subsection}{\numberline {9.8.3}Imagen}{67}{subsection.9.8.3}
 \contentsline {subsection}{\numberline {9.8.4}Concepto:}{67}{subsection.9.8.4}
@@ -239,8 +239,8 @@
 \contentsline {subsection}{\numberline {9.9.6}Habilidades:}{69}{subsection.9.9.6}
 \contentsline {subsection}{\numberline {9.9.7}Armas:}{69}{subsection.9.9.7}
 \contentsline {subsection}{\numberline {9.9.8}\IeC {\'I}tems:}{69}{subsection.9.9.8}
-\contentsline {section}{\numberline {9.10}Nombre: Mictlantecutli}{70}{section.9.10}
-\contentsline {subsection}{\numberline {9.10.1}Descripci\IeC {\'o}n:}{70}{subsection.9.10.1}
+\contentsline {section}{\numberline {9.10}Nombre: Mictlantecutli}{69}{section.9.10}
+\contentsline {subsection}{\numberline {9.10.1}Descripci\IeC {\'o}n:}{69}{subsection.9.10.1}
 \contentsline {subsection}{\numberline {9.10.2}Status:}{70}{subsection.9.10.2}
 \contentsline {subsection}{\numberline {9.10.3}Imagen}{70}{subsection.9.10.3}
 \contentsline {subsection}{\numberline {9.10.4}Concepto:}{70}{subsection.9.10.4}
@@ -250,8 +250,8 @@
 \contentsline {subsection}{\numberline {9.10.8}\IeC {\'I}tems:}{71}{subsection.9.10.8}
 \contentsline {subsection}{\numberline {9.10.9}Habilidades:}{71}{subsection.9.10.9}
 \contentsline {subsection}{\numberline {9.10.10}Armas:}{71}{subsection.9.10.10}
-\contentsline {subsection}{\numberline {9.10.11}\IeC {\'I}tems:}{72}{subsection.9.10.11}
-\contentsline {subsection}{\numberline {9.10.12}Personaje No-Jugable}{72}{subsection.9.10.12}
+\contentsline {subsection}{\numberline {9.10.11}\IeC {\'I}tems:}{71}{subsection.9.10.11}
+\contentsline {subsection}{\numberline {9.10.12}Personaje No-Jugable}{71}{subsection.9.10.12}
 \contentsline {section}{\numberline {9.11}Nombre: Mictecac\IeC {\'\i }huatl}{72}{section.9.11}
 \contentsline {subsection}{\numberline {9.11.1}Descripci\IeC {\'o}n:}{72}{subsection.9.11.1}
 \contentsline {subsection}{\numberline {9.11.2}Status}{72}{subsection.9.11.2}
@@ -263,12 +263,12 @@
 \contentsline {subsection}{\numberline {9.11.8}\IeC {\'I}tems:}{73}{subsection.9.11.8}
 \contentsline {section}{\numberline {9.12}Nombre: Ten\IeC {\'e}pal}{73}{section.9.12}
 \contentsline {subsection}{\numberline {9.12.1}Descripci\IeC {\'o}n:}{73}{subsection.9.12.1}
-\contentsline {subsection}{\numberline {9.12.2}Status:}{74}{subsection.9.12.2}
+\contentsline {subsection}{\numberline {9.12.2}Status:}{73}{subsection.9.12.2}
 \contentsline {subsection}{\numberline {9.12.3}Imagen}{74}{subsection.9.12.3}
 \contentsline {subsection}{\numberline {9.12.4}Concepto:}{74}{subsection.9.12.4}
 \contentsline {subsection}{\numberline {9.12.5}Encuentro:}{74}{subsection.9.12.5}
-\contentsline {subsection}{\numberline {9.12.6}Habilidades:}{75}{subsection.9.12.6}
-\contentsline {subsection}{\numberline {9.12.7}Armas:}{75}{subsection.9.12.7}
+\contentsline {subsection}{\numberline {9.12.6}Habilidades:}{74}{subsection.9.12.6}
+\contentsline {subsection}{\numberline {9.12.7}Armas:}{74}{subsection.9.12.7}
 \contentsline {subsection}{\numberline {9.12.8}\IeC {\'I}tems:}{75}{subsection.9.12.8}
 \contentsline {section}{\numberline {9.13}Nombre: Cimatl}{75}{section.9.13}
 \contentsline {subsection}{\numberline {9.13.1}Descripci\IeC {\'o}n:}{75}{subsection.9.13.1}
@@ -281,7 +281,7 @@
 \contentsline {subsection}{\numberline {9.13.8}\IeC {\'I}tems:}{76}{subsection.9.13.8}
 \contentsline {section}{\numberline {9.14}Nombre: Huenupan}{76}{section.9.14}
 \contentsline {subsection}{\numberline {9.14.1}Descripci\IeC {\'o}n:}{76}{subsection.9.14.1}
-\contentsline {subsection}{\numberline {9.14.2}Status:}{77}{subsection.9.14.2}
+\contentsline {subsection}{\numberline {9.14.2}Status:}{76}{subsection.9.14.2}
 \contentsline {subsection}{\numberline {9.14.3}Imagen}{77}{subsection.9.14.3}
 \contentsline {subsection}{\numberline {9.14.4}Concepto:}{77}{subsection.9.14.4}
 \contentsline {subsection}{\numberline {9.14.5}Encuentro:}{77}{subsection.9.14.5}
@@ -294,9 +294,9 @@
 \contentsline {subsection}{\numberline {9.15.3}Imagen}{78}{subsection.9.15.3}
 \contentsline {subsection}{\numberline {9.15.4}Concepto:}{78}{subsection.9.15.4}
 \contentsline {subsection}{\numberline {9.15.5}Encuentro:}{78}{subsection.9.15.5}
-\contentsline {section}{\numberline {9.16}Nombre: Quetzalc\IeC {\'o}atl}{79}{section.9.16}
-\contentsline {subsection}{\numberline {9.16.1}Descripci\IeC {\'o}n:}{79}{subsection.9.16.1}
-\contentsline {subsection}{\numberline {9.16.2}Status:}{79}{subsection.9.16.2}
+\contentsline {section}{\numberline {9.16}Nombre: Quetzalc\IeC {\'o}atl}{78}{section.9.16}
+\contentsline {subsection}{\numberline {9.16.1}Descripci\IeC {\'o}n:}{78}{subsection.9.16.1}
+\contentsline {subsection}{\numberline {9.16.2}Status:}{78}{subsection.9.16.2}
 \contentsline {subsection}{\numberline {9.16.3}Imagen}{79}{subsection.9.16.3}
 \contentsline {subsection}{\numberline {9.16.4}Concepto:}{79}{subsection.9.16.4}
 \contentsline {subsection}{\numberline {9.16.5}Encuentro:}{79}{subsection.9.16.5}
@@ -306,14 +306,14 @@
 \contentsline {section}{\numberline {9.17}Nombre: Tecolote}{79}{section.9.17}
 \contentsline {subsection}{\numberline {9.17.1}Descripci\IeC {\'o}n:}{79}{subsection.9.17.1}
 \contentsline {subsection}{\numberline {9.17.2}Status:}{79}{subsection.9.17.2}
-\contentsline {subsection}{\numberline {9.17.3}Imagen}{80}{subsection.9.17.3}
-\contentsline {subsection}{\numberline {9.17.4}Encuentro:}{80}{subsection.9.17.4}
+\contentsline {subsection}{\numberline {9.17.3}Imagen}{79}{subsection.9.17.3}
+\contentsline {subsection}{\numberline {9.17.4}Encuentro:}{79}{subsection.9.17.4}
 \contentsline {section}{\numberline {9.18}Nombre: Armadillo}{80}{section.9.18}
 \contentsline {subsection}{\numberline {9.18.1}Descripci\IeC {\'o}n:}{80}{subsection.9.18.1}
 \contentsline {subsection}{\numberline {9.18.2}Status:}{80}{subsection.9.18.2}
 \contentsline {subsection}{\numberline {9.18.3}Imagen}{80}{subsection.9.18.3}
-\contentsline {subsection}{\numberline {9.18.4}Encuentro:}{81}{subsection.9.18.4}
-\contentsline {subsection}{\numberline {9.18.5}Habilidades:}{81}{subsection.9.18.5}
+\contentsline {subsection}{\numberline {9.18.4}Encuentro:}{80}{subsection.9.18.4}
+\contentsline {subsection}{\numberline {9.18.5}Habilidades:}{80}{subsection.9.18.5}
 \contentsline {subsection}{\numberline {9.18.6}Patr\IeC {\'o}n de ataque:}{81}{subsection.9.18.6}
 \contentsline {section}{\numberline {9.19}Nombre: Fantasma rojo}{81}{section.9.19}
 \contentsline {subsection}{\numberline {9.19.1}Descripci\IeC {\'o}n:}{81}{subsection.9.19.1}
@@ -321,7 +321,7 @@
 \contentsline {subsection}{\numberline {9.19.3}Imagen}{81}{subsection.9.19.3}
 \contentsline {subsection}{\numberline {9.19.4}Encuentro:}{81}{subsection.9.19.4}
 \contentsline {subsection}{\numberline {9.19.5}Habilidades:}{81}{subsection.9.19.5}
-\contentsline {subsection}{\numberline {9.19.6}Patr\IeC {\'o}n de ataque:}{82}{subsection.9.19.6}
+\contentsline {subsection}{\numberline {9.19.6}Patr\IeC {\'o}n de ataque:}{81}{subsection.9.19.6}
 \contentsline {section}{\numberline {9.20}Nombre: Fantasma morado}{82}{section.9.20}
 \contentsline {subsection}{\numberline {9.20.1}Descripci\IeC {\'o}n:}{82}{subsection.9.20.1}
 \contentsline {subsection}{\numberline {9.20.2}Status:}{82}{subsection.9.20.2}
@@ -329,8 +329,8 @@
 \contentsline {subsection}{\numberline {9.20.4}Encuentro:}{82}{subsection.9.20.4}
 \contentsline {subsection}{\numberline {9.20.5}Habilidades:}{82}{subsection.9.20.5}
 \contentsline {subsection}{\numberline {9.20.6}Patr\IeC {\'o}n de ataque:}{82}{subsection.9.20.6}
-\contentsline {section}{\numberline {9.21}Nombre: Jaguar}{83}{section.9.21}
-\contentsline {subsection}{\numberline {9.21.1}Descripci\IeC {\'o}n:}{83}{subsection.9.21.1}
+\contentsline {section}{\numberline {9.21}Nombre: Jaguar}{82}{section.9.21}
+\contentsline {subsection}{\numberline {9.21.1}Descripci\IeC {\'o}n:}{82}{subsection.9.21.1}
 \contentsline {subsection}{\numberline {9.21.2}Status:}{83}{subsection.9.21.2}
 \contentsline {subsection}{\numberline {9.21.3}Imagen}{83}{subsection.9.21.3}
 \contentsline {subsection}{\numberline {9.21.4}Encuentro:}{83}{subsection.9.21.4}
@@ -339,7 +339,7 @@
 \contentsline {section}{\numberline {9.22}Nombre: Zopilote}{83}{section.9.22}
 \contentsline {subsection}{\numberline {9.22.1}Descripci\IeC {\'o}n:}{83}{subsection.9.22.1}
 \contentsline {subsection}{\numberline {9.22.2}Status:}{83}{subsection.9.22.2}
-\contentsline {subsection}{\numberline {9.22.3}Imagen}{84}{subsection.9.22.3}
+\contentsline {subsection}{\numberline {9.22.3}Imagen}{83}{subsection.9.22.3}
 \contentsline {subsection}{\numberline {9.22.4}Encuentro:}{84}{subsection.9.22.4}
 \contentsline {subsection}{\numberline {9.22.5}Habilidades:}{84}{subsection.9.22.5}
 \contentsline {subsection}{\numberline {9.22.6}Patr\IeC {\'o}n de ataque:}{84}{subsection.9.22.6}
@@ -348,7 +348,7 @@
 \contentsline {subsection}{\numberline {9.23.2}Status:}{84}{subsection.9.23.2}
 \contentsline {subsection}{\numberline {9.23.3}Imagen}{84}{subsection.9.23.3}
 \contentsline {subsection}{\numberline {9.23.4}Encuentro:}{84}{subsection.9.23.4}
-\contentsline {subsection}{\numberline {9.23.5}Habilidades:}{85}{subsection.9.23.5}
+\contentsline {subsection}{\numberline {9.23.5}Habilidades:}{84}{subsection.9.23.5}
 \contentsline {subsection}{\numberline {9.23.6}Patr\IeC {\'o}n de ataque:}{85}{subsection.9.23.6}
 \contentsline {chapter}{\numberline {10}Obst\IeC {\'a}culos}{87}{chapter.10}
 \contentsline {section}{\numberline {10.1}Nombre: Caja}{87}{section.10.1}

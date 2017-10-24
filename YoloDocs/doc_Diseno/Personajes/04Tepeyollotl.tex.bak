@@ -40,10 +40,10 @@ Jefe del tercer nivel del juego y nuevamente jefe del octavo nivel del juego.
 
 \subsection{Habilidades:}
 \begin{itemize}
-        \item Coraza (ver aparatado \ref{hab.coraza}).   
-        \item Impacto (ver aparatado \ref{hab.impacto}).
-        \item Luvia de rocas (ver aparatado \ref{hab.LLuviaRocas}). 
-	  \item Rugido aturdidor (ver aparatado \ref{hab.RugAtur}). 
+        \item Coraza (ver aparatado \ref{hab.coraza}.   
+        \item Impacto Realiza un salto, provocando al aterrizaje una onda de piedras en el suelo.
+        \item \textbf{Luvia de rocas:} Con un poderoso rugido provoca una avalancha de rocas. 
+	  \item \textbf{Rugido aturdidor:} Poderoso rugido provoca una de continuo echo que inmoviliza a al enemigo, Tepeyóllotl solo puede usar esta habilidad cuando no usa la coraza. 
 \end{itemize}
 \subsection{Armas:}
 Sin armas.
