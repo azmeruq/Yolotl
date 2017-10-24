@@ -36,7 +36,7 @@ dialogar con Xólotl, lo que activará la cinemática 2 (ver apartado \ref{Cin:C
 		\item Cinemática 3 (ver apartado \ref{Cin:Cinematica03}).
 		\item Cinemática 4 (ver apartado \ref{Cin:Cinematica04}).
 	\end{itemize}
-\item Desbloqueará el segundo nivel del juego (ver apartado \ref{Nivel:Niv02}).
+\item Desbloqueará el segundo nivel del juego (ver apartado \ref{Nivel:Niv02}) en el menú de selección de nivel (ver apartado \ref{inter:interfaz03}).
 \item Obtendrá el objeto caracola con lo que se habilitará el botón de disparo en la interfaz gráfica del juego.
 \end{itemize}
 	\subsection{Enemigos}

@@ -1,8 +1,8 @@
 	\section{Nivel 6} \label{Nivel:Niv06}
 	\subsection{Título del nivel}
-	Pancuetlacalóyan: lugar donde la persona se voltea como bandera
+	Sin gravedad.
 	\subsection{Encuentro}
-	Nivel 5 del inframundo
+	Este nivel estará disponible después de vencer al jefe del quinto nivel (ver apartado \ref{Nivel:Niv05}).
 	\subsection{Descripción}
 	A la entrada del Pancuetlacalóyan, Xólotl le advierte a Malinalli sobre los peligros que los esperan en los dominios de Tlazoltéotl. Para ayudar a Malinalli, Xólotl adopta la forma de un ave. Juntos surcaran los cielos del Pancuetlacalóyan con el objetivo de reclamar el poder de Tlazoltéotl.
 	\subsection{Objetivos}
@@ -14,7 +14,7 @@
 	\subsection{Progreso}
 	 Al terminar el nivel el jugador:
 \begin{itemize}
-        \item Habrá incrementado la energía espiritual de Malinalli. 
+        \item Habrá incrementado la cantidad de vida de Malinalli. 
         \item Desbloqueara las siguientes cinemáticas:
 \begin{itemize}
         \item Cinemática 29 (ver apartado \ref{Cin:Cinematica29}). 
