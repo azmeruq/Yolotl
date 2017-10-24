@@ -407,3 +407,33 @@ Mictlantechtli.
 				\label{fig:penitencia}
 			\end{figure}
 
+%============================================================
+\section{Nombre: Lluvia de huesos.}\label{hab.LluHuesos}
+\subsection{Descripción}
+Se invocan afilados huesos que caen del cielo. Este  elevado nivel de daño al jugador.
+\subsection{Portador}
+Mictlantechtli.
+\subsection{Esquema}
+			Ver figura \ref{fig:penitencia}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/penitencia}
+				\caption{Penitencia.}
+				\label{fig:penitencia}
+			\end{figure}
+			
+%============================================================
+\section{Nombre: Estocada mortífera..}\label{hab.estMor}
+\subsection{Descripción}
+Se invoca un solo hueso gigante que recorre el campo de manera horizontal a la altura del suelo con gran velocidad. Este ataque puede generar gran daño.
+\subsection{Portador}
+Mictlantechtli.
+\subsection{Esquema}
+			Ver figura \ref{fig:penitencia}.
+			\begin{figure}
+				\centering
+				\includegraphics[height=0.2 \textheight]{Imagenes/penitencia}
+				\caption{Penitencia.}
+				\label{fig:penitencia}
+			\end{figure}			
+			

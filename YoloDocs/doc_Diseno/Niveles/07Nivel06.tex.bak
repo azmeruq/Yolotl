@@ -1,8 +1,8 @@
 	\section{Nivel 6} \label{Nivel:Niv06}
 	\subsection{Título del nivel}
-	Pancuetlacalóyan: lugar donde la persona se voltea como bandera
+	Sin gravedad.
 	\subsection{Encuentro}
-	Nivel 5 del inframundo
+	Este nivel estará disponible después de vencer al jefe del quinto nivel (ver apartado \ref{Nivel:Niv05}).
 	\subsection{Descripción}
 	A la entrada del Pancuetlacalóyan, Xólotl le advierte a Malinalli sobre los peligros que los esperan en los dominios de Tlazoltéotl. Para ayudar a Malinalli, Xólotl adopta la forma de un ave. Juntos surcaran los cielos del Pancuetlacalóyan con el objetivo de reclamar el poder de Tlazoltéotl.
 	\subsection{Objetivos}
@@ -14,7 +14,7 @@
 	\subsection{Progreso}
 	 Al terminar el nivel el jugador:
 \begin{itemize}
-        \item Habrá incrementado la energía espiritual de Malinalli. 
+        \item Habrá incrementado la cantidad de vida de Malinalli. 
         \item Desbloqueara las siguientes cinemáticas:
 \begin{itemize}
         \item Cinemática 29 (ver apartado \ref{Cin:Cinematica29}). 
@@ -25,12 +25,9 @@
 \end{itemize}
 	\subsection{Enemigos}
 	\begin{itemize}
-		\item Fantasmas rojos. Ver en \ref{per:fantasmaR}.
-			\begin{itemize}
-				\item Animación fuego.
-				\item Animación disparo.
-			\end{itemize}
-		\item Tlazoltéotl. Ver en \ref{per:tlazolteotl}.
+		\item Fantasmas rojos (ver apartado \ref{per:fantasmaR}).
+		\item Zopilote	(ver apartado \ref{per:zopilote}).
+		\item Tlazoltéotl (ver apartado \ref{per:tlazolteotl}).
 	\end{itemize}
 	\subsection{Items}
 \begin{itemize}
@@ -39,30 +36,12 @@
 \end{itemize}
 	\subsection{Personajes}
 	\begin{itemize}
-		\item Malinalli. Ver en \ref{per:malinalli}.
-			\begin{itemize}
-			\item Animación correr.
-			\item Animación saltar.
-			\item Animación correr con caracola.
-			\item Animación saltar con caracola.
-			\item Animación normal.
-			\item Animación recibir daño.
-			\item Animación morir.
-		\end{itemize}
-		\item Xolotl. Ver en \ref{per:xolotl}.
-		\begin{itemize}
-				\item Animación salto.
-				\item Animación normal.
-		\end{itemize}
-		\item Tlazoltéotl. Ver en \ref{per:tlazolteotl}.
-			\begin{itemize}
-				\item Animación vuelo.
-				\item Animación disparar energía corrupta.
-				\item Animación invocar círculo protector.
-				\item Animación disparar raíz diablo.
-				\item Animación recibir daño.
-				\item Animación morir.
-			\end{itemize}
+		\item Malinalli (ver apartado \ref{per:malinalli}).
+			
+		\item Xolotl (ver apartado\ref{per:xolotl}).
+		
+		\item Tlazoltéotl (ver apartado \ref{per:tlazolteotl}).
+			
 	\end{itemize}
 \subsection{Escenario}
 \begin{itemize} 

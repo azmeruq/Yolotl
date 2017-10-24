@@ -1,6 +1,6 @@
 \section{Nivel 4} \label{Nivel:Niv04}
         \subsection{Título del nivel}
-        Itztépetl: Montaña de obsidiana.
+        Alas de obsidiana.
         \subsection{Encuentro}
 Tercer nivel del inframundo, se desbloquea derrotando a Tepeyollótl en el tercer nivel (ver apartado \ref{Nivel:Niv03}).
         \subsection{Descripción}
@@ -17,7 +17,7 @@ En este nivel el jugador deberá:
         \subsection{Progreso}
 Al final del nivel el jugador:
 \begin{itemize}
-        \item Aumentará el valor de la salud de Malinalli.
+        \item Aumentará la cantidad de vida de Malinalli.
         \item Desbloquear las siguientes cinemáticas:
 		\begin{itemize}
 			\item Cinemática 16 (ver apartado \ref{Cin:Cinematica16}).
@@ -29,14 +29,12 @@ Al final del nivel el jugador:
 			\item Cinemática 22 (ver apartado \ref{Cin:Cinematica22}).
 		\end{itemize}
         \item Desbloquear El nivel 5 (ver apartado \ref{Nivel:Niv05}) del juego en el menú seleccionable (ver apartado \ref{inter:interfaz03}).
+\end{itemize}        
         \subsection{Enemigos}
                 \begin{itemize}
-                        \item Fantasma rojo. Ver en \ref{per:fantasmaR}. 
-            \begin{itemize}
-				\item Animación fuego.
-				\item Animación disparo.
-			\end{itemize}
-			\item Fantasma morado (ver apartado \ref{per:fantasmaM}).
+                    \item Fantasma rojo. Ver en \ref{per:fantasmaR}. 
+            
+					\item Fantasma morado (ver apartado \ref{per:fantasmaM}).
 			\begin{itemize}
 				\item Animación fuego.
 			\end{itemize}
@@ -53,28 +51,11 @@ Al final del nivel el jugador:
         \subsection{Personajes}
         \begin{itemize}
                 \item Malinalli (ver apartado \ref{per:malinalli}).
-                \begin{itemize}
-                        \item Animación correr.
-                        \item Animación saltar.
-                        \item Animación correr caracola.
-                        \item Animación saltar caracola.
-                        \item Animación normal.
-                        \item Animación recibir daño.
-						\item Animación morir.
-                \end{itemize}
+            
                 \item Xolotl (ver apartado \ref{per:xolotl}).
-                	\begin{itemize}
-						\item Animación salto.
-						\item Animación normal.
-					\end{itemize}
+                
                 \item Itzpapalotl (ver apartado \ref{per:itzpapalotl}).
-                \begin{itemize}
-                        \item Animación disparar fuego.
-                        \item Animación embestida.
-                        \item Animación caminar.
-                        \item Animación desvanecerse.
-                        \item Animación aparecer.
-                \end{itemize}
+               
         \end{itemize}
 \subsection{Escenario}
 \begin{itemize} 
