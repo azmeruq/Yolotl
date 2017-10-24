@@ -19,22 +19,22 @@ Es el jefe enemigo del secto nivel del juego.
 	El papel de  Tlazoltéotl en el juego se limita a ser un jefe para un nivel en especifico. Es importante remarcar que para  Tlazoltéotl, los invasores solo eran un pequeño inconveniente en un día de trabajo común.
 	\item \textbf{Relaciones:}
 	\begin{itemize}
-		\item \textbf{Xólotl:} Considerado por Tlazoltéotl como un ser debil por el que siente un poco de pena. Encuentra un poco deprimente el hecho de que Xólotl se esfuerce demasiado por ganar la aceptación de los demás (ver aparatado \ref{per:xolotl}). 
-		\item \textbf{Malinalli:} Presenta un dilema para la diosa, ya que al ser su enemiga debe de derrotarla pero al observar con sus poderes los horrores a los que ha sido sometida como esclava  Tlazoltéotl desea que Malinalli encuentre pas en su corazón (ver aparatado \ref{per:malinalli}).
+		\item \textbf{Xólotl:} Considerado por Tlazoltéotl como un ser debil por el que siente un poco de pena. Encuentra un poco deprimente el hecho de que Xólotl se esfuerce demasiado por ganar la aceptación de los demás. 
+		\item \textbf{Manlinalli:} Presenta un dilema para la diosa, ya que al ser su enemiga debe de derrotarla pero al observar con sus poderes los horrores a los que ha sido sometida como esclava  Tlazoltéotl desea que Malinalli encuentre pas en su corazón.
 	\end{itemize}                     
 \end{itemize}
 
 \subsection{Encuentro:}
 \begin{itemize}
-	\item Su primera aparición es en la cinemática 9 (ver aparatado \ref{Cin:Cinematica09}).
-	\item Como jefe, el juagdor se enfrenta a ella en el nivel el sexto nivel del juego (ver aparatado \ref{Nivel:Niv06}).
+	\item Su primera aparición es en la cinemática 9.
+	\item Como jefe, el juagdor se enfrenta a ella en el nivel el sexto nivel del juego.
 \end{itemize} 
 
 \subsection{Habilidades:}
-\begin{itemize} 
-	\item Raíz del diablo (ver aparatado \ref{hab.RaizDia}).
-	\item Energía corrupta (ver aparatado \ref{hab.CorrupEner}).
-	\item Circulo protector (ver aparatado \ref{hab.CirPro}).
+\begin{itemize}
+	\item \textbf{Raíz del diablo:} Ataque que produce una confusión en el jugador, haciendo que los botones no reaccionen con las acciones que deberían.
+	\item \textbf{Energía corrupta:} Esferas de energia oscura que infringen daño al jugador al hacer contacto con éste.
+	\item \textbf{Circulo protector:} Utilizando energía corrupta,  Tlazoltéotl crea alrededor de ella un circulo con la capacidad de protegerla contra cualquier ataque.
 \end{itemize} 
 \subsection{Armas:}
 Sin armas.

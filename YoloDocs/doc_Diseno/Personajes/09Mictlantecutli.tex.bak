@@ -24,7 +24,7 @@ Jefe del décimo nivel, es el jefe final del juego.
 	\begin{itemize}
 		\item \textbf{Mictecacíhuatl:} Esposa de Mictlantechtli. El lazo matrimonial que los une no es producto del amor, sino del deber. Ambos dioses colaboran juntos para mantener en orden el Mictlán. Si bien Mictlantechtli no ama a su esposa, si tiene un gran afecto y respeto. Este afecto lo lleva a pedirle a  Mictecacíhuatl que se retire del inframundo y vaya a los trece cielos para mantenerla a salvo (ver aparatado \ref{per:mictecacihuatl}).
 		
-		\item \textbf{Quetzalcóatl:}  Mictlantechtli tiene un conflicto no resuelto con este dios, luego de que Quetzalcóatl robara los huesos de los antiguos hombres (ver aparatado \ref{per:quetzalcoatl}).
+		\item \textbf{Quetzalcóatl:}  Mictlantechtli tiene un conflicto no resuelto con este dios, luego de que Quetzalcóatl robara los huesos de los antiguos hombres.
 		
 		\item \textbf{Xólotl:}  Desde el punto de vista de Mictlantechtli, Xólotl es un cobarde, resentido que busca alterar el orden por mera perversión (ver aparatado \ref{per:xolotl}).
 		
@@ -34,15 +34,15 @@ Jefe del décimo nivel, es el jefe final del juego.
 
 \subsection{Encuentro:}
 \begin{itemize}
-	\item Su primera aparición es en la cinemática 9 (ver aparatado \ref{Cin:Cinematica09}).
-	\item Como jefe, el jugador se enfrenta a él en el décimo nivel del juego (ver aparatado \ref{Nivel:Niv10}).
+	\item Su primera aparición es en la cinemática 9.
+	\item Como jefe, el jugador se enfrenta a él en el décimo nivel del juego.
 \end{itemize} 
 
 \subsection{Habilidades:}
 \begin{itemize}
-	\item Todos los hombres del rey (ver aparatado \ref{hab.TodoRey})
-	\item Fuego mortífero (ver aparatado \ref{hab.FuegoMor}).
-	\item Penitencia (ver aparatado \ref{hab.Penitencia}).
+	\item \textbf{Todos los hombres del rey:} Con este ataque,  Mictlantechtli invoca a varios de los enemigos normales que habitan el Mictlán para que se enfrenten al jugador mientras  Mictlantechhtli desaparece.
+	\item \textbf{Fuego mortífero:}  Mictlantechtli  lanza poderosas esferas de fuego verde.
+	\item \textbf{Penitencia:}  Mictlantechtli se eleva en el aire haciendo que salgan huesos filosos del suelo.
 \end{itemize}  
 \subsection{Armas:}
 Sin armas.
