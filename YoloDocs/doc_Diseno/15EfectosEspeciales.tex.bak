@@ -33,3 +33,6 @@ Efecto que hace que la cámara tiemble cuando se activa la habilidad manotazo (v
 
 \section{Cámara obscura.} \label{FX:CamObs}
 Este efecto se activa cuando se ejecuta la habilidad de LLuvia de lava (ver apartado \ref{hab.LLuviaLava}).Obscurece la escena salvo por la figura del jugador y la lava que cae.  
+
+\section{Explosión de hueso} \label{FX:exHuesos}
+Partículas de huesos que salen disparadas, este efecto se activa al finalizar la ejecución de las habilidades Penitencia (ver apartado \ref{hab.Penitencia}), lluvia de huesos (ver apartado \ref{hab.LluHuesos) o estocada mortífera(ver apartado \ref{hab.estMor}) para hacer desaparecer cualquier objeto invocado hecho de huesos.

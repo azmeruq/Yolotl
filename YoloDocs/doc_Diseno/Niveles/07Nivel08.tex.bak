@@ -23,6 +23,7 @@
         \item Cinemática 40 (ver apartado \ref{Cin:Cinematica40}).
 \end{itemize}
         \item Desbloqueará El nivel 9 (ver apartado  \ref{Nivel:Niv09}) del juego en el menú seleccionable (ver apartado \ref{inter:interfaz03}).
+\end{itemize}
 	\subsection{Enemigos}
 	\begin{itemize}
 		\item Jaguar. Ver en \ref{per:jaguar}.
