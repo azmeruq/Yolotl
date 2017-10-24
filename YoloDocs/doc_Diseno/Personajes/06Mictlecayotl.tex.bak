@@ -27,9 +27,9 @@ Jefe del quinto nivel. Debe de ser derrotado para poder avanzar.
 		
 		\item \textbf{Ehécatl:} Esposo de Mictlecayotl. Ambos comparten una relación de respeto y apoyo mutuo. 
 		
-		\item \textbf{Quetzalcóatl:} Amigo de Mictlecayotl. Es el dios al que más admira y al único al que reconoce como digno de ser el líder de los trece cielos. Mictlecayotl espera su regreso para que traiga fin al nuevo orden que Tezcatlipoca ha instaurado.
+		\item \textbf{Quetzalcóatl:} Amigo de Mictlecayotl. Es el dios al que más admira y al único al que reconoce como digno de ser el líder de los trece cielos. Mictlecayotl espera su regreso para que traiga fin al nuevo orden que Tezcatlipoca ha instaurado (ver aparatado \ref{per:quetzalcoatl}).
 		
-		\item \textbf{Tezcatlipoca:} Enemigo de Mictlecayotl. Trató de matarlo en una ocasión.  
+		\item \textbf{Tezcatlipoca:} Enemigo de Mictlecayotl. Trató de matarlo en una ocasión (ver aparatado \ref{per:tezcatlipoca}.  
 	\end{itemize}			  
 \end{itemize}
 
@@ -51,3 +51,11 @@ Sus habilidades de viento también le permiten desvanecerse en el aire y aparece
 Trepa viento (ver aparatado \ref{Arma:EspadaMictlecayotl}).
 \subsection{Ítems:}
 Sin ítems.
+\subsection{Bloques de animación}
+	\begin{itemize}
+                        \item Animación disparar viento.
+                        \item Animación invocar tornado.
+                        \item Animación volar.
+                        \item Animación recibir daño.
+						\item Animación morir.
+                \end{itemize} 

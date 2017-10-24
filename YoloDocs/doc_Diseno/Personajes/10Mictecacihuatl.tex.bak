@@ -19,14 +19,14 @@ Nunca se encuentra con Malinalli en todo el juego, pero ha oido hablar de ella p
 	Mictecacíhuatl ve con curiosidad el ataque de Xólotl, siendo la primera en darse cuenta que el ataque al Mictlán tenía connotaciones más fuertes de lo que parecían a primera instancia. A pesar de contar con todos los recursos para frenar a Xólotl, Mictecacíhuatl decide dejarlo avanzar, limitandose a cumplir con las ordenes de Mictlantechtli aun sabiendo que la estrategia de éste no era la más acertada. Ella deja que el Mictlán caiga pues confiaba plenamente en que en los trece cielos seran capaces de frenar a Xólotl, por lo que una vez vencido Xólotl y sin  Mictlantechtli, ella podría gobernar el Mictlán.
 	item \textbf{Relaciones:}
 	\begin{itemize}
-		\item \textbf{Mictlantechtli:} Esposo de Mictecacíhuatl. Diversas malas decisiones que  Mictlantechtli ha tomado a lo largo de su gobierno en el Mictlán han llevado a Mictecacíhuatl a dejar de verlo como un líder.  
-		\item \textbf{Xólotl:} Persivido como un traidor,la presencia de Xólotl le permitirá a Mictecacíhuatl iniciar su propia misión para hacerse del control del Mictlán. 
+		\item \textbf{Mictlantechtli:} Esposo de Mictecacíhuatl. Diversas malas decisiones que  Mictlantechtli ha tomado a lo largo de su gobierno en el Mictlán han llevado a Mictecacíhuatl a dejar de verlo como un líder (ver aparatado \ref{per:mictlantechtli}).  
+		\item \textbf{Xólotl:} Persivido como un traidor,la presencia de Xólotl le permitirá a Mictecacíhuatl iniciar su propia misión para hacerse del control del Mictlán (ver aparatado \ref{per:xolotl}). 
 	\end{itemize}                     
 \end{itemize}
 
 \subsection{Encuentro:}
 \begin{itemize}
-	\item Su primera aparición es en la cinemática 9.
+	\item Su primera aparición es en la cinemática 9 (ver aparatado \ref{Cin:Cinematica09}).
 \end{itemize} 
 
 \subsection{Habilidades:}
@@ -37,3 +37,7 @@ Nunca se encuentra con Malinalli en todo el juego, pero ha oido hablar de ella p
 Sin armas.
 \subsection{Ítems:}
 Sin ítems
+\subsection{Bloques de animación}
+\begin{itemize}
+	\item Ani
+\end{itemize}

@@ -12,15 +12,11 @@ Ver figura \ref{fig:zopilote}.
 	\label{fig:zopilote}
 \end{figure}
 \subsection{Encuentro:}
-En el nivel 6 (ver apartado \ref{Nivel:Niv06}).
+En el nivel 5.
 \subsection{Habilidades:}
 \begin{itemize}
-	\item Vuelo en picada (ver apartado \ref{hab.Vpicada}).
-\end{itemize}}
+	\item Rapto. Ver habilidad en \ref{hab.rapto}.
+	\item Zopilotear. Ver habilidad en \ref{hab.zopilotear}.
+\end{itemize}
 \subsection{Patrón de ataque:}
 En un ciclo, realizará la habilidad rapto cuando se aproxime el jugador a una distancia determinada, mientras no se realice la habilidad rapto la habilidad zopilotear estará activada. Este ciclo se repetirá hasta que el enemigo desaparezca.
-\subsection{Bloques de animación:}
-\begin{itemize}
-		\item Animación vuelo.
-		\item Animación caída en picada.
-	\end{itemize}

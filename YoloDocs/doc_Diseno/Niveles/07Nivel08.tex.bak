@@ -32,13 +32,9 @@
 				\item Animación caminar.
 			\end{itemize}
 		\item Fantasmas morados. Ver en \ref{per:fantasmaM}.
-			\begin{itemize}
-				\item Animación fuego.
-			\end{itemize}
+		
 		\item Fantasmas rojos. Ver en \ref{per:fantasmaR}.
-			\begin{itemize}
-				\item Animación fuego.
-			\end{itemize}
+			
 		\item Tepeyóllotl. Ver en \ref{per:tepeyollotl}.
 	\end{itemize}
 	\subsection{Items}
@@ -49,28 +45,10 @@
 	\subsection{Personajes}
 	\begin{itemize}
 		\item Malinalli. Ver en \ref{per:malinalli}.
-		\begin{itemize}
-			\item Animación correr.
-			\item Animación saltar.
-			\item Animación correr con caracola.
-			\item Animación saltar con caracola.
-			\item Animación normal.
-			\item Animación recibir daño.
-			\item Animación morir.
-		\end{itemize} 
+		 
 		\item Xolotl. Ver en \ref{per:xolotl}.
-		\begin{itemize}
-				\item Animación salto.
-				\item Animación normal.
-		\end{itemize}
+	
 		\item Tepeyóllotl. Ver en \ref{per:tepeyollotl}.
-		\begin{itemize}
-			\item Animación correr (sin coraza).
-			\item Animación saltar (sin coraza).
-			\item Animación rugir (sin coraza).
-			\item Animación recibir daño (sin coraza).
-			\item Animación morir (sin coraza).
-		\end{itemize}
 	\end{itemize}
 	\subsection{Escenario}
 \begin{itemize} 

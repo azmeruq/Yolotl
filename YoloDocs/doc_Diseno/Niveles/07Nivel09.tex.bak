@@ -50,27 +50,11 @@ Este es el único nivel que está dividido en tres etapas, dos de plataformas y 
 	\subsection{Personajes}
 	\begin{itemize}
 		\item Malinalli (ver apartado \ref{per:malinalli}).
-		\begin{itemize}
-			\item Animación correr.
-			\item Animación saltar.
-			\item Animación correr con caracola.
-			\item Animación saltar con caracola.
-			\item Animación normal.
-			\item Animación recibir daño.
-			\item Animación morir.
-		\end{itemize}
+
 		\item Xólotl (ver apartado \ref{per:xolotl}).
-		\begin{itemize}
-				\item Animación salto.
-				\item Animación normal.
-		\end{itemize}
+		
 		\item Nexchocho (ver apartado \ref{per:nexoxcho}).
-		\begin{itemize}
-			\item Animación apuñalar.
-			\item Animación caminar.
-			\item Animación recibir daño.
-			\item Animación morir.
-		\end{itemize}
+		
 	\end{itemize}
 	\subsection{Escenario}
 \begin{itemize} 

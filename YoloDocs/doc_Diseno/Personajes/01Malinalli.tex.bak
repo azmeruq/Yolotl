@@ -26,7 +26,7 @@ Es la protagonista del juego y es a través de ella que el jugador verá como es
 
 \subsection{Habilidades:}
 \begin{itemize}
-	\item \textbf{Disparo de tonalli} (ver apartado \ref{hab.disparoT}).
+	\item Disparo de tonalli (ver apartado \ref{hab.disparoT}).
 	\item Malinalli posee una gran inteligencia y capacidad de planeación. Debido a sus años como esclava está en buena condición para correr y saltar.
 \end{itemize} 
 \subsection{Armas:}
@@ -36,3 +36,5 @@ Caracola (ver apartado \ref{Arma:Caracola}).
 	\item Peineta en forma de flor (ver apartado \ref{item:peineta}).
 	\item Armadura espiritual (ver apartado \ref{item:armadura}).
 \end{itemize}
+
+\subsection{Bloques de animación}
