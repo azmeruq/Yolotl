@@ -137,7 +137,7 @@
 \contentsline {subsection}{\numberline {7.9.2}Encuentro}{42}{subsection.7.9.2}
 \contentsline {subsection}{\numberline {7.9.3}Descripci\IeC {\'o}n}{42}{subsection.7.9.3}
 \contentsline {subsection}{\numberline {7.9.4}Objetivos}{42}{subsection.7.9.4}
-\contentsline {subsection}{\numberline {7.9.5}Progreso}{42}{subsection.7.9.5}
+\contentsline {subsection}{\numberline {7.9.5}Progreso}{43}{subsection.7.9.5}
 \contentsline {subsection}{\numberline {7.9.6}Enemigos}{43}{subsection.7.9.6}
 \contentsline {subsection}{\numberline {7.9.7}Items}{43}{subsection.7.9.7}
 \contentsline {subsection}{\numberline {7.9.8}Personajes}{43}{subsection.7.9.8}
@@ -391,30 +391,27 @@
 \contentsline {section}{\numberline {10.4}Nombre: Plataforma que cae.}{86}{section.10.4}
 \contentsline {subsection}{\numberline {10.4.1}Descripci\IeC {\'o}n}{86}{subsection.10.4.1}
 \contentsline {subsection}{\numberline {10.4.2}Esquema}{87}{subsection.10.4.2}
-\contentsline {section}{\numberline {10.5}Nombre: Rocas}{87}{section.10.5}
+\contentsline {section}{\numberline {10.5}Nombre: Plataforma que desaparece.}{87}{section.10.5}
 \contentsline {subsection}{\numberline {10.5.1}Descripci\IeC {\'o}n}{87}{subsection.10.5.1}
 \contentsline {subsection}{\numberline {10.5.2}Esquema}{87}{subsection.10.5.2}
-\contentsline {section}{\numberline {10.6}Nombre: Viento temporal}{87}{section.10.6}
+\contentsline {section}{\numberline {10.6}Nombre: Etalagmitas}{87}{section.10.6}
 \contentsline {subsection}{\numberline {10.6.1}Descripci\IeC {\'o}n}{87}{subsection.10.6.1}
 \contentsline {subsection}{\numberline {10.6.2}Esquema}{88}{subsection.10.6.2}
-\contentsline {section}{\numberline {10.7}Nombre: Piedras filosas}{88}{section.10.7}
+\contentsline {section}{\numberline {10.7}Nombre: Viento temporal}{88}{section.10.7}
 \contentsline {subsection}{\numberline {10.7.1}Descripci\IeC {\'o}n}{88}{subsection.10.7.1}
 \contentsline {subsection}{\numberline {10.7.2}Esquema}{88}{subsection.10.7.2}
-\contentsline {section}{\numberline {10.8}Nombre: Piso congelado}{88}{section.10.8}
-\contentsline {subsection}{\numberline {10.8.1}Descripci\IeC {\'o}n}{88}{subsection.10.8.1}
+\contentsline {section}{\numberline {10.8}Nombre: Piedras filosas}{89}{section.10.8}
+\contentsline {subsection}{\numberline {10.8.1}Descripci\IeC {\'o}n}{89}{subsection.10.8.1}
 \contentsline {subsection}{\numberline {10.8.2}Esquema}{89}{subsection.10.8.2}
-\contentsline {section}{\numberline {10.9}Nombre: Plataforma que desaparece}{89}{section.10.9}
+\contentsline {section}{\numberline {10.9}Nombre: Piso congelado}{89}{section.10.9}
 \contentsline {subsection}{\numberline {10.9.1}Descripci\IeC {\'o}n}{89}{subsection.10.9.1}
 \contentsline {subsection}{\numberline {10.9.2}Esquema}{89}{subsection.10.9.2}
-\contentsline {section}{\numberline {10.10}Nombre: Bolas de nieve}{89}{section.10.10}
-\contentsline {subsection}{\numberline {10.10.1}Descripci\IeC {\'o}n}{89}{subsection.10.10.1}
+\contentsline {section}{\numberline {10.10}Nombre: Bolas de nieve}{90}{section.10.10}
+\contentsline {subsection}{\numberline {10.10.1}Descripci\IeC {\'o}n}{90}{subsection.10.10.1}
 \contentsline {subsection}{\numberline {10.10.2}Esquema}{90}{subsection.10.10.2}
-\contentsline {section}{\numberline {10.11}Nombre: Viento multidireccional}{90}{section.10.11}
+\contentsline {section}{\numberline {10.11}Nombre: Lluvia de flechas}{90}{section.10.11}
 \contentsline {subsection}{\numberline {10.11.1}Descripci\IeC {\'o}n}{90}{subsection.10.11.1}
 \contentsline {subsection}{\numberline {10.11.2}Esquema}{90}{subsection.10.11.2}
-\contentsline {section}{\numberline {10.12}Nombre: Lluvia de flechas}{91}{section.10.12}
-\contentsline {subsection}{\numberline {10.12.1}Descripci\IeC {\'o}n}{91}{subsection.10.12.1}
-\contentsline {subsection}{\numberline {10.12.2}Esquema}{91}{subsection.10.12.2}
 \contentsline {chapter}{\numberline {11}Habilidades.}{93}{chapter.11}
 \contentsline {section}{\numberline {11.1}Cuchillas de obsidiana}{93}{section.11.1}
 \contentsline {subsection}{\numberline {11.1.1}Descripci\IeC {\'o}n}{93}{subsection.11.1.1}
@@ -426,112 +423,104 @@
 \contentsline {subsubsection}{Esquema}{93}{section*.4}
 \contentsline {section}{\numberline {11.3}Nombre: Embestida.}{93}{section.11.3}
 \contentsline {subsection}{\numberline {11.3.1}Descripci\IeC {\'o}n}{93}{subsection.11.3.1}
-\contentsline {subsection}{\numberline {11.3.2}Portador}{93}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.2}Portador}{94}{subsection.11.3.2}
 \contentsline {subsection}{\numberline {11.3.3}Esquema}{94}{subsection.11.3.3}
-\contentsline {section}{\numberline {11.4}Nombre: Rapto.}{94}{section.11.4}
+\contentsline {section}{\numberline {11.4}Nombre: Salto de altura.}{94}{section.11.4}
 \contentsline {subsection}{\numberline {11.4.1}Descripci\IeC {\'o}n}{94}{subsection.11.4.1}
 \contentsline {subsection}{\numberline {11.4.2}Portador}{94}{subsection.11.4.2}
 \contentsline {subsection}{\numberline {11.4.3}Esquema}{94}{subsection.11.4.3}
-\contentsline {section}{\numberline {11.5}Nombre: Zopilotear.}{94}{section.11.5}
-\contentsline {subsection}{\numberline {11.5.1}Descripci\IeC {\'o}n}{94}{subsection.11.5.1}
+\contentsline {section}{\numberline {11.5}Nombre: Disparo de tonalli.}{95}{section.11.5}
+\contentsline {subsection}{\numberline {11.5.1}Descripci\IeC {\'o}n}{95}{subsection.11.5.1}
 \contentsline {subsection}{\numberline {11.5.2}Portador}{95}{subsection.11.5.2}
 \contentsline {subsection}{\numberline {11.5.3}Esquema}{95}{subsection.11.5.3}
-\contentsline {section}{\numberline {11.6}Nombre: Embestida.}{95}{section.11.6}
+\contentsline {section}{\numberline {11.6}Nombre: Zambullida.}{95}{section.11.6}
 \contentsline {subsection}{\numberline {11.6.1}Descripci\IeC {\'o}n}{95}{subsection.11.6.1}
 \contentsline {subsection}{\numberline {11.6.2}Portador}{95}{subsection.11.6.2}
-\contentsline {subsection}{\numberline {11.6.3}Esquema}{95}{subsection.11.6.3}
-\contentsline {section}{\numberline {11.7}Nombre: Disparo de tonalli.}{96}{section.11.7}
+\contentsline {subsection}{\numberline {11.6.3}Esquema}{96}{subsection.11.6.3}
+\contentsline {section}{\numberline {11.7}Nombre: Burbujas.}{96}{section.11.7}
 \contentsline {subsection}{\numberline {11.7.1}Descripci\IeC {\'o}n}{96}{subsection.11.7.1}
 \contentsline {subsection}{\numberline {11.7.2}Portador}{96}{subsection.11.7.2}
 \contentsline {subsection}{\numberline {11.7.3}Esquema}{96}{subsection.11.7.3}
-\contentsline {section}{\numberline {11.8}Nombre: Zambullida.}{96}{section.11.8}
+\contentsline {section}{\numberline {11.8}Nombre: Coraza.}{96}{section.11.8}
 \contentsline {subsection}{\numberline {11.8.1}Descripci\IeC {\'o}n}{96}{subsection.11.8.1}
-\contentsline {subsection}{\numberline {11.8.2}Portador}{96}{subsection.11.8.2}
+\contentsline {subsection}{\numberline {11.8.2}Portador}{97}{subsection.11.8.2}
 \contentsline {subsection}{\numberline {11.8.3}Esquema}{97}{subsection.11.8.3}
-\contentsline {section}{\numberline {11.9}Nombre: Burbujas.}{97}{section.11.9}
+\contentsline {section}{\numberline {11.9}Nombre: Impacto.}{97}{section.11.9}
 \contentsline {subsection}{\numberline {11.9.1}Descripci\IeC {\'o}n}{97}{subsection.11.9.1}
 \contentsline {subsection}{\numberline {11.9.2}Portador}{97}{subsection.11.9.2}
 \contentsline {subsection}{\numberline {11.9.3}Esquema}{97}{subsection.11.9.3}
-\contentsline {section}{\numberline {11.10}Nombre: Coraza.}{97}{section.11.10}
+\contentsline {section}{\numberline {11.10}Nombre de la habilidad: Luvia de rocas.}{97}{section.11.10}
 \contentsline {subsection}{\numberline {11.10.1}Descripci\IeC {\'o}n}{97}{subsection.11.10.1}
-\contentsline {subsection}{\numberline {11.10.2}Portador}{98}{subsection.11.10.2}
-\contentsline {subsection}{\numberline {11.10.3}Esquema}{98}{subsection.11.10.3}
-\contentsline {section}{\numberline {11.11}Nombre: Impacto.}{98}{section.11.11}
+\contentsline {subsection}{\numberline {11.10.2}Portador}{97}{subsection.11.10.2}
+\contentsline {subsection}{\numberline {11.10.3}Esquema}{97}{subsection.11.10.3}
+\contentsline {section}{\numberline {11.11}Nombre: Rugido aturdidor.}{98}{section.11.11}
 \contentsline {subsection}{\numberline {11.11.1}Descripci\IeC {\'o}n}{98}{subsection.11.11.1}
 \contentsline {subsection}{\numberline {11.11.2}Portador}{98}{subsection.11.11.2}
 \contentsline {subsection}{\numberline {11.11.3}Esquema}{98}{subsection.11.11.3}
-\contentsline {section}{\numberline {11.12}Nombre de la habilidad: Luvia de rocas.}{98}{section.11.12}
+\contentsline {section}{\numberline {11.12}Nombre: Circulo de fuego.}{98}{section.11.12}
 \contentsline {subsection}{\numberline {11.12.1}Descripci\IeC {\'o}n}{98}{subsection.11.12.1}
-\contentsline {subsection}{\numberline {11.12.2}Portador}{98}{subsection.11.12.2}
-\contentsline {subsection}{\numberline {11.12.3}Esquema}{98}{subsection.11.12.3}
-\contentsline {section}{\numberline {11.13}Nombre: Rugido aturdidor.}{99}{section.11.13}
+\contentsline {subsection}{\numberline {11.12.2}Portador}{99}{subsection.11.12.2}
+\contentsline {subsection}{\numberline {11.12.3}Esquema}{99}{subsection.11.12.3}
+\contentsline {section}{\numberline {11.13}Nombre: Embestida aerea.}{99}{section.11.13}
 \contentsline {subsection}{\numberline {11.13.1}Descripci\IeC {\'o}n}{99}{subsection.11.13.1}
 \contentsline {subsection}{\numberline {11.13.2}Portador}{99}{subsection.11.13.2}
 \contentsline {subsection}{\numberline {11.13.3}Esquema}{99}{subsection.11.13.3}
-\contentsline {section}{\numberline {11.14}Nombre: Circulo de fuego.}{99}{section.11.14}
-\contentsline {subsection}{\numberline {11.14.1}Descripci\IeC {\'o}n}{99}{subsection.11.14.1}
+\contentsline {section}{\numberline {11.14}Nombre: Invisibilidad.}{100}{section.11.14}
+\contentsline {subsection}{\numberline {11.14.1}Descripci\IeC {\'o}n}{100}{subsection.11.14.1}
 \contentsline {subsection}{\numberline {11.14.2}Portador}{100}{subsection.11.14.2}
 \contentsline {subsection}{\numberline {11.14.3}Esquema}{100}{subsection.11.14.3}
-\contentsline {section}{\numberline {11.15}Nombre: Embestida aerea.}{100}{section.11.15}
+\contentsline {section}{\numberline {11.15}Nombre: Tornado.}{100}{section.11.15}
 \contentsline {subsection}{\numberline {11.15.1}Descripci\IeC {\'o}n}{100}{subsection.11.15.1}
 \contentsline {subsection}{\numberline {11.15.2}Portador}{100}{subsection.11.15.2}
 \contentsline {subsection}{\numberline {11.15.3}Esquema}{100}{subsection.11.15.3}
-\contentsline {section}{\numberline {11.16}Nombre: Invisibilidad.}{101}{section.11.16}
-\contentsline {subsection}{\numberline {11.16.1}Descripci\IeC {\'o}n}{101}{subsection.11.16.1}
+\contentsline {section}{\numberline {11.16}Nombre: Ventisca.}{100}{section.11.16}
+\contentsline {subsection}{\numberline {11.16.1}Descripci\IeC {\'o}n}{100}{subsection.11.16.1}
 \contentsline {subsection}{\numberline {11.16.2}Portador}{101}{subsection.11.16.2}
 \contentsline {subsection}{\numberline {11.16.3}Esquema}{101}{subsection.11.16.3}
-\contentsline {section}{\numberline {11.17}Nombre: Tornado.}{101}{section.11.17}
+\contentsline {section}{\numberline {11.17}Nombre: Ra\IeC {\'\i }z del diablo.}{101}{section.11.17}
 \contentsline {subsection}{\numberline {11.17.1}Descripci\IeC {\'o}n}{101}{subsection.11.17.1}
 \contentsline {subsection}{\numberline {11.17.2}Portador}{101}{subsection.11.17.2}
 \contentsline {subsection}{\numberline {11.17.3}Esquema}{101}{subsection.11.17.3}
-\contentsline {section}{\numberline {11.18}Nombre: Ventisca.}{101}{section.11.18}
-\contentsline {subsection}{\numberline {11.18.1}Descripci\IeC {\'o}n}{101}{subsection.11.18.1}
+\contentsline {section}{\numberline {11.18}Nombre: Energ\IeC {\'\i }a corrupta.}{102}{section.11.18}
+\contentsline {subsection}{\numberline {11.18.1}Descripci\IeC {\'o}n}{102}{subsection.11.18.1}
 \contentsline {subsection}{\numberline {11.18.2}Portador}{102}{subsection.11.18.2}
 \contentsline {subsection}{\numberline {11.18.3}Esquema}{102}{subsection.11.18.3}
-\contentsline {section}{\numberline {11.19}Nombre: Ra\IeC {\'\i }z del diablo.}{102}{section.11.19}
+\contentsline {section}{\numberline {11.19}Nombre: Circulo protector.}{102}{section.11.19}
 \contentsline {subsection}{\numberline {11.19.1}Descripci\IeC {\'o}n}{102}{subsection.11.19.1}
 \contentsline {subsection}{\numberline {11.19.2}Portador}{102}{subsection.11.19.2}
-\contentsline {subsection}{\numberline {11.19.3}Esquema}{102}{subsection.11.19.3}
-\contentsline {section}{\numberline {11.20}Nombre: Energ\IeC {\'\i }a corrupta.}{103}{section.11.20}
+\contentsline {subsection}{\numberline {11.19.3}Esquema}{103}{subsection.11.19.3}
+\contentsline {section}{\numberline {11.20}Nombre: LLuvia de lava.}{103}{section.11.20}
 \contentsline {subsection}{\numberline {11.20.1}Descripci\IeC {\'o}n}{103}{subsection.11.20.1}
 \contentsline {subsection}{\numberline {11.20.2}Portador}{103}{subsection.11.20.2}
 \contentsline {subsection}{\numberline {11.20.3}Esquema}{103}{subsection.11.20.3}
-\contentsline {section}{\numberline {11.21}Nombre: Circulo protector.}{103}{section.11.21}
+\contentsline {section}{\numberline {11.21}Nombre: Manotazo.}{103}{section.11.21}
 \contentsline {subsection}{\numberline {11.21.1}Descripci\IeC {\'o}n}{103}{subsection.11.21.1}
-\contentsline {subsection}{\numberline {11.21.2}Portador}{103}{subsection.11.21.2}
+\contentsline {subsection}{\numberline {11.21.2}Portador}{104}{subsection.11.21.2}
 \contentsline {subsection}{\numberline {11.21.3}Esquema}{104}{subsection.11.21.3}
-\contentsline {section}{\numberline {11.22}Nombre: LLuvia de lava.}{104}{section.11.22}
+\contentsline {section}{\numberline {11.22}Nombre: Lluvia de flechas.}{104}{section.11.22}
 \contentsline {subsection}{\numberline {11.22.1}Descripci\IeC {\'o}n}{104}{subsection.11.22.1}
 \contentsline {subsection}{\numberline {11.22.2}Portador}{104}{subsection.11.22.2}
 \contentsline {subsection}{\numberline {11.22.3}Esquema}{104}{subsection.11.22.3}
-\contentsline {section}{\numberline {11.23}Nombre: Manotazo.}{104}{section.11.23}
+\contentsline {section}{\numberline {11.23}Nombre: Todos los hombres del rey.}{104}{section.11.23}
 \contentsline {subsection}{\numberline {11.23.1}Descripci\IeC {\'o}n}{104}{subsection.11.23.1}
-\contentsline {subsection}{\numberline {11.23.2}Portador}{105}{subsection.11.23.2}
-\contentsline {subsection}{\numberline {11.23.3}Esquema}{105}{subsection.11.23.3}
-\contentsline {section}{\numberline {11.24}Nombre: Lluvia de flechas.}{105}{section.11.24}
+\contentsline {subsection}{\numberline {11.23.2}Portador}{104}{subsection.11.23.2}
+\contentsline {subsection}{\numberline {11.23.3}Esquema}{104}{subsection.11.23.3}
+\contentsline {section}{\numberline {11.24}Nombre: Fuego mort\IeC {\'\i }fero.}{105}{section.11.24}
 \contentsline {subsection}{\numberline {11.24.1}Descripci\IeC {\'o}n}{105}{subsection.11.24.1}
 \contentsline {subsection}{\numberline {11.24.2}Portador}{105}{subsection.11.24.2}
 \contentsline {subsection}{\numberline {11.24.3}Esquema}{105}{subsection.11.24.3}
-\contentsline {section}{\numberline {11.25}Nombre: Todos los hombres del rey.}{105}{section.11.25}
+\contentsline {section}{\numberline {11.25}Nombre: Penitencia.}{105}{section.11.25}
 \contentsline {subsection}{\numberline {11.25.1}Descripci\IeC {\'o}n}{105}{subsection.11.25.1}
 \contentsline {subsection}{\numberline {11.25.2}Portador}{105}{subsection.11.25.2}
-\contentsline {subsection}{\numberline {11.25.3}Esquema}{105}{subsection.11.25.3}
-\contentsline {section}{\numberline {11.26}Nombre: Fuego mort\IeC {\'\i }fero.}{106}{section.11.26}
+\contentsline {subsection}{\numberline {11.25.3}Esquema}{106}{subsection.11.25.3}
+\contentsline {section}{\numberline {11.26}Nombre: Lluvia de huesos.}{106}{section.11.26}
 \contentsline {subsection}{\numberline {11.26.1}Descripci\IeC {\'o}n}{106}{subsection.11.26.1}
 \contentsline {subsection}{\numberline {11.26.2}Portador}{106}{subsection.11.26.2}
 \contentsline {subsection}{\numberline {11.26.3}Esquema}{106}{subsection.11.26.3}
-\contentsline {section}{\numberline {11.27}Nombre: Penitencia.}{106}{section.11.27}
+\contentsline {section}{\numberline {11.27}Nombre: Estocada mort\IeC {\'\i }fera..}{106}{section.11.27}
 \contentsline {subsection}{\numberline {11.27.1}Descripci\IeC {\'o}n}{106}{subsection.11.27.1}
-\contentsline {subsection}{\numberline {11.27.2}Portador}{106}{subsection.11.27.2}
+\contentsline {subsection}{\numberline {11.27.2}Portador}{107}{subsection.11.27.2}
 \contentsline {subsection}{\numberline {11.27.3}Esquema}{107}{subsection.11.27.3}
-\contentsline {section}{\numberline {11.28}Nombre: Lluvia de huesos.}{107}{section.11.28}
-\contentsline {subsection}{\numberline {11.28.1}Descripci\IeC {\'o}n}{107}{subsection.11.28.1}
-\contentsline {subsection}{\numberline {11.28.2}Portador}{107}{subsection.11.28.2}
-\contentsline {subsection}{\numberline {11.28.3}Esquema}{107}{subsection.11.28.3}
-\contentsline {section}{\numberline {11.29}Nombre: Estocada mort\IeC {\'\i }fera..}{107}{section.11.29}
-\contentsline {subsection}{\numberline {11.29.1}Descripci\IeC {\'o}n}{107}{subsection.11.29.1}
-\contentsline {subsection}{\numberline {11.29.2}Portador}{108}{subsection.11.29.2}
-\contentsline {subsection}{\numberline {11.29.3}Esquema}{108}{subsection.11.29.3}
 \contentsline {chapter}{\numberline {12}Armas.}{109}{chapter.12}
 \contentsline {section}{\numberline {12.1}Nombre: Caracola.}{109}{section.12.1}
 \contentsline {subsection}{\numberline {12.1.1}Descripci\IeC {\'o}n}{109}{subsection.12.1.1}
