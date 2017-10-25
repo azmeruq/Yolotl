@@ -362,7 +362,7 @@
 \contentsline {subsection}{\numberline {9.22.5}Habilidades:}{82}{subsection.9.22.5}
 \contentsline {subsection}{\numberline {9.22.6}Patr\IeC {\'o}n de ataque:}{82}{subsection.9.22.6}
 \contentsline {subsection}{\numberline {9.22.7}Bloques de animaci\IeC {\'o}n:}{82}{subsection.9.22.7}
-\contentsline {section}{\numberline {9.23}Nombre: Chara enana}{83}{section.9.23}
+\contentsline {section}{\numberline {9.23}Nombre: Zopilote}{83}{section.9.23}
 \contentsline {subsection}{\numberline {9.23.1}Descripci\IeC {\'o}n:}{83}{subsection.9.23.1}
 \contentsline {subsection}{\numberline {9.23.2}Status:}{83}{subsection.9.23.2}
 \contentsline {subsection}{\numberline {9.23.3}Imagen}{83}{subsection.9.23.3}
@@ -370,43 +370,51 @@
 \contentsline {subsection}{\numberline {9.23.5}Habilidades:}{83}{subsection.9.23.5}
 \contentsline {subsection}{\numberline {9.23.6}Patr\IeC {\'o}n de ataque:}{83}{subsection.9.23.6}
 \contentsline {subsection}{\numberline {9.23.7}Bloques de animaci\IeC {\'o}n:}{83}{subsection.9.23.7}
+\contentsline {section}{\numberline {9.24}Nombre: Chara enana}{84}{section.9.24}
+\contentsline {subsection}{\numberline {9.24.1}Descripci\IeC {\'o}n:}{84}{subsection.9.24.1}
+\contentsline {subsection}{\numberline {9.24.2}Status:}{84}{subsection.9.24.2}
+\contentsline {subsection}{\numberline {9.24.3}Imagen}{84}{subsection.9.24.3}
+\contentsline {subsection}{\numberline {9.24.4}Encuentro:}{84}{subsection.9.24.4}
+\contentsline {subsection}{\numberline {9.24.5}Habilidades:}{84}{subsection.9.24.5}
+\contentsline {subsection}{\numberline {9.24.6}Patr\IeC {\'o}n de ataque:}{84}{subsection.9.24.6}
+\contentsline {subsection}{\numberline {9.24.7}Bloques de animaci\IeC {\'o}n:}{84}{subsection.9.24.7}
 \contentsline {chapter}{\numberline {10}Obst\IeC {\'a}culos}{85}{chapter.10}
 \contentsline {section}{\numberline {10.1}Nombre: Caja}{85}{section.10.1}
 \contentsline {subsection}{\numberline {10.1.1}Descripci\IeC {\'o}n}{85}{subsection.10.1.1}
 \contentsline {subsection}{\numberline {10.1.2}Esquema}{85}{subsection.10.1.2}
 \contentsline {section}{\numberline {10.2}Nombre: Sacos cacao}{85}{section.10.2}
 \contentsline {subsection}{\numberline {10.2.1}Descripci\IeC {\'o}n}{85}{subsection.10.2.1}
-\contentsline {subsection}{\numberline {10.2.2}Esquema}{85}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.2}Esquema}{86}{subsection.10.2.2}
 \contentsline {section}{\numberline {10.3}Nombre: Plataforma m\IeC {\'o}vil}{86}{section.10.3}
 \contentsline {subsection}{\numberline {10.3.1}Descripci\IeC {\'o}n}{86}{subsection.10.3.1}
 \contentsline {subsection}{\numberline {10.3.2}Esquema}{86}{subsection.10.3.2}
 \contentsline {section}{\numberline {10.4}Nombre: Plataforma que cae.}{86}{section.10.4}
 \contentsline {subsection}{\numberline {10.4.1}Descripci\IeC {\'o}n}{86}{subsection.10.4.1}
-\contentsline {subsection}{\numberline {10.4.2}Esquema}{86}{subsection.10.4.2}
+\contentsline {subsection}{\numberline {10.4.2}Esquema}{87}{subsection.10.4.2}
 \contentsline {section}{\numberline {10.5}Nombre: Rocas}{87}{section.10.5}
 \contentsline {subsection}{\numberline {10.5.1}Descripci\IeC {\'o}n}{87}{subsection.10.5.1}
 \contentsline {subsection}{\numberline {10.5.2}Esquema}{87}{subsection.10.5.2}
 \contentsline {section}{\numberline {10.6}Nombre: Viento temporal}{87}{section.10.6}
 \contentsline {subsection}{\numberline {10.6.1}Descripci\IeC {\'o}n}{87}{subsection.10.6.1}
-\contentsline {subsection}{\numberline {10.6.2}Esquema}{87}{subsection.10.6.2}
+\contentsline {subsection}{\numberline {10.6.2}Esquema}{88}{subsection.10.6.2}
 \contentsline {section}{\numberline {10.7}Nombre: Piedras filosas}{88}{section.10.7}
 \contentsline {subsection}{\numberline {10.7.1}Descripci\IeC {\'o}n}{88}{subsection.10.7.1}
 \contentsline {subsection}{\numberline {10.7.2}Esquema}{88}{subsection.10.7.2}
 \contentsline {section}{\numberline {10.8}Nombre: Piso congelado}{88}{section.10.8}
 \contentsline {subsection}{\numberline {10.8.1}Descripci\IeC {\'o}n}{88}{subsection.10.8.1}
-\contentsline {subsection}{\numberline {10.8.2}Esquema}{88}{subsection.10.8.2}
+\contentsline {subsection}{\numberline {10.8.2}Esquema}{89}{subsection.10.8.2}
 \contentsline {section}{\numberline {10.9}Nombre: Plataforma que desaparece}{89}{section.10.9}
 \contentsline {subsection}{\numberline {10.9.1}Descripci\IeC {\'o}n}{89}{subsection.10.9.1}
 \contentsline {subsection}{\numberline {10.9.2}Esquema}{89}{subsection.10.9.2}
 \contentsline {section}{\numberline {10.10}Nombre: Bolas de nieve}{89}{section.10.10}
 \contentsline {subsection}{\numberline {10.10.1}Descripci\IeC {\'o}n}{89}{subsection.10.10.1}
-\contentsline {subsection}{\numberline {10.10.2}Esquema}{89}{subsection.10.10.2}
+\contentsline {subsection}{\numberline {10.10.2}Esquema}{90}{subsection.10.10.2}
 \contentsline {section}{\numberline {10.11}Nombre: Viento multidireccional}{90}{section.10.11}
 \contentsline {subsection}{\numberline {10.11.1}Descripci\IeC {\'o}n}{90}{subsection.10.11.1}
 \contentsline {subsection}{\numberline {10.11.2}Esquema}{90}{subsection.10.11.2}
-\contentsline {section}{\numberline {10.12}Nombre: Lluvia de flechas}{90}{section.10.12}
-\contentsline {subsection}{\numberline {10.12.1}Descripci\IeC {\'o}n}{90}{subsection.10.12.1}
-\contentsline {subsection}{\numberline {10.12.2}Esquema}{90}{subsection.10.12.2}
+\contentsline {section}{\numberline {10.12}Nombre: Lluvia de flechas}{91}{section.10.12}
+\contentsline {subsection}{\numberline {10.12.1}Descripci\IeC {\'o}n}{91}{subsection.10.12.1}
+\contentsline {subsection}{\numberline {10.12.2}Esquema}{91}{subsection.10.12.2}
 \contentsline {chapter}{\numberline {11}Habilidades.}{93}{chapter.11}
 \contentsline {section}{\numberline {11.1}Cuchillas de obsidiana}{93}{section.11.1}
 \contentsline {subsection}{\numberline {11.1.1}Descripci\IeC {\'o}n}{93}{subsection.11.1.1}
