@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e458411c3d7904b48acc0a4f833a5487
+timeCreated: 1508075320
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mayan
+  fontNames:
+  - Mayan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
