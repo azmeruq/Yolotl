@@ -1,7 +1,19 @@
 \section{Nombre: Malinalli Tenépal.} \label{per:malinalli}
 	\subsection{Descripción:}
-Joven de quince años de origen mexica. Malinalli tiene el cabello negro y largo por debajo de la cintura, acostumbra a llevarlo suelto, usando solo una peineta con forma de flor para sujetarlo del lado izquierdo de la cabeza. Sus ojos son de color café obscuro y su piel es morena. Viste un top y un short color manta. Su calzado es propio del que usaban los guerreros mexicas de alto rango, siendo del mismo color que el resto de su ropa.   
+Joven de quince años de origen mexica. Malinalli tiene el cabello negro y largo por debajo de la cintura, acostumbra a llevarlo suelto, usando solo una peineta con forma de flor para sujetarlo del lado izquierdo de la cabeza. Sus ojos son de color café obscuro y su piel es morena. Viste un top y un short color manta. Su calzado es propio del que usaban los guerreros mexicas de alto rango, siendo del mismo color que el resto de su ropa.  
+\subsection{Status:}
+	\begin{itemize}
+		\item Protagonista.
+		\item Personaje jugable.
+	\end{itemize} 
 \subsection{Imagen}
+Ver figura \ref{fig:MalinalliDiseno}
+\begin{figure}
+				\centering
+				\includegraphics[height=0.3 \textheight]{Imagenes/malinalli}
+				\caption{Concepto de diseño de Malinalli.}
+				\label{fig:MalinalliDiseno}
+\end{figure}
 \subsection{Concepto:}
 \begin{itemize}
 	\item \textbf{Historia antes del juego:}
@@ -38,3 +50,12 @@ Caracola (ver apartado \ref{Arma:Caracola}).
 \end{itemize}
 
 \subsection{Bloques de animación}
+\begin{itemize}
+		\item Animación correr.
+		\item Animación saltar.
+		\item Animación correr con caracola.
+		\item Animación saltar con caracola.
+		\item Animación normal.
+		\item Animación recibir daño.
+		\item Animación morir. 
+\end{itemize}

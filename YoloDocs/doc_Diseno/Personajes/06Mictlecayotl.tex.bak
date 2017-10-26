@@ -7,10 +7,12 @@ Mictlecayotl es una deidad guerrera por lo que su vestimenta está orientada a l
 Mictlecayotl se caracteriza por ser de actitud paciente y callada pero orgullosa. No tiene problemas para relacionarse con otros dioses. Es una persona reservada que difícilmente hablara sobre ella y sus problemas, pero está dispuesta a escuchar a los demás y a ayudarlos. Siente una gran compasión por la raza humana por lo que trata de que los difuntos encuentren la paz en su paso por su nivel del infierno por lo que no es extraño verla ayudando a quienes demuestren ser dignos.  
 \\
 \par
-\textbf{Nota de diseño}: Su paleta de colores está basada en los códices de Ehécatl, predominando el verde en diferentes escalas y el rojo en tonalidades oscuras. 	  
+\textbf{Nota de diseño}: Su paleta de colores será una variación de diferentes tonalidades de azul. 	  
 \subsection{Status:}
-Personaje no jugable.
-Jefe del quinto nivel. Debe de ser derrotado para poder avanzar.
+	\begin{itemize}
+		\item Personaje no jugable.
+		\item Enemigo jefe.
+	\end{itemize}
 \subsection{Imagen}
 \subsection{Concepto:}
 \begin{itemize}
@@ -53,9 +55,9 @@ Trepa viento (ver aparatado \ref{Arma:EspadaMictlecayotl}).
 Sin ítems.
 \subsection{Bloques de animación}
 	\begin{itemize}
-                        \item Animación disparar viento.
-                        \item Animación invocar tornado.
-                        \item Animación volar.
-                        \item Animación recibir daño.
-						\item Animación morir.
-                \end{itemize} 
+		\item Animación disparar viento.
+		\item Animación invocar tornado.
+		\item Animación volar.
+		\item Animación recibir daño.
+		\item Animación morir.
+	\end{itemize} 
