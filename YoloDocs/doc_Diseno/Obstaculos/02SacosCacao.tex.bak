@@ -1,0 +1,15 @@
+\section{Nombre: Sacos cacao}\label{obs.saco}
+\subsection{Descripción}
+Conjunto de seis sacos de cacao apilados en tres niveles, el primer nivel tendra tres sacos, el segundo nivel dos y por último solo uno. Tiene dos comportamientos:
+\begin{itemize}
+	\item Como objeto de fondo, en donde le jugador podrá pasarlo de largo sin ningún tipo de interacción. 
+	\item Como obstáculo, en donde es inamovible e indestructible. El jugador deberá saltarla para superarla.
+\end{itemize}
+\subsection{Esquema}
+Ver figura \ref{fig:sacosCacao}.
+\begin{figure}
+	\centering
+	\includegraphics[height=0.1 \textheight]{Imagenes/cacao02}
+	\caption{Sacos cacao.}
+	\label{fig:sacosCacao}
+\end{figure}
