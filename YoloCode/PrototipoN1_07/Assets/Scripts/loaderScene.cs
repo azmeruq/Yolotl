@@ -4,10 +4,14 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class loaderScene : MonoBehaviour {
-	public string sceneName;
+	private string sceneName;
 	// Use this for initialization
 	public void changeScene(){
 		SceneManager.LoadScene (sceneName);
+	}
+
+	public void SetSceneName(string sceneN){
+		sceneName = sceneN;
 	}
 
 	void OnTriggerEnter2D(Collider2D other) {

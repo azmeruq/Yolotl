@@ -7,7 +7,7 @@ public class DroppingPlatform : MonoBehaviour {
 	// Use this for initialization
 	private float DroppingDelay;
 	private Rigidbody2D rb;
-	private Player player;
+
 
 	void Start () {
 		rb = GetComponent<Rigidbody2D> ();
