@@ -50,6 +50,10 @@ public class Feet : MonoBehaviour {
 			//Debug.Log(player.GetIsJumping());
 		}
 
+		if (other.gameObject.CompareTag ("HighGround")) {
+			player.SetIsJumping (false);;
+		}
+
 	}
 
 	void OnTriggerExit2D(Collider2D other){

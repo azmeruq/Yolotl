@@ -34,7 +34,7 @@ public class Player : MonoBehaviour {
 	// Para el disparo
 	//private GameObject tonalliPosition;
 	//private GameObject tonalli;
-	public Transform tonalliPosition;
+	private Transform tonalliPosition;
 	public GameObject tonalli;
 
 	//Comunicación con el DIALOGUEMANAGER
@@ -48,7 +48,7 @@ public class Player : MonoBehaviour {
 		anim = GetComponent<Animator> ();
 		rd = GetComponent<Rigidbody2D> ();
 		sr = GetComponent<SpriteRenderer> ();
-
+		tonalliPosition = ((GameObject.FindWithTag("Player")).transform.Find ("TonalliReference").gameObject).GetComponent <Transform>();
 		mob = FindObjectOfType<MobileUICtrl> ();
 		//tonalliPosition = GameObject.FindGameObjectWithTag ("ReferenciaTonalli");
 		//feet = FindObjectOfType<Feet> ();
@@ -60,6 +60,8 @@ public class Player : MonoBehaviour {
 		//horizontalSpeed = 5f;
 		setHorizontalSpeed(5f);
 		setVerticalSpeed (600f);
+
+
 	}
 	
 	// Update is called once per frame
