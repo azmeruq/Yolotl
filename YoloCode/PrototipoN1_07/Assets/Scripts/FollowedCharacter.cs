@@ -6,8 +6,8 @@ public class FollowedCharacter : MonoBehaviour {
 	private Transform playerPosition;
 	private Transform characterPosition;
 	private Animator characterAnimator;
-	private GameObject[] wayPoints;
-	//private int sizeWayPoints;
+	private Transform[] wayPoints;
+	private int sizeWayPoints;
 	int controlWayPoints;
 
 	// Use this for initialization
@@ -15,9 +15,10 @@ public class FollowedCharacter : MonoBehaviour {
 		playerPosition = (GameObject.FindWithTag("Player")).GetComponent <Transform>();
 		characterPosition = GetComponent <Transform> ();
 		characterAnimator = GetComponent <Animator> ();
-		wayPoints = GameObject.FindGameObjectsWithTag("XolotlJump");
-		//sizeWayPoints = wayPoints.Length;
-		controlWayPoints = wayPoints.Length -1;
+		wayPoints = (GameObject.FindWithTag("XolotlJump")).GetComponentsInChildren<Transform>();
+		sizeWayPoints = wayPoints.Length;
+		//controlWayPoints = wayPoints.Length -1;
+		controlWayPoints = 0;
 		//nextPosXLim = ;
 		//Debug.Log (sizeWayPoints);
 
@@ -26,7 +27,7 @@ public class FollowedCharacter : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Mathf.Abs(characterPosition.position.x - playerPosition.position.x) <= 12.258f) {
-			if (characterPosition.position == wayPoints [controlWayPoints].GetComponent<Transform> ().position) {
+			if (characterPosition.position == wayPoints [controlWayPoints].position) {
 				upDateControlWayPoints ();
 			}
 			MoveCharacterHorizontal ();
@@ -48,8 +49,10 @@ public class FollowedCharacter : MonoBehaviour {
 	}
 		
 	public void upDateControlWayPoints (){
-		if (controlWayPoints > 0) 
-			controlWayPoints --;
+		//if (controlWayPoints > 0) 
+		if(controlWayPoints < sizeWayPoints)
+			controlWayPoints ++;
+			//controlWayPoints --;
 	}
 		
 }
