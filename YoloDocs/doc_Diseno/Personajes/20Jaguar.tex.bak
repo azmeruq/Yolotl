@@ -1,0 +1,21 @@
+\section{Nombre: Jaguar}   \label{per:jaguar}
+\subsection{Descripción:}
+Felino de color amarillo con manchas negras. A pesar de ser un ser de propiedades mágicas, posee la apariencia de un jaguar común; sin embargo, posee un tamaño y una fuerza superior a éste.
+\subsection{Status:}
+NPC, enemigo.
+\subsection{Imagen}
+Ver figura \ref{fig:jaguar}.
+\begin{figure}
+	\centering
+	\includegraphics[height=0.2 \textheight]{Imagenes/jaguar}
+	\caption{Jaguar.}
+	\label{fig:jaguar}
+\end{figure}
+\subsection{Encuentro:}
+En el nivel 8 (ver apartado \ref{Nivel:Niv08}).
+\subsection{Habilidades:}
+\begin{itemize}
+	\item Embestida (ver apartado \ref{hab.embestida}).
+\end{itemize}
+\subsection{Patrón de ataque:}
+El enemigo se desplazara del punto A al B utilizando la habilidad de embestida, permanecerá en el punto B por unos segundos .

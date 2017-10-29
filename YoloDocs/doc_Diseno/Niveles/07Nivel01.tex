@@ -1,0 +1,111 @@
+\section{Nivel 1} \label{Nivel:Niv01}
+	\subsection{Título del nivel}
+	La chica y el perro.
+	\subsection{Encuentro}
+Nivel introductorio que le permite al jugador familiarizarse con las mecánicas básicas de juego: saltar, moverse y abrir y cerrar cuadros de dialogo. Además, este nivel servirá para mostrar el contexto histórico en el que se sitúa el argumento del juego.
+	\subsection{Descripción}
+	Este nivel se divide en dos etapas: la etapa Tianguis y la etapa selva. A continuación se describirá en que consiste cada etapa.
+	\begin{itemize}
+		\item\textbf{Tianguis}: El jugador controlará a Malinalli y recorrerá un mercado, en donde podrá dialogar con diferentes ciudadanos (ver apartado \ref{per:ciudadanos}). Una vez terminada la interacción con los ciudadanos el jugador tendra disponible la opción de
+dialogar con Xólotl, lo que activará la cinemática 2 (ver apartado \ref{Cin:Cinematica02}).		
+		\item\textbf{Selva}: El jugador tendrá que perseguir a Xólotl por la selva para recuperar el objeto que éste le robó durante la cinemática 2 (ver apartado \ref{Cin:Cinematica02}).  Xólotl utiliza este encuentro para probar la valentía de Malinalli ante situaciones en las que se encuentre en peligro, pero sin la oportunidad de defenderse.    
+		
+	\end{itemize}
+
+	\subsection{Objetivos}
+\begin{itemize}
+	\item \textbf{Tianguis}:
+	\begin{itemize}
+		\item El jugador deberá de activar al menos cuatro diálogos para poder desbloquear la infección con Xólotl, lo que mostrará la cinemática 2 (ver apartado\ref{Cin:Cinematica02}).	
+		\item El jugador solo podrá dialogar con aquellos ciudadanos que posean el icono de dialogo sobre ellos. La interacción entre Malinalli y los ciudadanos se dará cuando el jugador colisione con un ciudadano que posea un icono de dialogo y pulse el botón de disparo, esta acción hará que aparezca un cuadro de dialogo; la interacción entre el jugador y el ciudadano terminara cuando el jugador pulse el botón de disparo para cerrar el cuadro de dialogo. El contador  que le permite al jugador conocer cuantos diálogos han sido activados debido a la interacción con ciudadanos, se encontrará en la parte superior derecha de la pantalla. Este contador estará precedido del icono de dialogo. Seguido de este contador habrá otro contador precedido por un icono con la imagen de Xólotl, esto con el fin de ayudarle al jugador a saber que tendrá que interactuar con Xólotl en ese nivel. El contador de diálogos se actualizará solamente cuando se intercatue por primera vez con un ciudadano, por lo que no será posible que el juego contabilice dos veces una interacción con el mismo ciudadano. 
+		\item El jugador interactuará con Xólotl del mismo modo que con los ciudadanos, con la diferencia que en lugar de que aparezca un cuadro de dialogo de esta interacción, se desencadenará la cinemática 2 (ver apartado \ref{Cin:Cinematica02}) y se cargará la zona de selva.
+	\end{itemize}
+				
+	\item \textbf{Selva}: 
+		\begin{itemize}
+			\item 	El jugador deberá de seguir a Xólotl. Durante la persecución deberá de superar obstáculos y plataformas saltándolos. Durante la persecución Xólotl siempre mantendrá una distancia fija del jugador, haciéndolo imposible de atrapar. El objetivo de hacer imposible de atrapar a Xólotl es garantizar que el jugador llegue a la zona en donde se desarrollara la cinemática 3  (ver apartado \ref{Cin:Cinematica03}).
+			\item Obtener la caracola (ver apartado \ref{Arma:Caracola}).
+			\item Ver cinemática 3 (ver apartado \ref{Cin:Cinematica03}).
+	\end{itemize}
+\end{itemize}
+	\subsection{Progreso}
+	Al concluir el nivel el jugador:
+\begin{itemize}
+	\item El jugador podrá ver las siguientes cinemáticas:
+	\begin{itemize}
+		\item Cinemática 3 (ver apartado \ref{Cin:Cinematica03}).
+		\item Cinemática 4 (ver apartado \ref{Cin:Cinematica04}).
+	\end{itemize}
+\item Desbloqueará el segundo nivel del juego (ver apartado \ref{Nivel:Niv02}) en el menú de selección de nivel (ver apartado \ref{inter:interfaz03}).
+\item Obtendrá el objeto caracola con lo que se habilitará el botón de disparo en la interfaz gráfica del juego.
+\end{itemize}
+	\subsection{Enemigos}
+Al ser un nivel introductorio de mecánicas de juego no orientadas al combate, el nivel no cuenta con enemigos.
+	\subsection{Items}
+Ningún item utilizable.
+	\subsection{Personajes}
+		\begin{itemize}
+			\item Malinalli (ver apartado			\ref{per:malinalli}).	
+			\item Xólotl (ver apartado \ref{per:xolotl}).	
+		
+			\item Ciudadanos (ver apartado \ref{per:ciudadanos}).
+			 
+		\end{itemize}
+\subsection{Escenario}
+\begin{itemize} 
+	\item Fondo:
+\begin{itemize}
+			\item Ciudad de \ref{Centla}: Se ve el templo a la lejanía y unas casas. Este fondo se usará en la etapa del tianguis del nivel.
+			\item Selva: La ciudad se ve más alejada, hay árboles en un plano más cercano. Este fondo se utilizará en la etapa de la selva  
+\end{itemize}	
+	\item Suelo:
+		\begin{itemize}
+			\item Suelo pavimentado: Será usado en el tianguis.
+			\item Suelo con pasto: Será usado en la selva.
+		\end{itemize}
+	\item Obstáculos:
+		\begin{itemize}
+			\item Tianguis
+				Sin obstáculos.
+			\item Selva
+				\begin{itemize}
+					\item Caja. Ver en \ref{obs.caja}.
+					\item Sacos Cacao. Ver en \ref{obs.saco}.
+				\end{itemize}
+		\end{itemize}
+	\item Objetos de fondo:
+		\begin{itemize}
+			\item Tianguis
+				\begin{itemize}
+					\item Jarrón
+					\item Saco de cacao
+					\item Sacos de cacao apilados
+				\end{itemize}
+			\item Selva
+				\begin{itemize}
+					\item Arbusto
+				\end{itemize}
+
+		\end{itemize}
+\end{itemize}	
+\subsection{Referencia a BGM y SFX}
+\begin{itemize} 
+	\item BGM.
+	\begin{itemize}
+		\item Música  mercado (ver apartado \ref{Musica:N01_ZN01}).
+		\item Música  selva (ver apartado \ref{Musica:N01_ZN02}).
+		\item Música  Xolotl (ver apartado \ref{Musica:Xolotl}).
+	\end{itemize} 
+	\item SFX:
+	\begin{itemize}
+		\item Bullicio (ver apartado \ref{SFX:Bullicio}).
+		\item Pasos (ver apartado \ref{SFX:Pasos}).
+		\item Viento (ver apartado \ref{SFX:Viento}).
+		\item Ladrido (ver apartado \ref{SFX:Ladrido}).
+\	end{itemize}
+\end{itemize}
+\subsection{Referencia a FX}
+\begin{itemize}
+	\item Circulo de luz (ver apartado \ref{FX:CirLuz}).
+\end{itemize}
+\end{itemize}

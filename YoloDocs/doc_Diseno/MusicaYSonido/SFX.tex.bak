@@ -1,0 +1,54 @@
+\section{Efectos de sonido} 
+\subsection{Bullicio.} \label{SFX:Bullicio}
+Efecto sonóro de fondo de gente hablando y caminando en el tianguis
+%-------------------------------------
+\subsection{Pasos.}\label{SFX:Pasos}
+Este efecto se activará cuando Malinalli camine.
+%-------------------------------------
+\subsection{Viento.}\label{SFX:Viento}
+Sonido de una briza de viento, se usará en el juego para .
+%-------------------------------------
+\subsection{Ladrido.}\label{SFX:Ladrido}
+Este efecto sonará cuando Xólotl le robe el objeto a Malinalli.
+%-------------------------------------
+\subsection{Explosión de agua.} \label{SFX:ExpAgua}
+ Este sonido se usará cuando se utilice la habilidad burbuja (ver apartado \ref{hab.burbujas}).
+ %-------------------------------------
+\subsection{Salpicadura de agua.} \label{SFX:SalAgua}
+Sonido cuando un personaje salta y aterriza en el agua.  
+%-------------------------------------
+\subsection{Rugido.} \label{SFX:Rugido}
+Este sonido sera utilizado cuando se active la habilidad de rugido (ver apartado \ref{hab.RugAtur}) o la habilidad de Lluvia de rocas (ver apartado \ref{hab.LLuviaRocas}).
+%-------------------------------------
+\subsection{Roca estrellándose.} \label{SFX:RocaEs}
+Este sonido acompañará las habilidades impacto (ver apartado \ref{hab.impacto}) y lluvia de rocas (ver apartado \ref{hab.LLuviaRocas}).
+%-------------------------------------
+\subsection{Aleteo de alas.} \label{SFX:Aleteo}
+Sonido del aleteo de una mariposa. Ese sonido se usará cada vez que Itzpápalotl se mueve.
+%-------------------------------------
+\subsection{Sonido de fuego} \label{SFX:Fuego}
+Sonido del chasquido que hace el fuego cuando quema leña en una noche fría. 
+%-------------------------------------
+\subsection{Hielo resquebrajándose.} \label{SFX:HieloRes}
+Sonido que acompañará al momento en el que el jugador colisiona con una plataforma que caer (ver apartado \ref{obs.plataformaD}) en el nivel 5 (ver apartado \ref{Nivel:Niv05}).
+%-------------------------------------
+\subsection{Pasos sobre el hielo.} \label{SFX:PasHiel}
+Sonido de pasos sobre hielo. Este sonido acompañará el movimiento del jugador durante el nivel 5 (ver apartado \ref{Nivel:Niv05}).
+%-------------------------------------
+\subsection{Risa de mujer.}\label{SFX:risaM}
+Risa burlona de mujer. Esta risa acompaña a la habilidad de Raíz del diablo (ver aparatdo \ref{hab.RaizDia}).
+
+\subsection{Liquido viscoso.}\label{SFX:ligVisc}
+Sonido del fluido de algún liquido viscoso. Este sonido acompañara a las habilidades de Energía corrupta (ver apartado \ref{hab.CorrupEner}) y Circulo protector (ver apartado \ref{hab.CirPro}).
+%-----------------------------------------
+\subsection{Golpe.} \label{SFX:golpe}
+Sonido de golpe con el puño contra superficie solida con gran fuerza.
+%-----------------------------------------
+\subsection{Silbido.} \label{SFX:silbido}
+Sonido de silbido en el aire, este sonido indica que activara la habilidad lluvia de flechas (ver apartado \ref{hab.LluviaFle}).
+%-------------------------------------------
+\subsection{Gritos de personas.} \label{SFX:griPersonas}
+Gritos de desesperación de personas.
+%-------------------------------------------
+\subsection{Explosión de huesos.} \label{SFX:exHuesos}
+Sonido de explosión que acompaña al efecto explosión de hueso (ver apartadoa \ref{FX:exHuesos}).

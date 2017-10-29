@@ -1,0 +1,21 @@
+\section{Nombre: Chara enana}   \label{per:chara}
+\subsection{Descripción:}
+Ave magica que habita el Mictlán. Su cuerpo de presenta Ave de color azul oscuro. 
+\subsection{Status:}
+NPC, enemigo.
+\subsection{Imagen}
+
+%\begin{figure}
+%	\centering
+%	\includegraphics[height=0.2 \textheight]{Imagenes/jaguar}
+%	\caption{Jaguar.}
+%	\label{fig:jaguar}
+%\end{figure}
+\subsection{Encuentro:}
+En el nivel 8.
+\subsection{Habilidades:}
+\begin{itemize}
+	\item Zarpazo. Ver en \ref{hab.zarpazo}.
+\end{itemize}
+\subsection{Patrón de ataque:}
+El felino va de un lado hacia otro en dirección horizontal, cuando se encuentra con el jugador tira un zarpazo.

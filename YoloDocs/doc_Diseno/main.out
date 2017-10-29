@@ -1,0 +1,687 @@
+\BOOKMARK [0][-]{chapter.1}{Concepto}{}% 1
+\BOOKMARK [1][-]{section.1.1}{T\355tulo:}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Dise\361adoras:}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{G\351nero:}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Plataforma:}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Versi\363n:}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Sinopsis de jugabilidad:}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.7}{Sinopsis de contenido:}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.8}{Categor\355a:}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.9}{Licencia:}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.10}{Mec\341nica:}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.11}{Tecnolog\355a:}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.12}{P\372blico:}{chapter.1}% 13
+\BOOKMARK [0][-]{chapter.2}{Historial de versiones}{}% 14
+\BOOKMARK [0][-]{chapter.3}{Visi\363n general del juego}{}% 15
+\BOOKMARK [0][-]{chapter.4}{Mec\341nica de juego}{}% 16
+\BOOKMARK [1][-]{section.4.1}{C\341mara}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.2}{Perif\351ricos}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.3}{Controles}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.4}{Guardar/Cargar}{chapter.4}% 20
+\BOOKMARK [2][-]{subsection.4.4.1}{Guardar}{section.4.4}% 21
+\BOOKMARK [2][-]{subsection.4.4.2}{Cargar}{section.4.4}% 22
+\BOOKMARK [0][-]{chapter.5}{Estados del juego}{}% 23
+\BOOKMARK [0][-]{chapter.6}{Interfaces}{}% 24
+\BOOKMARK [1][-]{section.6.1}{Interfaz 1.00 Pantalla de inicio.}{chapter.6}% 25
+\BOOKMARK [2][-]{subsection.6.1.1}{Descripci\363n de la pantalla}{section.6.1}% 26
+\BOOKMARK [2][-]{subsection.6.1.2}{Estados del juego}{section.6.1}% 27
+\BOOKMARK [2][-]{subsection.6.1.3}{Imagen}{section.6.1}% 28
+\BOOKMARK [1][-]{section.6.2}{Interfaz 2.00 Men\372 principal.}{chapter.6}% 29
+\BOOKMARK [2][-]{subsection.6.2.1}{Descripci\363n de la pantalla}{section.6.2}% 30
+\BOOKMARK [2][-]{subsection.6.2.2}{Estados del juego}{section.6.2}% 31
+\BOOKMARK [2][-]{subsection.6.2.3}{Imagen}{section.6.2}% 32
+\BOOKMARK [1][-]{section.6.3}{Interfaz 3.00 Selecci\363n de nivel}{chapter.6}% 33
+\BOOKMARK [2][-]{subsection.6.3.1}{Descripci\363n de la pantalla}{section.6.3}% 34
+\BOOKMARK [2][-]{subsection.6.3.2}{Estados del juego}{section.6.3}% 35
+\BOOKMARK [2][-]{subsection.6.3.3}{Imagen}{section.6.3}% 36
+\BOOKMARK [0][-]{chapter.7}{Niveles}{}% 37
+\BOOKMARK [1][-]{section.7.1}{Nivel 1}{chapter.7}% 38
+\BOOKMARK [2][-]{subsection.7.1.1}{T\355tulo del nivel}{section.7.1}% 39
+\BOOKMARK [2][-]{subsection.7.1.2}{Encuentro}{section.7.1}% 40
+\BOOKMARK [2][-]{subsection.7.1.3}{Descripci\363n}{section.7.1}% 41
+\BOOKMARK [2][-]{subsection.7.1.4}{Objetivos}{section.7.1}% 42
+\BOOKMARK [2][-]{subsection.7.1.5}{Progreso}{section.7.1}% 43
+\BOOKMARK [2][-]{subsection.7.1.6}{Enemigos}{section.7.1}% 44
+\BOOKMARK [2][-]{subsection.7.1.7}{Items}{section.7.1}% 45
+\BOOKMARK [2][-]{subsection.7.1.8}{Personajes}{section.7.1}% 46
+\BOOKMARK [2][-]{subsection.7.1.9}{Escenario}{section.7.1}% 47
+\BOOKMARK [2][-]{subsection.7.1.10}{Referencia a BGM y SFX}{section.7.1}% 48
+\BOOKMARK [2][-]{subsection.7.1.11}{Referencia a FX}{section.7.1}% 49
+\BOOKMARK [1][-]{section.7.2}{Nivel 2}{chapter.7}% 50
+\BOOKMARK [2][-]{subsection.7.2.1}{T\355tulo del nivel}{section.7.2}% 51
+\BOOKMARK [2][-]{subsection.7.2.2}{Encuentro}{section.7.2}% 52
+\BOOKMARK [2][-]{subsection.7.2.3}{Descripci\363n}{section.7.2}% 53
+\BOOKMARK [2][-]{subsection.7.2.4}{Objetivos}{section.7.2}% 54
+\BOOKMARK [2][-]{subsection.7.2.5}{Progreso}{section.7.2}% 55
+\BOOKMARK [2][-]{subsection.7.2.6}{Enemigos}{section.7.2}% 56
+\BOOKMARK [2][-]{subsection.7.2.7}{Items}{section.7.2}% 57
+\BOOKMARK [2][-]{subsection.7.2.8}{Personajes}{section.7.2}% 58
+\BOOKMARK [2][-]{subsection.7.2.9}{Escenario}{section.7.2}% 59
+\BOOKMARK [2][-]{subsection.7.2.10}{Referencia a BGM y SFX}{section.7.2}% 60
+\BOOKMARK [2][-]{subsection.7.2.11}{Referencia a FX}{section.7.2}% 61
+\BOOKMARK [1][-]{section.7.3}{Nivel 3}{chapter.7}% 62
+\BOOKMARK [2][-]{subsection.7.3.1}{T\355tulo del nivel}{section.7.3}% 63
+\BOOKMARK [2][-]{subsection.7.3.2}{Encuentro}{section.7.3}% 64
+\BOOKMARK [2][-]{subsection.7.3.3}{Descripci\363n}{section.7.3}% 65
+\BOOKMARK [2][-]{subsection.7.3.4}{Objetivos}{section.7.3}% 66
+\BOOKMARK [2][-]{subsection.7.3.5}{Progreso}{section.7.3}% 67
+\BOOKMARK [2][-]{subsection.7.3.6}{Enemigos}{section.7.3}% 68
+\BOOKMARK [2][-]{subsection.7.3.7}{Items}{section.7.3}% 69
+\BOOKMARK [2][-]{subsection.7.3.8}{Personajes}{section.7.3}% 70
+\BOOKMARK [2][-]{subsection.7.3.9}{Escenario}{section.7.3}% 71
+\BOOKMARK [2][-]{subsection.7.3.10}{Referencia a BGM y SFX}{section.7.3}% 72
+\BOOKMARK [2][-]{subsection.7.3.11}{Referencia FX}{section.7.3}% 73
+\BOOKMARK [1][-]{section.7.4}{Nivel 4}{chapter.7}% 74
+\BOOKMARK [2][-]{subsection.7.4.1}{T\355tulo del nivel}{section.7.4}% 75
+\BOOKMARK [2][-]{subsection.7.4.2}{Encuentro}{section.7.4}% 76
+\BOOKMARK [2][-]{subsection.7.4.3}{Descripci\363n}{section.7.4}% 77
+\BOOKMARK [2][-]{subsection.7.4.4}{Objetivos}{section.7.4}% 78
+\BOOKMARK [2][-]{subsection.7.4.5}{Progreso}{section.7.4}% 79
+\BOOKMARK [2][-]{subsection.7.4.6}{Enemigos}{section.7.4}% 80
+\BOOKMARK [2][-]{subsection.7.4.7}{Items}{section.7.4}% 81
+\BOOKMARK [2][-]{subsection.7.4.8}{Personajes}{section.7.4}% 82
+\BOOKMARK [2][-]{subsection.7.4.9}{Escenario}{section.7.4}% 83
+\BOOKMARK [2][-]{subsection.7.4.10}{Referencia a BGM y SFX}{section.7.4}% 84
+\BOOKMARK [2][-]{subsection.7.4.11}{Referencia a FX}{section.7.4}% 85
+\BOOKMARK [1][-]{section.7.5}{Nivel 5}{chapter.7}% 86
+\BOOKMARK [2][-]{subsection.7.5.1}{T\355tulo del nivel}{section.7.5}% 87
+\BOOKMARK [2][-]{subsection.7.5.2}{Encuentro}{section.7.5}% 88
+\BOOKMARK [2][-]{subsection.7.5.3}{Descripci\363n}{section.7.5}% 89
+\BOOKMARK [2][-]{subsection.7.5.4}{Objetivos}{section.7.5}% 90
+\BOOKMARK [2][-]{subsection.7.5.5}{Progreso}{section.7.5}% 91
+\BOOKMARK [2][-]{subsection.7.5.6}{Enemigos}{section.7.5}% 92
+\BOOKMARK [2][-]{subsection.7.5.7}{Items}{section.7.5}% 93
+\BOOKMARK [2][-]{subsection.7.5.8}{Personajes}{section.7.5}% 94
+\BOOKMARK [2][-]{subsection.7.5.9}{Escenario}{section.7.5}% 95
+\BOOKMARK [2][-]{subsection.7.5.10}{Referencia a BGM y SFX}{section.7.5}% 96
+\BOOKMARK [2][-]{subsection.7.5.11}{Referencia a FX}{section.7.5}% 97
+\BOOKMARK [1][-]{section.7.6}{Nivel 6}{chapter.7}% 98
+\BOOKMARK [2][-]{subsection.7.6.1}{T\355tulo del nivel}{section.7.6}% 99
+\BOOKMARK [2][-]{subsection.7.6.2}{Encuentro}{section.7.6}% 100
+\BOOKMARK [2][-]{subsection.7.6.3}{Descripci\363n}{section.7.6}% 101
+\BOOKMARK [2][-]{subsection.7.6.4}{Objetivos}{section.7.6}% 102
+\BOOKMARK [2][-]{subsection.7.6.5}{Progreso}{section.7.6}% 103
+\BOOKMARK [2][-]{subsection.7.6.6}{Enemigos}{section.7.6}% 104
+\BOOKMARK [2][-]{subsection.7.6.7}{Items}{section.7.6}% 105
+\BOOKMARK [2][-]{subsection.7.6.8}{Personajes}{section.7.6}% 106
+\BOOKMARK [2][-]{subsection.7.6.9}{Escenario}{section.7.6}% 107
+\BOOKMARK [2][-]{subsection.7.6.10}{Referencia a BGM y SFX}{section.7.6}% 108
+\BOOKMARK [2][-]{subsection.7.6.11}{Referencia a FX}{section.7.6}% 109
+\BOOKMARK [1][-]{section.7.7}{Nivel 7}{chapter.7}% 110
+\BOOKMARK [2][-]{subsection.7.7.1}{T\355tulo del nivel}{section.7.7}% 111
+\BOOKMARK [2][-]{subsection.7.7.2}{Encuentro}{section.7.7}% 112
+\BOOKMARK [2][-]{subsection.7.7.3}{Descripci\363n}{section.7.7}% 113
+\BOOKMARK [2][-]{subsection.7.7.4}{Objetivos}{section.7.7}% 114
+\BOOKMARK [2][-]{subsection.7.7.5}{Progreso}{section.7.7}% 115
+\BOOKMARK [2][-]{subsection.7.7.6}{Enemigos}{section.7.7}% 116
+\BOOKMARK [2][-]{subsection.7.7.7}{Items}{section.7.7}% 117
+\BOOKMARK [2][-]{subsection.7.7.8}{Personajes}{section.7.7}% 118
+\BOOKMARK [2][-]{subsection.7.7.9}{Escenario}{section.7.7}% 119
+\BOOKMARK [2][-]{subsection.7.7.10}{Referencia a BGM y SFX}{section.7.7}% 120
+\BOOKMARK [2][-]{subsection.7.7.11}{Referencia a FX}{section.7.7}% 121
+\BOOKMARK [1][-]{section.7.8}{Nivel 8}{chapter.7}% 122
+\BOOKMARK [2][-]{subsection.7.8.1}{T\355tulo del nivel}{section.7.8}% 123
+\BOOKMARK [2][-]{subsection.7.8.2}{Encuentro}{section.7.8}% 124
+\BOOKMARK [2][-]{subsection.7.8.3}{Descripci\363n}{section.7.8}% 125
+\BOOKMARK [2][-]{subsection.7.8.4}{Objetivos}{section.7.8}% 126
+\BOOKMARK [2][-]{subsection.7.8.5}{Progreso}{section.7.8}% 127
+\BOOKMARK [2][-]{subsection.7.8.6}{Enemigos}{section.7.8}% 128
+\BOOKMARK [2][-]{subsection.7.8.7}{Items}{section.7.8}% 129
+\BOOKMARK [2][-]{subsection.7.8.8}{Personajes}{section.7.8}% 130
+\BOOKMARK [2][-]{subsection.7.8.9}{Escenario}{section.7.8}% 131
+\BOOKMARK [2][-]{subsection.7.8.10}{Referencia a BGM y SFX}{section.7.8}% 132
+\BOOKMARK [2][-]{subsection.7.8.11}{Referencia a FX}{section.7.8}% 133
+\BOOKMARK [1][-]{section.7.9}{Nivel 9}{chapter.7}% 134
+\BOOKMARK [2][-]{subsection.7.9.1}{T\355tulo del nivel}{section.7.9}% 135
+\BOOKMARK [2][-]{subsection.7.9.2}{Encuentro}{section.7.9}% 136
+\BOOKMARK [2][-]{subsection.7.9.3}{Descripci\363n}{section.7.9}% 137
+\BOOKMARK [2][-]{subsection.7.9.4}{Objetivos}{section.7.9}% 138
+\BOOKMARK [2][-]{subsection.7.9.5}{Progreso}{section.7.9}% 139
+\BOOKMARK [2][-]{subsection.7.9.6}{Enemigos}{section.7.9}% 140
+\BOOKMARK [2][-]{subsection.7.9.7}{Items}{section.7.9}% 141
+\BOOKMARK [2][-]{subsection.7.9.8}{Personajes}{section.7.9}% 142
+\BOOKMARK [2][-]{subsection.7.9.9}{Escenario}{section.7.9}% 143
+\BOOKMARK [2][-]{subsection.7.9.10}{Referencia a BGM y SFX}{section.7.9}% 144
+\BOOKMARK [2][-]{subsection.7.9.11}{Referencia a FX}{section.7.9}% 145
+\BOOKMARK [1][-]{section.7.10}{Nivel 10}{chapter.7}% 146
+\BOOKMARK [2][-]{subsection.7.10.1}{T\355tulo del nivel}{section.7.10}% 147
+\BOOKMARK [2][-]{subsection.7.10.2}{Encuentro}{section.7.10}% 148
+\BOOKMARK [2][-]{subsection.7.10.3}{Descripci\363n}{section.7.10}% 149
+\BOOKMARK [2][-]{subsection.7.10.4}{Objetivos}{section.7.10}% 150
+\BOOKMARK [2][-]{subsection.7.10.5}{Progreso}{section.7.10}% 151
+\BOOKMARK [2][-]{subsection.7.10.6}{Enemigos}{section.7.10}% 152
+\BOOKMARK [2][-]{subsection.7.10.7}{Items}{section.7.10}% 153
+\BOOKMARK [2][-]{subsection.7.10.8}{Personajes}{section.7.10}% 154
+\BOOKMARK [2][-]{subsection.7.10.9}{Escenario}{section.7.10}% 155
+\BOOKMARK [2][-]{subsection.7.10.10}{Referencia a BGM y SFX}{section.7.10}% 156
+\BOOKMARK [2][-]{subsection.7.10.11}{Referencia a FX}{section.7.10}% 157
+\BOOKMARK [0][-]{chapter.8}{Progreso del juego}{}% 158
+\BOOKMARK [0][-]{chapter.9}{Personajes}{}% 159
+\BOOKMARK [1][-]{section.9.1}{Nombre: Malinalli Ten\351pal.}{chapter.9}% 160
+\BOOKMARK [2][-]{subsection.9.1.1}{Descripci\363n:}{section.9.1}% 161
+\BOOKMARK [2][-]{subsection.9.1.2}{Status:}{section.9.1}% 162
+\BOOKMARK [2][-]{subsection.9.1.3}{Imagen}{section.9.1}% 163
+\BOOKMARK [2][-]{subsection.9.1.4}{Concepto:}{section.9.1}% 164
+\BOOKMARK [2][-]{subsection.9.1.5}{Encuentro:}{section.9.1}% 165
+\BOOKMARK [2][-]{subsection.9.1.6}{Habilidades:}{section.9.1}% 166
+\BOOKMARK [2][-]{subsection.9.1.7}{Armas:}{section.9.1}% 167
+\BOOKMARK [2][-]{subsection.9.1.8}{\315tems:}{section.9.1}% 168
+\BOOKMARK [2][-]{subsection.9.1.9}{Bloques de animaci\363n}{section.9.1}% 169
+\BOOKMARK [1][-]{section.9.2}{Nombre: X\363lotl}{chapter.9}% 170
+\BOOKMARK [2][-]{subsection.9.2.1}{Descripci\363n:}{section.9.2}% 171
+\BOOKMARK [2][-]{subsection.9.2.2}{Status:}{section.9.2}% 172
+\BOOKMARK [2][-]{subsection.9.2.3}{Imagen}{section.9.2}% 173
+\BOOKMARK [2][-]{subsection.9.2.4}{Concepto:}{section.9.2}% 174
+\BOOKMARK [2][-]{subsection.9.2.5}{Encuentro:}{section.9.2}% 175
+\BOOKMARK [2][-]{subsection.9.2.6}{Habilidades:}{section.9.2}% 176
+\BOOKMARK [2][-]{subsection.9.2.7}{Armas:}{section.9.2}% 177
+\BOOKMARK [2][-]{subsection.9.2.8}{\315tems:}{section.9.2}% 178
+\BOOKMARK [2][-]{subsection.9.2.9}{Bloques de animaci\363n}{section.9.2}% 179
+\BOOKMARK [1][-]{section.9.3}{Nombre: Xochit\363nal}{chapter.9}% 180
+\BOOKMARK [2][-]{subsection.9.3.1}{Descripci\363n:}{section.9.3}% 181
+\BOOKMARK [2][-]{subsection.9.3.2}{Status:}{section.9.3}% 182
+\BOOKMARK [2][-]{subsection.9.3.3}{Imagen}{section.9.3}% 183
+\BOOKMARK [2][-]{subsection.9.3.4}{Concepto:}{section.9.3}% 184
+\BOOKMARK [2][-]{subsection.9.3.5}{Encuentro:}{section.9.3}% 185
+\BOOKMARK [2][-]{subsection.9.3.6}{Habilidades:}{section.9.3}% 186
+\BOOKMARK [2][-]{subsection.9.3.7}{Armas:}{section.9.3}% 187
+\BOOKMARK [2][-]{subsection.9.3.8}{\315tems:}{section.9.3}% 188
+\BOOKMARK [2][-]{subsection.9.3.9}{Bloques de animaci\363n}{section.9.3}% 189
+\BOOKMARK [1][-]{section.9.4}{Nombre: Tepey\363llotl}{chapter.9}% 190
+\BOOKMARK [2][-]{subsection.9.4.1}{Descripci\363n:}{section.9.4}% 191
+\BOOKMARK [2][-]{subsection.9.4.2}{Status:}{section.9.4}% 192
+\BOOKMARK [2][-]{subsection.9.4.3}{Imagen}{section.9.4}% 193
+\BOOKMARK [2][-]{subsection.9.4.4}{Concepto:}{section.9.4}% 194
+\BOOKMARK [2][-]{subsection.9.4.5}{Encuentro:}{section.9.4}% 195
+\BOOKMARK [2][-]{subsection.9.4.6}{Habilidades:}{section.9.4}% 196
+\BOOKMARK [2][-]{subsection.9.4.7}{Armas:}{section.9.4}% 197
+\BOOKMARK [2][-]{subsection.9.4.8}{\315tems:}{section.9.4}% 198
+\BOOKMARK [2][-]{subsection.9.4.9}{Bloques de animaci\363n}{section.9.4}% 199
+\BOOKMARK [1][-]{section.9.5}{Nombre: Itzp\341palotl}{chapter.9}% 200
+\BOOKMARK [2][-]{subsection.9.5.1}{Descripci\363n:}{section.9.5}% 201
+\BOOKMARK [2][-]{subsection.9.5.2}{Status:}{section.9.5}% 202
+\BOOKMARK [2][-]{subsection.9.5.3}{Imagen}{section.9.5}% 203
+\BOOKMARK [2][-]{subsection.9.5.4}{Concepto:}{section.9.5}% 204
+\BOOKMARK [2][-]{subsection.9.5.5}{Encuentro:}{section.9.5}% 205
+\BOOKMARK [2][-]{subsection.9.5.6}{Habilidades:}{section.9.5}% 206
+\BOOKMARK [2][-]{subsection.9.5.7}{Armas:}{section.9.5}% 207
+\BOOKMARK [2][-]{subsection.9.5.8}{\315tems:}{section.9.5}% 208
+\BOOKMARK [2][-]{subsection.9.5.9}{Bloques de animaci\363n}{section.9.5}% 209
+\BOOKMARK [1][-]{section.9.6}{Nombre: Mictlecayotl}{chapter.9}% 210
+\BOOKMARK [2][-]{subsection.9.6.1}{Descripci\363n:}{section.9.6}% 211
+\BOOKMARK [2][-]{subsection.9.6.2}{Status:}{section.9.6}% 212
+\BOOKMARK [2][-]{subsection.9.6.3}{Imagen}{section.9.6}% 213
+\BOOKMARK [2][-]{subsection.9.6.4}{Concepto:}{section.9.6}% 214
+\BOOKMARK [2][-]{subsection.9.6.5}{Encuentro:}{section.9.6}% 215
+\BOOKMARK [2][-]{subsection.9.6.6}{Habilidades:}{section.9.6}% 216
+\BOOKMARK [2][-]{subsection.9.6.7}{Armas:}{section.9.6}% 217
+\BOOKMARK [2][-]{subsection.9.6.8}{\315tems:}{section.9.6}% 218
+\BOOKMARK [2][-]{subsection.9.6.9}{Bloques de animaci\363n}{section.9.6}% 219
+\BOOKMARK [1][-]{section.9.7}{Nombre: Tlazolt\351otl}{chapter.9}% 220
+\BOOKMARK [2][-]{subsection.9.7.1}{Descripci\363n: }{section.9.7}% 221
+\BOOKMARK [2][-]{subsection.9.7.2}{Status:}{section.9.7}% 222
+\BOOKMARK [2][-]{subsection.9.7.3}{Imagen}{section.9.7}% 223
+\BOOKMARK [2][-]{subsection.9.7.4}{Concepto:}{section.9.7}% 224
+\BOOKMARK [2][-]{subsection.9.7.5}{Encuentro:}{section.9.7}% 225
+\BOOKMARK [2][-]{subsection.9.7.6}{Habilidades:}{section.9.7}% 226
+\BOOKMARK [2][-]{subsection.9.7.7}{Armas:}{section.9.7}% 227
+\BOOKMARK [2][-]{subsection.9.7.8}{\315tems:}{section.9.7}% 228
+\BOOKMARK [2][-]{subsection.9.7.9}{Bloques de animaci\363n}{section.9.7}% 229
+\BOOKMARK [1][-]{section.9.8}{Nombre: Itztlacoliuhqui}{chapter.9}% 230
+\BOOKMARK [2][-]{subsection.9.8.1}{Descripci\363n:}{section.9.8}% 231
+\BOOKMARK [2][-]{subsection.9.8.2}{Status:}{section.9.8}% 232
+\BOOKMARK [2][-]{subsection.9.8.3}{Imagen}{section.9.8}% 233
+\BOOKMARK [2][-]{subsection.9.8.4}{Concepto:}{section.9.8}% 234
+\BOOKMARK [2][-]{subsection.9.8.5}{Encuentro:}{section.9.8}% 235
+\BOOKMARK [2][-]{subsection.9.8.6}{Habilidades:}{section.9.8}% 236
+\BOOKMARK [2][-]{subsection.9.8.7}{Armas:}{section.9.8}% 237
+\BOOKMARK [2][-]{subsection.9.8.8}{\315tems:}{section.9.8}% 238
+\BOOKMARK [2][-]{subsection.9.8.9}{Bloques de animaci\363n}{section.9.8}% 239
+\BOOKMARK [1][-]{section.9.9}{Nombre: Nexoxcho}{chapter.9}% 240
+\BOOKMARK [2][-]{subsection.9.9.1}{Descripci\363n:}{section.9.9}% 241
+\BOOKMARK [2][-]{subsection.9.9.2}{Status:}{section.9.9}% 242
+\BOOKMARK [2][-]{subsection.9.9.3}{Imagen}{section.9.9}% 243
+\BOOKMARK [2][-]{subsection.9.9.4}{Concepto:}{section.9.9}% 244
+\BOOKMARK [2][-]{subsection.9.9.5}{Encuentro:}{section.9.9}% 245
+\BOOKMARK [2][-]{subsection.9.9.6}{Habilidades:}{section.9.9}% 246
+\BOOKMARK [2][-]{subsection.9.9.7}{Armas:}{section.9.9}% 247
+\BOOKMARK [2][-]{subsection.9.9.8}{\315tems:}{section.9.9}% 248
+\BOOKMARK [2][-]{subsection.9.9.9}{Bloques de animaci\363n}{section.9.9}% 249
+\BOOKMARK [1][-]{section.9.10}{Nombre: Mictlantecutli}{chapter.9}% 250
+\BOOKMARK [2][-]{subsection.9.10.1}{Descripci\363n:}{section.9.10}% 251
+\BOOKMARK [2][-]{subsection.9.10.2}{Status:}{section.9.10}% 252
+\BOOKMARK [2][-]{subsection.9.10.3}{Imagen}{section.9.10}% 253
+\BOOKMARK [2][-]{subsection.9.10.4}{Concepto:}{section.9.10}% 254
+\BOOKMARK [2][-]{subsection.9.10.5}{Encuentro:}{section.9.10}% 255
+\BOOKMARK [2][-]{subsection.9.10.6}{Habilidades:}{section.9.10}% 256
+\BOOKMARK [2][-]{subsection.9.10.7}{Armas:}{section.9.10}% 257
+\BOOKMARK [2][-]{subsection.9.10.8}{\315tems:}{section.9.10}% 258
+\BOOKMARK [2][-]{subsection.9.10.9}{Bloques de animaci\363n}{section.9.10}% 259
+\BOOKMARK [1][-]{section.9.11}{Nombre: Mictecac\355huatl}{chapter.9}% 260
+\BOOKMARK [2][-]{subsection.9.11.1}{Descripci\363n:}{section.9.11}% 261
+\BOOKMARK [2][-]{subsection.9.11.2}{Status:}{section.9.11}% 262
+\BOOKMARK [2][-]{subsection.9.11.3}{Imagen}{section.9.11}% 263
+\BOOKMARK [2][-]{subsection.9.11.4}{Concepto:}{section.9.11}% 264
+\BOOKMARK [2][-]{subsection.9.11.5}{Encuentro:}{section.9.11}% 265
+\BOOKMARK [2][-]{subsection.9.11.6}{Habilidades:}{section.9.11}% 266
+\BOOKMARK [2][-]{subsection.9.11.7}{Armas:}{section.9.11}% 267
+\BOOKMARK [2][-]{subsection.9.11.8}{\315tems:}{section.9.11}% 268
+\BOOKMARK [2][-]{subsection.9.11.9}{Bloques de animaci\363n}{section.9.11}% 269
+\BOOKMARK [1][-]{section.9.12}{Nombre: Ten\351pal}{chapter.9}% 270
+\BOOKMARK [2][-]{subsection.9.12.1}{Descripci\363n:}{section.9.12}% 271
+\BOOKMARK [2][-]{subsection.9.12.2}{Status:}{section.9.12}% 272
+\BOOKMARK [2][-]{subsection.9.12.3}{Imagen}{section.9.12}% 273
+\BOOKMARK [2][-]{subsection.9.12.4}{Concepto:}{section.9.12}% 274
+\BOOKMARK [2][-]{subsection.9.12.5}{Encuentro:}{section.9.12}% 275
+\BOOKMARK [2][-]{subsection.9.12.6}{Habilidades:}{section.9.12}% 276
+\BOOKMARK [2][-]{subsection.9.12.7}{Armas:}{section.9.12}% 277
+\BOOKMARK [2][-]{subsection.9.12.8}{\315tems:}{section.9.12}% 278
+\BOOKMARK [2][-]{subsection.9.12.9}{Bloques de animaci\363n}{section.9.12}% 279
+\BOOKMARK [1][-]{section.9.13}{Nombre: Cimatl}{chapter.9}% 280
+\BOOKMARK [2][-]{subsection.9.13.1}{Descripci\363n:}{section.9.13}% 281
+\BOOKMARK [2][-]{subsection.9.13.2}{Status:}{section.9.13}% 282
+\BOOKMARK [2][-]{subsection.9.13.3}{Imagen}{section.9.13}% 283
+\BOOKMARK [2][-]{subsection.9.13.4}{Concepto:}{section.9.13}% 284
+\BOOKMARK [2][-]{subsection.9.13.5}{Encuentro:}{section.9.13}% 285
+\BOOKMARK [2][-]{subsection.9.13.6}{Habilidades:}{section.9.13}% 286
+\BOOKMARK [2][-]{subsection.9.13.7}{Armas:}{section.9.13}% 287
+\BOOKMARK [2][-]{subsection.9.13.8}{\315tems:}{section.9.13}% 288
+\BOOKMARK [2][-]{subsection.9.13.9}{Bloques de animaci\363n}{section.9.13}% 289
+\BOOKMARK [1][-]{section.9.14}{Nombre: Huenupan}{chapter.9}% 290
+\BOOKMARK [2][-]{subsection.9.14.1}{Descripci\363n:}{section.9.14}% 291
+\BOOKMARK [2][-]{subsection.9.14.2}{Status:}{section.9.14}% 292
+\BOOKMARK [2][-]{subsection.9.14.3}{Imagen}{section.9.14}% 293
+\BOOKMARK [2][-]{subsection.9.14.4}{Concepto:}{section.9.14}% 294
+\BOOKMARK [2][-]{subsection.9.14.5}{Encuentro:}{section.9.14}% 295
+\BOOKMARK [2][-]{subsection.9.14.6}{Habilidades:}{section.9.14}% 296
+\BOOKMARK [2][-]{subsection.9.14.7}{Armas:}{section.9.14}% 297
+\BOOKMARK [2][-]{subsection.9.14.8}{\315tems:}{section.9.14}% 298
+\BOOKMARK [2][-]{subsection.9.14.9}{Bloques de animaci\363n}{section.9.14}% 299
+\BOOKMARK [1][-]{section.9.15}{Nombre: Ciudadanos}{chapter.9}% 300
+\BOOKMARK [2][-]{subsection.9.15.1}{Descripci\363n:}{section.9.15}% 301
+\BOOKMARK [2][-]{subsection.9.15.2}{Status:}{section.9.15}% 302
+\BOOKMARK [2][-]{subsection.9.15.3}{Imagen}{section.9.15}% 303
+\BOOKMARK [2][-]{subsection.9.15.4}{Concepto:}{section.9.15}% 304
+\BOOKMARK [2][-]{subsection.9.15.5}{Encuentro:}{section.9.15}% 305
+\BOOKMARK [2][-]{subsection.9.15.6}{Bloques de animaci\363n:}{section.9.15}% 306
+\BOOKMARK [1][-]{section.9.16}{Nombre: Quetzalc\363atl}{chapter.9}% 307
+\BOOKMARK [2][-]{subsection.9.16.1}{Descripci\363n:}{section.9.16}% 308
+\BOOKMARK [2][-]{subsection.9.16.2}{Status:}{section.9.16}% 309
+\BOOKMARK [2][-]{subsection.9.16.3}{Imagen}{section.9.16}% 310
+\BOOKMARK [2][-]{subsection.9.16.4}{Concepto:}{section.9.16}% 311
+\BOOKMARK [2][-]{subsection.9.16.5}{Encuentro:}{section.9.16}% 312
+\BOOKMARK [2][-]{subsection.9.16.6}{Habilidades:}{section.9.16}% 313
+\BOOKMARK [2][-]{subsection.9.16.7}{Armas:}{section.9.16}% 314
+\BOOKMARK [2][-]{subsection.9.16.8}{\315tems:}{section.9.16}% 315
+\BOOKMARK [2][-]{subsection.9.16.9}{Bloques de animaci\363n:}{section.9.16}% 316
+\BOOKMARK [1][-]{section.9.17}{Nombre: Tezcatlipoca}{chapter.9}% 317
+\BOOKMARK [2][-]{subsection.9.17.1}{Descripci\363n:}{section.9.17}% 318
+\BOOKMARK [2][-]{subsection.9.17.2}{Status:}{section.9.17}% 319
+\BOOKMARK [2][-]{subsection.9.17.3}{Imagen}{section.9.17}% 320
+\BOOKMARK [2][-]{subsection.9.17.4}{Concepto:}{section.9.17}% 321
+\BOOKMARK [2][-]{subsection.9.17.5}{Encuentro:}{section.9.17}% 322
+\BOOKMARK [2][-]{subsection.9.17.6}{Habilidades:}{section.9.17}% 323
+\BOOKMARK [2][-]{subsection.9.17.7}{Armas:}{section.9.17}% 324
+\BOOKMARK [2][-]{subsection.9.17.8}{\315tems:}{section.9.17}% 325
+\BOOKMARK [2][-]{subsection.9.17.9}{Bloques de animaci\363n:}{section.9.17}% 326
+\BOOKMARK [1][-]{section.9.18}{Nombre: Tecolote}{chapter.9}% 327
+\BOOKMARK [2][-]{subsection.9.18.1}{Descripci\363n:}{section.9.18}% 328
+\BOOKMARK [2][-]{subsection.9.18.2}{Status:}{section.9.18}% 329
+\BOOKMARK [2][-]{subsection.9.18.3}{Imagen}{section.9.18}% 330
+\BOOKMARK [2][-]{subsection.9.18.4}{Encuentro:}{section.9.18}% 331
+\BOOKMARK [2][-]{subsection.9.18.5}{Bloques de animaci\363n:}{section.9.18}% 332
+\BOOKMARK [1][-]{section.9.19}{Nombre: Armadillo}{chapter.9}% 333
+\BOOKMARK [2][-]{subsection.9.19.1}{Descripci\363n:}{section.9.19}% 334
+\BOOKMARK [2][-]{subsection.9.19.2}{Status:}{section.9.19}% 335
+\BOOKMARK [2][-]{subsection.9.19.3}{Imagen}{section.9.19}% 336
+\BOOKMARK [2][-]{subsection.9.19.4}{Encuentro:}{section.9.19}% 337
+\BOOKMARK [2][-]{subsection.9.19.5}{Habilidades:}{section.9.19}% 338
+\BOOKMARK [2][-]{subsection.9.19.6}{Patr\363n de ataque:}{section.9.19}% 339
+\BOOKMARK [2][-]{subsection.9.19.7}{Bloques de animaci\363n:}{section.9.19}% 340
+\BOOKMARK [1][-]{section.9.20}{Nombre: Fantasma rojo}{chapter.9}% 341
+\BOOKMARK [2][-]{subsection.9.20.1}{Descripci\363n:}{section.9.20}% 342
+\BOOKMARK [2][-]{subsection.9.20.2}{Status:}{section.9.20}% 343
+\BOOKMARK [2][-]{subsection.9.20.3}{Imagen}{section.9.20}% 344
+\BOOKMARK [2][-]{subsection.9.20.4}{Encuentro:}{section.9.20}% 345
+\BOOKMARK [2][-]{subsection.9.20.5}{Habilidades:}{section.9.20}% 346
+\BOOKMARK [2][-]{subsection.9.20.6}{Patr\363n de ataque:}{section.9.20}% 347
+\BOOKMARK [2][-]{subsection.9.20.7}{Bloques de animaci\363n:}{section.9.20}% 348
+\BOOKMARK [1][-]{section.9.21}{Nombre: Fantasma morado}{chapter.9}% 349
+\BOOKMARK [2][-]{subsection.9.21.1}{Descripci\363n:}{section.9.21}% 350
+\BOOKMARK [2][-]{subsection.9.21.2}{Status:}{section.9.21}% 351
+\BOOKMARK [2][-]{subsection.9.21.3}{Imagen}{section.9.21}% 352
+\BOOKMARK [2][-]{subsection.9.21.4}{Encuentro:}{section.9.21}% 353
+\BOOKMARK [2][-]{subsection.9.21.5}{Habilidades:}{section.9.21}% 354
+\BOOKMARK [2][-]{subsection.9.21.6}{Patr\363n de ataque:}{section.9.21}% 355
+\BOOKMARK [2][-]{subsection.9.21.7}{Bloques de animaci\363n:}{section.9.21}% 356
+\BOOKMARK [1][-]{section.9.22}{Nombre: Jaguar}{chapter.9}% 357
+\BOOKMARK [2][-]{subsection.9.22.1}{Descripci\363n:}{section.9.22}% 358
+\BOOKMARK [2][-]{subsection.9.22.2}{Status:}{section.9.22}% 359
+\BOOKMARK [2][-]{subsection.9.22.3}{Imagen}{section.9.22}% 360
+\BOOKMARK [2][-]{subsection.9.22.4}{Encuentro:}{section.9.22}% 361
+\BOOKMARK [2][-]{subsection.9.22.5}{Habilidades:}{section.9.22}% 362
+\BOOKMARK [2][-]{subsection.9.22.6}{Patr\363n de ataque:}{section.9.22}% 363
+\BOOKMARK [2][-]{subsection.9.22.7}{Bloques de animaci\363n:}{section.9.22}% 364
+\BOOKMARK [1][-]{section.9.23}{Nombre: Zopilote}{chapter.9}% 365
+\BOOKMARK [2][-]{subsection.9.23.1}{Descripci\363n:}{section.9.23}% 366
+\BOOKMARK [2][-]{subsection.9.23.2}{Status:}{section.9.23}% 367
+\BOOKMARK [2][-]{subsection.9.23.3}{Imagen}{section.9.23}% 368
+\BOOKMARK [2][-]{subsection.9.23.4}{Encuentro:}{section.9.23}% 369
+\BOOKMARK [2][-]{subsection.9.23.5}{Habilidades:}{section.9.23}% 370
+\BOOKMARK [2][-]{subsection.9.23.6}{Patr\363n de ataque:}{section.9.23}% 371
+\BOOKMARK [2][-]{subsection.9.23.7}{Bloques de animaci\363n:}{section.9.23}% 372
+\BOOKMARK [1][-]{section.9.24}{Nombre: Chara enana}{chapter.9}% 373
+\BOOKMARK [2][-]{subsection.9.24.1}{Descripci\363n:}{section.9.24}% 374
+\BOOKMARK [2][-]{subsection.9.24.2}{Status:}{section.9.24}% 375
+\BOOKMARK [2][-]{subsection.9.24.3}{Imagen}{section.9.24}% 376
+\BOOKMARK [2][-]{subsection.9.24.4}{Encuentro:}{section.9.24}% 377
+\BOOKMARK [2][-]{subsection.9.24.5}{Habilidades:}{section.9.24}% 378
+\BOOKMARK [2][-]{subsection.9.24.6}{Patr\363n de ataque:}{section.9.24}% 379
+\BOOKMARK [2][-]{subsection.9.24.7}{Bloques de animaci\363n:}{section.9.24}% 380
+\BOOKMARK [0][-]{chapter.10}{Obst\341culos}{}% 381
+\BOOKMARK [1][-]{section.10.1}{Nombre: Caja}{chapter.10}% 382
+\BOOKMARK [2][-]{subsection.10.1.1}{Descripci\363n}{section.10.1}% 383
+\BOOKMARK [2][-]{subsection.10.1.2}{Esquema}{section.10.1}% 384
+\BOOKMARK [1][-]{section.10.2}{Nombre: Sacos cacao}{chapter.10}% 385
+\BOOKMARK [2][-]{subsection.10.2.1}{Descripci\363n}{section.10.2}% 386
+\BOOKMARK [2][-]{subsection.10.2.2}{Esquema}{section.10.2}% 387
+\BOOKMARK [1][-]{section.10.3}{Nombre: Plataforma m\363vil}{chapter.10}% 388
+\BOOKMARK [2][-]{subsection.10.3.1}{Descripci\363n}{section.10.3}% 389
+\BOOKMARK [2][-]{subsection.10.3.2}{Esquema}{section.10.3}% 390
+\BOOKMARK [1][-]{section.10.4}{Nombre: Plataforma que cae.}{chapter.10}% 391
+\BOOKMARK [2][-]{subsection.10.4.1}{Descripci\363n}{section.10.4}% 392
+\BOOKMARK [2][-]{subsection.10.4.2}{Esquema}{section.10.4}% 393
+\BOOKMARK [1][-]{section.10.5}{Nombre: Plataforma que desaparece.}{chapter.10}% 394
+\BOOKMARK [2][-]{subsection.10.5.1}{Descripci\363n}{section.10.5}% 395
+\BOOKMARK [2][-]{subsection.10.5.2}{Esquema}{section.10.5}% 396
+\BOOKMARK [1][-]{section.10.6}{Nombre: Etalagmitas}{chapter.10}% 397
+\BOOKMARK [2][-]{subsection.10.6.1}{Descripci\363n}{section.10.6}% 398
+\BOOKMARK [2][-]{subsection.10.6.2}{Esquema}{section.10.6}% 399
+\BOOKMARK [1][-]{section.10.7}{Nombre: Viento temporal}{chapter.10}% 400
+\BOOKMARK [2][-]{subsection.10.7.1}{Descripci\363n}{section.10.7}% 401
+\BOOKMARK [2][-]{subsection.10.7.2}{Esquema}{section.10.7}% 402
+\BOOKMARK [1][-]{section.10.8}{Nombre: Piedras filosas}{chapter.10}% 403
+\BOOKMARK [2][-]{subsection.10.8.1}{Descripci\363n}{section.10.8}% 404
+\BOOKMARK [2][-]{subsection.10.8.2}{Esquema}{section.10.8}% 405
+\BOOKMARK [1][-]{section.10.9}{Nombre: Piso congelado}{chapter.10}% 406
+\BOOKMARK [2][-]{subsection.10.9.1}{Descripci\363n}{section.10.9}% 407
+\BOOKMARK [2][-]{subsection.10.9.2}{Esquema}{section.10.9}% 408
+\BOOKMARK [1][-]{section.10.10}{Nombre: Bolas de nieve}{chapter.10}% 409
+\BOOKMARK [2][-]{subsection.10.10.1}{Descripci\363n}{section.10.10}% 410
+\BOOKMARK [2][-]{subsection.10.10.2}{Esquema}{section.10.10}% 411
+\BOOKMARK [1][-]{section.10.11}{Nombre: Lluvia de flechas}{chapter.10}% 412
+\BOOKMARK [2][-]{subsection.10.11.1}{Descripci\363n}{section.10.11}% 413
+\BOOKMARK [2][-]{subsection.10.11.2}{Esquema}{section.10.11}% 414
+\BOOKMARK [0][-]{chapter.11}{Habilidades.}{}% 415
+\BOOKMARK [1][-]{section.11.1}{Cuchillas de obsidiana}{chapter.11}% 416
+\BOOKMARK [2][-]{subsection.11.1.1}{Descripci\363n}{section.11.1}% 417
+\BOOKMARK [2][-]{subsection.11.1.2}{Portador}{section.11.1}% 418
+\BOOKMARK [2][-]{subsection.11.1.3}{Esquema}{section.11.1}% 419
+\BOOKMARK [1][-]{section.11.2}{Nombre: Disparo rojo.}{chapter.11}% 420
+\BOOKMARK [1][-]{section.11.3}{Nombre: Embestida.}{chapter.11}% 421
+\BOOKMARK [2][-]{subsection.11.3.1}{Descripci\363n}{section.11.3}% 422
+\BOOKMARK [2][-]{subsection.11.3.2}{Portador}{section.11.3}% 423
+\BOOKMARK [2][-]{subsection.11.3.3}{Esquema}{section.11.3}% 424
+\BOOKMARK [1][-]{section.11.4}{Nombre: Salto de altura.}{chapter.11}% 425
+\BOOKMARK [2][-]{subsection.11.4.1}{Descripci\363n}{section.11.4}% 426
+\BOOKMARK [2][-]{subsection.11.4.2}{Portador}{section.11.4}% 427
+\BOOKMARK [2][-]{subsection.11.4.3}{Esquema}{section.11.4}% 428
+\BOOKMARK [1][-]{section.11.5}{Nombre: Disparo de tonalli.}{chapter.11}% 429
+\BOOKMARK [2][-]{subsection.11.5.1}{Descripci\363n}{section.11.5}% 430
+\BOOKMARK [2][-]{subsection.11.5.2}{Portador}{section.11.5}% 431
+\BOOKMARK [2][-]{subsection.11.5.3}{Esquema}{section.11.5}% 432
+\BOOKMARK [1][-]{section.11.6}{Nombre: Zambullida.}{chapter.11}% 433
+\BOOKMARK [2][-]{subsection.11.6.1}{Descripci\363n}{section.11.6}% 434
+\BOOKMARK [2][-]{subsection.11.6.2}{Portador}{section.11.6}% 435
+\BOOKMARK [2][-]{subsection.11.6.3}{Esquema}{section.11.6}% 436
+\BOOKMARK [1][-]{section.11.7}{Nombre: Burbujas.}{chapter.11}% 437
+\BOOKMARK [2][-]{subsection.11.7.1}{Descripci\363n}{section.11.7}% 438
+\BOOKMARK [2][-]{subsection.11.7.2}{Portador}{section.11.7}% 439
+\BOOKMARK [2][-]{subsection.11.7.3}{Esquema}{section.11.7}% 440
+\BOOKMARK [1][-]{section.11.8}{Nombre: Coraza.}{chapter.11}% 441
+\BOOKMARK [2][-]{subsection.11.8.1}{Descripci\363n}{section.11.8}% 442
+\BOOKMARK [2][-]{subsection.11.8.2}{Portador}{section.11.8}% 443
+\BOOKMARK [2][-]{subsection.11.8.3}{Esquema}{section.11.8}% 444
+\BOOKMARK [1][-]{section.11.9}{Nombre: Impacto.}{chapter.11}% 445
+\BOOKMARK [2][-]{subsection.11.9.1}{Descripci\363n}{section.11.9}% 446
+\BOOKMARK [2][-]{subsection.11.9.2}{Portador}{section.11.9}% 447
+\BOOKMARK [2][-]{subsection.11.9.3}{Esquema}{section.11.9}% 448
+\BOOKMARK [1][-]{section.11.10}{Nombre de la habilidad: Luvia de rocas.}{chapter.11}% 449
+\BOOKMARK [2][-]{subsection.11.10.1}{Descripci\363n}{section.11.10}% 450
+\BOOKMARK [2][-]{subsection.11.10.2}{Portador}{section.11.10}% 451
+\BOOKMARK [2][-]{subsection.11.10.3}{Esquema}{section.11.10}% 452
+\BOOKMARK [1][-]{section.11.11}{Nombre: Rugido aturdidor.}{chapter.11}% 453
+\BOOKMARK [2][-]{subsection.11.11.1}{Descripci\363n}{section.11.11}% 454
+\BOOKMARK [2][-]{subsection.11.11.2}{Portador}{section.11.11}% 455
+\BOOKMARK [2][-]{subsection.11.11.3}{Esquema}{section.11.11}% 456
+\BOOKMARK [1][-]{section.11.12}{Nombre: Circulo de fuego.}{chapter.11}% 457
+\BOOKMARK [2][-]{subsection.11.12.1}{Descripci\363n}{section.11.12}% 458
+\BOOKMARK [2][-]{subsection.11.12.2}{Portador}{section.11.12}% 459
+\BOOKMARK [2][-]{subsection.11.12.3}{Esquema}{section.11.12}% 460
+\BOOKMARK [1][-]{section.11.13}{Nombre: Embestida aerea.}{chapter.11}% 461
+\BOOKMARK [2][-]{subsection.11.13.1}{Descripci\363n}{section.11.13}% 462
+\BOOKMARK [2][-]{subsection.11.13.2}{Portador}{section.11.13}% 463
+\BOOKMARK [2][-]{subsection.11.13.3}{Esquema}{section.11.13}% 464
+\BOOKMARK [1][-]{section.11.14}{Nombre: Invisibilidad.}{chapter.11}% 465
+\BOOKMARK [2][-]{subsection.11.14.1}{Descripci\363n}{section.11.14}% 466
+\BOOKMARK [2][-]{subsection.11.14.2}{Portador}{section.11.14}% 467
+\BOOKMARK [2][-]{subsection.11.14.3}{Esquema}{section.11.14}% 468
+\BOOKMARK [1][-]{section.11.15}{Nombre: Tornado.}{chapter.11}% 469
+\BOOKMARK [2][-]{subsection.11.15.1}{Descripci\363n}{section.11.15}% 470
+\BOOKMARK [2][-]{subsection.11.15.2}{Portador}{section.11.15}% 471
+\BOOKMARK [2][-]{subsection.11.15.3}{Esquema}{section.11.15}% 472
+\BOOKMARK [1][-]{section.11.16}{Nombre: Ventisca.}{chapter.11}% 473
+\BOOKMARK [2][-]{subsection.11.16.1}{Descripci\363n}{section.11.16}% 474
+\BOOKMARK [2][-]{subsection.11.16.2}{Portador}{section.11.16}% 475
+\BOOKMARK [2][-]{subsection.11.16.3}{Esquema}{section.11.16}% 476
+\BOOKMARK [1][-]{section.11.17}{Nombre: Ra\355z del diablo.}{chapter.11}% 477
+\BOOKMARK [2][-]{subsection.11.17.1}{Descripci\363n}{section.11.17}% 478
+\BOOKMARK [2][-]{subsection.11.17.2}{Portador}{section.11.17}% 479
+\BOOKMARK [2][-]{subsection.11.17.3}{Esquema}{section.11.17}% 480
+\BOOKMARK [1][-]{section.11.18}{Nombre: Energ\355a corrupta.}{chapter.11}% 481
+\BOOKMARK [2][-]{subsection.11.18.1}{Descripci\363n}{section.11.18}% 482
+\BOOKMARK [2][-]{subsection.11.18.2}{Portador}{section.11.18}% 483
+\BOOKMARK [2][-]{subsection.11.18.3}{Esquema}{section.11.18}% 484
+\BOOKMARK [1][-]{section.11.19}{Nombre: Circulo protector.}{chapter.11}% 485
+\BOOKMARK [2][-]{subsection.11.19.1}{Descripci\363n}{section.11.19}% 486
+\BOOKMARK [2][-]{subsection.11.19.2}{Portador}{section.11.19}% 487
+\BOOKMARK [2][-]{subsection.11.19.3}{Esquema}{section.11.19}% 488
+\BOOKMARK [1][-]{section.11.20}{Nombre: LLuvia de lava.}{chapter.11}% 489
+\BOOKMARK [2][-]{subsection.11.20.1}{Descripci\363n}{section.11.20}% 490
+\BOOKMARK [2][-]{subsection.11.20.2}{Portador}{section.11.20}% 491
+\BOOKMARK [2][-]{subsection.11.20.3}{Esquema}{section.11.20}% 492
+\BOOKMARK [1][-]{section.11.21}{Nombre: Manotazo.}{chapter.11}% 493
+\BOOKMARK [2][-]{subsection.11.21.1}{Descripci\363n}{section.11.21}% 494
+\BOOKMARK [2][-]{subsection.11.21.2}{Portador}{section.11.21}% 495
+\BOOKMARK [2][-]{subsection.11.21.3}{Esquema}{section.11.21}% 496
+\BOOKMARK [1][-]{section.11.22}{Nombre: Lluvia de flechas.}{chapter.11}% 497
+\BOOKMARK [2][-]{subsection.11.22.1}{Descripci\363n}{section.11.22}% 498
+\BOOKMARK [2][-]{subsection.11.22.2}{Portador}{section.11.22}% 499
+\BOOKMARK [2][-]{subsection.11.22.3}{Esquema}{section.11.22}% 500
+\BOOKMARK [1][-]{section.11.23}{Nombre: Todos los hombres del rey.}{chapter.11}% 501
+\BOOKMARK [2][-]{subsection.11.23.1}{Descripci\363n}{section.11.23}% 502
+\BOOKMARK [2][-]{subsection.11.23.2}{Portador}{section.11.23}% 503
+\BOOKMARK [2][-]{subsection.11.23.3}{Esquema}{section.11.23}% 504
+\BOOKMARK [1][-]{section.11.24}{Nombre: Fuego mort\355fero.}{chapter.11}% 505
+\BOOKMARK [2][-]{subsection.11.24.1}{Descripci\363n}{section.11.24}% 506
+\BOOKMARK [2][-]{subsection.11.24.2}{Portador}{section.11.24}% 507
+\BOOKMARK [2][-]{subsection.11.24.3}{Esquema}{section.11.24}% 508
+\BOOKMARK [1][-]{section.11.25}{Nombre: Penitencia.}{chapter.11}% 509
+\BOOKMARK [2][-]{subsection.11.25.1}{Descripci\363n}{section.11.25}% 510
+\BOOKMARK [2][-]{subsection.11.25.2}{Portador}{section.11.25}% 511
+\BOOKMARK [2][-]{subsection.11.25.3}{Esquema}{section.11.25}% 512
+\BOOKMARK [1][-]{section.11.26}{Nombre: Lluvia de huesos.}{chapter.11}% 513
+\BOOKMARK [2][-]{subsection.11.26.1}{Descripci\363n}{section.11.26}% 514
+\BOOKMARK [2][-]{subsection.11.26.2}{Portador}{section.11.26}% 515
+\BOOKMARK [2][-]{subsection.11.26.3}{Esquema}{section.11.26}% 516
+\BOOKMARK [1][-]{section.11.27}{Nombre: Estocada mort\355fera.}{chapter.11}% 517
+\BOOKMARK [2][-]{subsection.11.27.1}{Descripci\363n}{section.11.27}% 518
+\BOOKMARK [2][-]{subsection.11.27.2}{Portador}{section.11.27}% 519
+\BOOKMARK [2][-]{subsection.11.27.3}{Esquema}{section.11.27}% 520
+\BOOKMARK [1][-]{section.11.28}{Vuelo en picada}{chapter.11}% 521
+\BOOKMARK [2][-]{subsection.11.28.1}{Descripci\363n}{section.11.28}% 522
+\BOOKMARK [2][-]{subsection.11.28.2}{Portador}{section.11.28}% 523
+\BOOKMARK [2][-]{subsection.11.28.3}{Esquema}{section.11.28}% 524
+\BOOKMARK [0][-]{chapter.12}{Armas.}{}% 525
+\BOOKMARK [1][-]{section.12.1}{Nombre: Caracola.}{chapter.12}% 526
+\BOOKMARK [2][-]{subsection.12.1.1}{Descripci\363n}{section.12.1}% 527
+\BOOKMARK [2][-]{subsection.12.1.2}{Imagen}{section.12.1}% 528
+\BOOKMARK [2][-]{subsection.12.1.3}{Portador}{section.12.1}% 529
+\BOOKMARK [1][-]{section.12.2}{Nombre: Atardecer de venus.}{chapter.12}% 530
+\BOOKMARK [2][-]{subsection.12.2.1}{Descripci\363n}{section.12.2}% 531
+\BOOKMARK [2][-]{subsection.12.2.2}{Imagen}{section.12.2}% 532
+\BOOKMARK [2][-]{subsection.12.2.3}{Portador}{section.12.2}% 533
+\BOOKMARK [1][-]{section.12.3}{Nombre: Matlalpapalotl.}{chapter.12}% 534
+\BOOKMARK [2][-]{subsection.12.3.1}{Descripci\363n}{section.12.3}% 535
+\BOOKMARK [2][-]{subsection.12.3.2}{Imagen}{section.12.3}% 536
+\BOOKMARK [2][-]{subsection.12.3.3}{Portador}{section.12.3}% 537
+\BOOKMARK [1][-]{section.12.4}{Nombre: Trepa viento.}{chapter.12}% 538
+\BOOKMARK [2][-]{subsection.12.4.1}{Descripci\363n}{section.12.4}% 539
+\BOOKMARK [2][-]{subsection.12.4.2}{Imagen}{section.12.4}% 540
+\BOOKMARK [2][-]{subsection.12.4.3}{Portador}{section.12.4}% 541
+\BOOKMARK [1][-]{section.12.5}{Nombre: Arco solar.}{chapter.12}% 542
+\BOOKMARK [2][-]{subsection.12.5.1}{Descripci\363n}{section.12.5}% 543
+\BOOKMARK [2][-]{subsection.12.5.2}{Imagen}{section.12.5}% 544
+\BOOKMARK [2][-]{subsection.12.5.3}{Portador}{section.12.5}% 545
+\BOOKMARK [0][-]{chapter.13}{Items.}{}% 546
+\BOOKMARK [1][-]{section.13.1}{Nombre: Peineta en forma de flor.}{chapter.13}% 547
+\BOOKMARK [2][-]{subsection.13.1.1}{Descripci\363n}{section.13.1}% 548
+\BOOKMARK [2][-]{subsection.13.1.2}{Imagen}{section.13.1}% 549
+\BOOKMARK [2][-]{subsection.13.1.3}{Portador}{section.13.1}% 550
+\BOOKMARK [1][-]{section.13.2}{Nombre: Armadura espiritual.}{chapter.13}% 551
+\BOOKMARK [2][-]{subsection.13.2.1}{Descripci\363n}{section.13.2}% 552
+\BOOKMARK [2][-]{subsection.13.2.2}{Imagen}{section.13.2}% 553
+\BOOKMARK [2][-]{subsection.13.2.3}{Portador}{section.13.2}% 554
+\BOOKMARK [1][-]{section.13.3}{Nombre: Flor de vainilla.}{chapter.13}% 555
+\BOOKMARK [2][-]{subsection.13.3.1}{Descripci\363n}{section.13.3}% 556
+\BOOKMARK [2][-]{subsection.13.3.2}{Imagen}{section.13.3}% 557
+\BOOKMARK [2][-]{subsection.13.3.3}{Portador}{section.13.3}% 558
+\BOOKMARK [1][-]{section.13.4}{Nombre: Grano de cacao.}{chapter.13}% 559
+\BOOKMARK [2][-]{subsection.13.4.1}{Descripci\363n}{section.13.4}% 560
+\BOOKMARK [2][-]{subsection.13.4.2}{Imagen}{section.13.4}% 561
+\BOOKMARK [2][-]{subsection.13.4.3}{Portador}{section.13.4}% 562
+\BOOKMARK [1][-]{section.13.5}{Nombre: Xoloitzcuintle.}{chapter.13}% 563
+\BOOKMARK [2][-]{subsection.13.5.1}{Descripci\363n}{section.13.5}% 564
+\BOOKMARK [2][-]{subsection.13.5.2}{Imagen}{section.13.5}% 565
+\BOOKMARK [2][-]{subsection.13.5.3}{Portador}{section.13.5}% 566
+\BOOKMARK [1][-]{section.13.6}{Mariposa}{chapter.13}% 567
+\BOOKMARK [2][-]{subsection.13.6.1}{Descripci\363n}{section.13.6}% 568
+\BOOKMARK [2][-]{subsection.13.6.2}{Imagen}{section.13.6}% 569
+\BOOKMARK [2][-]{subsection.13.6.3}{Portador}{section.13.6}% 570
+\BOOKMARK [1][-]{section.13.7}{Llave de la guarida de Itzp\341palotl}{chapter.13}% 571
+\BOOKMARK [2][-]{subsection.13.7.1}{Descripci\363n}{section.13.7}% 572
+\BOOKMARK [2][-]{subsection.13.7.2}{Imagen}{section.13.7}% 573
+\BOOKMARK [2][-]{subsection.13.7.3}{Portador}{section.13.7}% 574
+\BOOKMARK [0][-]{chapter.14}{Gui\363n}{}% 575
+\BOOKMARK [1][-]{section.14.1}{Cinem\341tica 1. Afueras de Tenochtitlan. exterior / tarde.}{chapter.14}% 576
+\BOOKMARK [1][-]{section.14.2}{Cinem\341tica 2. Mercado de Centla. Exterior /d\355a.}{chapter.14}% 577
+\BOOKMARK [1][-]{section.14.3}{Cinem\341tica 3. Selva a las afueras de Centla. Exterior /d\355a.}{chapter.14}% 578
+\BOOKMARK [1][-]{section.14.4}{Cinem\341tica 4. A las orillas del rio Apanohuacalhuia en el Itzcuintlan. Exterior /noche.}{chapter.14}% 579
+\BOOKMARK [1][-]{section.14.5}{Cinem\341tica 5. A mitad del rio Apanohuacalhuia en el Itzcuintlan. exterior / noche.}{chapter.14}% 580
+\BOOKMARK [1][-]{section.14.6}{Cinem\341tica 6. A mitad del rio Apanohuacalhuia en el Itzcuintlan. Exterior / noche.}{chapter.14}% 581
+\BOOKMARK [1][-]{section.14.7}{Cinem\341tica 7. palacio de Olula. interior/ d\355a.}{chapter.14}% 582
+\BOOKMARK [1][-]{section.14.8}{Cinematica 8. a las orillas del rio Apanohuacalhuia en el Itzcuintlan. Exterior /noche.}{chapter.14}% 583
+\BOOKMARK [1][-]{section.14.9}{Cinem\341tica 9. Castillo de Mictlantecuhtli. Interior /noche.}{chapter.14}% 584
+\BOOKMARK [1][-]{section.14.10}{Cinem\341tica 10. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 585
+\BOOKMARK [1][-]{section.14.11}{cinem\341tica 11. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 586
+\BOOKMARK [1][-]{section.14.12}{Cinem\341tica 12. Sobre la cima de una monta\361a en el Tepeme Monamictlan. exterior /d\355a.}{chapter.14}% 587
+\BOOKMARK [1][-]{section.14.13}{Cinem\341tica 13. Guarida de Itzp\341palot. interior/tarde.}{chapter.14}% 588
+\BOOKMARK [1][-]{section.14.14}{Cinem\341tica 14. Entrada al Itzt\351petl. Interior /noche.}{chapter.14}% 589
+\BOOKMARK [1][-]{section.14.15}{Cinem\341tica 15. guarida de itzp\341palotl. interior/noche.}{chapter.14}% 590
+\BOOKMARK [1][-]{section.14.16}{Cinem\341tica 16. guarida de itzp\341palotl. interior/noche.}{chapter.14}% 591
+\BOOKMARK [1][-]{section.14.17}{Cinem\341tica 17. Zona des\351rtica monta\361osa. exterior/tarde.}{chapter.14}% 592
+\BOOKMARK [1][-]{section.14.18}{Cinem\341tica 18. Castillo de Mictlantecuhtli. Interior /noche.}{chapter.14}% 593
+\BOOKMARK [1][-]{section.14.19}{Cinem\341tica 19. Guarida de Itzp\341palotl. Interior /noche.}{chapter.14}% 594
+\BOOKMARK [1][-]{section.14.20}{Cinem\341tica 20. Guarida de Itzp\341palotl. Interior /noche.}{chapter.14}% 595
+\BOOKMARK [1][-]{section.14.21}{Cinematica 21. Guarida de Itztlacoliuhqui. Interior /tarde.}{chapter.14}% 596
+\BOOKMARK [1][-]{section.14.22}{Cinem\341tica 22. entrada al Cehuel\363yan. ext/d\355a.}{chapter.14}% 597
+\BOOKMARK [1][-]{section.14.23}{Cinem\341tica 23. Entrada a la guarida de Mictlecayotl. ext/d\355a.}{chapter.14}% 598
+\BOOKMARK [1][-]{section.14.24}{Cinem\341tica 24. entrada al Cehuel\363yan. ext/d\355a.}{chapter.14}% 599
+\BOOKMARK [1][-]{section.14.25}{Cinem\341tica 25. Palacio de Oluta. int/d\355a.}{chapter.14}% 600
+\BOOKMARK [1][-]{section.14.26}{Cinem\341tica 26. Guarida de Tepey\363llotl en el Teyollocualoyan. int/d\355a.}{chapter.14}% 601
+\BOOKMARK [1][-]{section.14.27}{Cinem\341tica 27.Entrada al Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 602
+\BOOKMARK [1][-]{section.14.28}{Cinem\341tica 28. Guarida de Tlazolt\351olt en el Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 603
+\BOOKMARK [1][-]{section.14.29}{Cinem\341tica 29. Guarida de Tlazolt\351olt en el Pancuetlacal\363yan. int/d\355a.}{chapter.14}% 604
+\BOOKMARK [1][-]{section.14.30}{Cinematica 30. Palacio de Olula. int/d\355a. }{chapter.14}% 605
+\BOOKMARK [1][-]{section.14.31}{Cinem\341tica 31. Entrada a Temiminaloyan. ext/tarde.}{chapter.14}% 606
+\BOOKMARK [1][-]{section.14.32}{Cinem\341tica 32. Guarida de Itztlacoliuhqui. int/tarde.}{chapter.14}% 607
+\BOOKMARK [1][-]{section.14.33}{Cinem\341tica 33. Guarida de Itztlacoliuhqui. int/tarde.}{chapter.14}% 608
+\BOOKMARK [1][-]{section.14.34}{Cinem\341tica 34. Palacio de Oluta. int/d\355a. }{chapter.14}% 609
+\BOOKMARK [1][-]{section.14.35}{Cinem\341tica 35. Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 610
+\BOOKMARK [1][-]{section.14.36}{Cinem\341tica 36. guarida de Tepey\363llotl en el Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 611
+\BOOKMARK [1][-]{section.14.37}{Cinem\341tica 37. guarida de Tepey\363llotl en el Tepeyollocualoyan. ext/d\355a. }{chapter.14}% 612
+\BOOKMARK [1][-]{section.14.38}{Cinem\341tica 38. Palacio de Mictlantecuhtli. int/d\355a.}{chapter.14}% 613
+\BOOKMARK [1][-]{section.14.39}{Cinem\341tica 39. A orillas del r\355o del Apanohualoyan. ext/noche.}{chapter.14}% 614
+\BOOKMARK [1][-]{section.14.40}{Cinem\341tica 40. Mercado de Tula. ext/noche. }{chapter.14}% 615
+\BOOKMARK [1][-]{section.14.41}{Cinem\341tica 41. Templo mayor de Tula. int/noche.}{chapter.14}% 616
+\BOOKMARK [1][-]{section.14.42}{Cinem\341tica 42. Palacio de Oluta. int/noche. }{chapter.14}% 617
+\BOOKMARK [1][-]{section.14.43}{Cinem\341tica 43. Palacio de Oluta. int/noche. }{chapter.14}% 618
+\BOOKMARK [1][-]{section.14.44}{Cinem\341tica 44. Palacio de Oluta. int/noche. }{chapter.14}% 619
+\BOOKMARK [1][-]{section.14.45}{Cinem\341tica 45. Profundidades del r\355o Apanohualoyan. ext/noche. }{chapter.14}% 620
+\BOOKMARK [1][-]{section.14.46}{Cinem\341tica 46. Palacio de Mictlantecuhtli. int/noche.}{chapter.14}% 621
+\BOOKMARK [1][-]{section.14.47}{Cinem\341tica 47. Palacio de Mictlantecuhtli. int/noche.}{chapter.14}% 622
+\BOOKMARK [0][-]{chapter.15}{BGM y SFX.}{}% 623
+\BOOKMARK [1][-]{section.15.1}{BGM}{chapter.15}% 624
+\BOOKMARK [2][-]{subsection.15.1.1}{M\372sica mercado}{section.15.1}% 625
+\BOOKMARK [2][-]{subsection.15.1.2}{M\372sica selva}{section.15.1}% 626
+\BOOKMARK [2][-]{subsection.15.1.3}{M\372sica Xolotl}{section.15.1}% 627
+\BOOKMARK [2][-]{subsection.15.1.4}{M\372sica plataforma segundo nivel}{section.15.1}% 628
+\BOOKMARK [2][-]{subsection.15.1.5}{M\372sica jefe segundo nivel}{section.15.1}% 629
+\BOOKMARK [2][-]{subsection.15.1.6}{M\372sica plataforma tercer nivel}{section.15.1}% 630
+\BOOKMARK [2][-]{subsection.15.1.7}{Nombre: M\372sica jefe tercer nivel}{section.15.1}% 631
+\BOOKMARK [2][-]{subsection.15.1.8}{M\372sica plataforma cuarto nivel}{section.15.1}% 632
+\BOOKMARK [2][-]{subsection.15.1.9}{Nombre: M\372sica jefe cuarto nivel}{section.15.1}% 633
+\BOOKMARK [2][-]{subsection.15.1.10}{M\372sica plataforma quinto nivel}{section.15.1}% 634
+\BOOKMARK [2][-]{subsection.15.1.11}{M\372sica jefe quinto nivel}{section.15.1}% 635
+\BOOKMARK [2][-]{subsection.15.1.12}{M\372sica plataforma sexto nivel}{section.15.1}% 636
+\BOOKMARK [2][-]{subsection.15.1.13}{M\372sica jefe sexto nivel}{section.15.1}% 637
+\BOOKMARK [2][-]{subsection.15.1.14}{M\372sica plataforma s\351ptimo nivel}{section.15.1}% 638
+\BOOKMARK [2][-]{subsection.15.1.15}{M\372sica jefe s\351ptimo nivel}{section.15.1}% 639
+\BOOKMARK [2][-]{subsection.15.1.16}{M\372sica plataforma octavo nivel}{section.15.1}% 640
+\BOOKMARK [2][-]{subsection.15.1.17}{M\372sica jefe octavo nivel}{section.15.1}% 641
+\BOOKMARK [2][-]{subsection.15.1.18}{M\372sica plataforma noveno nivel, Tula}{section.15.1}% 642
+\BOOKMARK [2][-]{subsection.15.1.19}{M\372sica plataforma noveno nivel, Oluta primera etapa}{section.15.1}% 643
+\BOOKMARK [2][-]{subsection.15.1.20}{M\372sica plataforma noveno nivel, Oluta segunda etapa}{section.15.1}% 644
+\BOOKMARK [2][-]{subsection.15.1.21}{M\372sica jefe noveno nivel}{section.15.1}% 645
+\BOOKMARK [2][-]{subsection.15.1.22}{M\372sica pasillo del palacio decimo nivel}{section.15.1}% 646
+\BOOKMARK [2][-]{subsection.15.1.23}{M\372sica jefe noveno nivel}{section.15.1}% 647
+\BOOKMARK [1][-]{section.15.2}{Efectos de sonido}{chapter.15}% 648
+\BOOKMARK [2][-]{subsection.15.2.1}{Bullicio.}{section.15.2}% 649
+\BOOKMARK [2][-]{subsection.15.2.2}{Pasos.}{section.15.2}% 650
+\BOOKMARK [2][-]{subsection.15.2.3}{Viento.}{section.15.2}% 651
+\BOOKMARK [2][-]{subsection.15.2.4}{Ladrido.}{section.15.2}% 652
+\BOOKMARK [2][-]{subsection.15.2.5}{Explosi\363n de agua.}{section.15.2}% 653
+\BOOKMARK [2][-]{subsection.15.2.6}{Salpicadura de agua.}{section.15.2}% 654
+\BOOKMARK [2][-]{subsection.15.2.7}{Rugido.}{section.15.2}% 655
+\BOOKMARK [2][-]{subsection.15.2.8}{Roca estrell\341ndose.}{section.15.2}% 656
+\BOOKMARK [2][-]{subsection.15.2.9}{Aleteo de alas.}{section.15.2}% 657
+\BOOKMARK [2][-]{subsection.15.2.10}{Sonido de fuego}{section.15.2}% 658
+\BOOKMARK [2][-]{subsection.15.2.11}{Hielo resquebraj\341ndose.}{section.15.2}% 659
+\BOOKMARK [2][-]{subsection.15.2.12}{Pasos sobre el hielo.}{section.15.2}% 660
+\BOOKMARK [2][-]{subsection.15.2.13}{Risa de mujer.}{section.15.2}% 661
+\BOOKMARK [2][-]{subsection.15.2.14}{Liquido viscoso.}{section.15.2}% 662
+\BOOKMARK [2][-]{subsection.15.2.15}{Golpe.}{section.15.2}% 663
+\BOOKMARK [2][-]{subsection.15.2.16}{Silbido.}{section.15.2}% 664
+\BOOKMARK [2][-]{subsection.15.2.17}{Gritos de personas.}{section.15.2}% 665
+\BOOKMARK [2][-]{subsection.15.2.18}{Explosi\363n de huesos.}{section.15.2}% 666
+\BOOKMARK [0][-]{chapter.16}{Referencia a FX}{}% 667
+\BOOKMARK [1][-]{section.16.1}{Circulo de luz.}{chapter.16}% 668
+\BOOKMARK [1][-]{section.16.2}{Oleaje}{chapter.16}% 669
+\BOOKMARK [1][-]{section.16.3}{Salpucadura de agua.}{chapter.16}% 670
+\BOOKMARK [1][-]{section.16.4}{Explosi\363n de burbuja}{chapter.16}% 671
+\BOOKMARK [1][-]{section.16.5}{Explosi\363n de energ\355a tonalli rojo}{chapter.16}% 672
+\BOOKMARK [1][-]{section.16.6}{Explosi\363n de energ\355a tonalli verde.}{chapter.16}% 673
+\BOOKMARK [1][-]{section.16.7}{Explosion rocas.}{chapter.16}% 674
+\BOOKMARK [1][-]{section.16.8}{Haz de luz}{chapter.16}% 675
+\BOOKMARK [1][-]{section.16.9}{Ventisca de nieve.}{chapter.16}% 676
+\BOOKMARK [1][-]{section.16.10}{Respiraci\363n.}{chapter.16}% 677
+\BOOKMARK [1][-]{section.16.11}{Explosi\363n de Tonalli corrupto.}{chapter.16}% 678
+\BOOKMARK [1][-]{section.16.12}{Rel\341mpagos}{chapter.16}% 679
+\BOOKMARK [1][-]{section.16.13}{Temblor.}{chapter.16}% 680
+\BOOKMARK [1][-]{section.16.14}{C\341mara obscura.}{chapter.16}% 681
+\BOOKMARK [1][-]{section.16.15}{Explosi\363n de hueso}{chapter.16}% 682
+\BOOKMARK [0][-]{chapter.17}{Imagenes de concepto.}{}% 683
+\BOOKMARK [0][-]{chapter.18}{Miembros de equipo.}{}% 684
+\BOOKMARK [0][-]{chapter.19}{Fecha de inicio.}{}% 685
+\BOOKMARK [0][-]{chapter.20}{Fecha de terminaci\363n.}{}% 686
+\BOOKMARK [0][-]{chapter.21}{Presupuesto.}{}% 687

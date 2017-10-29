@@ -1,0 +1,12 @@
+\chapter{Obstáculos}
+	\input{Obstaculos/01Caja}	
+	\input{Obstaculos/02SacosCacao}
+	\input{Obstaculos/03PlataformaMovil}
+	\input{Obstaculos/04PlataformaDebil}
+	\input{Obstaculos/13PlatadormaDesaparce}
+	\input{Obstaculos/05Rocas}
+	\input{Obstaculos/06viento}
+	\input{Obstaculos/07PiedrasFilosas}
+	\input{Obstaculos/08PisoCongelado}
+	\input{Obstaculos/10BolasNieve}
+	\input{Obstaculos/12LluviaFlechas}
