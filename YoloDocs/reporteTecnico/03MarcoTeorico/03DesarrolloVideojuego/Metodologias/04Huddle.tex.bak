@@ -1,0 +1,10 @@
+\subsubsection{Metodología Huddle}
+Huddle es una metodología creada por el Instituto de Ingeniería y Tecnología de Universidad Autónoma de Ciudad Juárez. Huddle recibe su nombre por las reuniones que se realizan en el futbol americano antes de cada jugada. Su funcionalidad se basa en la metodología Scrum, con la diferencia de que está orientada en el desarrollo de videojuegos.  De naturaleza ágil, resulta óptimo para equipos multidisciplinarios de 5 a 10 personas; es iterativa, incremental y evolutiva.
+\\
+\par
+Huddle se divide en tres etapas: 
+	\begin{itemize}
+		\item Preproducción: Consiste en la planeación del juego. En esta etapa se redactará el documento de diseño; este documento contendrá la idea general del juego, su escritura deberá de ser tal que todos los miembros del equipo pueden entenderlo y darse una idea de cómo será el juego una vez que se haya terminado. En esta etapa se definirá el argumento del juego, sus personajes, el género del juego, sus mecánicas, la música, los efectos de sonido, los efectos especiales y su funcionalidad. Huddle proporciona plantilla para realizar este documento, dejando la posibilidad de modificarlo según el equipo considere oportuno.
+		\item Producción: Es la etapa más larga y de mayor importancia. Su organización se basa totalmente en la organización iterativa e incremental de Scrum; es decir se harán reuniones diarias en donde se discutirán los objetivos de la iteración. Antes de finalizar cada Sprint, el módulo se someterá a diferentes pruebas para garantizar su funcionalidad. Cuando un Sprint finaliza, se realiza una reunión en la que los elementos del quipo discuten las decisiones tomadas y analizan cuales fueron las decisiones y acciones más eficientes para retomarlas y desechar aquellas que atrasen al proyecto. Al finalizar esta etapa el equipo contará con las versiones alfa y beta del juego. 
+		\item Postmorten: En esta etapa se discuten todos los puntos positivos y negativos del proyecto. En esta evaluación se redactará un documento que permita a futuros proyectos efectuar planes de acción más efectivos.
+	\end{itemize}

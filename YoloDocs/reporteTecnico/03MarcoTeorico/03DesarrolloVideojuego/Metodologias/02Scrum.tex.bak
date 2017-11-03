@@ -1,0 +1,34 @@
+\subsubsection{Metodología en Scrum}
+Desarrollada por Ikujiro Nonaka e Hirotaka Takeuchi a principios de los 80’s, Esta metodología le debe su nombre a la formación scrum de los jugadores de ruby. Scrum es una metodología eficaz para proyectos con requisitos inestables que demandan flexibilidad y rapidez, esto principalmente a su naturaleza iterativa e incremental [ ].  
+\\
+\par
+Scrum parte de la visión general que se desea que producto alcance; a partir de esta visión se inicia la división del proyecto en diferentes módulos Scrum implementa una jerarquía entre los módulos en donde los módulos de mayor jerarquía son los que se desarrollaran al inicio del proyecto o durante las primeras iteraciones (sprint). Cada sprint tendrá una duración de hasta seis semanas a lo máximo [ ]. 
+\\
+\par
+Durante el proceso de desarrollo del sprint, el equipo tendrá reuniones diarias en donde se definirán metas diarias para lograr completar el objetivo del sprint. Estas reuniones deberán de ser de corta duración (no más de quince minutos) y recibirán el nombre de scrum diario. Al final de cada sprint, el equipo contará con un módulo funcional que el cliente podrá utilizar sin que el sistema este completado.
+\\
+\par
+Cada sprint se compone de las siguientes fases:
+\begin{itemize}
+	\item Concepto: se define a grandes rasgos las características del producto y se asigna a un equipo para desarrollarlo.
+	\item Especulación: Con la información del concepto se delimita el producto, siendo las principales limitantes los tiempos y los costes. Esta es la fase más larga del sprint. En esta etapa se desarrolla basándose en la funcionalidad esperada por el concepto.
+	\item Exploración: El producto desarrollado se integra al proyecto.
+	\item Revisión: Se revisa lo construido y se contrasta con los objetivos deseados.
+	\item Cierre: Se entrega el producto en la fecha programada, esta etapa no siempre significa el fin del proyecto; en ocasiones marca el inicio de la etapa de mantenimiento []. 
+\end{itemize}
+Uno de los principales componentes de la metodología scrum son los roles, es decir el papel que cada integrante del equipo desempeñara durante el proceso de desarrollo. Los roles se dividen en dos grupos:
+\begin{itemize}
+	\item Cerdos : Son los que están comprometidos con el proyecto y el proceso de Scrum.
+		\begin{itemize}
+			\item Product owner: Es el jefe del proyecto y por lo tanto es quien toma las decisiones. Esta persona es quien conoce más del proyecto y las necesidades del cliente. Es el puente de comunicación entre el cliente y el resto del equipo. 
+			\item Scrum Master: Se encarga de monitorear que la metodología y el modelo funcionen. Es quien toma las decisiones necesarias para eliminar cualquier inconveniente que pueda surgir durante el proceso de desarrollo. 
+			\item Equipo de desarrollo: Estas personas reciben el objetivo a cumplir del Product owner y cuentan con la capacidad de tomar las decisiones necesarias para alcanzar dicho objetivo.
+		\end{itemize}
+	\item Gallinas: Personas que no participan de manera directa en el desarrollo, sin embargo, su retroalimentación da pie a la planeación de los sprints.
+		\begin{itemize}
+			\item Usuarios: Son quienes utilizaran el producto.
+			\item Stakeholders: Son quienes el proyecto les aportara algún beneficio. Participan en las revisiones del sprint.
+			\item Manager: Toma las decisiones finales. Participa en la selección de objetivos y en la toma de requerimientos [].
+		\end{itemize}
+\end{itemize}
+
