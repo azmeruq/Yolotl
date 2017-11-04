@@ -1,0 +1,45 @@
+\subsubsection{CU-002 Cargar partida.} \label{CU:02}
+\begin{longtable}[c]{ | m{5cm} | m{10cm}|} 
+		\hline
+		\rowcolor{cyan}CU-002. & Cargar partida. \\ 
+		\hline
+		Descripción. & El jugador cargará una partida ya existente. \\ 
+		\hline
+		Reglas de negocio. & RN-00\ref{RN:01}\\ 
+		\hline
+		Precondición. & Existirá un archivo con los datos del juego en caso de que no sea la primera vez que se empiece una partida. \\
+		\hline
+		Postcondición. & El juego iniciara la partida con los datos leídos desde el archivo.\\
+		\hline
+		Errores. & ER-002.\\
+		\hline
+\end{longtable}
+\begin{itemize}
+	\item[•] Trayectoria Principal.
+		\begin{enumerate}
+			\item El jugador inicia la aplicación.
+			\item El jugador toca la pantalla táctil en la pantalla de inicio.
+			\item El juego carga la interfaz del menú principal.
+			\item El jugador selecciona el botón de Cargar partida (Ruta A).
+			\item El juego comprobara que existe un archivo con los datos de la partida (Ruta B).
+			\item El juego leerá los datos del archivo de datos de la partida.
+			\item El juego iniciara la partida con base en los datos leídos.
+			\item El juego redireccionará al jugador a la interfaz de Menú de selección de nivel.
+
+		\end{enumerate}
+	\item[•] Trayectorias Secundarias.
+		\begin{itemize}
+			\item Ruta A. 
+				\begin{enumerate}
+					\item El jugador selecciona el botón de Empezar partida (Ver caso de uso \ref{CU:01}).
+				\end{enumerate}
+			\item Ruta B.
+				\begin{enumerate}
+					\item El juego no encuentra ningún archivo con los datos de la partida (ver error 002).
+					\item El juego despliega el mensaje 002.
+					\item El jugador cierra el mensaje 002.
+					\item El jugador Empieza partida (ver caso de uso ).
+
+				\end{enumerate}
+		\end{itemize}
+\end{itemize}

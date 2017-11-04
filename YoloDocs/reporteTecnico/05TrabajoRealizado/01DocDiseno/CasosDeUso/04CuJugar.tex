@@ -1,0 +1,32 @@
+\subsubsection{CU-004 Jugar.} \label{CU:04}
+\begin{longtable}[c]{ | m{5cm} | m{10cm}|} 
+		\hline
+		\rowcolor{cyan}CU-004. & Jugar. \\ 
+		\hline
+		Descripción. & El jugador juega un nivel. Dentro del nivel controla a personaje jugable para cumplir los objetivos específicos del nivel y así superarlo.\\ 
+		\hline
+		Reglas de negocio. & RN-002, RN-003.\\ 
+		\hline
+		Precondición. & El jugador eligió un nivel desde el menú de selección de menú.
+		\par
+		Existirá un archivo con los datos del juego.
+		\par
+		El juego lee los valores del archivo de datos de partida para inicializar el menú de selección de nivel.\\
+		\hline
+		Postcondición. & El juego actualizara los niveles disponibles.\\
+		\hline
+		Errores. & ER-002.\\
+		\hline
+\end{longtable}
+\begin{itemize}
+	\item[•] Trayectoria Principal.
+		\begin{enumerate}
+			\item El jugador controla al personaje
+			\item El jugador cumple el objetivo del nivel.
+
+		\end{enumerate}
+	\item[•] Trayectorias Secundarias.
+		\begin{itemize}
+			\item Sin rutas alternas.
+		\end{itemize}
+\end{itemize}

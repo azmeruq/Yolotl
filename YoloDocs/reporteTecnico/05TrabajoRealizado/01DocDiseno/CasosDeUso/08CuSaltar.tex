@@ -1,0 +1,33 @@
+\subsubsection{CU-008 Saltar.} \label{CU:08}
+\begin{longtable}[c]{ | m{5cm} | m{10cm}|} 
+		\hline
+		\rowcolor{cyan}CU-008. & Saltar.\\ 
+		\hline
+		Descripción. & A través del personaje jugable, el jugador salta oprimiendo el botón de salto.\\ 
+		\hline
+		Reglas de negocio. & RN-017.\\ 
+		\hline
+		Precondición. & El jugador eligió un nivel desde el menú de selección de menú.\\
+		\hline
+		Postcondición. & Se activa la opción de doble salto.\\
+		\hline
+		Errores. & \\
+		\hline
+\end{longtable}
+
+\begin{itemize}
+	\item[•] Trayectoria Principal.
+		\begin{enumerate}
+			\item El jugador oprime el botón de salto (ruta A).
+			\item El personaje jugable salta.
+			\item El juego actualiza la opción que activa la posibilidad de realizar un doble salto.
+
+		\end{enumerate}
+	\item[•] Trayectorias Secundarias.
+		\begin{itemize}
+			\item Ruta A.
+				\begin{enumerate}
+					\item El jugador oprime el botón de salto cuando ya había saltado por segunda vez consecutiva por lo que el personaje jugable no efectúa el salto.
+				\end{enumerate}
+		\end{itemize}
+\end{itemize}
