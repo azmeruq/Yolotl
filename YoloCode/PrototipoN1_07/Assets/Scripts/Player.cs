@@ -55,6 +55,8 @@ public class Player : MonoBehaviour {
 		//tonalli = GameObject.FindGameObjectWithTag ("Tonalli");
 		//verticalSpeed = 600f;
 		//horizontalSpeed = 5f;
+		isTalking  = false;
+		//setIsTalking(false);
 		isJumping = false;
 		isFacingRight = true;
 		//horizontalSpeed = 5f;
@@ -81,13 +83,23 @@ public class Player : MonoBehaviour {
 
 
 		//*****************************************************************
-
+		/*
 		if(Input.GetKeyDown (KeyCode.Space) && (dMan.getPlayerIsCloseToTalk () == false))
 		{
 			Fire ();
 		}
 
 		if (mob.getShotPressed () == true && (dMan.getPlayerIsCloseToTalk () == false)) {
+			Fire ();
+		}
+		*/
+
+		if(Input.GetKeyDown (KeyCode.Space) && (isTalking == false))
+		{
+			Fire ();
+		}
+
+		if (mob.getShotPressed () == true && (isTalking == false)) {
 			Fire ();
 		}
 		//*******************************************************************
@@ -127,6 +139,16 @@ public class Player : MonoBehaviour {
 
 		//checkGrounded ();
 	}	
+
+	public void setIsTalking(bool what)
+	{
+		isTalking = what;
+	}
+
+	public bool getIsTalking()
+	{
+		return isTalking;
+	}
 
 	public void setHorizontalSpeed(float speed)
 	{

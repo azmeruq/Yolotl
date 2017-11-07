@@ -74,6 +74,7 @@ public class NPC : MonoBehaviour {
 			dMan.setPlayerIsCloseToTalk(true);
 			//dMan.setActualDialogue(getDialogue());
 			dMan.setActualDialogue(idDialogue);
+			player.setIsTalking (true);
 		} 
 	}
 
@@ -84,6 +85,7 @@ public class NPC : MonoBehaviour {
 			hideSymbol ();
 			//playerIsCloseToTalk = false;
 			dMan.setPlayerIsCloseToTalk(false);
+			player.setIsTalking (false);
 			//Debug.Log("NO puede activar el dialogo");
 		} 
 	}
