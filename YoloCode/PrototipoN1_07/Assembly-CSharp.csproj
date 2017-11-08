@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\DroppingPlatform.cs" />
      <Compile Include="Assets\Scripts\Feet.cs" />
      <Compile Include="Assets\Scripts\FollowedCharacter.cs" />
+     <Compile Include="Assets\Scripts\LevelCtrl.cs" />
      <Compile Include="Assets\Scripts\MenuCtrl.cs" />
      <Compile Include="Assets\Scripts\MobileUICtrl.cs" />
      <Compile Include="Assets\Scripts\MovingPlatform.cs" />
