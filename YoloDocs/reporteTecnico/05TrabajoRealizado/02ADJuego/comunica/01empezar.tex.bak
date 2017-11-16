@@ -1,0 +1,46 @@
+	\subsubsection{Empezar nueva partida}
+	Este caso consiste en que el jugador desde la intefaz 01 (ver aparatado
+	  \ref{TraReaInterfaces}) empieza una nueva partida.  	
+	\begin{itemize}
+		\item Clases involucradas
+			\begin{itemize}
+				\item PrincipalMenuCtrl.
+				\item GameDataCtrl.
+				\item GameData.
+				\item LevelData.
+				\item CutsceneData.
+				\item LoaderScene.
+			\end{itemize}
+			
+		
+
+\item Trayectoria de comunicación principal.
+		\begin{enumerate}
+				\item $\lbrack$PrincipalMenuCtrl$\rbrack$ Detectar que el jugador pulsó el 
+				botón de Empezar partida.
+				\item $\lbrack$PrincipalMenuCtrl$\rbrack$ Mostrar el mensaje donde pide la 
+				la confirmación del jugador para realizar los cambios en el archivo de 
+				datos de partida.
+				\item $\lbrack$PrincipalMenuCtrl$\rbrack$ Detectar que el jugador pulsó el 
+				botón de aceptar (Trayectoria A).
+				\item $\lbrack$PrincipalMenuCtrl$\rbrack$ Comunicar la confirmación a GameCtrl.
+				\item $\lbrack$GameDataCtrl$\rbrack$ Crear una instancia de la clase GameData 
+				con los valores predeterminados de inicio.
+				\item $\lbrack$GameDataCtrl$\rbrack$ Crear una instancia de la clase LevelData 
+				con los valores predeterminados de inicio.
+				\item $\lbrack$GameDataCtrl$\rbrack$ Crear una instancia de la clase CutsceneData 
+				con los valores predeterminados de inicio.
+				\item $\lbrack$GameDataCtrl$\rbrack$ Crear nuevo archivo de partida las 
+				intancias de las clases GameData, LevelData, CutsceneData.
+				\item $\lbrack$GameDataCtrl$\rbrack$ Comunicar a LoaderScene que el archivo 
+				de la partida han sido creado.
+				\item $\lbrack$LoaderScene$\rbrack$ Cargar cinemática 1.
+		\end{enumerate}
+		
+	\item Trayectoria A (El jugador pulsa cancelar).
+			\begin{enumerate}
+				\item[{A.}1] $\lbrack$PrincipalMenuCtrl$\rbrack$ Detectar que el jugador pulsó el 
+				botón de cancelar.
+				\item[{A.}2] $\lbrack$PrincipalMenuCtrl$\rbrack$ Cerrar mensaje de confirmación.
+			\end{enumerate}
+	\end{itemize}	

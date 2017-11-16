@@ -1,0 +1,40 @@
+\subsubsection{CU-002 Cargar partida.} \label{CargarPar}
+	Este caso consiste en que el jugador desde la intefaz 01 (ver aparatado 
+	\ref{TraReaInterfaces}) empieza una nueva partida.  
+\begin{itemize}
+	\item Trayectoria Principal.
+		\begin{enumerate}
+			\item $\lbrack$Jugador$\rbrack$ Iniciar la aplicación.
+			\item $\lbrack$Jugador$\rbrack$ Tocar la pantalla táctil en la pantalla de inicio.
+			\item $\lbrack$Sistema$\rbrack$ Cargar la interfaz del menú principal.
+			\item $\lbrack$Jugador$\rbrack$ Seleccionar el botón de Cargar partida (Ruta A).
+			\item $\lbrack$Sistema$\rbrack$ Comprobar que existe un archivo con los datos 
+			de la partida (Ruta B).
+			\item $\lbrack$Sistema$\rbrack$ Leer los datos del archivo de datos de la partida.
+			\item $\lbrack$Sistema$\rbrack$ Iniciar la partida con base en los datos leídos.
+			\item $\lbrack$Sistema$\rbrack$ Redireccionar al jugador a la interfaz de 
+			Menú de selección de nivel.
+		\end{enumerate}
+	%==============================
+	\item Trayectorias Secundarias.
+		\begin{itemize}
+			\item Ruta A. 
+				\begin{enumerate}
+					\item $\lbrack$Jugador$\rbrack$ Seleccionar el botón de Empezar partida 
+					(Ver caso de uso \ref{CasoEmpezar}).
+				\end{enumerate}
+			\item Ruta B.
+				\begin{enumerate}
+					\item $\lbrack$Sistema$\rbrack$ No encontrar ningún archivo con los datos de 
+					la partida (ver error 002).
+					\item $\lbrack$Sistema$\rbrack$ Mostrar el mensaje 002.
+					\item $\lbrack$Jugador$\rbrack$ Seleccionar botón de cerrar del mensaje 002 
+					(Regresar al punto 3).					
+				\end{enumerate}
+		\end{itemize}
+	%==============================
+		\item Consideraciones.
+			\begin{itemize}
+				\item Solo puede existir un archivo de datos de partida.
+			\end{itemize}
+\end{itemize}

@@ -4,8 +4,13 @@
 
 %<<<<<<< HEAD
 %%Paquete referencias
-\usepackage[style=ieee]{biblatex}
-\addbibresource{00Bibliografia/05refTrabRea.bib}
+\usepackage[backend=bibtex, style=ieee]{biblatex}
+\addbibresource{00Biblio/02PlanPro.bib}
+\addbibresource{00Biblio/03MarcoTeoVideo.bib}
+\addbibresource{00Biblio/03MarcoTeoDesarrolo.bib}
+\addbibresource{00Biblio/03MarcoMotor.bib}
+\addbibresource{00Biblio/03MarcoTeoCultura.bib}
+\addbibresource{00Biblio/05TrabRealizado.bib}
 %=======
 \usepackage{rotating}
 \usepackage{multirow}
@@ -41,14 +46,14 @@
 	\maketitle
 	\tableofcontents
 	
-	\include{01Introduccion}
+	%\include{01Introduccion}
 	\include{02PlanProblema}
-	\include{03MarcoTeorico}
-	\include{04EstadoArte}
+	\include{03MarcoTeo}
+	\include{04AlcanceProyecto}
 	\include{05TrabajoRealizado}
 	\include{06ResultadoObtenidos}
 	\include{07Observaciones}
 	\printbibliography
-	\include{09Anexos}
+	%\include{09Anexos}
 	
 \end{document}
