@@ -51,16 +51,17 @@ RigidBody2D, para el manejo de físicas y movimiento, y el componente
 BoxCollider2D, para la detección de colisiones.
 \\
 \par 
-En lo que refiere a la programación del personaje jugable, esto se logró con
-la creación de una clase llamada PlayerManager, esta clase es equivalente a 
+La programación del personaje jugable se realizó con la creación de una 
+clase llamada PlayerManager. Esta clase es equivalente a 
 la clase Player descrita en el apartado \ref{ClaseCtrl}, con algunas diferencias.
-La principal diferencia es que PlayerManager instancia clases de tipo controlador 
-lograr reaccionar ante eventos como El personaje jugable recibe daño (ver figura ).
+La principal diferencia es que PlayerManager instancía clases de tipo controlador 
+para lograr reaccionar ante eventos como cuando 
+el personaje jugable recibe daño (ver figura ). %% referencia?? 
 \\
 \par 
-En cuanto como la clase PlayerManager gestiona acciones como disparar, saltar, 
+En cuanto como la clase PlayerManager, ésta gestiona acciones como disparar, saltar, 
 moverse hacia la izquierda, moverse hacia la derecha, su funcionamiento es igual
-al que posee la clase Player.
+al que poseé la clase Player.
 \\
 \par 
 La acción de disparar se consiguió creando un GameObject llamado Bullet. 
@@ -125,7 +126,7 @@ y se configuraron para que se adaptaran al tamaño de la pantalla (ver figura ).
  salir de la aplicación.   
  
  \subsubsection{Creación de una inteligencia artificial sencilla para los enemigos}
- Para la creación de inetligencia artificial de los enemigos fue necesaria 
+ Para la creación de inteligencia artificial de los enemigos fue necesaria 
  la implentación de un conjunto de objetos vacíos (es decir, objetos que solo 
  contienen el atributo de Trasnform). Por medio de estos objetos vacios la clase 
  Encargada del patrón de movimiento marcaría los tiempos de desplazamiento entre 
