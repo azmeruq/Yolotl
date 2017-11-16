@@ -29,15 +29,15 @@ respecto a la del diseño.
 \\
 \par
 Al igual que en el prototipo uno, se configuraron los botones y el 
-canvas para que pudieran adaptar su tamaño si se modificaba el tamaño de la 
+canvas para que adapten su tamaño si se modifica el tamaño de la 
 pantalla.
 \\
 \par
 Para la funcionalidad del menú principal se implementó la clase PrincipalMenuCtrl; 
 sin embargo, no se implementaron todos sus métodos ni todos sus atributos. Siendo 
 el botón Empezar partida, él unico con la funcionalidad parcialmente habilitada, 
-ya que al ser oprimido por el jugador solo realiza la transicion de la interfaz del 
-menu principal a la primera mitad del nivel uno, sin generar el archivo de datos 
+ya que al ser oprimido por el jugador solo realiza la transición de la interfaz del 
+menu principal a la primera mitad del nivel uno sin generar el archivo de datos 
 de partida.
 \\
 \par
@@ -83,7 +83,7 @@ se listan los cambios más significativos con respecto a la clase del prototipo 
   \label{figAniMalinalli}
 \end{figure}
 
-\subsubsection{Interfaz gráfica}
+\subsubsection{Interfaz gráfica del nivel}
 Al igual que el prototipo anterior, la interfaz gráfica se compone de dos canvas: uno 
 para los marcadores y otro para los botones que permiten al jugador controlar al personaje jugable (Ver figura \ref{figCanvasM}).
 \\
@@ -97,9 +97,9 @@ fueron implementadas por lo que el Botón de disparo se encuentra sin funcionali
 \\
 \par
 Por su parte el canvas que contiene los marcadores modifica su estructura visual (ver 
-figuar \ref{figCanvasM} ). Los corazones que indicaban la cantidad de vidas del prototipo anterior 
-desaparecen y en sus lugar se utliza una barra de vida y se agrega por primera vez la  
-barra de cantidad Tonalli.  
+figuar \ref{figCanvasM}). Los corazones que indicaban la cantidad de vidas del 
+prototipo anterior por una barra de vida y se agrega por primera vez la  
+barra de cantidad Tonalli.   
 
 \begin{figure}
   \centering
@@ -109,18 +109,14 @@ barra de cantidad Tonalli.
 \end{figure}
 
 \subsubsection{Primer mitad del nivel uno}
-En esta sección se acomodaron los sprites de los ciudadanos, objetos de fondo de la
- ciudad y el suelo, con base en la maqueta del nivel (ver anexo ). En esta prototipo 
- aun no se pudo implementar la clase hija de LevelCtrl que le corresponde al nivel 1; 
- por lo que para emular la transición entre niveles se creó un GameObject vació y se 
- le agregó el componente Box Collider2D, de este modo se realiza la transición a  
- la transición a la segunda mitad del primer nivel.
+Tomando la maqueta del primer nivel como base, se crearon los GameObjects 
+correspondientes para construir la primera parte del primer nivel. 
+ En esta primera mitad del prototipo no se alcanzó a crear la clase DialogueCtrl y todas sus clases ligadas por lo que se creó un GameObject vació, se le agregó el componente Box Collider2D, y se agrego una  de este modo se realiza la transición a la segunda mitad del primer nivel.
  
  \subsubsection{Segunda mitad del primer nivel}
  En esta segunda mitad se implementó la clase FollowedCharacter para la persecución 
  de Xólotl en su forma xoloitzcuintle. En Xólotl también fue necesario implementar 
- una maquina de estados para sus animación. Como se puede ver en la figura \ref{figAniXolo} la  maquina de estados de Xólotl no es tan compleja como la del 
- personaje jugable Malinalli.   
+ una maquina de estados para sus animación. Como se puede ver en la figura \ref{figAniXolo} la  maquina de estados de Xólotl esta compuesta de dos estados: .
  
  \begin{figure}
   \centering
