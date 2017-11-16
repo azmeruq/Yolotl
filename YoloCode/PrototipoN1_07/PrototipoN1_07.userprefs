@@ -1,17 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FollowedCharacter.cs">
     <Files>
-<<<<<<< HEAD
-      <File FileName="Assets\Scripts\Player.cs" Line="104" Column="4" />
-      <File FileName="Assets\Scripts\DialogueManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\NPC.cs" Line="83" Column="42" />
-      <File FileName="Assets\Scripts\FollowedCharacter.cs" Line="52" Column="5" />
-=======
-      <File FileName="Assets\Scripts\Player.cs" Line="51" Column="103" />
->>>>>>> ba6bbcf3e02c7e6162aa7ecf4b3a9529026d44ab
-      <File FileName="Assets\Scripts\MovingPlatform.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MobileUICtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FollowedCharacter.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

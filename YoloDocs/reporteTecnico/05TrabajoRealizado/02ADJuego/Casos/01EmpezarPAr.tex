@@ -1,0 +1,37 @@
+	 \subsubsection{Caso jugador empieza una nueva partida}\label{CasoEmpezar}
+	 Este caso consiste en que el jugador desde la intefaz 01 (ver aparatado
+	  \ref{TraReaInterfaces}). Empieza una nueva partida.  
+	\begin{itemize}
+		\item \textbf{Trayectoria principal:}
+			\begin{enumerate}
+				\item $\lbrack$Jugador$\rbrack$ Iniciar la aplicación.
+				\item $\lbrack$Jugador$\rbrack$ Tocar la pantalla táctil en la Pantalla de 
+				inicio.
+				\item $\lbrack$Sistema$\rbrack$ Cargar la interfaz del menú principal.
+				\item $\lbrack$Jugador$\rbrack$ Tocar el botón de Empezar partida (Ruta A).
+				\item $\lbrack$Sistema$\rbrack$ Mostrar el mensaje 01 (Ruta B).
+				\item $\lbrack$Jugador$\rbrack$ Pulsar selecciona el botón de aceptar, con 
+				lo que confirma la acción de empezar partida.
+				\item $\lbrack$Sistema$\rbrack$ Crear nuevo archivo de partida con los valores 
+				por defecto para el jugador y los niveles disponibles.
+			\end{enumerate}
+		%==============================		
+		\item Trayectorias secundarias
+			\begin{itemize}
+				\item \textbf{Ruta A.}
+					\begin{enumerate}[{A.}1]
+						\item $\lbrack$Jugador$\rbrack$ Seleccionar el botón de Cargar partida 
+						(Ver caso de uso \ref{CU:02}).
+					\end{enumerate}
+				\item \textbf{Ruta B.}
+					\begin{enumerate}[{B.}1]
+						\item $\lbrack$Jugador$\rbrack$ Seleccionar el botón de cancelar.
+						\item $\lbrack$Sistema$\rbrack$ Cerrar mensaje (Volver al punto 3). 
+					\end{enumerate}
+			\end{itemize}
+		%==============================
+		\item Consideraciones.
+			\begin{itemize}
+				\item Solo puede existir un archivo de datos de partida.
+			\end{itemize}
+	\end{itemize}

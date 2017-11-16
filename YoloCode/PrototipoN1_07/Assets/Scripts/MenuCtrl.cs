@@ -14,4 +14,9 @@ public class MenuCtrl : MonoBehaviour {
 		LoadScene.changeScene ();
 	}
 
+	void OnTriggerEnter2D(Collider2D other) {
+		if(other.gameObject.CompareTag ("Player")){
+			LoadScene.changeScene ();
+		}
+	}
 }

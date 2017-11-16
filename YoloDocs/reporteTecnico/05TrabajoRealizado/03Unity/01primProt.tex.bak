@@ -1,0 +1,130 @@
+\subsection{Primer Prototipo}
+Con el fin de poder familiarizarse con el motor de Unity
+se desarrollo un primer prototipo. Este primer prototipo basaba su funcionamiento 
+en algunas de las mecánicas de la sección de plataformas del segundo nivel, con 
+algunas diferencias en cuanto al manejo de la cantidad de vida, el personaje 
+jugable y la colocación de algunos botones en la GUI del juego.
+\\
+\par
+En primer prototipo el jugador podía:
+\begin{itemize}
+	\item Mover al persoanje jugable hacia la derecha.
+	\item Mover al personaje jugable hacia la izquierda.
+	\item Hacer que el personaje jugable saltara.
+	\item Hacer que el personaje jugable dispare.
+\end{itemize}
+
+Con este primer prototipo el equipo de desarrollo se familiarizo con:
+\begin{itemize}
+	\item Crear Sprites.
+	\item Implementar un personaje jugable.
+	\item Implementar Interfaz gráfica.
+	\item Manejo de un score para el juego.
+	\item Manejo de efectos especiales para determinadas acciones del personaje jugable.
+	\item Manejo de archivos para preservar datos de la partida.
+	\item Creación de una inteligencia artificial sencilla para los enemigos.
+\end{itemize}
+
+\subsubsection{Creando sprites.}
+Los sprites, dentro de unity, son todos aquellos objetos gráficos de dos 
+dimensiones. Para este prototipo en particular se crearon Sprites haciendo uso 
+de Corel Draw X5 y Photoshop y tambien se descargaron algunos sprites desde 
+el sitio web GameArt2D. 
+
+\subsubsection{Implementación del personaje jugable}
+En este primer prototipo el objeto de juego que correspondiente al personaje 
+jugable se nombró Cat. 
+\\
+\par
+Para su implementación se manejó una maquina de estados que permitiera la transición 
+entre sus bloques de animación cuando se ejecutaran las diferentes acciones acciones 
+(Ver figura ). 
+Para lograr la vinculación entre el personaje jugable y su maquina de estados 
+correspondiente, al personaje jugable se le agregó el componente Animator 
+(Ver figura ); el cual permite esa vinculación.   
+\\
+\par 
+También fue necesario agregarle al personaje jugable los componentes de 
+RigidBody2D, para el manejo de físicas y movimiento, y el componente 
+BoxCollider2D, para la detección de colisiones.
+\\
+\par 
+En lo que refiere a la programación del personaje jugable, esto se logró con
+la creación de una clase llamada PlayerManager, esta clase es equivalente a 
+la clase Player descrita en el apartado \ref{ClaseCtrl}, con algunas diferencias.
+La principal diferencia es que PlayerManager instancia clases de tipo controlador 
+lograr reaccionar ante eventos como El personaje jugable recibe daño (ver figura ).
+\\
+\par 
+En cuanto como la clase PlayerManager gestiona acciones como disparar, saltar, 
+moverse hacia la izquierda, moverse hacia la derecha, su funcionamiento es igual
+al que posee la clase Player.
+\\
+\par 
+La acción de disparar se consiguió creando un GameObject llamado Bullet. 
+Este objeto se le agrego el componente RigidBody2D, para que tuviera fisicas y 
+movimiento, y el componente CircleCollider2D, para la deteccion de colisones. 
+Este objeto se le vinculó con dos clases: BulletCtrl, clase que se 
+encarga del desplazamiento de Bullet, y DestroyWithDelay, clase que destruye el 
+objeto Bullet después de un tiempo para evitar que el nivel se sature de objetos.
+\\
+\par
+Para la respuesta a la detección de colisiones, se manejó un un sistemas de Tag 
+o etiquetas con el cual se etiquetaban a los objetos como: 
+\begin{itemize}
+	\item Player: corresponde al personaje jugable.
+	\item GameController: corresponde al objeto que instancia la clase LevelCtrl.
+	\item Ground: Aquellos objetos que funjan como suelo.
+	\item Rock: Objetos que representan el obstáculo piedras filosas.
+	\item Enemy: Para los enemigos.
+	\item Dog: Para los xoloitzcuintles.
+\end{itemize}   
+Cuando el personaje jugable detecta una colisión, pregunta por la etiqueta del 
+objeto con el que esté colisionando y dependiendo de la etiqueta es la forma 
+en que reacciona. A continuación se mencionan las etiquetas que detecta y su 
+reacción:
+\begin{itemize}
+	\item \item Ground: Actualiza atributos de tipo boleano para indicar que el 
+	personaje no se encuentra saltando y por lo tanto habilita esta opción para 
+	cuando el jugador oprima el botón de salto.
+	\item Rock: Instancia la clase LevelCtrl y le pide que ejecute el método 
+	PlayerDiedAnimation para indicar la muerte del jugador.
+	\item Enemy: Instancia la clase LevelCtrl y le pide que ejecute el método 
+	PlayerDiedAnimation para indicar la muerte del jugador.
+	\item Dog: Instancia la clase LevelCtrl y le pide que ejecute el método 
+	UpdateXoloCount, despues destruye el objeto con el tag Dog y en su posición 
+	muestra un efecto de brillos. 
+\end{itemize} 
+
+\subsubsection{Implementar Interfaz gráfica} 
+Unity permite utilizar GameObject de tipo UI para la impelementacion de la interfaz.
+En este prototipo la Interfaz gráfica se construyó a partir de dos Canvas: uno 
+para los botones y otro para el conteo de vidas, la puntuación de jugador. 
+Ambos Canvas se vincularon con el objeto cámara para garantizar un tamaño constante 
+y se configuraron para que se adaptaran al tamaño de la pantalla (ver figura ).    
+ \\
+ \par
+ El canvas que corresponde al conteo de vidas y la puntuación esta vinculado con 
+ la clase LevelCtrl, clase que se encarga de la actualización de las vidas y la 
+ puntuación del jugador. Mientras que el canvas referente a los botones se encuentra 
+ vinculado con la clase MobileUICtrl para comunicar al jugador con la clase Player 
+ y con el personaje jugable (ver figura ).  
+ 
+ \subsubsection{Manejo de un score para el juego y preservación de datos de la partida}
+ Como se mencionó en el apartado referente al personaje jugable quien se encarga 
+ de controlar el score del juego es la clase LevelCtrl. Esta clase es mandada a 
+ llamar cada vez que el personaje jugable colisiona con objeto con el tag Enemy, 
+ Rock o Dog, o cuando el objeto Bullet colisiona con un objeto con el tag enemigo. 
+ Cada vez que se actualiza el score, los datos son almacenados en un archivo 
+ binario esto permite que si el jugador muere su progreso no se pierda. Cuando 
+ lo que se actualiza es la cantidad de vidas disponible primero se pregunta con 
+ cuanta vidas se cuenta  dependiendo de eso es si se reiniciara el juego o se mostrara 
+ los botones de fin de partida en los cuales se le pregunta al jugador reanudar o 
+ salir de la aplicación.   
+ 
+ \subsubsection{Creación de una inteligencia artificial sencilla para los enemigos}
+ Para la creación de inetligencia artificial de los enemigos fue necesaria 
+ la implentación de un conjunto de objetos vacíos (es decir, objetos que solo 
+ contienen el atributo de Trasnform). Por medio de estos objetos vacios la clase 
+ Encargada del patrón de movimiento marcaría los tiempos de desplazamiento entre 
+ punto y punto o las acciones que el enemigo realizaría entre punto y punto (ver figura ).  

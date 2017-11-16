@@ -1,0 +1,107 @@
+\subsubsection{Clases Actores}
+A continuación se listan las clases auxiliares: 
+		\begin{itemize}
+			\item \textbf{LoaderScene:} Esta clase permite la transición 
+			entre escenas. Esta clase es auxiliar de las clases:
+			\begin{itemize}
+				\item Controladores de nivel.
+				\item Controladores de cinemáticas.
+				\item PrincipalMenuCtrl.
+				\item SelectLevelMenu.
+			\end{itemize}
+			%===============================			
+			\item \textbf{DestroyWithDelay:} Esta clase destruye al objeto que la 
+			instancia después de \textit{n} segundos. Esta clase es instanciada por 
+			los GameObjects:
+			\begin{itemize}
+				\item TonalliBullet.
+				\item GostBullet.
+			\end{itemize}
+			%===============================
+			\item \textbf{GroundCollisionCtrl:} Esta clase detecta y gestiona todas las 
+			colisiones de suelo del personaje jugable. Esta clase es auxiliar de:
+			\begin{itemize}
+				\item Player.
+			\end{itemize}
+			%===============================
+			\item \textbf{Dialogue:} Esta clase tiene por atributos el nombre de un 
+			personaje y un dialogo con la capacidad de ser serializados para que estos 
+			puedan ser almacenados y leídos desde un archivo de tipo JASON. Esta clase 
+			es auxiliar de:
+			\begin{itemize}
+				\item Dialogues.
+				\item TalkedCharacter
+				\item TalkedCharactersCtrl
+			\end{itemize}
+			%===============================
+			\item \textbf{Dialogues:} Esta clase tiene por atributos una lista de instancias 
+			de la clase Dialogue con la capacidad de ser serializados para que estos 
+			puedan ser almacenados y leídos desde un archivo de tipo JASON. Esta clase 
+			es auxiliar de:
+			\begin{itemize}
+				\item Dialogues.
+				\item TalkedCharacter.
+				\item TalkedCharactersCtrl.
+			\end{itemize}
+			%===============================
+			\item \textbf{FileDialogues:} Esta clase lee datos desde un archivo JASON y 
+			serializa su contenido para instanciarlo en la clase Dialogues. Esta clase 
+			es auxiliar de:
+			\begin{itemize}
+				\item FileDialogue.
+				\item TalkedCharactersCtrl.
+				\item CutsceneCtrl.
+			\end{itemize}
+			%===============================
+			\item \textbf{PlayerAudio:} Esta clase contiene todos los archivos de audio que
+			corresponden a las acciones del jugador como correr, disparar, morir, etc. El 
+			objetivo de esta clase es facilitar la vinculación entre los audios y la clase
+			AudioCtrl. 
+			\begin{itemize}
+				\item AudioCtrl
+			\end{itemize}
+			
+			%===============================
+			\item \textbf{AudioFX:} Esta clase contiene todos los archivos de audio que
+			corresponden a los efectos de sonido del juego ajenos al jugador. El 
+			objetivo de esta clase es facilitar la vinculación entre los audios y la clase
+			AudioCtrl. 
+			\begin{itemize}
+				\item AudioCtrl
+			\end{itemize}
+			
+			%===============================
+			\item \textbf{CutsceneData:} Esta clase tiene por atributos datos que permiten 
+			llevar el control de las cinemáticas disponibles para ver y de las que faltan 
+			por desbloquear. Esta clase contiene atributos que tienen la capacidad de ser 
+			serializables con el fin de que puedan ser almacenados en un archivo de tipo
+			binario y a su vez instanciados cuando sean leidos desde el archivo.
+			\begin{itemize}
+				\item GameDataCtrl.
+				\item GameData.
+			\end{itemize}
+			
+			%===============================
+			\item \textbf{LevelData:} Esta clase tiene por atributos datos que permiten 
+			llevar el control de los niveles disponibles para jugar y de los que faltan 
+			por desbloquear. Esta clase contiene atributos que tienen la capacidad de ser 
+			serializables con el fin de que puedan ser almacenados en un archivo de tipo
+			binario y a su vez instanciados cuando sean leídos desde el archivo.
+			\begin{itemize}
+				\item GameDataCtrl.
+				\item GameData.
+			\end{itemize}
+			
+			%===============================
+			\item \textbf{GameData:} Esta clase tiene por atributos datos que permiten 
+			llevar el control de todo el progreso del jugador. Esta clase contendra 
+			atributos de la clase \textit{Player} que serán utilizados por las clases hijas de 
+			\textit{LevelCtrl} para incializar la partida. Esta clase contiene atributos que tienen
+			 la capacidad de ser serializables con el fin de que puedan ser almacenados 
+			 en un archivo de tipo binario y a su vez instanciados cuando sean leidos 
+			 desde el archivo.
+			\begin{itemize}
+				\item GameDataCtrl.
+			\end{itemize}
+			
+\end{itemize}	

@@ -1,0 +1,102 @@
+\subsubsection{Batalla contra jefe}
+	El jugador se enfrenta contra un enemigo de tipo jefe. Para garantizar la 
+	generalidad de la comunicación entre clases, se ejemplificara la comunicación 
+	con la clase BossEnemy y con la clase LevelCtrl en lugar que con sus 
+	respectivas clases hijas.
+		
+	\begin{itemize}
+		\item Clases involucradas
+			\begin{itemize}
+				\item Player.
+				\item MobileUICtrl.
+				\item GameDataCtrl.
+				\item GameData.
+				\item BossEnemy
+				\item LevelCtrl.
+				\item LoaderScene.
+			\end{itemize}
+			
+		\item Trayectoria de comunicación principal.
+		\begin{enumerate}
+				\item $\lbrack$LevelCtrl$\rbrack$ Solicitar valores a la clase GameDataCtrl 
+				para inicializar a la clase Player. 
+				\item $\lbrack$GameDataCtrl$\rbrack$ Recibe la solicitud de la clase 
+				LevelCtrl.
+				\item $\lbrack$GameDataCtrl$\rbrack$ Leer datos del archivo binario.
+				\item $\lbrack$GameDataCtrl$\rbrack$ Serializar datos del archivo binario 
+				en una instancia de la clase GameData.
+				\item $\lbrack$GameDataCtrl$\rbrack$ Enviar instancia de la clase GameData 
+				a la clase LevelCtrl.
+				\item $\lbrack$LevelCtrl$\rbrack$ Recibe instancia de la clase GameData.
+				\item $\lbrack$LevelCtrl$\rbrack$ Inicializar valores de la clase Player 
+				usando los valores de la instancia de GameData.
+				\item $\lbrack$LevelCtrl$\rbrack$ Habilitar MobileUICtrl.
+				\item Las trayectorias A, B, D y F se ejecutaran de manera paralela.
+				\item Repetir el punto anterior mientras atributo isAlive de Player o 
+				BossEnemy sea false.
+				\item $\lbrack$LevelCtrl$\rbrack$ Canfirmar isAlive de jugador es veradero (Ruta H).
+ 				\item $\lbrack$LevelCtrl$\rbrack$ Desabilita MobileUICtrl.
+ 				\item $\lbrack$LevelCtrl$\rbrack$ Enviar nueva instancia de GameData con el 
+ 				progreso del juego a GameDataCtrl.
+ 				\item $\lbrack$GameDataCtrl$\rbrack$ Escribir los datos de GameData en el archivo
+ 				Binario de partida.
+ 				\item $\lbrack$GameDataCtrl$\rbrack$ Confirmar a LevelCtrl que se ha salvado 
+ 				el progreso de la partida.
+ 				\item $\lbrack$GameDataCtrl$\rbrack$ Comunicar a LoaderScene que el archivo 
+				de la partida han sido salvado.
+				\item $\lbrack$LoaderScene$\rbrack$ Cargar interfaz de Menú de selección de 
+				nivel.
+		\end{enumerate}
+		
+		\item Trayectoria A (MobileUICtrl detecta boton oprimido por el usuario).
+			\begin{enumerate}
+				\item[{B.}2] $\lbrack$MobileUICtrl$\rbrack$ Detectar botones oprimidos por el 
+				jugador. 
+				\item[{B.}2] $\lbrack$MobileUICtrl$\rbrack$ Confirmar a clase Player sobre que 
+				botón se oprimió.
+				\item[{B.}3] $\lbrack$Player$\rbrack$ Ejecuta la acción con base al boton oprimido.
+			\end{enumerate}
+			
+		\item Trayectoria B (Player detecta colisión con BossEnemy).
+			\begin{enumerate}
+				\item[{B.}1] $\lbrack$Player$\rbrack$ Solicitar contidad de daño a BossEnemy.
+				\item[{B.}2] $\lbrack$BossEnemy$\rbrack$ Enviar contidad de daño a Player.
+				\item[{B.}3] $\lbrack$Player$\rbrack$ Restar cantidad de daño de BossEnemy a
+				cantidad de vida de Player.
+				\item[{B.}4] $\lbrack$Player$\rbrack$ Confirmar cantidad de vida de Player es 
+				mayor a cero (Volver a trayectoria principal en 9; Trayectoria C).
+			\end{enumerate}
+		
+		\item Trayectoria C (Cantidad de vida de Player menor o igual a cero).
+			\begin{enumerate}
+				\item[{C.}1] $\lbrack$Player$\rbrack$ Volver IsAlive igual a false.
+			\end{enumerate}
+			
+		\item Trayectoria D (BossEnemy detecta colisión con el objeto TonalliBullet).
+			\begin{enumerate}
+				\item[{D.}1] $\lbrack$BossEnemy$\rbrack$ Solicitar contidad de daño a TonalliBullet.
+				\item[{D.}2] $\lbrack$TonalliBullet$\rbrack$ Enviar contidad de daño a BossEnemy.
+				\item[{D.}3] $\lbrack$BossEnemy$\rbrack$ Restar cantidad de daño de TonalliBullet a
+				cantidad de vida de BossEnemy.
+				\item[{D.}4] $\lbrack$BossEnemy$\rbrack$ Confirmar cantidad de vida de BossEnemy es 
+				mayor a cero (Volver a trayectoria principal en 9; Trayectoria C).
+			\end{enumerate}
+			
+		\item Trayectoria E (Cantidad de vida de BossEnemy menor o igual a cero).
+			\begin{enumerate}
+				\item[{E.}1] $\lbrack$BossEnemy$\rbrack$ Volver IsAlive igual a false.
+			\end{enumerate}
+			
+		\item Trayectoria F.
+			\begin{enumerate}
+				\item[{F.}1] $\lbrack$LevelCtrl$\rbrack$ Actualizar Barra de cantidad de 
+				vida jugador. 
+				\item[{F.}1] $\lbrack$LevelCtrl$\rbrack$ Actualizar Barra de cantidad de 
+				tonalli jugador. 
+			\end{enumerate}
+		
+		\item Trayectoria H (Atributo isAlive de Player es falso).
+			\begin{enumerate}
+				\item[{F.}1] regresar al punto 1 de ruta principal. 
+			\end{enumerate}
+	\end{itemize}	

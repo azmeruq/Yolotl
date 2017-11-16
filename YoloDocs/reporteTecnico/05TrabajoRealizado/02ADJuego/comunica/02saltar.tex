@@ -1,0 +1,40 @@
+	\subsubsection{Personaje jugable salta}
+	Este caso consiste en que el jugador desde un nivel oprime el botón de saltar.  	
+	\begin{itemize}
+		\item Clases involucradas
+			\begin{itemize}
+				\item Player.
+				\item MobileUICtrl.
+			\end{itemize}
+			
+		\item Trayectoria de comunicación principal.
+		\begin{enumerate}
+				\item $\lbrack$MobileUICtrl$\rbrack$ Detectar que el jugador pulsó el 
+				botón de saltar.
+				\item $\lbrack$MobileUICtrl$\rbrack$ Avisa a la clase Player que el botón 
+				saltar fue oprimido.
+				\item $\lbrack$Player$\rbrack$ Confirma que el atributo isJumping se 
+				falso (Trayectoria A).
+				\item $\lbrack$Player$\rbrack$ Ejecutar método saltar.
+				\item $\lbrack$Player$\rbrack$ Actualizar el valor de atributo isJumping
+				en verdadero. 
+				\item $\lbrack$Player$\rbrack$ Actualizar el valor de atributo CanDoubleJump 
+				en verdadero.
+		\end{enumerate}
+		
+		\item Trayectoria A (Atributo isJumping es verdadero).
+			\begin{enumerate}
+				\item[{A.}1] $\lbrack$Player$\rbrack$ Confirma que el atributo isJumping es 
+				verdadero.
+				\item[{A.}2] $\lbrack$Player$\rbrack$ Confirma que el atributo CanDoubleJump 
+				es verdadero (Trayectoria B).
+				\item[{A.}3] $\lbrack$Player$\rbrack$ Ejecutar método saltar.
+				\item $\lbrack$Player$\rbrack$ Actualizar el valor de atributo CanDoubleJump 
+				en falso.
+			\end{enumerate}
+			
+		\item Trayectoria B (Atributo CanDoubleJump es falso).
+			\begin{enumerate}
+				\item[{B.}1] $\lbrack$Player$\rbrack$ No ejecuta método saltar.
+			\end{enumerate}
+	\end{itemize}

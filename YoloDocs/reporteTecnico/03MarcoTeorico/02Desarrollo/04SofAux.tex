@@ -1,0 +1,175 @@
+\subsection{Software para el desarrollo de videojuegos.}\label{SoftVideojue}
+En este apartado se habla del software que comúnmente se emplea para el desarrollo de videojuegos, empezando por el motor de juego, la definición del motor de juego, la arquitectura del motor de juego, los motores de juego más usados en el mercados; para finalizar con una lista del software auxiliar que se usa para generar lo elementos visuales y auditivos que componen al juego.
+
+%==========================================
+ 
+\subsubsection{Motor de juego.}
+El motor de juego, también conocido como Game Engine, parte del concepto de reutilización; es decir, es posible generar juegos a partir de un código base y común mediante una separación adecuada de los componentes fundamentales, tal como visualización de gráficos, control de colisiones, físicas, entrada de datos etc \cite{Ref:MutorGraf}; esto permite a quienes trabajen en un juego puedan centrarse en todos aquellos detalles que hacen al juego único.
+
+%==========================================
+
+\subsubsection{Arquitectura del motor}
+Los motores de juego se basan en una arquitectura estructurada a capas. Por lo que las capas de nivel superior dependen directamente de las de nivel inferior \cite{Ref:ArquMotor} 
+ A continuacion se mencionaran las capas que componen al motor de juego junto a una breve descripción de la capas.
+ 
+ \begin{itemize}
+ 	\item \textbf{Hardware:} esta capas e relaciona con la plataforma sobre la que se ejecutará el juego. Existen motores gráficos orientados hacia una sola plataforma (dispositivos móviles, consolas caseras, computadoras o consolas portátiles, etc.) y existe motores multiplataforma que permiten el desarrollo simultaneo de un juego para diferentes plataformas (cross-platform) \cite{Ref:ArquMotor}.
+ 	\item \textbf{Drivers:} Esta capa garantiza la correcta gestión de determinados dispositivos (tarjeta grafica, tarjeta de sonido, etc.) haciendo uso de software de bajo nivel \cite{Ref:ArquMotor}. 
+ 	\item \textbf{Sistema Operativo:} Esta capa garantiza la comunicación de los procesos que se ejecutan en el sistema operativos y los recursos de la plataforma asociada con el juego \cite{Ref:ArquMotor}.
+ 	\item {Kits de de desarrollo de software y middleware:} Un Kit de de desarrollo de software(SDK, por sus siglas en inglés) son todas aquella herramientas que le permiten al programador desarrollar aplicaciones informaticas para una plataforma determinada \cite{ref:SDK}. Mientras que un middleware es software que se sitúa entre un sistema operativo y las aplicaciones que se ejecutan en él. Básicamente, funciona como una capa de traducción oculta para permitir la comunicación y la administración de datos en aplicaciones distribuidas \cite{Ref:middleware}. 
+ 	\item \textbf{Capa independiente de la plataforma:} Esta capa aísla las capas dependientes de la plataforma para la que se va a desarrollar el juego, de las capas superiores que son estándares e independientes de la plataforma \cite{Ref:ArquMotor}. 
+ 	\item \textbf{Subsistemas principales:} Esta capa esta compuesta sub sistemas que vinculan a todas aquellas utilidades o bibliotecas de utilidades que dan soporte al motor de juegos. Tal como:
+ 	\begin{itemize}
+ 		\item Biblioteca matemática.
+ 		\item Estructuras de datos y algoritmos.
+ 		\item Gestión de memoria.
+ 		\item Depuración y logging \cite{Ref:ArquMotor}.
+ 	\end{itemize}
+ 	\item \textbf{Gestor de recursos:} Esta capa es responsable de generar una interfaz de comunicación unificada para acceder a las distintas entidades de software que componen el motor de juego, como por ejemplo las escenas, los sonidos o los objetos de juego \cite{Ref:ArquMotor}.
+ 	\item \textbf{Motor de rendering:} Renderizado (render en inglés) es un término usado en computacion para referirse al proceso de generar una imagen foto realista desde un modelo 3D \cite{Ref:Render}. Esta capa tiene una gran importancia, debido a la naturaleza gráfica del videojuego. El enfoque más utilizado para implementar esta capa es utilizando una arquitectura multi-capa\cite{Ref:ArquMotor}.
+ 	\item \textbf{Herramientas de depuración:} Esta capa se encarga de depurar y optimizar el motor de juego para obtener un mejor rendimiento\cite{Ref:ArquMotor}.
+ 	\item \textbf{Motor de Física:} Esta capa se encarga de gestionar la detección de colisiones, su determinación y la posterior respuesta que tendrá el juego ante dicha colisión.
+ 	\item \textbf{Interfaces de usuario:} Esta capa tiene como objetivo ofrecer una abstracción de las interacciones del usuario con el juego y de tratar todos los eventos de salida, es decir la retroalimentación que el juego le da al usuario\cite{Ref:ArquMotor}.
+ 	\item \textbf{Networking y multijugador:} Esta capa permite que el juego sea capaz de soportar diferentes jugadores de manera simultanea, ya sea que se encuentren de manera local (es decir en una misma plataforma sin conexión a internet) o de manera online (haciendo uso del internet)\cite{Ref:ArquMotor}.
+ 	\item \textbf{Subsistema de juego:} Esta capa permite la creación de las mecánicas de juegos; es decir es capa soporta la implementación de un lenguaje de programación, comúnmente de alto nivel, para definir el comportamiento de todos aquellos elementos que componen el juego, como enemigos, cámaras, obstáculos, etc \cite{Ref:ArquMotor}.
+ 	\item Audio: Esta capa proporciona al moto la capacidad de utilizar archivos de audio para garantizar una mejor experiencia al usuario\cite{Ref:ArquMotor}.
+ 	\item \textbf{Subsistemas específicos de juego:} En esta capa se implementan todos aquellos módulos que proporcionen una identidad al sistema y por lo tanto son únicos\cite{Ref:ArquMotor}.
+ \end{itemize}	
+ 
+%========================================== 
+ 
+ \subsubsection{Motores gráficos existentes en el mercado.}
+En este apartado se mencionaran los principales motores de juego que existen en la industria, de igual manera se hará mención de sus principales características.
+
+	\begin{itemize}
+			%=====================================
+		\item \textbf{Unity3D:} Actualmente Unity es el motor grafico más utilizado en la industria. 
+			\begin{itemize}
+				\item \textbf{Sistema operativo:} Microsoft ver 10,8, 7(solo 64 bits); MacOs ver X 10.9 en adelante.
+				\item \textbf{CPU:} Soporte para el conjunto de instrucciones SSE2.
+				\item \textbf{GPU:} Tarjeta gráfica con DX9 (modelo de shader 3.0) o DX11 con capacidades de funciones de nivel 9.3.
+				\item \textbf{Memoria RAM:} Depende de la complejidad del proyecto.
+				\item \textbf{Desarrollo para plataforma:} Cross-platform.
+				\item \textbf{Orientado a 2D/3D:} 2D y 3D.
+				\item \textbf{Lenguaje de programación que soporta:} $\sharp C$, javaScript, Boo.
+				\item \textbf{Tipo de Licencia:} Maneja tres tipos de licencia, dos de pago y uno gratuito. \cite{Ref:Unity} 
+			\end{itemize}		
+		%=====================================
+		\item \textbf{UnrealEngine:} Considerado por algunas revistas especialistas en videojuegos como el motor de juego más potente. 
+			\begin{itemize}
+				\item \textbf{Sistema operativo:} Microsoft ver 10,8, 7(solo 64 bits); macOS 10.13 High Sierra y Ubuntu 15.04.
+				\item \textbf{CPU:} SQuad-core Intel or AMD, 2.5 GHz or faster (Para Windows), Quad-core Intel, 2.5 GHz or faster(Para Mac y linux).
+				\item \textbf{Tarjeta de vídeo:} DirectX 11 compatible graphics card (Para Windows), Metal 1.2 Compatible Graphics Card(Para Mac) y NVIDIA GeForce 470 GTX or higher with latest NVIDIA binary drivers(Linux). 
+				\item \textbf{Memoria RAM:} 8GB (Microsoft y Mac) y 16GB (Linux).
+				\item \textbf{Desarrollo para plataforma:} Cross-platform.
+				\item \textbf{Orientado a 2D/3D:} 2D y 3D.
+				\item \textbf{Lenguaje de programación que soporta:} C++.
+				\item \textbf{Tipo de Licencia:} licencia de pago pero se debe de pagar el 5 por ciento de las regalias cuando el juego sea publicado. \cite{Ref:Unreal}
+			\end{itemize}
+		%=====================================
+		\item \textbf{CryEngine:} Considerado por algunas revistas especialistas en videojuegos como el motor de juego más potente. 
+			\begin{itemize}
+				\item \textbf{Sistema operativo:} Microsoft ver 10,8, 7(solo 64 bits y 32 bits).
+				\item \textbf{CPU:} Intel Dual-Core min 2GHz (Core 2 Duo and above) o AMD Dual-Core min 2GHz (Phenom II X2 and above).
+				\item \textbf{Tarjeta de vídeo:} NVIDIA GeForce 450 series o AMD Radeon HD 5750 series or higher (minimum 1 GB dedicated VRAM GDDR5). 
+				\item \textbf{Memoria RAM:} 4GB.
+				\item \textbf{Desarrollo para plataforma:} Cross-platform.
+				\item \textbf{Orientado a 2D/3D:} 2D y 3D.
+				\item \textbf{Lenguaje de programación que soporta:} C++, $\sharp C$ y Lua.
+				\item \textbf{Tipo de Licencia:} Licencia gratuita pero ofrece planes de pago para capacitación. \cite{Ref:CryEngine}
+			\end{itemize}						
+		
+	\end{itemize}
+	
+	%===================================
+	\subsubsection{Software auxiliar}
+	Además de los motores gráficos el proceso de desarrollo de videojuegos necesita diferentes herramientas auxiliares para la creación de todos aquellos elementos que se necesiten poner dentro del juego, sea personajes, música, fondos, efectos de sonido, etc. A continuación, se mostrará una lista de aplicaciones y páginas web que fungen como herramientas auxiliares en el desarrollo de videojuegos:
+	
+	\begin{itemize}
+	%===================================================
+		\item Creación de Sprites (Solo juegos 2D) o texturas.
+			\begin{itemize}
+	%===================================================
+				\item Adobe Photoshop.
+					\begin{itemize}
+						\item Descripción: Aplicación de diseño y tratamiento de imágenes. Con esta aplicación se pueden crear ilustraciones e imágenes 3d. Su capacidad de manejo de imágenes secuenciales la hacen de gran ayuda en la generación de imágenes de bloques de animación para los sprites de juegos 2D, así como su compatibilidad con Adobe Ilustrator facilitan la vectorización de sprites.
+						\item Requerimientos mínimos en Windows:
+						\begin{itemize}
+							\item Procesador Intel Core 2 o AMD Athlon 64 processor de 2 GHz.
+							\item Sistema operativo Microsoft Windows 7, Windows 8.1, o Windows 10.
+							\item 2 GB de RAM.
+							\item Espacio de 2.6 GB en el disco duro para instalcion en 32 bits; o 3.1 GB para sistemas de 64 bits.
+							\item Pantalla de 1024 x 768 con 16-bit de color y 512 MB de VRAM [].
+						\end{itemize}
+					\end{itemize}
+%===================================================					
+				\item Adobe Ilustrator.
+					\begin{itemize}
+						\item Descripción: Esta aplicación de gráficos vectoriales permite crear logotipos, iconos, dibujos, tipografías e ilustraciones para ediciones impresas, la web, vídeos y dispositivos móviles. Su sistema de vectorización de imágenes permite crear sprites de mejor calidad.  Es una buena herramienta para la creación de botones o iconos para la GUI de juegos.
+						\item Requerimientos mínimos en Windows:
+							\begin{itemize}
+								\item Procesador Intel Pentium 4 or AMD Athlon 64 processor
+								\item Sistema operativo Microsoft Windows 7, Windows 8.1, o Windows 10
+								\item 1 GB de RAM para 32 bits; 2 GB de RAM para 64 bit
+								\item 2 GB libres en el disco duro.
+								\item Pantalla de 1024 x 768, 1GB de VRAM.
+							\end{itemize}
+
+					\end{itemize}
+%===================================================
+				\item AutoDesk SketchBook.
+					\begin{itemize}
+						\item Descripción: Herramienta de diseño, más orientada hacia artistas que hacía diseñadores. Es una herramienta de gran utilidad en la creación de arte conceptual para el juego y el diseño de personajes. También posee una herramienta que permite la creación de imágenes secuenciales para bloques de animación. Tiene una total compatibilidad con Adobe Photoshop, por lo que se pueden exportar proyectos desde AutoDesk SketchBook sin el temor de perder detalles de diseño. Su principal ventaja es que se encuentra disponible para dispositivos móviles (Android e IOS) y computadoras (Windows y  MAC), cuenta con tres tipos de licencias: la gratuita (tiene funcionalidad limitada), la de pago (por un único pago se cuenta con varias herramientas de diseño) y la pro (Suscrición mensual que ofrece la total funcionalidad de la aplicación y permite utilizar toda funcionalidad  tanto en dispositivos móviles como en computadoras ).
+						\item Requerimientos mínimos en Windows:
+							\begin{itemize}
+								\item Sistema operativo Windows 7 SP1 (32 bit, 64 bit), Windows 8/8.1 (32 bit, 64 bit), o Windows 10.
+								\item Procesador de 1 GHz Intel o AMD CPU.
+								\item 1GB de Memoria.
+								\item 256 MB de tarjeta gráfica con soporte de OpenGL 2.0.
+
+							\end{itemize}
+					\end{itemize}
+			\end{itemize}
+%===================================================
+		\item Modelos 3D y animación 3D.
+			\begin{itemize}
+				\item Blender.
+					\begin{itemize}
+						\item Descripción: Aplicación de modelado y animación 3D de licencia libre. Se encuentra disponible para Windows, Linux y macOS. Blender permite la exportación de modelos, paquetes de animación y escenarios enteros a motores gráficos como Unity3D.
+						\item Requerimientos mínimos:
+							\begin{itemize}
+								\item CPU de 32-bit dual core 								\item 2Ghz  con soporte a SSE2.
+								\item 2 GB de memoria RAM.
+								\item Pantalla de 24 bits 1280 x 768.
+								\item OpenGL 2.1 Compatible con gráficos y con 512 MB RAM.
+							\end{itemize}
+					\end{itemize}
+%===================================================
+				\item Maya.
+					\begin{itemize}
+						\item Descripción: Es un software de renderización, simulación, modelado y animación 3D. Maya ofrece un conjunto de herramientas integrado y potente, que puede usar para crear animaciones, entornos, gráficos de movimiento, realidad virtual y personajes. Se encuentra disponible para Windows, Linux y macOS.
+						\item Requerimientos mínimos:
+							\begin{itemize}
+								\item Procesador de varios núcleos de 64 bits Intel o AMD con el conjunto de instrucciones SSE4.2.
+								\item 8 GB de RAM.
+								\item 4 GB de espacio libre en disco para la instalación.
+							\end{itemize}
+					\end{itemize}
+			\end{itemize}
+%===================================================
+		\item Edición y creación de sonido.
+			\begin{itemize}
+				\item Ardour
+					\begin{itemize}
+						\item Descripción: Software que permite grabar, editar y mezclar audio. Su público objetivo son ingenieros de audio, compositores, músicos y editores se soundtracks. Se encuentra disponible para Mac, Windows y Linux. Posee soporte para pluings.
+						\item Requerimientos mínimos para Linux:
+						\begin{itemize}
+							\item Cualquier procesador de 32 o 64 bits Intel.
+							\item Cualquier distribucion de linux con un kernel más actual al 2.3 y libc version 2.25 
+							\item 2GB de RAM.
+							\item Espacio minimo de 350MB en el disco duro.
+
+						\end{itemize}
+					\end{itemize}
+			\end{itemize}
+\end{itemize}
