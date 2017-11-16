@@ -22,47 +22,109 @@ total se crearon:
 Consultar el Anexo para ver el resto de los sprites creados.
 
 \subsubsection{Menú principal}
-En este apartado se modifico la propuesta de diseño que se tenía en las interfaces 
-(ver apartado \ref{TraReaInterfaces}), en lo respecta al acomodo de botones (ver 
-figura ). Al igual que en el prototipo uno, se configuraron los botones y el 
+En este apartado se modificó la propuesta de diseño que se tenía en las interfaces 
+(ver apartado \ref{TraReaInterfaces}). Tal como se puede ver en la figura 
+\ref{figDisenioMenu}, la posición de los botones del prototipo varía con 
+respecto a la del diseño. 
+\\
+\par
+Al igual que en el prototipo uno, se configuraron los botones y el 
 canvas para que pudieran adaptar su tamaño si se modificaba el tamaño de la 
 pantalla.
 \\
 \par
-En cuanto a la funcionalidad, en este segundo prototipo, el menú principal solamente 
-tiene habilitado el botón de Empezar partida. De momento el botón de empezar partida 
-direcciona únicamente a la primera parte del primer nivel sin aun mostrar las 
-cinemáticas correspondientes.
+Para la funcionalidad del menú principal se implementó la clase PrincipalMenuCtrl; 
+sin embargo, no se implementaron todos sus métodos ni todos sus atributos. Siendo 
+el botón Empezar partida, él unico con la funcionalidad parcialmente habilitada, 
+ya que al ser oprimido por el jugador solo realiza la transicion de la interfaz del 
+menu principal a la primera mitad del nivel uno, sin generar el archivo de datos 
+de partida.
 \\
 \par
-El tipo de letra empleada en esta interfaz fue descargada del sito web 
-Dafont y su creadora es Karla Vazquez. 
+
+\begin{figure}
+  \centering
+   \subfigure[Propuesta de diseño para la interfaz del menú principal (Autoría propia).] {\includegraphics[width=0.4 \textwidth]{05TrabajoRealizado/03Unity/imagenes/interfaz01}}
+   
+ 	\subfigure[Diseño final del menú principal (Autoría propia).] {\includegraphics[width=0.4 \textwidth]{05TrabajoRealizado/03Unity/imagenes/menuPrincipalFinal}}
+ 	
+  \caption{La implementación del menu principal varía la posición de los botones con respecto a la propuesta de diseño.}
+  \label{figDisenioMenu}
+\end{figure} 
 
 \subsubsection{Implementación personaje jugable}
-En cuanto a la implementación del personaje jugable, se trato de reutilizar la lógica 
-del personaje jugable del primer prototipo, con algunas diferencias. A continuación
+En cuanto a la implementación del personaje jugable, se trató de reutilizar la lógica 
+del primer prototipo, con algunas diferencias. A continuación
 se listan los cambios más significativos con respecto a la clase del prototipo anterior:
 \begin{itemize}
-	\item La diferencia más importante es que en esta versión del personaje jugable ya 
-	se vincula la interacción entre la clase \textit{Player} y la clase 
-	\textit{GroundCollisionCtrl.}
+	\item La clase \textit{Player} y la clase \textit{GroundCollisionCtrl} son las 
+	encargadas de la funcionalidad del personaje jugable.
 	\item La clase \textit{Player} deja de instanciar clases de tipo Controlador.
 	\item El estado \textit{Idle} de la maquina de estados se renombra como
-	 \textit{Normal}.
-	 \item Se maneja atributos de tipo boolean para que funjan como banderas de 
-	 activación de métodos en la vinculación con la clase \textit{MobileUICtrl}.
+	 \textit{Normal} (ver Figura \ref{figMaqMalinalli}).
+	 \item El sprite del personaje jugable corresponde con el diseño del personaje 
+	 principal del juego propuesto en el documento de diseño (ver figura \ref{figAniMalinalli})
+	 \item Se manejan atributos de tipo boolean como banderas de 
+	 activación en los métodos que vinculan la clase \textit{Player} con la clase 
+	 \textit{MobileUICtrl}.
 \end{itemize}
+
+\begin{figure}
+  \centering
+   \includegraphics[width=0.4 \textwidth]{05TrabajoRealizado/03Unity/imagenes/03MaquinaEstadosMalinalli}
+  \caption{Maquina de estados para la animación del personaje jugable Malinalli (Autoría propia)}
+  \label{figMaqMalinalli}
+\end{figure}
+
+\begin{figure}
+  \centering
+   \includegraphics[width=0.4 \textwidth]{05TrabajoRealizado/03Unity/imagenes/bloquesanimacionMalinalli}
+  \caption{Animacion de Run y Jump del personaje jugable Malinalli (Autoría propia)}
+  \label{figAniMalinalli}
+\end{figure}
+
+\subsubsection{Interfaz gráfica}
+Al igual que el prototipo anterior, la interfaz gráfica se compone de dos canvas: uno 
+para los marcadores y otro para los botones que permiten al jugador controlar al personaje jugable (Ver figura \ref{figCanvasM}).
+\\
+\par
+El canvas que contiene a los botones se mantinen si cambios referentes a su 
+visualización; no obstante, los métodos de la clase Player que se activan con 
+éstos varían. En este nivel el método FireGUI de la clase MobileUICtrl se 
+remplaza por el método de GUIStartConversation de la clase TalkedCharacter; no 
+obstante todas las clases referentes a la lectura y activación de dialogos no 
+fueron implementadas por lo que el Botón de disparo se encuentra sin funcionalidad.
+\\
+\par
+Por su parte el canvas que contiene los marcadores modifica su estructura visual (ver 
+figuar \ref{figCanvasM} ). Los corazones que indicaban la cantidad de vidas del prototipo anterior 
+desaparecen y en sus lugar se utliza una barra de vida y se agrega por primera vez la  
+barra de cantidad Tonalli.  
+
+\begin{figure}
+  \centering
+   \includegraphics[width=0.4 \textwidth]{05TrabajoRealizado/03Unity/imagenes/03Interfaz}
+  \caption{La interfaz gráfica se encuetra compuesta por dos canvas: 1. Contenedor de los marcadores. 2. Contenedor de los botones que permiten el control al personaje jugable (Autoría propia)}
+  \label{figCanvasM}
+\end{figure}
 
 \subsubsection{Primer mitad del nivel uno}
 En esta sección se acomodaron los sprites de los ciudadanos, objetos de fondo de la
  ciudad y el suelo, con base en la maqueta del nivel (ver anexo ). En esta prototipo 
  aun no se pudo implementar la clase hija de LevelCtrl que le corresponde al nivel 1; 
- por lo que para emular la transición entre niveles se creó un objeto vació y se 
- le agregó un Box Collider 2D que al hacer contacto con el personaje jugable, realiza 
+ por lo que para emular la transición entre niveles se creó un GameObject vació y se 
+ le agregó el componente Box Collider2D, de este modo se realiza la transición a  
  la transición a la segunda mitad del primer nivel.
  
  \subsubsection{Segunda mitad del primer nivel}
  En esta segunda mitad se implementó la clase FollowedCharacter para la persecución 
  de Xólotl en su forma xoloitzcuintle. En Xólotl también fue necesario implementar 
- una maquina de estados para sus animación. Como se puede ver en la figura la 
- maquina de estados de Xólotl no es tan compleja como la del personaje jugable Malinalli.   
+ una maquina de estados para sus animación. Como se puede ver en la figura \ref{figAniXolo} la  maquina de estados de Xólotl no es tan compleja como la del 
+ personaje jugable Malinalli.   
+ 
+ \begin{figure}
+  \centering
+   \includegraphics[width=0.4 \textwidth]{05TrabajoRealizado/03Unity/imagenes/03MaquinaEstadosXolotl}
+  \caption{Maquina de estados de Xólotl forma xoloitzcuintle (Autoría propia)}
+  \label{figAniXolo}
+\end{figure}
