@@ -1,10 +1,9 @@
-\documentclass[12pt,oneside,onecolumn]{book} 
+\documentclass[12pt,oneside,onecolumn, letterpaper]{book} 
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
-
-%==========
 \usepackage{csquotes}
+%==========
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{fancyhdr}
 \usepackage{graphicx}
@@ -13,7 +12,8 @@
 \usepackage{longtable}
 \usepackage{amssymb}
 \usepackage{t1enc}
-\usepackage[letterpaper, left=3cm, right=2cm, top=2cm, bottom=2cm]{geometry} 
+%%\usepackage[letterpaper, left=3cm, right=2cm, top=2cm, bottom=2cm]{geometry} 
+\usepackage[left=3cm, right=2cm, top=2cm, bottom=2cm]{geometry} 
 \usepackage{amsmath}
 \usepackage{color}
 \usepackage{pdfpages}
@@ -46,11 +46,6 @@
 \addbibresource{00Bibliografia/05TrabRealizado.bib}
 \addbibresource{00Bibliografia/reference.bib}
 
-%cajas de texto
-\usepackage{parskip}
-\usepackage{tikz}
-
-%tablas
 \usepackage{rotating}
 \usepackage{multirow}
 
@@ -74,7 +69,7 @@
 
 
 %\usepackage{booktabs}
-%\makeindex
+\makeindex
 %\makeglossaries
 
 \begin{document}
@@ -85,7 +80,6 @@
 	%\maketitle
 	\tableofcontents
 	
-	\include{00Advertencia}
 	\include{01Introduccion}
 	\include{02PlanProblema}
 	\include{03MarcoTeorico}
