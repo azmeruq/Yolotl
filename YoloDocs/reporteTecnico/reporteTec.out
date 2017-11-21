@@ -1,0 +1,72 @@
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Planteamiento del problema}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Contexto}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Causas}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Consecuencias}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.4}{Propuesta de soluci\363n}{chapter.2}% 6
+\BOOKMARK [0][-]{chapter.3}{Marco te\363rico conceptual}{}% 7
+\BOOKMARK [1][-]{section.3.1}{Videojuego}{chapter.3}% 8
+\BOOKMARK [2][-]{subsection.3.1.1}{Definici\363n}{section.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.1.2}{Clasificaci\363n}{section.3.1}% 10
+\BOOKMARK [2][-]{subsection.3.1.3}{Industria mundial}{section.3.1}% 11
+\BOOKMARK [2][-]{subsection.3.1.4}{Estudio de mercado en M\351xico}{section.3.1}% 12
+\BOOKMARK [2][-]{subsection.3.1.5}{Industria en M\351xico}{section.3.1}% 13
+\BOOKMARK [1][-]{section.3.2}{Desarrollo de videojuegos.}{chapter.3}% 14
+\BOOKMARK [2][-]{subsection.3.2.1}{Linea de producci\363n de un videojuego.}{section.3.2}% 15
+\BOOKMARK [2][-]{subsection.3.2.2}{Metodolog\355as de desarrollo de videojuegos.}{section.3.2}% 16
+\BOOKMARK [2][-]{subsection.3.2.3}{Software para el desarrollo de videojuegos.}{section.3.2}% 17
+\BOOKMARK [1][-]{section.3.3}{Gamificaci\363n}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.3.1}{Caracter\355stcas}{section.3.3}% 19
+\BOOKMARK [2][-]{subsection.3.3.2}{Tipos de jugadores}{section.3.3}% 20
+\BOOKMARK [2][-]{subsection.3.3.3}{Proceso}{section.3.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.4}{Finalidad}{section.3.3}% 22
+\BOOKMARK [1][-]{section.3.4}{Cultura.}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.4.1}{\277Qu\351 es la cultura?}{section.3.4}% 24
+\BOOKMARK [2][-]{subsection.3.4.2}{Caracter\355sticas de la cultura}{section.3.4}% 25
+\BOOKMARK [2][-]{subsection.3.4.3}{Clasificaci\363n de la cultura.}{section.3.4}% 26
+\BOOKMARK [2][-]{subsection.3.4.4}{Importancia de la cultura.}{section.3.4}% 27
+\BOOKMARK [1][-]{section.3.5}{Cultura Digital}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.5.1}{Educaci\363n digital}{section.3.5}% 29
+\BOOKMARK [1][-]{section.3.6}{Videojuegos educativos}{chapter.3}% 30
+\BOOKMARK [0][-]{chapter.4}{Estado del arte}{}% 31
+\BOOKMARK [0][-]{chapter.5}{Alcance del proyecto}{}% 32
+\BOOKMARK [1][-]{section.5.1}{Objetivos del proyecto}{chapter.5}% 33
+\BOOKMARK [2][-]{subsection.5.1.1}{Objetivos generales}{section.5.1}% 34
+\BOOKMARK [2][-]{subsection.5.1.2}{Objetivos especificos}{section.5.1}% 35
+\BOOKMARK [1][-]{section.5.2}{Alcance del proyecto}{chapter.5}% 36
+\BOOKMARK [1][-]{section.5.3}{Metodologia de trabajo}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.4}{Especificaciones de plataforma}{chapter.5}% 38
+\BOOKMARK [2][-]{subsection.5.4.1}{Hardaware requerido}{section.5.4}% 39
+\BOOKMARK [2][-]{subsection.5.4.2}{Software requerido}{section.5.4}% 40
+\BOOKMARK [1][-]{section.5.5}{Productos esperados}{chapter.5}% 41
+\BOOKMARK [0][-]{chapter.6}{Trabajo realizado}{}% 42
+\BOOKMARK [1][-]{section.6.1}{Investigaci\363n hist\363rica}{chapter.6}% 43
+\BOOKMARK [2][-]{subsection.6.1.1}{Sociedad Mexica}{section.6.1}% 44
+\BOOKMARK [2][-]{subsection.6.1.2}{Mitolog\355a Mexica}{section.6.1}% 45
+\BOOKMARK [2][-]{subsection.6.1.3}{Historia de la Malinche}{section.6.1}% 46
+\BOOKMARK [1][-]{section.6.2}{Dise\361o del juego}{chapter.6}% 47
+\BOOKMARK [2][-]{subsection.6.2.1}{Idea concepto.}{section.6.2}% 48
+\BOOKMARK [2][-]{subsection.6.2.2}{Concepto del juego.}{section.6.2}% 49
+\BOOKMARK [2][-]{subsection.6.2.3}{Mec\341nica de juego.}{section.6.2}% 50
+\BOOKMARK [2][-]{subsection.6.2.4}{Interfaces}{section.6.2}% 51
+\BOOKMARK [2][-]{subsection.6.2.5}{Niveles.}{section.6.2}% 52
+\BOOKMARK [2][-]{subsection.6.2.6}{Obst\341culos}{section.6.2}% 53
+\BOOKMARK [2][-]{subsection.6.2.7}{Ambientaci\363n}{section.6.2}% 54
+\BOOKMARK [2][-]{subsection.6.2.8}{Argumento del videojuego}{section.6.2}% 55
+\BOOKMARK [1][-]{section.6.3}{An\341lisis del juego}{chapter.6}% 56
+\BOOKMARK [2][-]{subsection.6.3.1}{Usuario del sistema}{section.6.3}% 57
+\BOOKMARK [2][-]{subsection.6.3.2}{Clases del juegos}{section.6.3}% 58
+\BOOKMARK [2][-]{subsection.6.3.3}{Comunicaci\363n entre clases}{section.6.3}% 59
+\BOOKMARK [1][-]{section.6.4}{Pruebas}{chapter.6}% 60
+\BOOKMARK [2][-]{subsection.6.4.1}{Primer Prototipo}{section.6.4}% 61
+\BOOKMARK [2][-]{subsection.6.4.2}{Segundo Prototipo}{section.6.4}% 62
+\BOOKMARK [0][-]{chapter.7}{Resultados obtenidos}{}% 63
+\BOOKMARK [0][-]{chapter.8}{Reflexiones}{}% 64
+\BOOKMARK [0][-]{chapter.9}{Anexos}{}% 65
+\BOOKMARK [1][-]{section.9.1}{Sprites}{chapter.9}% 66
+\BOOKMARK [2][-]{subsection.9.1.1}{Imagenes de Fondo}{section.9.1}% 67
+\BOOKMARK [2][-]{subsection.9.1.2}{Personajes}{section.9.1}% 68
+\BOOKMARK [1][-]{section.9.2}{Maquetas}{chapter.9}% 69
+\BOOKMARK [2][-]{subsection.9.2.1}{Maqueta nivel 1}{section.9.2}% 70
+\BOOKMARK [2][-]{subsection.9.2.2}{Maqueta nivel 2}{section.9.2}% 71
+\BOOKMARK [1][-]{section.9.3}{Cronograma de actividades}{chapter.9}% 72
