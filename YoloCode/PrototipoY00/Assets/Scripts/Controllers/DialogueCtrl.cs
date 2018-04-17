@@ -2,12 +2,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class DialogueCtrl : MonoBehaviour
 {
 	private Queue<string> sentences;
 	private int indexDialoguesCtrl;
 	private string concurrentName;
+	public float timeDelayBetweenScenes;
+	public string nextNameScene;
 
 	[Tooltip("UI text object where the character name will be displayed")]
 	public Text nameText;
@@ -22,7 +25,7 @@ public class DialogueCtrl : MonoBehaviour
 
 	public void StartDialogues(Dialogues dialogues){
 		//dialogues.printDialogues ();
-		Debug.Log ("Start Conversation with: " + dialogues.GetDialogue(0).name + dialogues.GetDialogue(0).dialogues[0]);
+		//Debug.Log ("Start Conversation with: " + dialogues.GetDialogue(0).name + dialogues.GetDialogue(0).dialogues[0]);
 		StartDialogue (dialogues.GetDialogue(0));
 		DisplayNextDialogue (dialogues);
 	}
@@ -55,8 +58,8 @@ public class DialogueCtrl : MonoBehaviour
 	}
 
 	public void EndDialogue (){
-		Debug.Log ("End of conversation");
-
+		//Debug.Log ("End of conversation");
+		Invoke("GoToNextScene", timeDelayBetweenScenes);
 	}
 	
 	IEnumerator TypeSentences(string sentences){
@@ -65,6 +68,10 @@ public class DialogueCtrl : MonoBehaviour
 			dialogueText.text += letter;
 			yield return null;
 		}
+	}
+
+	public void GoToNextScene(){
+		SceneManager.LoadScene (nextNameScene);
 	}
 }
 

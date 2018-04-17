@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelBossCtrl : MonoBehaviour {
 	[Tooltip("This GameObject is Complete Level panel from the GUI")]
@@ -17,6 +18,8 @@ public class LevelBossCtrl : MonoBehaviour {
 	public float damageAmount;
 	[Tooltip("Int value than represents the index of the level than will be unlocked at the end of the boss battle")]
 	public int indexLevel;
+	[Tooltip("String value for the next scene's name")]
+	public string nextNameScene;
 	void Start () {
 		
 	}
@@ -24,7 +27,7 @@ public class LevelBossCtrl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (!boss.GetComponent<Enemy> ().GetIsAlive ()) {
-			Invoke("ShowLevelCompletePanel", 1.2f);
+			Invoke("GoToNextScene", 1.2f);
 			GameDataCtrl.instance.SaveData (healthAmount, tonalliAmount, damageAmount, 0, indexLevel);
 		}
 	}
@@ -32,6 +35,10 @@ public class LevelBossCtrl : MonoBehaviour {
 	void OnEnable(){
 		//GameDataCtrl.instance.ResetData ();
 		GameDataCtrl.instance.LoadData ();
+	}
+
+	public void GoToNextScene(){
+		SceneManager.LoadScene (nextNameScene);
 	}
 
 	/// <summary>

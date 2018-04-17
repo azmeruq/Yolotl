@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controllers\FinalBossLevelCtrl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Controllers\LevelBossCtrl.cs" Line="21" Column="2" />
+      <File FileName="Assets\Scripts\Controllers\DialogueCtrl.cs" Line="28" Column="5" />
+      <File FileName="Assets\Scripts\Controllers\FinalBossLevelCtrl.cs" Line="23" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

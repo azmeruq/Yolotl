@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{151E53E8-C661-FC51-4F59-D9575217819C}</ProjectGuid>
+    <ProjectGuid>{272F99A3-4584-EBE2-C122-E1171BD39A11}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -177,7 +177,7 @@
      <Compile Include="Assets\Scripts\Helpers\DestroyWithDelay.cs" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Yas/Documents/VideojuegosUnity/PrototipoN1_08 - copia/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/Yas/Documents/yolotl/Yolotl/YoloCode/PrototipoY00/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity2017/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
