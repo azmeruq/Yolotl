@@ -36,7 +36,7 @@ public class CameraCtrl : MonoBehaviour {
 	}
 
 	public void checkPlayer(){
-		if (player.GetComponent<Player> ().GetIsAlive ()) {
+		if (player.GetComponent<PlayerManager> ().GetIsAlive ()) {
 			CanMove = true;
 		} else {
 			CanMove = false;

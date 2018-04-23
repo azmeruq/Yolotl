@@ -56,7 +56,7 @@ public class MictlantecuhtliPhase02 : MonoBehaviour {
 	/// </summary>
 	/// <returns><c>true</c>, if alive was ised, <c>false</c> otherwise.</returns>
 	public bool IsAlive(){
-		if(rightHand.GetComponent<Enemy>().GetIsAlive()||leftHand.GetComponent<Enemy>().GetIsAlive()){
+		if(rightHand.GetComponent<EnemyHealth>().GetIsAlive()||leftHand.GetComponent<EnemyHealth>().GetIsAlive()){
 			return true;
 		}else{
 			return false;

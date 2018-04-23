@@ -114,8 +114,8 @@
      <Compile Include="Assets\Scripts\actors\Enemies\ButterfliesCreator.cs" />
      <Compile Include="Assets\Scripts\actors\Enemies\Butterfly.cs" />
      <Compile Include="Assets\Scripts\actors\Enemies\DestroyableObject.cs" />
-     <Compile Include="Assets\Scripts\actors\Enemies\Enemy.cs" />
      <Compile Include="Assets\Scripts\actors\Enemies\EnemyBullet.cs" />
+     <Compile Include="Assets\Scripts\actors\Enemies\EnemyHealth.cs" />
      <Compile Include="Assets\Scripts\actors\Enemies\EvilEnergy.cs" />
      <Compile Include="Assets\Scripts\actors\Enemies\EvilEnergyShell.cs" />
      <Compile Include="Assets\Scripts\actors\Enemies\FireMagicShot.cs" />
@@ -146,7 +146,7 @@
      <Compile Include="Assets\Scripts\actors\player\BulletController.cs" />
      <Compile Include="Assets\Scripts\actors\player\Feet.cs" />
      <Compile Include="Assets\Scripts\actors\player\HealthBar.cs" />
-     <Compile Include="Assets\Scripts\actors\player\Player.cs" />
+     <Compile Include="Assets\Scripts\actors\player\PlayerManager.cs" />
      <Compile Include="Assets\Scripts\actors\TalkedCharacter.cs" />
      <Compile Include="Assets\Scripts\Auxiliars\AnimatorSetter.cs" />
      <Compile Include="Assets\Scripts\Auxiliars\ColibriCollider.cs" />

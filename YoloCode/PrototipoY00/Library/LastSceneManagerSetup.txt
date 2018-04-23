@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/10_cutscene47.unity
+- path: Assets/_Scenes/00_MenuPrincipal.unity
   isLoaded: 1
   isActive: 1

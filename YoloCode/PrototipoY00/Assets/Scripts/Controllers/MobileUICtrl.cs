@@ -6,14 +6,14 @@ using UnityEngine;
 /// </summary>
 public class MobileUICtrl : MonoBehaviour {
 	public GameObject player;
-	Player playerCtrl;
+	PlayerManager playerCtrl;
 	// Use this for initialization
 
 	/*
 	 * Obtain the components and the baheviors of the class Player
 	*/
 	void Start () {
-		playerCtrl = player.GetComponent<Player> ();
+		playerCtrl = player.GetComponent<PlayerManager> ();
 	}
 
 	/*

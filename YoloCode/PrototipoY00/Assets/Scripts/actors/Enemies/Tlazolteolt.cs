@@ -5,7 +5,7 @@ using UnityEngine;
 public class Tlazolteolt : MonoBehaviour {
 	private SpriteRenderer sr;
 	private BoxCollider2D box2D;
-	private Enemy enemy;
+	private EnemyHealth enemy;
 
 	private bool canReShot;
 	/*
@@ -33,7 +33,7 @@ public class Tlazolteolt : MonoBehaviour {
 	void Start () {
 		sr = gameObject.GetComponent <SpriteRenderer> ();
 		box2D = gameObject.GetComponent <BoxCollider2D> ();
-		enemy = gameObject.GetComponent <Enemy> ();
+		enemy = gameObject.GetComponent <EnemyHealth> ();
 		fireShell.GetComponent <EvilEnergyShell> ().SetInActive();
 		canReShot = true;
 		whatCanDo = new bool[4];
