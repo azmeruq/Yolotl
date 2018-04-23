@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/01Level_01selva.unity
+- path: Assets/_Scenes/09level_xolmal1A.unity
   isLoaded: 1
   isActive: 1

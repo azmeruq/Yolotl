@@ -342,3 +342,4 @@ ef47b5b296e56702c76218de521ccc37 Assembly-CSharp.dll:Cinemachine.CinemachineBrai
 506e030fa92c58e7a9fb2a4b86130357 Assembly-CSharp.dll:Cinemachine.CinemachineBasicMultiChannelPerlin
 ad520e739fda24f163f2e9235304f45c Assembly-CSharp.dll:.Tornado
 9dd74a41363b134db6b934985dfd2f92 Assembly-CSharp.dll:Cinemachine.CinemachineClearShot
+97b11cd830f1737af977bc7c6b9bd472 Assembly-CSharp.dll:.ShootEnemy
