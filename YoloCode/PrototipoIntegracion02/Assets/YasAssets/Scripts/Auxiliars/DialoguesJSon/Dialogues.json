@@ -1,0 +1,17 @@
+﻿{
+	"dialogues" : [
+			{"name":"Comerciante.","dialogues":["Hola, Malinalli ¿Vas a comprar o a hacer trueque?", "Comprando, todo te sale más barato"]},
+			{"name":"Esclavo.","dialogues":["La vida en Centla, siempre es bulliciosa."]},
+			{"name":"Comerciante.","dialogues":["Antes eramos una ciudad libre. Ahora estamos bajo dominio del imperio Mexica."]},
+			{"name":"Hombre noble.","dialogues":["La vainilla no es un lujo que cualquiera se pueda permitir."]},
+			{"name":"Comerciante.","dialogues":["Maíz a solo tres gramos de cacao."]},
+			{"name":"Esclavo.","dialogues":["Se han visto hombres de hierro en las costas del sur ¡Que aterrador!"]},
+			{"name":"Hombre noble.","dialogues":["La cuota de tributo ase ha duplicado."]},
+			{"name":"Comerciante.","dialogues":["El antiguo Sr. de la cuidad nos protegia del abuso del imperio. Por eso, a nadie le sorprendio cuando el imperio corto su cabeza." ]},
+			{"name":"Comerciante.","dialogues":["Las guerras floridas estan por comenzar"]},
+			{"name":"Hombre noble.","dialogues":["¡No me hables, esclava!"]},
+			{"name":"Comerciante.","dialogues":["El actual Sr. de la ciudad solo el importa su lugar con el imperio"]},
+			{"name":"Hombre noble.","dialogues":["Vendida como esclava, no suena como una buena vida"]}
+
+		]
+}
