@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/06_boss.unity
+- path: Assets/_Scenes/02_platform.unity
   isLoaded: 1
   isActive: 1

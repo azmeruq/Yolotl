@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\YasAssets\Scripts\Auxiliars\PlayerAudio.cs">
+    <Files>
+      <File FileName="Assets\YasAssets\Scripts\Auxiliars\PlayerAudio.cs" Line="16" Column="30" />
+      <File FileName="Assets\YasAssets\Scripts\Auxiliars\AudioFX.cs" Line="10" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\Auxiliars\SFX.cs" Line="9" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\Controllers\AudioCtrl.cs" Line="18" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

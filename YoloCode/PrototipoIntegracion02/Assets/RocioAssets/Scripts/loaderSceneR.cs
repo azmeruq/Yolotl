@@ -12,9 +12,8 @@ public class loaderSceneR : MonoBehaviour {
 	public int valorB;
 	// Use this for initialization
 	public void changeScene(){
-		
-		SceneManager.LoadScene (sceneName);
 		GameDataCtrl.instance.SaveData (valor1, valor2, valor3, valorA, valorB);
+		SceneManager.LoadScene (sceneName);
 	}
 
 	public void SetSceneName(string sceneN){
