@@ -1,0 +1,63 @@
+\section{Análisis del juego}
+En esta sección se presenta el analisis que se realizo del juego con base en el 
+documento de diseño descrito en el apartado \ref{docDisenio}.Primeramente se 
+describe al usuario que se identificó y las acciones que éste puede realizar 
+dentro del juego; en segundo lugar se habla de las clases que componen el juego, 
+describiéndose lo tres tipos de clases en el que se clasificaron, para 
+posteriormente listar que clases pertenecen a cada un de los tipos. Para finalizar 
+esta sección se describe la comunicación entre clases para tres procesos que 
+realiza el juego. 
+
+	\subsection{Usuario del sistema}
+	Tomando como referencia el documento de diseño se identificó el siguiente actor:
+	\begin{itemize}
+		\item \textbf{Jugador:} Es el usuario del sistema y quien interactua con
+		el mismo. Dentro del sistema el jugador puede: 
+			\begin{itemize}
+				\item Empezar una partida nueva.	
+				\item Cargar una partida ya existente.
+				\item Elegir un nivel para jugar.  
+				\item Jugar.
+				\item Pausar Nivel.
+				\item Reanudar nivel pausado.
+				\item Ver cinemática.
+			\end{itemize}			   
+	\end{itemize}	
+	
+	\subsection{Clases del juegos} \label{ClasesJuego}
+	A partir del documento de diseño se identificaron al rededor de (); estas 
+	clases se dividen en tres grupos:
+		\begin{itemize}
+			\item \textbf{Controladores:} Clases encargadas de controlar la gestión de 
+			la partida y la navegación dentro del juego. Estas clases regulan las acciones 
+			de las clases actoras y desencadenan determinados eventos dentro del juego
+			dependiendo de las acciones del Jugador y de las reglas de los niveles.
+			
+			\item \textbf{Actores:} Son las clases que modelan a los enemigos, obstáculos,
+			\textit{checkpoints} y el jugador.
+			 
+			 \item \textbf{Auxiliares:} Son todas aquellas clases que ayudan a los controladores
+			 a cumplir con su funcionalidad al permitirle a los controladores obtener datos 
+			 para inicializar valores o garantizar las transiciones entre interfaces.
+		\end{itemize}
+		
+	\input{05TrabajoRealizado/02ADJuego/Clases/01ClaseControladora}			  
+	\input{05TrabajoRealizado/02ADJuego/Clases/02Clasecator}	
+	\input{05TrabajoRealizado/02ADJuego/Clases/03ClaseAux}	
+		
+	\subsection{Comunicación entre clases}
+	El videojuego, por su característica de retroalimentación constante con el 
+	juagdor, involucra una comunicación en tiempo real entre las clases involucradas. 
+	En este apartado se describen la comunicación tres procesos que sea por su 
+	complejidad o por su impacto en la funcionalidad del juego son considerados como
+	los más relevantes:
+		\begin{itemize}
+			\item Empezar nueva partida.
+			\item Personaje jugable salta.
+			\item Batalla contra jefe.
+		\end{itemize}	
+		
+
+	\input{05TrabajoRealizado/02ADJuego/comunica/01empezar}
+	\input{05TrabajoRealizado/02ADJuego/comunica/02saltar}	
+	\input{05TrabajoRealizado/02ADJuego/comunica/03BatallaJefe}		

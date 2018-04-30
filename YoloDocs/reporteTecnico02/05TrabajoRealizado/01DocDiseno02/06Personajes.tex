@@ -1,0 +1,290 @@
+\subsection{Personajes}
+Al ser una metodología orientada a videojuegos, huddle proporciona una plantilla 
+dentro del documento de diseño para documentar los personajes con los que cuenta 
+el juego. La plantilla se compone los siguientes campos:
+	\begin{itemize}
+		\item Nombre del personaje.
+		\item Descripción. 
+		\item Imagen.
+		\item Concepto. 
+		\item Encuentro. 
+		\item Habilidades. 
+		\item Armas.
+		\item Items.  
+		\item Personaje no jugable. 
+	\end{itemize}
+	De igual forma, huddle maneja una plantilla para documentar los enemigos del 
+	juego. Los campos de la plantilla enemigos son:
+	\begin{itemize}
+		\item Nombre.
+		\item Descripción.
+		\item Encuentro.
+		\item Imagen.
+		\item Habilidades.
+		\item Armas.
+		\item Items.
+	\end{itemize}
+	Durante el proceso de la redacción del documento de diseño se detectó que la 
+	plantilla de personajes y la plantilla de enemigos generaban una repetición de 
+	redacción en los personajes que eran enemigos y participes del argumento. Otra 
+	problemática a que se detectó fue que la plantillas no contenían todos los campos 
+	necesarios para documentar completamente las características de los personajes del 
+	juego Yolotl. Por lo que se procedió a hacer la modificaciones pertinentes.
+\\
+\par	
+	En primeramente, se fusionaron las plantillas de personaje y enemigo. Para 
+	garantizar que se pudiera saber el rol que desempeñaría el personaje se agregó 
+	un campo llamado \textbf{Estatus}.  El campo estatus permite conocer si el 
+	personaje es un enemigo, un que aparece solo durante las cinemáticas, si solo 
+	se le menciona al personaje o en su defecto el personaje es un personaje jugable. 
+	Por lo tanto el campo \textbf{estatus} sustituye al campo \textbf{Personaje no 
+	jugable}, ya que este campo se llenaba en caso de que personaje que se estuviera 
+	documentando no esta jugable.
+	\\
+	\par
+La segunda modificación fue agregar tres subsecciones al campo de Concepto 
+permitiendo  crear apartados específicos para:
+
+	\begin{itemize}
+		\item La historia del personaje antes de la historia que se presenta en el 
+		juego.
+		\item La historia del personaje durante el juego. 
+		\item Las relaciones que el personaje tiene con otros personajes.
+	\end{itemize}
+
+	Al fusionar las plantillas de enemigos y personajes, se decidió que para aquellos 
+	personajes que no tengan una participación en el argumento del juego el campo 
+	\textbf{Concepto} puede ser omitido es omitido.
+	\\
+	\par
+	La siguiente modificación que se realizó, fue agregar otro nuevo campo: Patrón 
+	de ataque. El campo patrón de ataque contendrá toda la información sobre el 
+	comportamiento de batalla de un personaje, indicando bajo que condiciones acciona 
+	sus habilidades; el objetivo de este campo es proporcionar información que permita 
+	modelar la inteligencia artificial del personaje.Este campo	solo se incluirá en la 
+	ficha del personaje si en su estatus se definió que es un enemigo. 
+	 \\
+	 \par
+	 El último cambio agregado a la plantilla consistió en adicionar el campo de \textbf{Bloques de animación}. Como el nombre del bloque lo dice, este campo 
+	 proporcionará información sobre cuantas animaciones contendrá el personaje. 
+	\\	 
+	\par
+	El videojuego yolotl cuenta con alrededor de 24 personajes. Salvo por los personajes 
+	que no participan en el argumento del juego, cada personaje esta basado en algún 
+	dios de la mitología azteca o en personaje histórico; por lo que, para su diseño y 
+	definición de habilidades, fue necesario realizar una investigación en códices, 
+	artículos de investigación y libros especializados. Los principales retos a 
+	afrontar durante la investigación fueron la falta de información sobre algunos 
+	dioses y la discrepancia histórica que existe alrededor de la cultura mexica. 
+	\\
+	\par
+	A continuación se en listaran los personajes del juego junto con su estatus y sus 
+	habilidades.
+	\begin{itemize}
+		%=======================================
+		\item Malinalli Tenépal.
+			\begin{itemize}
+				\item Estatus: Personaje jugable. Protagonista.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Saltar.
+						\item Disparar tonalli.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Xólotl.
+			\begin{itemize}
+				\item Estatus: Personaje jugable. Protagonista (Solo nivel 9). Personaje 
+				no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Cambiar de forma.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Xochitónal.
+			\begin{itemize}
+				\item Estatus: Enemigo jefe(nivel 2). Personaje no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Zambullida.
+						\item Burbujas.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Tepeyóllotl.
+			\begin{itemize}
+				\item Estatus: Enemigo jefe(nivel 3, nivel 8). Personaje no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Coraza.
+						\item Impacto.
+						\item Lluvia rocas.
+						\item Rugido aturdidor.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Itzpápalotl.
+			\begin{itemize}
+				\item Estatus: Enemigo jefe(nivel 4). Personaje no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Circulo de fuego.
+						\item Embestida aérea.
+						\item Invisibilidad.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Mictlecayotl.
+			\begin{itemize}
+				\item Estatus: Enemigo jefe(nivel 5). Personaje no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Tornado.
+						\item Ventisca.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Tlazoltéotl.
+			\begin{itemize}
+				\item Estatus: Enemigo jefe(nivel 6). Personaje no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Raíz del diablo.
+						\item Energía corrupta.
+						\item Circulo protector.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Itztlacoliuhqui.
+			\begin{itemize}
+				\item Estatus: Enemigo jefe(nivel 7). Personaje no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Lluvia de lava.
+						\item Manotazo.
+						\item Lluvia de flechas.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Nexoxcho.
+			\begin{itemize}
+				\item Estatus: Enemigo jefe(nivel 8). Personaje no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Crear ilusiones a partir de recuerdos.
+						\item Apuñalar.
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Mictlantecutli.
+			\begin{itemize}
+				\item Estatus: Enemigo jefe(nivel 10). Personaje no jugable.
+				\item Habilidades: 
+					\begin{itemize}
+						\item Todos los hombres del rey.
+						\item Fuego mortífero.
+						\item Penitencia.
+						\item Lluvia de huesos.
+						\item Estocada mortífera.
+						\item Burbujas.
+						\item Lluvia de rocas.
+						\item Lluvia de lava.
+						\item Circulo de fuego.					
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Mictecacíhuatl.
+			\begin{itemize}
+				\item Estatus: Personaje no jugable.		
+			\end{itemize}
+		%=======================================
+		\item Tenépal.
+			\begin{itemize}
+				\item Estatus: Personaje no jugable.		
+			\end{itemize}
+		%=======================================
+		\item Cimatl.
+			\begin{itemize}
+				\item Estatus: Personaje no jugable.		
+			\end{itemize}
+		%=======================================
+		\item Huenupan.
+			\begin{itemize}
+				\item Estatus: Personaje no jugable.		
+			\end{itemize}
+		%=======================================
+		\item Ciudadanos.
+			\begin{itemize}
+				\item Estatus: Personaje no jugable.		
+			\end{itemize}
+		%=======================================
+		\item Quetzalcóatl.
+			\begin{itemize}
+				\item Estatus: Personaje no jugable.		
+			\end{itemize}
+		%=======================================
+		\item Tezcatlipoca.
+			\begin{itemize}
+				\item Estatus: Personaje no jugable.		
+			\end{itemize}
+		%=======================================
+		\item Tecolote.
+			\begin{itemize}
+				\item Estatus: Personaje no jugable. Checkpoint.		
+			\end{itemize}
+		%=======================================
+		\item Armadillo.
+			\begin{itemize}
+				\item Estatus: Enemigo normal. 
+				\item Habilidades: 
+					\begin{itemize}
+						\item Cuchillas de obsidiana.			
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Fantasma rojo.
+			\begin{itemize}
+				\item Estatus: Enemigo normal. 
+				\item Habilidades: 
+					\begin{itemize}
+						\item Disparo rojo.			
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Fantasma morado.
+			\begin{itemize}
+				\item Estatus: Enemigo normal. 
+				\item Habilidades: 
+					\begin{itemize}
+						\item Embestida.			
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Jaguar.
+			\begin{itemize}
+				\item Estatus: Enemigo normal. 
+				\item Habilidades: 
+					\begin{itemize}
+						\item Salto de altura.			
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Zopilote.
+			\begin{itemize}
+				\item Estatus: Enemigo normal. 
+				\item Habilidades: 
+					\begin{itemize}
+						\item Vuelo en picada.			
+					\end{itemize}
+			\end{itemize}
+		%=======================================
+		\item Chara enana.
+			\begin{itemize}
+				\item Estatus: Enemigo normal. 
+				\item Habilidades: 
+					\begin{itemize}
+						\item Vuelo en picada.			
+					\end{itemize}
+			\end{itemize}
+	\end{itemize}

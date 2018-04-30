@@ -1,0 +1,108 @@
+\subsection{Metodologías de desarrollo de videojuegos.}\label{MetodoVideojuego}
+
+En esta sección se define lo que es una metodologia de desarrollo de software, 
+se mencionan tres metodologías de desarrollo de software que emplea la industria de los videojuegos
+y al final se menciona una metodología de desarrollo propia del desarrollo de videojuegos.
+
+\subsubsection{¿Qué es una metodología de desarrollo de software?}
+Las metodologías de desarrollo de software son un conjunto de procedimientos, técnicas y ayudas a la documentación para el desarrollo de productos software\cite{Ref_metodologia}.	En palabras de Gacitúa: "Una Metodología impone un proceso de forma disciplinada sobre el desarrollo de software con el objetivo de hacerlo más predecible y eficiente. Una metodología define una representación que permite facilitar la manipulación de modelos, y la comunicación e intercambio de información entre todas las partes involucradas en la construcción de un sistema"\cite{Ref_Metod}. 
+
+%======================================================		
+			\subsubsection{Metodología en cascada}
+La metodología de desarrollo en cascada o también conocida como modelo de vida lineal o básico,  fue propuesta por Royce en 1970 y a partir de entonces ha tenido diferentes modificaciones. Sigue una progresión lineal por lo que cualquier error que no se haya detectado con antelación afectara todas las fases que le sigan provocando una redefinición en el proyecto y por ende un aumento en los costos de producción del sistema \cite{Ref:CarCascada}.
+Esta metodología se divide en las siguientes etapas:
+\begin{itemize}
+	\item \textbf{Análisis de los requisitos del software}: En esta etapa se recopilan los requisitos del sistema, se centra especialmente en toda aquella información que pueda resultar de utilidad en la etapa de diseño, tales como tipos de usuarios del sistema, reglas de negocio de la empresa, procesos, etc. En esta etapa se responde la pregunta de ¿Qué se hará? 
+	\item \textbf{Diseño}: Esta etapa se caracteriza por definir todas aquellas características que le darán identidad al sistema, tales como la interfaz gráfica, la base de datos, etc. Las características anteriormente definidas se obtendrán de la etapa de análisis. En esta etapa se respondería la pregunta de ¿Cómo se hará? 
+	\item \textbf{Codificación}: Terminada la etapa de diseño, lo siguiente es programar y crear todos los elementos necesarios para el funcionamiento del sistema. 
+	\item \textbf{Prueba}: Finalizada la decodificación se debe de probar la calidad del sistema. En este punto es importante resaltar que la pruebas no solo abarcan que se confirme que el sistema funcione, sino que también verifica que los usuarios puedan aprender a utilizarlo con facilidad, entre otros aspectos como la seguridad de la información y los tiempos de respuesta del sistema.
+	\item \textbf{Mantenimiento}: En esta última etapa se realizarán modificaciones al sistema, sin que esto necesariamente signifique que estos cambios se deban a errores de programación, puesto que esta etapa también abarca agregar nueva funcionalidad al sistema o, en caso de que trabaje con protocolos de estándar internacional, actualizar sus protocolos \cite{Ref:CarCascada}. 
+\end{itemize}
+Algunos de los inconvenientes que presenta son:
+\begin{itemize}
+	\item No refleja el proceso de desarrollo real.
+	\item Tiempos largos de desarrollo.
+	\item Poca comunicación con el cliente.
+	\item Revisiones de proyecto de gran complejidad.
+\end{itemize}
+
+%================================================
+	\subsubsection{Metodología en Scrum}
+Desarrollada por Ikujiro Nonaka e Hirotaka Takeuchi a principios de los 80’s, Esta metodología le debe su nombre a la formación scrum de los jugadores de ruby. Scrum es una metodología eficaz para proyectos con requisitos inestables que demandan flexibilidad y rapidez, esto principalmente a su naturaleza iterativa e incremental \cite{Ref_DefScrum}.  
+\\
+\par
+Scrum parte de la visión general que se desea que producto alcance; a partir de esta visión se inicia la división del proyecto en diferentes módulos Scrum implementa una jerarquía entre los módulos en donde los módulos de mayor jerarquía son los que se desarrollaran al inicio del proyecto o durante las primeras iteraciones (sprint). Cada sprint tendrá una duración de hasta seis semanas a lo máximo \cite{Ref_ScrumRef}. 
+\\
+\par
+Durante el proceso de desarrollo del sprint, el equipo tendrá reuniones diarias en donde se definirán metas diarias para lograr completar el objetivo del sprint. Estas reuniones deberán de ser de corta duración (no más de quince minutos) y recibirán el nombre de scrum diario. Al final de cada sprint, el equipo contará con un módulo funcional que el cliente podrá utilizar sin que el sistema este completado.
+\\
+\par
+Cada sprint se compone de las siguientes fases:
+\begin{itemize}
+	\item Concepto: se define a grandes rasgos las características del producto y se asigna a un equipo para desarrollarlo.
+	\item Especulación: Con la información del concepto se delimita el producto, siendo las principales limitantes los tiempos y los costes. Esta es la fase más larga del sprint. En esta etapa se desarrolla basándose en la funcionalidad esperada por el concepto.
+	\item Exploración: El producto desarrollado se integra al proyecto.
+	\item Revisión: Se revisa lo construido y se contrasta con los objetivos deseados.
+	\item Cierre: Se entrega el producto en la fecha programada, esta etapa no siempre significa el fin del proyecto; en ocasiones marca el inicio de la etapa de mantenimiento \cite{Ref_ScrumGuia}. 
+\end{itemize}
+Uno de los principales componentes de la metodología scrum son los roles, es decir el papel que cada integrante del equipo desempeñara durante el proceso de desarrollo. Los roles se dividen en dos grupos:
+\begin{itemize}
+	\item Cerdos : Son los que están comprometidos con el proyecto y el proceso de Scrum.
+		\begin{itemize}
+			\item Product owner: Es el jefe del proyecto y por lo tanto es quien toma las decisiones. Esta persona es quien conoce más del proyecto y las necesidades del cliente. Es el puente de comunicación entre el cliente y el resto del equipo. 
+			\item Scrum Master: Se encarga de monitorear que la metodología y el modelo funcionen. Es quien toma las decisiones necesarias para eliminar cualquier inconveniente que pueda surgir durante el proceso de desarrollo. 
+			\item Equipo de desarrollo: Estas personas reciben el objetivo a cumplir del Product owner y cuentan con la capacidad de tomar las decisiones necesarias para alcanzar dicho objetivo.
+		\end{itemize}
+	\item Gallinas: Personas que no participan de manera directa en el desarrollo, sin embargo, su retroalimentación da pie a la planeación de los sprints.
+		\begin{itemize}
+			\item Usuarios: Son quienes utilizaran el producto.
+			\item Stakeholders: Son quienes el proyecto les aportara algún beneficio. Participan en las revisiones del sprint.
+			\item Manager: Toma las decisiones finales. Participa en la selección de objetivos y en la toma de requerimientos\cite{Ref_ScrumRef}.
+		\end{itemize}
+\end{itemize}
+
+%=============================
+\subsubsection{Metodología de Programación extrema}
+La metodología de programación extrema o metodología XP(por sus siglas en inglés) fue desarrollada por Kent Beck en 1999 basándose en la simplicidad, la comunicación y le retroalimentación de código. Es una metodología de desarrollo ágil y adaptativa, soporta cambios de requerimientos sobre la marcha. Su principal objetivo es aumentar la productividad y minimizar los procesos burocráticos, por lo que el software funcional tiene mayor importancia que la documentación\cite{Ref_XP}.
+\\
+\par
+  XP se fundamenta en doce principios que se agrupan en cuatro categorías. A continuación, se hará mención de estos principios:
+\begin{itemize}
+	\item Retroalimentación:
+		\begin{itemize}
+			\item Principio de pruebas: Se define la el periodo de pruebas de funcionalidad del software a partir de sus entradas y salidas como si se tratara de una caja negra.
+Planificación: El cliente o su representante definirá sus necesidades y sobre ellas se redactará un documento, el cual servirá para establecer los tiempos de entregas y de pruebas del producto.
+			\item Cliente in-situ: El cliente o su representante se integrarán al equipo de trabajo con la finalidad de que participen en la planeación de tareas y en la definición de la funcionalidad del sistema. Esta estrategia se implementa para minimizar los tiempos de inactividad entre reuniones y disminuye la documentación a redactar.
+			\item Pair-programming: Se asignan parejas de programadores para desarrollar el producto. Esto generará mejores resultados en menores costos.
+		\end{itemize}
+	\item Proceso continuo en lugar de por bloques
+		\begin{itemize}
+			\item Integración continua: Se implementan progresivamente las nuevas características del software. Esta integración no se hace de manera modular ni planeada.
+			\item Refactorización: La eliminación de código duplicado o ineficiente les permite a los programadores mejorar sus propuestas en cada entregable.
+			\item Entregas pequeñas: Los tiempos de entregas son cortos y permiten la evaluación del sistema bajo escenarios reales.
+		\end{itemize}
+	\item Entendimiento compartido
+		\begin{itemize}
+			\item Diseño simple: El programa que se utiliza en los entregables es aquel que tenga la mayor simplicidad y cubra las necesidades del cliente.
+			\item Metáfora: expresa la visión evolutiva del proyecto y define los objetivos del sistema mediante una historia.
+			\item Propiedad colectiva del código: Todos los programadores son dueños del programa y de las responsabilidades del programa. Un programa con muchos programadores trabajando en él es menos propenso a errores. 
+			\item Estándar de programación: Se define la estructura que tendrá el programa a la hora de ser escrito, esto para dar la impresión de que una sola persona trabajo en él.
+		\end{itemize}
+	\item Bienestar del programador
+		\begin{itemize}
+			\item Semana de 40 horas: Se minimizan las jornadas de trabajo excesivas para grantizar el mejor desempeño del equipo\cite{Ref_XPPrincipios}.
+		\end{itemize}
+\end{itemize}
+Tal como se puede observar XP, es una metodología fuertemente orientada hacia los miembros del equipo, su bienestar, la interacción entre ellos y en su aprendizaje.
+
+%==========================================
+\subsubsection{Metodología Huddle}
+Huddle es una metodología creada por el Instituto de Ingeniería y Tecnología de Universidad Autónoma de Ciudad Juárez. Huddle recibe su nombre por las reuniones que se realizan en el futbol americano antes de cada jugada. Su funcionalidad se basa en la metodología Scrum, con la diferencia de que está orientada en el desarrollo de videojuegos.  De naturaleza ágil, resulta óptimo para equipos multidisciplinarios de 5 a 10 personas; es iterativa, incremental y evolutiva \cite{Ref_Huddle}.
+\\
+\par
+Huddle se divide en tres etapas: 
+	\begin{itemize}
+		\item Preproducción: Consiste en la planeación del juego. En esta etapa se redactará el documento de diseño; este documento contendrá la idea general del juego, su escritura deberá de ser tal que todos los miembros del equipo pueden entenderlo y darse una idea de cómo será el juego una vez que se haya terminado. En esta etapa se definirá el argumento del juego, sus personajes, el género del juego, sus mecánicas, la música, los efectos de sonido, los efectos especiales y su funcionalidad. Huddle proporciona plantilla para realizar este documento, dejando la posibilidad de modificarlo según el equipo considere oportuno.
+		\item Producción: Es la etapa más larga y de mayor importancia. Su organización se basa totalmente en la organización iterativa e incremental de Scrum; es decir se harán reuniones diarias en donde se discutirán los objetivos de la iteración. Antes de finalizar cada Sprint, el módulo se someterá a diferentes pruebas para garantizar su funcionalidad. Cuando un Sprint finaliza, se realiza una reunión en la que los elementos del quipo discuten las decisiones tomadas y analizan cuales fueron las decisiones y acciones más eficientes para retomarlas y desechar aquellas que atrasen al proyecto. Al finalizar esta etapa el equipo contará con las versiones alfa y beta del juego. 
+		\item Postmorten: En esta etapa se discuten todos los puntos positivos y negativos del proyecto. En esta evaluación se redactará un documento que permita a futuros proyectos efectuar planes de acción más efectivos\cite{Ref_Huddle}.
+	\end{itemize}

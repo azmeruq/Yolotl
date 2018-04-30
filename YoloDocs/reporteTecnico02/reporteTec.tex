@@ -1,0 +1,94 @@
+\documentclass[12pt,oneside,onecolumn, letterpaper]{book} 
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{csquotes}
+%==========
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+%\usepackage{cite} 
+\usepackage{hhline}
+\usepackage{longtable}
+\usepackage{amssymb}
+\usepackage{t1enc}
+%%\usepackage[letterpaper, left=3cm, right=2cm, top=2cm, bottom=2cm]{geometry} 
+\usepackage[left=3cm, right=2cm, top=2cm, bottom=2cm]{geometry} 
+\usepackage{amsmath}
+\usepackage{color}
+\usepackage{pdfpages}
+%\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{textcomp}
+\usepackage{appendix}
+\usepackage{times}
+\usepackage{parcolumns}
+\usepackage{titlesec}
+\usepackage{ulem}
+\usepackage{framed, color}
+\usepackage[table]{xcolor}
+\usepackage{colortbl}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{booktabs}
+%=======
+
+
+%%Paquete referencias
+\usepackage[backend=bibtex, style=ieee]{biblatex}
+\addbibresource{00Bibliografia/02PlanPro.bib}
+\addbibresource{00Bibliografia/03MarcoTeoVideo.bib}
+\addbibresource{00Bibliografia/03MarcoTeoDesarrolo.bib}
+\addbibresource{00Bibliografia/03MarcoMotor.bib}
+\addbibresource{00Bibliografia/03MarcoTeoCultura.bib}
+\addbibresource{00Bibliografia/05TrabRealizado.bib}
+\addbibresource{00Bibliografia/reference.bib}
+
+\usepackage{rotating}
+\usepackage{multirow}
+
+%Paquetes imagenes
+\usepackage{graphicx}
+\usepackage{subfigure}
+%Paquete de simbolos
+\usepackage{amssymb}
+%Paquetes de tablas
+\usepackage{dcolumn}
+\usepackage[table]{xcolor}
+\usepackage{longtable}
+\usepackage{array,multirow}
+%\usepackage{subfig}
+
+%%\usepackage[top=1in, bottom=1in, right=1in, left=1in]{geometry}
+
+%Paqueteria del glosario
+%%\usepackage[hidelinks]{hyperref}
+%%\usepackage[toc,style=altlistgroup,hyperfirst=false]{glossaries}
+
+
+%\usepackage{booktabs}
+\makeindex
+%\makeglossaries
+
+\begin{document}
+	%\author{Hernández Bautista Yasmine Pilar, Márquez 		Hernández Karla Rocío}
+	%\title{Reporte Técnico}
+	\include{00Portada}	
+	
+	%\maketitle
+	\tableofcontents
+	
+	\include{01Introduccion}
+	\include{02PlanProblema}
+	\include{03MarcoTeorico}
+	\include{04EstadoArte}
+	\include{04AlcanceProyecto}
+	\include{05TrabajoRealizado}
+	\include{06ResultadoObtenidos}
+	\include{07Observaciones}
+	\printbibliography
+	\include{09Anexos}
+	
+\end{document}

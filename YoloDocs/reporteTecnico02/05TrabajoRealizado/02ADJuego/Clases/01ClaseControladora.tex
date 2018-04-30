@@ -1,0 +1,94 @@
+\subsubsection{Clases controladoras} \label{ClaseCtrl}
+		\begin{itemize}
+			\item \textbf{PrincipalMenuCtrl:} Esta clase se encarga de la funcionalidad del menú 
+			principal. Esta clase esta a cargo de:
+			\begin{itemize}
+				\item Empezar nueva partida.
+				\item Cargar nueva partida.
+				\item Mostrar mensajes de confirmación antes de proceder con cambios 
+				irreversibles a los datos de partida.
+				\item Mostrar mensaje de aviso en caso de no encontrar exista una partida 
+				guardada. 
+			\end{itemize}
+			%=======================================
+			\item \textbf{SelectLevelMenu:} Esta clase controla la funcionalidad del menú de 
+			selección nivel. Esta clase realiza:
+			\begin{itemize}
+				\item Habilitar solo los niveles y cinemáticas que el jugador haya 
+				desbloqueado.
+				\item No permitir que el jugador pueda acceder a niveles o cinemáticas 
+				que el jugador no haya desbloqueado.
+				\item Direccionar al jugador al nivel o a la cinemática que seleccionó.
+			\end{itemize}
+			%=======================================
+			\item \textbf{GameDataCtrl:} Esta clase controla el archivo de los datos de 
+			partida, este archivo sera de formato binario, este formato es un tipo de 
+			archivo que propio de Unity y permite proteger los datos de las partidas evitando
+			que estos puedan ser modificados por el jugador, garantizando así la integridad 
+			de la información. Está ligada a la mayoría de los controladores pues de ella depende 
+			 guardar y cargar el progreso del jugador para inicializar valores como: la 
+			 vida del jugador, su cantidad de \textit{Tonalli}, los niveles disponibles, etc. 
+			 Dentro de su funcionalidad está: 
+			\begin{itemize}
+				\item Verificar la existencia del archivo de datos de partida.
+				\item Crear un archivo de datos de partida.
+				\item Leer los datos del archivo de datos de partida.
+				\item Escribir datos en el archivo de partida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{DialogueCtrl:} Esta clase se encarga del despliegue de diálogos
+			en las cinemáticas y dentro de los niveles. Esta clase realiza las siguientes 
+			actividades:
+			\begin{itemize}
+				\item Iniciar el despliegue de diálogos.
+				\item Mostrar el dialogo siguiente.
+				\item Finalizar el despliegue diálogos. 
+			\end{itemize}	
+			%=======================================
+			\item \textbf{TalkedCharactersCtrl:} Esta clase asigna una instancia de la 
+			clase \textit{Dialogue} a cada una de las instancias de la clase 
+			\textit{TalkedCharacter}.
+			%=======================================
+			\item \textbf{CutsceneCtrl:} Esta clase se encarga de vincular el despliegue 
+			de diálogos con las animaciones de las cinemáticas. Esta clase tiene diversas 
+			clases hijas que heredan su funcionalidad de vinculación de diálogos y animación 
+			incorporando las consideraciones necesarias para el control de cada cinemática.
+			%=======================================
+			\item \textbf{AudioCtrl:} Esta clase está a cargo de generar los sonidos de \textit{SFX} 
+			dentro del juego utilizando la posición del jugador o de los enemigos. 
+			%=======================================
+			\item \textbf{LevelCtrl:} Esta clase controla el nivel que el jugador está 
+			jugando. Esta clase realiza las siguientes acciones:
+			\begin{itemize}
+				\item Inicializar los atributos de la clase \textit{Player}.
+				\item Verificar que el jugador esté vivo.
+				\item Actualizar la barra de vida del jugador.
+				\item Actualizar la barra de cantidad \textit{Tonalli}.
+				\item Pausar el juego.
+				\item Reanudar juego pausado. 
+			\end{itemize}
+			Esta clase tiene clases hijas que se encargan de:
+				\begin{itemize}
+					\item Verificar que se cumplan los objetivos específicos del nivel.
+					\item Actualizar los objetivos del nivel.
+					\item Actualizar los contadores de los objetivos.
+					\item Guardar el progreso obtenido en el nivel.
+					\item Inicializar los valores del jugador con base al \textit{checkpoint} activo. 
+				\end{itemize}
+			%=======================================
+			\item \textbf{CameraCtrl:} Esta clase controla el desplazamiento de la cámara.
+			%=======================================
+			\item \textbf{MobileUICtrl:} Esta clase se encarga de comunicar al jugador 
+			con la clase \textit{Player}. Es a través de esta clase que el jugador puede controlar 
+			al personaje jugable. Esta clase le permite al jugador:
+			\begin{itemize}
+				\item Mover al personaje jugable a la derecha.
+				\item Mover al personaje a la izquierda.
+				\item Detener el movimiento del jugador.
+				\item Actualizar la barra de cantidad \textit{Tonalli}.
+				\item Pausar el juego.
+				\item Reanudar juego pausado. 
+			\end{itemize}
+			%=======================================
+			\item \textbf{ArrowCreator:} Esta clase crea objetos que instancían al prefab "Arrow".								
+		\end{itemize}	

@@ -1,0 +1,272 @@
+\subsubsection{Clases Actores}
+A continuación se listan las clases actores: 
+		\begin{itemize}
+			\item \textbf{Player:} Esta clase se encarga de las acciones del personaje 
+			jugable, actualizar sus estados y gestionar el valor de sus atributos. 
+			Esta clase esta a cargo de:
+			\begin{itemize}
+				\item Mover al personaje jugable de manera horizontal.
+				\item Controlar la maquina de estados de las animaciones del personaje 
+				jugable.
+				\item Detectar las colisiones del personaje jugable.
+				\item Actualizar la cantidad de vida al recibir daño.
+				\item Realizar disparo de \textit{Tonalli}.
+				\item Actualizar la cantidad de \textit{Tonalli} al efectuar un disparo.  
+				\item Saltar. 
+			\end{itemize}
+			%=======================================
+			\item \textbf{TalkedCharacter:} Esta clase modela el funcionamiento de un
+			ciudadano con el que el jugador debe interactuar en el nivel 1.
+			Esta clase esta a cargo de:
+			\begin{itemize}
+				\item Mostrar un ícono de diálogo para indicarle al jugador que debe de 
+				interactuar con éste.
+				\item Ocultar el ícono de diálogo.
+				\item Indicarle a la clase DialogueCtrl que se inicia un diálogo.  
+			\end{itemize}
+			%=======================================
+			\item \textbf{DroppingPlatform:} Esta clase modela el funcionamiento 
+			del obstáculo Plataforma que cae, por lo que al hacer contacto con un objeto de 
+			la clase \textit{GroundCollisionCtrl} el objeto que instancie esta clase 
+			empezará a caer despues de \textit{n} segundos. 
+			%=======================================
+			\item \textbf{MovingPlatform:} Esta clase modela el funcionamiento 
+			del obstáculo Plataforma que móvil. Haciendo uso de dos posiciones: A y B, el 
+			objeto que instancia esta clase se mueve de manera cíclica de la posición A a 
+			la B y de la B a la A. 
+			%=======================================
+			\item \textbf{DisappearingPlatform:} Esta clase modela el funcionamiento 
+			del obstáculo Plataforma que desaparece, esta clase hace que el objeto que la 
+			instancie aparezca y desaparezca de manera cíclica, activando y desactivando 
+			los colisionadores del objeto. 
+			%=======================================
+			\item \textbf{Stalagmite:} Esta clase modela el comportamiento del obstáculo 
+			estalagmita. Esta clase hace que el objeto que la instancie caiga cuando 
+			detecte que el jugador se posiciona por debajo de este objeto.    
+			%=======================================
+			\item \textbf{PushingObstacle:} Esta clase modela el comportamiento de dos 
+			obstáculos: viento temporal y bolas de nieve. Haciendo uso de una posición, la
+			clase determina hacia que dirección debe de incrementar su dimensión y el tamaño 
+			de su colisionador.      
+			%=======================================	
+			\item \textbf{Arrow:} Clase que produce un movimiento vertical descendente al 
+			objeto que la instancia.   
+			%=======================================
+			\item \textbf{\textit{Enemy}:} Esta clase modela el comportamiento común que 
+			tienen los enemigos de tipo normal y los de tipo jefe. De esta clase heredan 
+			su funcionamiento las clase \textit{NormalEnemy} y \textit{BossEnemy}.Esta 
+			clase se encarga de:  
+			\begin{itemize}
+				\item Controlar las transiciones de la maquina de estados que controla las 
+				animaciones del enemigo.
+				\item Gestiona la detección de colisiones del enemigo.
+				\item Actualizar la cantidad de vida del Enemigo.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{NormalEnemy}:} Esta clase modela el comportamiento común que 
+			tienen los enemigos de tipo normal. Esta clase hereda su funcionamiento de la clase
+			 \textit{Enemy}. La clase NormalEnemy hereda su funcionalidad a las clases 
+			\textit{ Jaguar, Bird, Armadillo, PurpleGost} y \textit{RedGost}.Esta 
+			clase se encarga de:  
+			\begin{itemize}
+				\item Controlar el patrón de movimiento de los enemigos de tipo 
+				normal.
+				\item  Verificar la cercanía que tiene el enemigo normal con otros objetos, 
+				obstáculos y enemigos para ajustar su rango de acción y evitar que interfiera con el 
+				funcionamiento de otro objeto.
+			\end{itemize}					
+			%=======================================
+			\item \textbf{\textit{Jaguar}:} Esta clase modela el comportamiento del enemigo jaguar 
+			(Consultar la ficha de personaje en la Sección de personajes en el documento de diseño). 
+			Esta clase hereda su funcionamiento de la clase \textit{NormalEnemy}. Esta 
+			clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del jaguar con su maquina de estados para que modele
+				el patrón de ataque del jaguar. 
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{Bird}:} Esta clase modela el comportamiento de dos personajes de tipo
+			normal: Chara enana y Zopilote (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{NormalEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del ave con su maquina de estados para que modele
+				el patrón de ataque de Chara enana y del zopilote. 
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{Armadillo}:} Esta clase modela el comportamiento del personaje 
+			armadillo (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{NormalEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del jaguar con su maquina de estados para que modele
+				el patrón de ataque del armadillo. 
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{PurpleGost}:} Esta clase modela el comportamiento del personaje 
+			fantasma purpura (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{NormalEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del jaguar con su maquina de estados para que modele
+				el patrón de ataque del fantasma purpura. 
+			\end{itemize}
+			
+			%=======================================
+			\item \textbf{\textit{RedGost}:} Esta clase modela el comportamiento del personaje 
+			fantasma rojo (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{NormalEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del jaguar con su maquina de estados para que modele
+				el patrón de ataque del fantasma rojo.
+				\item Instanciar el objeto ShootEnemy. 
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{BossEnemy}:} Esta clase modela el comportamiento común que 
+			tienen los enemigos de tipo ¿jefe. Esta clase hereda su funcionamiento de 
+			la clase \textit{Enemy}. La clase BosslEnemy hereda su funcionalidad a las clases 
+			\textit{ Xochitonal, Tepeyollotl,Itzpapalotl, Mictlecayotl, Tlazolteotl, 
+			Itztlacoliuhqui, Nexoxcho, MictlantecutliPhase01, MictlantecutliPhase02} 
+			y \textit{MictlantecutliPhase03}.Esta clase se encarga de:  
+			\begin{itemize}
+				\item Controlar el patrón de movimiento de los enemigos de tipo 
+				jefe.
+				\item  Verificar la cercanía que tiene el enemigo tipo jefe con el jugador 
+				y con los limites del escenario.
+			\end{itemize}	
+			%=======================================
+			\item \textbf{\textit{Xochitonal}:} Esta clase modela el comportamiento del personaje 
+			\textit{Xochitónal} (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Xochitónal} con su maquina 
+				de estados para que modele el patrón de \textit{Xochitónal}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{Tepeyollotl}:} Esta clase modela el comportamiento del personaje 
+			\textit{Tepeyóllotl} (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Tepeyóllotl} con su maquina 
+				de estados para que modele el patrón de \textit{Tepeyóllotl}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{Itzpapalotl}:} Esta clase modela el comportamiento del personaje 
+			\textit{Itzpápalotl} (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Itzpápalotl} con su maquina 
+				de estados para que modele el patrón de \textit{Itzpápalotl}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{Mictlecayotl}:} Esta clase modela el comportamiento del personaje 
+			\textit{Mictlecayotl} (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Mictlecayotl} con su máquina 
+				de estados para que modele el patrón de \textit{Mictlecayotl}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{Tlazolteotl}:} Esta clase modela el comportamiento del personaje 
+			\textit{Tlazoltéotl} (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Tlazoltéotl} con su maquina 
+				de estados para que modele el patrón de \textit{Tlazoltéotl}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{Itztlacoliuhqui}:} Esta clase modela el comportamiento del personaje 
+			\textit{Itztlacoliuhqui} (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Itztlacoliuhqui} con su máquina 
+				de estados para que modele el patrón de \textit{Itztlacoliuhqui}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{Nexoxcho}:} Esta clase modela el comportamiento del personaje 
+			\textit{Nexoxcho} (Consultar la ficha de personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Nexoxcho} con su maquina 
+				de estados para que modele el patrón de \textit{Nexoxcho}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{MictlantecutliPhase01}:} Esta clase modela el 
+			comportamiento del personaje \textit{Mictlantecutli} (Consultar la ficha 
+			del personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Mictlantecutli} con su máquina 
+				de estados para que modele el patrón de \textit{Mictlantecutli}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{MictlantecutliPhase02}:} Esta clase modela el 
+			comportamiento del personaje \textit{Mictlantecutli} (Consultar la ficha 
+			del personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Mictlantecutli} con su maquina 
+				de estados para que modele el patrón de \textit{Mictlantecutli}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{\textit{MictlantecutliPhase03}:} Esta clase modela el 
+			comportamiento del personaje \textit{Mictlantecutli} (Consultar la ficha 
+			del personaje en la Sección de personajes en 
+			el documento de diseño). Esta clase hereda su funcionamiento de la clase 
+			\textit{BossEnemy}. Esta clase se encarga de:  
+			\begin{itemize}
+				\item Sincronizar el desplazamiento del \textit{Mictlantecutli} con su maquina 
+				de estados para que modele el patrón de \textit{Mictlantecutli}.
+				\item Toma decisiones en cuanto a los ataques a realizar basándose en su 
+				nivel de vida.
+			\end{itemize}
+			%=======================================
+			\item \textbf{Checkpoint:} Esta clase permite guardar el progreso con en 
+			cuanto objetivos del juego para inicializar al jugador en esa posición
+			en caso de que el jugador muera. Los datos que contienen las instancias de
+			esta clase solo perduraran mientras el jugador se mantenga dentro del nivel,
+			una vez que el jugador abandone el nivel los datos se destruirán y el jugador
+			deberá iniciar el nivel desde el inicio.  
+			%========================================
+			\item \textbf{FollowedCharacter:} Esta clase controla a un personaje que se 
+			desplaza siguiendo un patron de movimiento dependiente de un conjunto de objetos 
+			que sirven como nodos a sus desplazamiento. El objeto que instancie esta clase 
+			siempre se va a desplazar manteniendo una distancia constante de personaje jugable,
+			cuando esta distancia aumente, el personaje se detendrá hasta que el personaje 
+			jugable vuelva a mantenerse a la distancia aceptable.    
+			%========================================
+			\item \textbf{GostBulletCtrl:} Esta clase controla el desplazamiento del 
+			disparo generado por la clase RedGost.
+			%========================================
+			\item \textbf{ BulletCtrl:} Esta clase controla el desplazamiento del 
+			disparo generado por la clase Player; el valor del atributo de velocidad dependerá 
+			del atributo del player que indica hacia donde esta mirando (izquierda o derecha).
+		\end{itemize}	

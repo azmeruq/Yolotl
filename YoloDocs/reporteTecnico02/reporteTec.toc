@@ -1,0 +1,213 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {spanish}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{4}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Planteamiento del problema}{6}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Contexto}{6}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Causas}{6}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Consecuencias}{7}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Propuesta de soluci\IeC {\'o}n}{10}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Marco te\IeC {\'o}rico conceptual}{13}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Videojuego}{13}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Definici\IeC {\'o}n}{13}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Clasificaci\IeC {\'o}n}{13}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Clasificaci\IeC {\'o}n por contenido}{14}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Clasificaci\IeC {\'o}n por g\IeC {\'e}nero}{17}{figure.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Industria mundial}{19}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Estudio de mercado en M\IeC {\'e}xico}{20}{subsection.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.5}Industria en M\IeC {\'e}xico}{21}{subsection.3.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Desarrollo de videojuegos.}{23}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Linea de producci\IeC {\'o}n de un videojuego.}{23}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Metodolog\IeC {\'\i }as de desarrollo de videojuegos.}{24}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\IeC {\textquestiondown }Qu\IeC {\'e} es una metodolog\IeC {\'\i }a de desarrollo de software?}{24}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a en cascada}{24}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a en Scrum}{25}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a de Programaci\IeC {\'o}n extrema}{26}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a Huddle}{28}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Software para el desarrollo de videojuegos.}{28}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Motor de juego.}{28}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Arquitectura del motor}{29}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Motores gr\IeC {\'a}ficos existentes en el mercado.}{30}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Software auxiliar}{31}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Gamificaci\IeC {\'o}n}{33}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Caracter\IeC {\'\i }stcas}{33}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Tipos de jugadores}{35}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Proceso}{35}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.4}Finalidad}{35}{subsection.3.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Cultura.}{35}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}\IeC {\textquestiondown }Qu\IeC {\'e} es la cultura?}{36}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Caracter\IeC {\'\i }sticas de la cultura}{36}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}Clasificaci\IeC {\'o}n de la cultura.}{37}{subsection.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.4}Importancia de la cultura.}{37}{subsection.3.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Cultura Digital}{37}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.1}Educaci\IeC {\'o}n digital}{38}{subsection.3.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Videojuegos educativos}{38}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Estado del arte}{41}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Alcance del proyecto}{42}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Objetivos del proyecto}{42}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Objetivos generales}{42}{subsection.5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Objetivos especificos}{42}{subsection.5.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Alcance del proyecto}{42}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Metodologia de trabajo}{43}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Especificaciones de plataforma}{43}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Hardaware requerido}{43}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Computadoras para desarrollo}{43}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dispositivos moviles de prueba}{44}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Software requerido}{44}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Motor de juego}{44}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Creaci\IeC {\'o}n de sprites}{45}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Interfaz gr\IeC {\'a}fica de usuario}{45}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Productos esperados}{45}{section.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Trabajo realizado}{47}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Investigaci\IeC {\'o}n hist\IeC {\'o}rica}{47}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.1}Sociedad Mexica}{47}{subsection.6.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.2}Mitolog\IeC {\'\i }a Mexica}{48}{subsection.6.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.3}Historia de la Malinche}{49}{subsection.6.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Dise\IeC {\~n}o del juego}{49}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Idea concepto.}{49}{subsection.6.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Concepto del juego.}{49}{subsection.6.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.3}Mec\IeC {\'a}nica de juego.}{50}{subsection.6.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.4}Interfaces}{52}{subsection.6.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.5}Niveles.}{52}{subsection.6.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.6}Obst\IeC {\'a}culos}{55}{subsection.6.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.7}Ambientaci\IeC {\'o}n}{58}{subsection.6.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.8}Argumento del videojuego}{58}{subsection.6.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}An\IeC {\'a}lisis del juego}{59}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.1}Usuario del sistema}{59}{subsection.6.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.2}Clases del juegos}{59}{subsection.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Clases controladoras}{60}{subsection.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Clases Actores}{62}{subsection.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Clases Actores}{66}{subsection.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.3}Comunicaci\IeC {\'o}n entre clases}{68}{subsection.6.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Empezar nueva partida}{68}{subsection.6.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Personaje jugable salta}{69}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Batalla contra jefe}{69}{Item.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Pruebas}{71}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Primer Prototipo}{71}{subsection.6.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Creando sprites.}{72}{subsection.6.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Implementaci\IeC {\'o}n del personaje jugable}{72}{subsection.6.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Implementar Interfaz gr\IeC {\'a}fica}{74}{figure.6.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Manejo de un score para el juego y preservaci\IeC {\'o}n de datos de la partida}{77}{figure.6.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Patron de movimiento para los enemigos}{77}{figure.6.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.2}Segundo Prototipo}{77}{subsection.6.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Creaci\IeC {\'o}n de Sprites}{79}{subsection.6.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Men\IeC {\'u} principal}{79}{subsection.6.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Implementaci\IeC {\'o}n personaje jugable}{79}{figure.6.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Interfaz gr\IeC {\'a}fica del nivel}{80}{figure.6.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Primer mitad del nivel uno}{81}{figure.6.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Segunda mitad del primer nivel}{81}{figure.6.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Resultados obtenidos}{83}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Reflexiones}{84}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Anexos}{89}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Sprites}{89}{section.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.1}Imagenes de Fondo}{89}{subsection.9.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1.2}Personajes}{90}{subsection.9.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}Maquetas}{90}{section.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.1}Maqueta nivel 1}{91}{subsection.9.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.2}Maqueta nivel 2}{96}{subsection.9.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}Cronograma de actividades}{105}{section.9.3}

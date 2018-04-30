@@ -1,0 +1,172 @@
+\chapter{Alcance del proyecto}
+En esta sección se definen el proyecto desde un punto de vista técnico; empezando 
+por los objetivos del proyecto, su alcance, la metodología de trabajo, 
+el cronograma de actividades, las especificación de la plataforma de desarrollo, 
+el software requerido y los productos esperados. 
+\section{Objetivos del proyecto} \label{Sec_ObjetivosPro}
+En esta sección se habla de los objetivos, tanto generales cómo específicos, que persigue el presente trabajo terminal.
+	\subsection{Objetivos generales}\label{Sec_ObjetivosGen}		
+		\begin{itemize}
+			\item Fomentar la cultura Mexica entre jóvenes mayores de 13 años a través de un videojuego.
+		\end{itemize}
+		
+	\subsection{Objetivos especificos} \label{Sec_ObjetivosEsp}
+		\begin{itemize}
+			\item Realizar una investigación sobre la cultura Mexica.
+			\item Diseñar un videojuego con bases históricas y mitológicas.
+			\item Diseñar e implementar una narrativa que permita la difusión de la cultura Mexica. 
+			\item Comprender el funcionamiento del motor del juego elegido.
+			\item Entender el funcionamiento de un juego de plataforma básico.
+		\end{itemize}
+		
+\section{Alcance del proyecto} \label{Sec_Alcance}
+	El presente trabajo terminal tendrá:
+		\begin{itemize}
+			\item Funcionalidad de un solo usuario.
+			\item Contener diez niveles, uno introductorio y nueve situados en el inframundo Mexica.
+			\item Contar con sprites originales.
+			\item Contar con un sistema de guardado, para salvar el progreso del jugador.
+			\item Contener cinemáticas que cuentan una historia original.
+			\item Funcionar en dispositivos android con los requerimientos expuestos en la sección \ref{Sec_Plataforma}.
+			\item Contener un nivel que permite rejugar los niveles ya completados. 
+		\end{itemize}
+	El presente trabajo terminal no realizará:
+	\begin{itemize}
+		\item Enseñar historia.
+		\item Realizar microtransacciones.
+		\item Soportar múltiples jugadores.
+		\item Contar con música original, creada especialmente para el juego.
+	\end{itemize}
+\section{Metodologia de trabajo}\label{Sec_Metodologia}
+La metodología de trabajo elegida es Huddle. Como se mencionó en el apartado
+ \ref{MetodoVideojuego}, Huddle es una metodología orientada a videojuegos y una
+  de sus principales bondades que que ofrece la naturaleza iterativa de Scrum 
+  con el agregado de cubrir la linea de producción de un videojuego 
+  (ver apartado \ref{Pipelinevideojuego}).
+\\
+\par
+El principal motivo por el que se eligió huddle, fue que es una metodología 
+orientada a videojuegos; por lo que su documentación y sistema de trabajo cubre 
+las necesidades de un proyecto de esta naturaleza y no es necesario hacer 
+adaptaciones drásticas de la metodología tal como se tendrían que hacer si se 
+hubiera elegido alguna de las metodologías orientadas a desarrollo de software 
+como hubiera sido Scrum o programación extrema. 
+\\
+\par
+Para consultar el cronograma de actividades del Trabajo Terminal, consultar el anexo \ref{}.
+
+\section{Especificaciones de plataforma}\label{Sec_Plataforma}
+En esta sección se enlistaran todos aquellos dispositivos de hardware y licencias
+ de software que se necesitan para el desarrollo del vidoejuego.
+ 
+ \subsection{Hardaware requerido}\label{Sec_PlataformaHw}
+ En esta sección se mencionan los dispositivos de hardware empleados en el 
+ desarrollo del sistema y los dispositivos de prueba del juegos. Estos 
+ dispositivos son con los que se contaban a la hora de iniciar el Trabajo Terminal
+ y no son sustituibles por motivos de presupuesto.
+ 	%================================================
+ 	\subsubsection{Computadoras para desarrollo}
+ 		\begin{itemize}
+ 			\item Computadora DELL Inspiron 15.
+ 				\begin{itemize}
+ 					\item Procesador Intel Core i3-4005U. 
+ 					\item CPU de 1.70 GHz de 64 bits. 
+ 					\item Memoria ram de 8GB.
+ 				\end{itemize}
+			\item Lenovo G40. 
+				\begin{itemize}
+					\item Intel Core i3 4005U CPU 1.7 Khz de 64 bits. 
+					\item Memoria ram de 8GB. 
+					\item Tarjeta gráfica AMD Radeon R5 235 de 1GB
+				\end{itemize}
+ 		\end{itemize}
+ 		
+ 	%===================================
+ 	\subsubsection{Dispositivos moviles de prueba}
+ 		\begin{itemize}   		
+			\item Dispositivo de prueba 1:
+		   		\begin{itemize}
+		   			\item Versión 5.2
+		   			\item Modelo Huawei TAG-L13
+		   			\item CPU MediaTek MT6753 1,50 GHz
+		   			\item IPS TFT 16M colors 720 x 1280 px (5,00) 294 ppi
+		   			\item RAM 2GB	   			
+		   		\end{itemize}
+   		
+   			\item Dispositivo de prueba 2:
+		   		\begin{itemize}
+		   			\item Versión 7.0
+		   			\item Modelo ASUS X008DC
+		   			\item CPU MediaTek Quad Core Processor
+		   			\item GPU Mali T720
+		   			\item RAM 3GB LPDDR3
+		   			\item PANEL 5.2-inch
+		   			HD(1280 x 720) IPS display 
+		   			75 por ciento screen-to-body ratio
+		   			400nits brightness 
+		   		\end{itemize}   		  		
+   		\end{itemize}
+
+
+\subsection{Software requerido}
+En este apartado se describen los softwares que se emplearán para el desarrollo 
+del videojuego; cabe mencionar que todos los softwares mencionados en este apartado 
+son empleados en el desarrollo haciendo uso de licencias de carácter individual, 
+por lo que si se desea comercializar el videojuego, primeramente se debe de realizar  
+un acuerdo comercial con las empresas proveedoras de las licencias. 
+ 
+	\subsubsection{Motor de juego}
+Como motor de juego se optó por Unity 3D en su versión 5.6.2.f1 como 
+motor de juego en su licencia libre ya que no se cuenta con los fondos necesarios 
+para contratar las versiones de pago. Los motivos por los que se eligió Unity 3D,
+ son los que se presentan a continuación:
+        \begin{itemize}
+			\item Curva de aprendizaje rápida.
+			\item Comunidad de desarrolladores activa.
+			\item Permite gestionar trabajos 2D y 3D, esto permitirá escalar el juego 
+                a 3D a futuro si alguien deseará retomar el proyecto.
+			\item Codificación basada en el paradigma de programación orientada a
+			objetos.
+			\item Requerimientos técnicos de instalación dependientes del proyecto por
+			lo que no exige una computadora de gran costo.
+			\item Capacidad de desarrollo en múltiples plataformas, lo que permite la
+                 escalabilidad futura del proyecto hacia nuevas plataformas en caso de
+                 que alguien desee retomarlo.
+        \end{itemize} 
+A fin de garantizar la generación de los archivos apk de juego fue necesaria la instalación de Android Studio versión 2.3.3 y java en su versión  8u111.
+	%================================
+	\subsubsection{Creación de sprites}
+Para la creación de sprites se eligieron dos softwares Corel Draw X5 y Adobe Photoshop. El primero se eligió para la vectorización de los sprites, ya que es de fácil uso, no requiere tantos recursos como Adobe Ilustrator y permite importar archivos a Adobe Photoshop para su posterior coloreado.
+\\
+\par
+Tal como se mencionó en el párrafo anterior, el objetivo de Photoshop dentro de
+ este trabajo terminal es colorear los sprites. El motivo para emplear photoshop
+ es que permite la edición de imágenes y su optimizado para hacer sprites que 
+ requieran menores tiempos de renderizado y menor espacio de almacenamiento sin
+ sacrificar significativamente la calidad de la imagen.
+	%================================	
+	\subsubsection{Interfaz gráfica de usuario}
+Para los iconos de los botones que controlan al usuario, se descargó una colección de botones del sitio web pixelsticky, este sitio web permite la descarga y utilización de diferentes iconos bajo la licencia de CC0 o de dominio público.
+
+\section{Productos esperados}\label{Sec_Producto}
+Los productos esperados se dividirán en dos, siendo los primeros los que se entregarán en al termino de Trabajo Terminal 1 y los segundos los que se entregarán al finalizar Trabajo Terminal 2.
+
+\begin{itemize}
+	\item Productos esperados al finalizar TT1:
+		\begin{itemize}
+			\item Documento de diseño.
+			\item Guión literario del juego.
+			\item Storyboard del juego.
+			\item Documentación de la propuesta de diseño del juego.
+			\item Maquetado de los niveles 1, 2, 3, 4.
+			\item Niveles 1 y 2 terminado.
+			\item Reporte técnico.
+		\end{itemize}
+	\item Productos esperados al finalizar TT2:
+		\begin{itemize}
+			\item Documentación del juego actualizada.
+			\item Maquetado de los niveles 5, 6, 7, 8, 9 y 10.
+			\item Nivel 3, 4, 5, 6, 7, 8, 9 y 10 terminados.
+			\item Reporte técnico.
+		\end{itemize}
+\end{itemize}

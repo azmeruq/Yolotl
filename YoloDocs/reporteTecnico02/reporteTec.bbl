@@ -1,0 +1,1113 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{pp05}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PS}{%
+         family={Paz},
+         familyi={P\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+    }
+    \strng{namehash}{PS1}
+    \strng{fullhash}{PS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Día Mundial de la Diversidad Cultural: México, país
+  multicultural}
+    \verb{url}
+    \verb http://www.conacytprensa.mx/index.php/ciencia/humanidades/1583-dia-mu
+    \verb ndial-de-la-diversidad-cultural-mexico-pais-multicultura
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{pp04}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={Ipsos},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I3}
+    \strng{fullhash}{I3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Peligros de la Percepción Impacto global de la ayuda al
+  desarrollo}
+    \verb{url}
+    \verb https://www.ipsos.com/sites/default/files/ct/news/documents/2017-09/G
+    \verb ates\_Perils\_of\_Perception\_Report-September\_2017.pdf
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{pp06}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{title}{La importancia de la Cultura}
+    \verb{url}
+    \verb https://lahora.com.ec/noticia/408088/la-importancia-de-la-cultura-
+    \endverb
+    \field{journaltitle}{La Hora}
+    \field{year}{2006}
+  \endentry
+
+  \entry{pp02}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={INEGI},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I2}
+    \strng{fullhash}{I2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Módulo sobre Eventos Culturales seleccionados MODECULT}
+    \verb{url}
+    \verb http://internet.contenidos.inegi.org.mx/contenidos/productos/prod\_se
+    \verb rv/contenidos/espanol/bvinegi/productos/nueva\_estruc/promo/resultado
+    \verb s\_modecult\_may2017.pdf.
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{pp01}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=AJ}{%
+         family={Alejo},
+         familyi={A\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+    }
+    \strng{namehash}{AJ1}
+    \strng{fullhash}{AJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{En 2016, 40\% de mexicanos no fue a ninguna actividad
+  cultural}
+    \verb{url}
+    \verb http://www.milenio.com/cultura/mexicanos-actividad\_cultural-arte-cul
+    \verb tura-museos-modecult-interes-milenio\_0\_875312472.html
+    \endverb
+    \field{journaltitle}{Milenio}
+    \field{year}{2016}
+  \endentry
+
+  \entry{pp03}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{title}{Celebrando lo desconocido en fiestas patrias}
+    \verb{url}
+    \verb http://www.parametria.com.mx/carta\_parametrica.php?cp=4170.
+    \endverb
+    \field{journaltitle}{Parametría}
+    \field{year}{2009}
+  \endentry
+
+  \entry{pp07}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MG}{%
+         family={Marín},
+         familyi={M\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+    }
+    \strng{namehash}{MG1}
+    \strng{fullhash}{MG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{1}
+    \field{title}{Historia verdadera del México Profundo}
+    \list{location}{1}{%
+      {México}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{defVid}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RGAMCENLFFMA}{%
+         family={Rey},
+         familyi={R\bibinitperiod},
+         given={G\bibnamedelima A Morales C E Nava L F Fernández
+  M\bibnamedelima A},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod M\bibinitperiod
+  C\bibinitperiod E\bibinitperiod N\bibinitperiod L\bibinitperiod
+  F\bibinitperiod F\bibinitperiod M\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RGAMCENLFFMA1}
+    \strng{fullhash}{RGAMCENLFFMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Procesos de desarrollo para videojuegos}
+    \verb{url}
+    \verb erevistas.uacj.mx/ojs/index.php/culcyt/article/download/299/283
+    \endverb
+    \list{location}{1}{%
+      {Juárez, CH, Mex.}%
+    }
+    \list{institution}{1}{%
+      {Instituto de Ingeniería y tecnología, UACJ}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{vid10}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=ZRHMLR}{%
+         family={Zubek},
+         familyi={Z\bibinitperiod},
+         given={R\bibnamedelima Hunicke M LeBlanc\bibnamedelima R},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod M\bibinitperiod
+  L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZRHMLR1}
+    \strng{fullhash}{ZRHMLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{eventtitle}{Game developers conference}
+    \field{title}{MDA: A formal approach to game design and game research}
+    \verb{url}
+    \verb http://www.cs.northwestern.edu/~hunicke/MDA.pdf
+    \endverb
+    \list{location}{1}{%
+      {San Jose}%
+    }
+    \field{year}{2004}
+  \endentry
+
+  \entry{vid11}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WMJP}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={M\bibnamedelima J\bibnamedelima P},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WMJP1}
+    \strng{fullhash}{WMJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{1}
+    \field{title}{El medio de los videojuegos}
+    \list{location}{1}{%
+      {Texas, USA}%
+    }
+    \field{year}{2001}
+  \endentry
+
+  \entry{vid02}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=AES}{%
+         family={Association},
+         familyi={A\bibinitperiod},
+         given={Entertainment\bibnamedelima Software},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AES1}
+    \strng{fullhash}{AES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Guía de clasificaciones de la ESRB}
+    \verb{url}
+    \verb http://www.esrb.org/ratings/ratings\_guide\_sp.aspx
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{vid01}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=AP}{%
+         family={Antolinos},
+         familyi={A\bibinitperiod},
+         given={P},
+         giveni={P},
+      }}%
+    }
+    \strng{namehash}{AP1}
+    \strng{fullhash}{AP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{La industria del videojuego generará casi 109.000 millones
+  de dólares en 2017}
+    \verb{url}
+    \verb http://www.periodistadigital.com/tecnologia/gadgets/2017/08/28/la-ind
+    \verb ustria-del-videojuego-generara-casi-109-000-millones-de-dolares-en-20
+    \verb 17.shtml
+    \endverb
+    \field{journaltitle}{Forbes}
+    \field{year}{2017}
+  \endentry
+
+  \entry{vid03}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=ZE}{%
+         family={Zuñiga},
+         familyi={Z\bibinitperiod},
+         given={E},
+         giveni={E},
+      }}%
+    }
+    \strng{namehash}{ZE1}
+    \strng{fullhash}{ZE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Videojuegos en México: un mercado de más de 22,000 mdp}
+    \verb{url}
+    \verb https://www.forbes.com.mx/videojuegos-mexico-mercado-mas-22000-mdp/
+    \endverb
+    \field{journaltitle}{Forbes}
+    \field{year}{2017}
+  \endentry
+
+  \entry{vid05}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CRS}{%
+         family={Contreras},
+         familyi={C\bibinitperiod},
+         given={R\bibnamedelima S},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRS1}
+    \strng{fullhash}{CRS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{La industria del videojuego en México}
+    \verb{url}
+    \verb http://invdes.com.mx/los-investigadores/la-industria-del-videojuego-m
+    \verb exico/
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{vid04}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LA}{%
+         family={Ling},
+         familyi={L\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+    }
+    \strng{namehash}{LA1}
+    \strng{fullhash}{LA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Sobre el desarrollo de videojuegos en México}
+    \verb{url}
+    \verb https://www.unocero.com/videojuegos/sobre-el-desarrollo-de-videojuego
+    \verb s-en-mexico/
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{Ref_Desarrollo}{online}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={IGN},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The game production pipeline: concept to completion.}
+    \verb{url}
+    \verb http://www.ign.com/articles/2006/03/16/the-game-production-pipeline-c
+    \verb oncept-to-completion?page=1
+    \endverb
+    \field{year}{2006}
+  \endentry
+
+  \entry{Ref_metodologia}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RMBA}{%
+         family={Rafael\bibnamedelima Menéndez},
+         familyi={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Barzanallana\bibnamedelima Asensio},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RMBA1}
+    \strng{fullhash}{RMBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Metodologías de desarrollo de software.}
+    \verb{url}
+    \verb http://www.um.es/docencia/barzana/IAGP/Iagp2.html
+    \endverb
+    \field{year}{2006}
+  \endentry
+
+  \entry{Ref_Metod}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BG}{%
+         family={Bustos},
+         familyi={B\bibinitperiod},
+         given={Gacitúa},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BG1}
+    \strng{fullhash}{BG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{23\bibrangedash 42}
+    \field{title}{Métodos de desarrollo de software: El desafío pendiente de
+  la estandarización. Software}
+    \verb{url}
+    \verb http://www.redalyc.org/articulo.oa?id=29901203
+    \endverb
+    \field{volume}{12}
+    \field{journaltitle}{Theoria}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Ref:CarCascada}{book}{}
+    \name{author}{1}{}{%
+      {{hash=JCB}{%
+         family={Jurados},
+         familyi={J\bibinitperiod},
+         given={Carlos\bibnamedelima Blé},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SafeCreative}%
+    }
+    \strng{namehash}{JCB1}
+    \strng{fullhash}{JCB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Diseño Ágil con TDD.}
+    \list{location}{1}{%
+      {España}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{Ref_DefScrum}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GMT}{%
+         family={Gallego},
+         familyi={G\bibinitperiod},
+         given={Manuel\bibnamedelima Trigas},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMT1}
+    \strng{fullhash}{GMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Metodología Scrum.}
+    \verb{url}
+    \verb http://openaccess.uoc.edu/webapps/o2/bitstream/10609/17885/1/mtrigasT
+    \verb FC0612memoria.pdf
+    \endverb
+    \field{year}{s/f}
+  \endentry
+
+  \entry{Ref_ScrumRef}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KSJS}{%
+         family={Ken\bibnamedelima Schwaber},
+         familyi={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Jeff\bibnamedelima Sutherland},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KSJS1}
+    \strng{fullhash}{KSJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{La Guía Definitiva de Scrum: Las Reglas del Juego}
+    \verb{url}
+    \verb http://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-es.pdf
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{Ref_ScrumGuia}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=AMJPGL}{%
+         family={Alexander\bibnamedelima Menzinsky},
+         familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+         suffix={Gertrudis\bibnamedelima López},
+         suffixi={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Juan\bibnamedelima Palacio},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AMGLJP1}
+    \strng{fullhash}{AMGLJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Scrum Manager.}
+    \verb{url}
+    \verb http://www.scrummanager.net/files/sm_proyecto.pdf
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{Ref_XP}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=EMP}{%
+         family={Esteso},
+         familyi={E\bibinitperiod},
+         given={Mario\bibnamedelima Pérez},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EMP1}
+    \strng{fullhash}{EMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Programación Extrea: Qué es y principios básicos.}
+    \verb{url}
+    \verb https://geekytheory.com/programacion-extrema-que-es-y-principios-basi
+    \verb cos
+    \endverb
+    \field{year}{s/f}
+  \endentry
+
+  \entry{Ref_XPPrincipios}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BUU}{%
+         family={Bolivariana},
+         familyi={B\bibinitperiod},
+         given={Universidad\bibnamedelima Unión},
+         giveni={U\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BUU1}
+    \strng{fullhash}{BUU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Programación Extrema.}
+    \verb{url}
+    \verb http://ingenieriadesoftware.mex.tl/52753_xp---extreme-programing.html
+    \endverb
+    \field{year}{s/f}
+  \endentry
+
+  \entry{Ref_Huddle}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GAMUCENL}{%
+         family={Gerardo Abraham Morales\bibnamedelima Urrutia},
+         familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod
+  M\bibinitperiod\bibinitdelim U\bibinitperiod},
+         given={Claudia Esther Nava\bibnamedelima López},
+         giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod
+  N\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GAMUCENL1}
+    \strng{fullhash}{GAMUCENL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Proceso de desarrollo para videojuegos.}
+    \verb{url}
+    \verb erevistas.uacj.mx/ojs/index.php/culcyt/article/download/299/283
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{Ref:MutorGraf}{online}{}
+    \name{author}{1}{}{%
+      {{hash=WJ}{%
+         family={Ward},
+         familyi={W\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJ1}
+    \strng{fullhash}{WJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{What is a Game Engine?}
+    \verb{url}
+    \verb https://www.gamecareerguide.com/features/529/what_is_a_game_.php
+    \endverb
+    \field{year}{2008}
+  \endentry
+
+  \entry{Ref:ArquMotor}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DVFCMA}{%
+         family={David Vallejos\bibnamedelima Fernández},
+         familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+         given={Cleton Martín\bibnamedelima Angelina},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Universida de Castilla - La Mancha}%
+    }
+    \strng{namehash}{DVFCMA1}
+    \strng{fullhash}{DVFCMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Desarrollo de videojuegos: Arquitectura del motor.}
+    \list{location}{1}{%
+      {España}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{ref:SDK}{online}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Webopedia},
+         familyi={W\bibinitperiod},
+      }}%
+    }
+    \keyw{SKD, software}
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{SDK - software development kit}
+    \verb{url}
+    \verb https://www.webopedia.com/TERM/S/SDK.html
+    \endverb
+    \field{year}{s/f}
+  \endentry
+
+  \entry{Ref:middleware}{online}{}
+    \name{author}{1}{}{%
+      {{hash=AM}{%
+         family={Azure},
+         familyi={A\bibinitperiod},
+         given={Microsoft},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Middleware}
+    \strng{namehash}{AM1}
+    \strng{fullhash}{AM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{¿Qué es middleware?}
+    \verb{url}
+    \verb https://azure.microsoft.com/es-mx/overview/what-is-middleware/
+    \endverb
+    \field{year}{s/f}
+  \endentry
+
+  \entry{Ref:Render}{online}{}
+    \name{author}{1}{}{%
+      {{hash=d}{%
+         family={3dcadportal},
+         familyi={d\bibinitperiod},
+      }}%
+    }
+    \keyw{Gráficos, render}
+    \strng{namehash}{d1}
+    \strng{fullhash}{d1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Render-Rendering-Renderizado}
+    \verb{url}
+    \verb http://www.3dcadportal.com/rendering.html
+    \endverb
+  \endentry
+
+  \entry{Ref:Unity}{online}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={Unity},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \keyw{unity}
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Requisitos del sistema para la Unity versión}
+    \verb{url}
+    \verb https://unity3d.com/es/unity/system-requirements?_ga=2.28270718.37226
+    \verb 9580.1509904500-1621154898.1498793137
+    \endverb
+    \field{year}{s/f}
+  \endentry
+
+  \entry{Ref:Unreal}{online}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={UnrealEngine},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \keyw{unrealEngine}
+    \strng{namehash}{U2}
+    \strng{fullhash}{U2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Hardware and Software Specifications}
+    \verb{url}
+    \verb https://www.unrealengine.com/en-US/what-is-unreal-engine-4
+    \endverb
+    \field{year}{s/f}
+  \endentry
+
+  \entry{Ref:CryEngine}{online}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={CryEngine},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \keyw{CryEngine}
+    \strng{namehash}{C2}
+    \strng{fullhash}{C2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Características}
+    \verb{url}
+    \verb https://www.cryengine.com/features
+    \endverb
+    \field{year}{s/f}
+  \endentry
+
+  \entry{gameDef}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=NSDDDRKLE}{%
+         family={Nacke},
+         familyi={N\bibinitperiod},
+         given={S\bibnamedelima Deterding D Dixon R Khaled L\bibnamedelima E},
+         giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod D\bibinitperiod
+  D\bibinitperiod R\bibinitperiod K\bibinitperiod L\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NSDDDRKLE1}
+    \strng{fullhash}{NSDDDRKLE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Gamification: Toward a Definition}
+    \verb{url}
+    \verb http://gamification-research.org/wp-content/uploads/2011/04/02-Deterd
+    \verb ing-Khaled-Nacke-Dixon.pdf
+    \endverb
+    \field{year}{2011}
+  \endentry
+
+  \entry{gameficacion}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MS}{%
+         family={Moll},
+         familyi={M\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+    }
+    \strng{namehash}{MS1}
+    \strng{fullhash}{MS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Gamificaci{\'o}n: 7 claves para entender qu{\'e} es y
+  c{\'o}mo funciona}
+    \verb{url}
+    \verb http://justificaturespuesta.com/gamificacion-7-claves-para-entender-q
+    \verb ue-es-y-como-funciona
+    \endverb
+    \field{year}{2014}
+  \endentry
+
+  \entry{RefCultura}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=NAH}{%
+         family={Núñez},
+         familyi={N\bibinitperiod},
+         given={Adriana\bibnamedelima Huerta},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NAH1}
+    \strng{fullhash}{NAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Además de presupuesto, ¿qué le falta a la cultura en
+  México?}
+    \verb{url}
+    \verb https://cuadrivio.net/ademas-de-presupuesto-que-le-falta-a-la-cultura
+    \verb -en-mexico/
+    \endverb
+  \endentry
+
+  \entry{RefculturaCarac}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MP}{%
+         family={Mondal},
+         familyi={M\bibinitperiod},
+         given={Puja},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MP1}
+    \strng{fullhash}{MP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Culture: Characteristics and Classifications of Culture
+  Sociology.}
+    \verb{url}
+    \verb http://www.yourarticlelibrary.com/culture/culture-characteristics-and
+    \verb -classifications-of-culture-sociology/6223
+    \endverb
+  \endentry
+
+  \entry{RefculturaClasificacion}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=dCE}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Clasificaciones},
+         familyi={C\bibinitperiod},
+         given={Enciclopedia},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CEd1}
+    \strng{fullhash}{CEd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Tipos de culturas.}
+    \verb{url}
+    \verb http://www.tiposde.org/ciencias-sociales/78-tipos-de-cultura/
+    \endverb
+  \endentry
+
+  \entry{RefculturaClasificacionEl}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=mdTE}{%
+         prefix={mundo\bibnamedelima de},
+         prefixi={m\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Tehuacan},
+         familyi={T\bibinitperiod},
+         given={El},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TEmd1}
+    \strng{fullhash}{TEmd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Tipos de cultura y cultura híbrida.}
+    \verb{url}
+    \verb http://www.elmundodetehuacan.com/index.php/opinion/opinion-conten-ini
+    \verb /28997-Tipos-de-cultura-y-cultura-h%C3%ADbrida
+    \endverb
+  \endentry
+
+  \entry{RefImporCul}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={S/A},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Importancia de la Cultura.}
+    \verb{url}
+    \verb https://www.importancia.org/cultura.php
+    \endverb
+  \endentry
+
+  \entry{RefImpoCulAr}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GA}{%
+         family={García},
+         familyi={G\bibinitperiod},
+         given={Armida},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GA1}
+    \strng{fullhash}{GA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Importancia del arte y la cultura.}
+    \verb{url}
+    \verb http://www.el-nacional.com/noticias/columnista/importancia-del-arte-c
+    \verb ultura_79568
+    \endverb
+  \endentry
+
+  \entry{RefImpoUnidad}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MJ}{%
+         family={Mireles},
+         familyi={M\bibinitperiod},
+         given={Juan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJ1}
+    \strng{fullhash}{MJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{La importancia de preservar nuestra cultura.}
+    \verb{url}
+    \verb http://www.ruizhealytimes.com/cultura-para-todos/la-importancia-de-pr
+    \verb eservar-nuestra-cultura
+    \endverb
+  \endentry
+
+  \entry{vid08}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{title}{¿Cuál es la misión de los centros de cultura digital?}
+    \verb{url}
+    \verb http://www.eluniversal.com.mx/articulo/cultura/2017/08/11/cual-es-la-
+    \verb mision-de-los-centros-de-cultura-digital
+    \endverb
+    \field{journaltitle}{El Universal}
+    \field{year}{2017}
+  \endentry
+
+  \entry{vid09}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FJ}{%
+         family={Freire},
+         familyi={F\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+    }
+    \strng{namehash}{FJ1}
+    \strng{fullhash}{FJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{title}{Cultura digital y prácticas creativas en la educación}
+    \verb{url}
+    \verb http://openaccess.uoc.edu/webapps/o2/bitstream/10609/3231/1/freire.pd
+    \verb f
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{Universidad y sociedad del conocimiento}
+    \field{year}{2009}
+  \endentry
+
+  \entry{vid07}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=YMHAKRNAWSMTB}{%
+         family={Yuhnke},
+         familyi={Y\bibinitperiod},
+         given={M\bibnamedelima Herger A Keeler R Nemire A W Schwarz M
+  Turchinsky\bibnamedelima B},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod A\bibinitperiod
+  K\bibinitperiod R\bibinitperiod N\bibinitperiod A\bibinitperiod
+  W\bibinitperiod S\bibinitperiod M\bibinitperiod T\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YMHAKRNAWSMTB1}
+    \strng{fullhash}{YMHAKRNAWSMTB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Games and gamification}
+    \verb{url}
+    \verb https://www.nmc.org/event-archive/nmc-on-the-horizon-games-and-gamifi
+    \verb cation/
+    \endverb
+    \field{year}{2014}
+  \endentry
+
+  \entry{vid06}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CBVS}{%
+         family={C\bibnamedelima Bourne},
+         familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={V\bibnamedelima Salgado},
+         giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CBVS1}
+    \strng{fullhash}{CBVS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Los videojuegos pueden transformar el aula}
+    \verb{url}
+    \verb http://www.aikaeducacion.com/tendencias/los-videojuegos-transforman-a
+    \verb ula/
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{RefMexicasMito}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GL}{%
+         family={Guzmán},
+         familyi={G\bibinitperiod},
+         given={Luis},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Gradifico}%
+    }
+    \strng{namehash}{GL1}
+    \strng{fullhash}{GL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{9789871093946}
+    \field{title}{Azteca Mitología}
+    \field{year}{2008}
+  \endentry
+
+  \entry{RefCivilAztea}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VGC}{%
+         family={Vaillant},
+         familyi={V\bibinitperiod},
+         given={George\bibnamedelima C.},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Fondo de cultura económica}%
+    }
+    \strng{namehash}{VGC1}
+    \strng{fullhash}{VGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{La civilización Azteca}
+    \field{year}{1977}
+  \endentry
+
+  \entry{RefMexicasSol}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CA}{%
+         family={Caso},
+         familyi={C\bibinitperiod},
+         given={Alfonso},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Fondo de cultura económica}%
+    }
+    \strng{namehash}{CA1}
+    \strng{fullhash}{CA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{9789681629014}
+    \field{title}{El pueblo del sol}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Ref_IndusMEx}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PN}{%
+         family={Pix},
+         familyi={P\bibinitperiod},
+         given={Nación},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PN1}
+    \strng{fullhash}{PN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{EGS 2016- La actualidad del marco de videojuegos en México.}
+    \verb{url}
+    \verb https://nacionpix.com/2016/10/04/egs-2016-mercado-de-videojuegos-en-m
+    \verb exico/
+    \endverb
+  \endentry
+
+  \entry{RefCOPPA}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={COPPA},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Children's Online Privacy Protection Rule}
+    \verb{url}
+    \verb https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-pr
+    \verb oceedings/childrens-online-privacy-protection-rulem
+    \endverb
+  \endentry
+
+  \entry{RefHeroe}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Fondo de cultura económica}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{El héroe de las mil caras}
+    \field{year}{1959}
+  \endentry
+
+  \entry{RefStoyBoard}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WP}{%
+         family={Wallis},
+         familyi={W\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Parramón}%
+    }
+    \strng{namehash}{WP1}
+    \strng{fullhash}{WP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{9788434229419}
+    \field{title}{Fundamentos de la animación}
+    \field{year}{2009}
+  \endentry
+\enddatalist
+\endinput
