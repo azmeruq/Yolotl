@@ -44,6 +44,7 @@ public class EnemyHealth : MonoBehaviour {
 			//Destroy(gameObject);
 			isAlive = false;
 			SFXCtrl.instance.ShowEnemyExplosion (transform.position);
+			AudioCtrl.instance.EnemyDies (transform.position);
 			//EnemyDies ();
 
 			

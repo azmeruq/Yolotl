@@ -9,9 +9,9 @@ using System;
 
 [Serializable]
 public class PlayerAudio{
-	public AudioClip PlayerJumps;
-	public AudioClip ItemPickup;
 	public AudioClip CollectablePickup;
+	public AudioClip ItemPickup;
+	public AudioClip PlayerShoot;
 	public AudioClip EnemyExplosion;
 	public AudioClip PlayerDies;
 }

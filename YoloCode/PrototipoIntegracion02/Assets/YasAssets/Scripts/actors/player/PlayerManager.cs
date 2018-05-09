@@ -255,6 +255,7 @@ public class PlayerManager : MonoBehaviour {
 				}
 				tonalliAmount = Mathf.Clamp (tonalliAmount-2f, 0f, maxtonalli);
 				healthBar.UpDateTonalliBar (tonalliAmount/maxtonalli);
+				AudioCtrl.instance.PlayerShoot (transform.position);
 				//tonalliAmount = tonalliAmount - 2;
 				//Debug.Log (tonalliAmount);
 			}
@@ -328,10 +329,12 @@ public class PlayerManager : MonoBehaviour {
 		switch (other.gameObject.tag) {
 		case "Collectable":{
 			SFXCtrl.instance.ShowCoinSparkle (other.gameObject.transform.position);
+			AudioCtrl.instance.ItemPickup (transform.position);
 			break;
 		}
 		case "CollectableKey":{
 			SFXCtrl.instance.ShowCoinSparkle (other.gameObject.transform.position);
+			AudioCtrl.instance.CollectablePickup (transform.position);
 			UpDateScore ();
 			HUBCtrl.instance.UpDateKeys (score);
 			break;
@@ -339,6 +342,7 @@ public class PlayerManager : MonoBehaviour {
 		case "CollectableDog":
 			{
 				SFXCtrl.instance.ShowCoinSparkle (other.gameObject.transform.position);
+				AudioCtrl.instance.CollectablePickup (transform.position);
 				UpDateScore ();
 				HUBCtrl.instance.UpDateDogScore (score);
 				break;
@@ -361,6 +365,7 @@ public class PlayerManager : MonoBehaviour {
 			box2D.enabled = false;
 			stopMoving ();
 			SFXCtrl.instance.ShowEnemyExplosion (transform.position);
+			AudioCtrl.instance.PlayerDies (transform.position);
 			GameOverCtrl.instance.setActive (true);
 		}
 	}

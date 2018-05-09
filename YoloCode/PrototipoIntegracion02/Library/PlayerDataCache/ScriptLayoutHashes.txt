@@ -46,6 +46,7 @@ Assets/_Scenes/09level_xolmal1A.unity
 Assets/_Scenes/09level_xolmal2A.unity
 Assets/_Scenes/09level_xolmal2B.unity
 SceneListEnd?
+97b11cd830f1737af977bc7c6b9bd472 Assembly-CSharp.dll:.ShootEnemy
 87c747dd7766261259d1351353167390 Assembly-CSharp.dll:.Coraza
 9b9c71cf06a525199c2eb4d3be433bc2 Assembly-CSharp.dll:Cinemachine.CinemachineStateDrivenCamera
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GameCtrl
@@ -210,8 +211,9 @@ ed9279a9d1042bde3a6ae6cd0c1a92fa Assembly-CSharp.dll:Cinemachine.CinemachinePOV
 c1897449bf186308faab9e3a63f07297 Assembly-CSharp.dll:.FinalBossLevelCtrl
 f077db4c66ca31aa7426328385c7b80b Assembly-CSharp.dll:.PlayerBullet
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.TalkedCharacter
+cfcf113dc639a8e45d471647bd03d936 Assembly-CSharp.dll:.loaderSceneR
 9ac2f266db91bbf0ee26197fa657c52a Assembly-CSharp.dll:.ItemCrator
-7a122d0dfa700c88eb2d29953a1528a9 Assembly-CSharp.dll:.EstaticoX2i
+d995a14e3d6274c516c78380c045c7b4 Assembly-CSharp.dll:.EstaticoX2i
 61a13d8f72f69fbb8c87ee8c414b086f Assembly-CSharp.dll:Cinemachine.CinemachineOrbitalTransposer
 606018aefe64abed79f3ca41de7576b8 Assembly-CSharp.dll:.EnemyShotController
 162119e5790417312dedb244765b9b19 Assembly-CSharp.dll:.BoxColliderAdjuster
@@ -334,6 +336,7 @@ c3fefb5d44308aafe4b96087a1bd1eba Assembly-CSharp.dll:.SFXCtrl
 4bfdb3fe036e159333ecbaf500fd5737 Assembly-CSharp.dll:.Xochitonal
 a3909a1b753ba7e88dae3ecba057d338 Assembly-CSharp.dll:.Butterfly
 ff6f72972c71d6a210ca64d79f94001a Assembly-CSharp.dll:.Mictlantecuhtli
+0854d7891cff7415717408c8629a53dc Assembly-CSharp.dll:.AudioCtrl
 ef47b5b296e56702c76218de521ccc37 Assembly-CSharp.dll:Cinemachine.CinemachineBrain
 32a9575653deb0ed9c7784833106fc94 Assembly-CSharp.dll:.Ventisca
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Cinemachine.CinemachineHardLockToTarget
@@ -342,4 +345,3 @@ ef47b5b296e56702c76218de521ccc37 Assembly-CSharp.dll:Cinemachine.CinemachineBrai
 506e030fa92c58e7a9fb2a4b86130357 Assembly-CSharp.dll:Cinemachine.CinemachineBasicMultiChannelPerlin
 ad520e739fda24f163f2e9235304f45c Assembly-CSharp.dll:.Tornado
 9dd74a41363b134db6b934985dfd2f92 Assembly-CSharp.dll:Cinemachine.CinemachineClearShot
-97b11cd830f1737af977bc7c6b9bd472 Assembly-CSharp.dll:.ShootEnemy
