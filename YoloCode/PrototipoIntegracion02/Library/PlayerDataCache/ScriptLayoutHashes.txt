@@ -336,7 +336,7 @@ c3fefb5d44308aafe4b96087a1bd1eba Assembly-CSharp.dll:.SFXCtrl
 4bfdb3fe036e159333ecbaf500fd5737 Assembly-CSharp.dll:.Xochitonal
 a3909a1b753ba7e88dae3ecba057d338 Assembly-CSharp.dll:.Butterfly
 ff6f72972c71d6a210ca64d79f94001a Assembly-CSharp.dll:.Mictlantecuhtli
-0854d7891cff7415717408c8629a53dc Assembly-CSharp.dll:.AudioCtrl
+0d7672e7ee775660b600f8b90631b077 Assembly-CSharp.dll:.AudioCtrl
 ef47b5b296e56702c76218de521ccc37 Assembly-CSharp.dll:Cinemachine.CinemachineBrain
 32a9575653deb0ed9c7784833106fc94 Assembly-CSharp.dll:.Ventisca
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Cinemachine.CinemachineHardLockToTarget

@@ -1,11 +1,17 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\YasAssets\Scripts\Auxiliars\PlayerAudio.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\YasAssets\Scripts\Controllers\MenuCtrl.cs">
     <Files>
-      <File FileName="Assets\YasAssets\Scripts\Auxiliars\PlayerAudio.cs" Line="16" Column="30" />
+      <File FileName="Assets\YasAssets\Scripts\Auxiliars\PlayerAudio.cs" Line="1" Column="1" />
       <File FileName="Assets\YasAssets\Scripts\Auxiliars\AudioFX.cs" Line="1" Column="1" />
-      <File FileName="Assets\YasAssets\Scripts\Auxiliars\SFX.cs" Line="1" Column="1" />
       <File FileName="Assets\YasAssets\Scripts\Controllers\AudioCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\actors\player\PlayerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\actors\Collectables\CollectableCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\actors\Collectables\HealthRecoveryItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\actors\Collectables\TonalliRecoveryItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\actors\Enemies\EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\Auxiliars\WindHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets\YasAssets\Scripts\Controllers\MenuCtrl.cs" Line="42" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
