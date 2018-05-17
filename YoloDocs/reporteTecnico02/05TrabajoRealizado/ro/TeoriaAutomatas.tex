@@ -1,0 +1,38 @@
+\section{Teoría de autómatas}\label{teoriaAutomata}
+Se recuerda que la teoría de autómatas es el estudio de dispositivos de razonamiento abstractos, es decir, de las "maquinas".
+
+Dentro del desarrollo de videojuegos existen personajes no jugables, abreviados como NPC del inglés (no playable character) y para su funcionamiento se utilizan diferentes métodos o teorías. Para los niveles tres, cinco, siete y nueve se utiliza la teoría de autómatas. 
+
+La información a continuación está tomada del libro "Teoría de autómatas, lenguajes y computación"\cite{libroteo}.
+\\[1pt]
+	
+\subsubsection{Autómata finito determinista}
+Dentro de los autómatas se puede encuentra la división de un autómata finito, este tiene un conjunto de estados y su control pasa de un estado a otro en respuesta a las entradas externas.
+
+Después tenemos los autómatas deterministas y no deterministas, el primero es aquel que solo puede estar en un único estado después de cualquier secuencia de entradas, es decir, que paracada entrada al autómata existe uno y sólo un estado al que el autómata puede hacer la transición a partir de su estado actual y el no determinista permite que se pueda estar en diversos estados dada una misma entrada.
+
+Un autómata finito constará para este trabajo:
+\begin{itemize}
+	\item Un conjunto finito de estados será designado como Q.
+	\item Un conjunto finito de símbolos de entrada designado como \sigma.
+	\item Un estado inicial designado como q0.
+	\item Una función de transición designada como \delta.
+	\item Un conjunto de estados finales o de aceptación desigando como F.
+\end{itemize}
+
+Por último como notación para un autómata finito determinista se utilizará un diagrama de transiciones.
+
+
+
+
+\section{Listas}\label{listas}
+Son estructuras lineales flexibles, yaa que pueden crecer y acortarse según se requiera, insertando o suprimiendo elementos tanto en los extremos como en cualquier otra posición de la lista.
+
+Desde un punto de vista matemático una lista e suna secuencia de cero o más elementos de un tipo determinado.
+\section{Patrones de diseño}\label{patronesDiseno}
+Un patrón de diseño se caracteriza como una relación entre cierto contexto, un problema y una solución. El objetivo es proporcionar una solución que satisfaga mejor el sistemas, que se apropiada al contexto en el que se encuentra y vuelva parte del sistema para resolver un sistema mayor.
+
+Existen diferentes clases de patrones; creacionales, estructurales y conductuales.
+Aquella que nos interesa está dentro de los patrones creacionales, estos se centran en la creación, composición y representación de objetos. Los patrones creacionales ofrecen mecanismos que hacen más fácil la formación de las instancias de los objetos dentro de un sistema y establecen restricciones.
+
+En el trabajo se usó el patrón de instancia única, que restringe la formación de instancias de una clase a un objeto.

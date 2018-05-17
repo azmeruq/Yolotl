@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.27)  20 NOV 2017 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.27)  14 MAY 2018 13:39
 entering extended mode
 **./reporteTec.tex
 (reporteTec.tex
@@ -1495,10 +1495,10 @@ Package biblatex Info: Reference segment=0 on input line 75.
 
  (00Portada.tex
 Package epstopdf Info: Source file: <IPN.eps>
-(epstopdf)                    date: 2017-11-16 11:06:13
+(epstopdf)                    date: 2018-05-13 21:14:12
 (epstopdf)                    size: 9998060 bytes
 (epstopdf)             Output file: <IPN-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 12:44:35
+(epstopdf)                    date: 2018-05-13 21:14:12
 (epstopdf)                    size: 45415 bytes
 (epstopdf)             Command: <epstopdf --outfile=IPN-eps-converted-to.pdf IP
 N.eps>
@@ -1512,10 +1512,10 @@ File: IPN-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: IPN-eps-converted-to.pdf used on input line 8.
 (pdftex.def)             Requested size: 56.90125pt x 56.88817pt.
 Package epstopdf Info: Source file: <LineaAzul.eps>
-(epstopdf)                    date: 2017-11-16 11:06:13
+(epstopdf)                    date: 2018-05-13 21:14:13
 (epstopdf)                    size: 327349 bytes
 (epstopdf)             Output file: <LineaAzul-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:35:33
+(epstopdf)                    date: 2018-05-13 21:14:13
 (epstopdf)                    size: 9090 bytes
 (epstopdf)             Command: <epstopdf --outfile=LineaAzul-eps-converted-to.
 pdf LineaAzul.eps>
@@ -1529,10 +1529,10 @@ File: LineaAzul-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: LineaAzul-eps-converted-to.pdf used on input line 8.
 (pdftex.def)             Requested size: 14.22565pt x 435.3473pt.
 Package epstopdf Info: Source file: <logoescom.eps>
-(epstopdf)                    date: 2017-11-16 11:06:13
+(epstopdf)                    date: 2018-05-13 21:14:13
 (epstopdf)                    size: 6461315 bytes
 (epstopdf)             Output file: <logoescom-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 12:44:51
+(epstopdf)                    date: 2018-05-13 21:14:13
 (epstopdf)                    size: 34197 bytes
 (epstopdf)             Command: <epstopdf --outfile=logoescom-eps-converted-to.
 pdf logoescom.eps>
@@ -1599,10 +1599,10 @@ Package babel Info: Redefining spanish shorthand "?
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./IPN-eps-converted-to.pd
 f> <./LineaAzul-eps-converted-to.pdf> <./logoescom-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <IPN.eps>
-(epstopdf)                    date: 2017-11-16 11:06:13
+(epstopdf)                    date: 2018-05-13 21:14:12
 (epstopdf)                    size: 9998060 bytes
 (epstopdf)             Output file: <IPN-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 12:44:35
+(epstopdf)                    date: 2018-05-13 21:14:12
 (epstopdf)                    size: 45415 bytes
 (epstopdf)             Command: <epstopdf --outfile=IPN-eps-converted-to.pdf IP
 N.eps>
@@ -1614,10 +1614,10 @@ File: IPN-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: IPN-eps-converted-to.pdf used on input line 49.
 (pdftex.def)             Requested size: 42.6665pt x 71.13042pt.
 Package epstopdf Info: Source file: <logoescom.eps>
-(epstopdf)                    date: 2017-11-16 11:06:13
+(epstopdf)                    date: 2018-05-13 21:14:13
 (epstopdf)                    size: 6461315 bytes
 (epstopdf)             Output file: <logoescom-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 12:44:51
+(epstopdf)                    date: 2018-05-13 21:14:13
 (epstopdf)                    size: 34197 bytes
 (epstopdf)             Command: <epstopdf --outfile=logoescom-eps-converted-to.
 pdf logoescom.eps>
@@ -1946,16 +1946,22 @@ Package babel Info: Redefining spanish shorthand "?
 
 ]
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/ipso.eps>
-(epstopdf)                    date: 2017-11-16 00:34:48
-(epstopdf)                    size: 66494744 bytes
+(epstopdf)                    date: 2018-05-13 21:13:44
+(epstopdf)                    size: 67336654 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/ipso-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2017-11-16 11:37:42
+(epstopdf)                    date: 2018-05-13 21:13:42
 (epstopdf)                    size: 664168 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/ipso-
 eps-converted-to.pdf 03MarcoTeorico/imageR/ipso.eps>
 (epstopdf)             \includegraphics on input line 26.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=03MarcoTeorico/imageR/ipso-eps-converted-to.pdf 03
+MarcoTeorico/imageR/ipso.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <03MarcoTeorico/imageR/ipso-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-05-14 13:42:45
+(epstopdf)                    size: 664168 bytes.
 
 <03MarcoTeorico/imageR/ipso-eps-converted-to.pdf, id=418, 1061.9675pt x 597.231
 25pt>
@@ -2054,11 +2060,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--43
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/enc01.eps>
-(epstopdf)                    date: 2017-11-16 00:33:26
-(epstopdf)                    size: 418302 bytes
+(epstopdf)                    date: 2018-05-13 21:13:42
+(epstopdf)                    size: 423972 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/enc01-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2017-11-16 11:37:48
+(epstopdf)                    date: 2018-05-13 21:13:42
 (epstopdf)                    size: 12078 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/enc01
 -eps-converted-to.pdf 03MarcoTeorico/imageR/enc01.eps>
@@ -2085,11 +2091,11 @@ pe-ra-do de:
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/enc02.eps>
-(epstopdf)                    date: 2017-11-16 00:33:17
-(epstopdf)                    size: 418302 bytes
+(epstopdf)                    date: 2018-05-13 21:13:42
+(epstopdf)                    size: 423972 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/enc02-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2017-11-16 11:37:52
+(epstopdf)                    date: 2018-05-13 21:13:42
 (epstopdf)                    size: 11743 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/enc02
 -eps-converted-to.pdf 03MarcoTeorico/imageR/enc02.eps>
@@ -2104,11 +2110,11 @@ Package pdftex.def Info: 03MarcoTeorico/imageR/enc02-eps-converted-to.pdf used
 on input line 53.
 (pdftex.def)             Requested size: 236.01561pt x 172.67032pt.
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/enc03.eps>
-(epstopdf)                    date: 2017-11-16 00:33:27
-(epstopdf)                    size: 425808 bytes
+(epstopdf)                    date: 2018-05-13 21:13:42
+(epstopdf)                    size: 431651 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/enc03-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2017-11-16 11:37:56
+(epstopdf)                    date: 2018-05-13 21:13:42
 (epstopdf)                    size: 27270 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/enc03
 -eps-converted-to.pdf 03MarcoTeorico/imageR/enc03.eps>
@@ -2242,11 +2248,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/conoAprendizaje.eps>
 
-(epstopdf)                    date: 2017-11-16 00:31:04
-(epstopdf)                    size: 1368212 bytes
+(epstopdf)                    date: 2018-05-13 21:13:41
+(epstopdf)                    size: 1385736 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/conoAprendizaje-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:38:02
+(epstopdf)                    date: 2018-05-13 21:13:41
 (epstopdf)                    size: 25056 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/conoA
 prendizaje-eps-converted-to.pdf 03MarcoTeorico/imageR/conoAprendizaje.eps>
@@ -2274,16 +2280,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--93
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/modecult.eps>
-(epstopdf)                    date: 2017-11-16 00:36:31
-(epstopdf)                    size: 51143153 bytes
+(epstopdf)                    date: 2018-05-13 21:13:47
+(epstopdf)                    size: 51790739 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/modecult-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:39:18
+(epstopdf)                    date: 2018-05-13 21:13:46
 (epstopdf)                    size: 434677 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/modec
 ult-eps-converted-to.pdf 03MarcoTeorico/imageR/modecult.eps>
 (epstopdf)             \includegraphics on input line 96.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=03MarcoTeorico/imageR/modecult-eps-converted-to.pd
+f 03MarcoTeorico/imageR/modecult.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <03MarcoTeorico/imageR/modecult-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-14 13:44:47
+(epstopdf)                    size: 434677 bytes.
 
 <03MarcoTeorico/imageR/modecult-eps-converted-to.pdf, id=467, 794.97pt x 614.29
 5pt>
@@ -2313,11 +2325,11 @@ ult_may2017.pdf
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/consumo30.eps>
-(epstopdf)                    date: 2017-11-16 00:31:26
-(epstopdf)                    size: 12790173 bytes
+(epstopdf)                    date: 2018-05-13 21:13:41
+(epstopdf)                    size: 12952278 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/consumo30-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:39:44
+(epstopdf)                    date: 2018-05-13 21:13:41
 (epstopdf)                    size: 127003 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/consu
 mo30-eps-converted-to.pdf 03MarcoTeorico/imageR/consumo30.eps>
@@ -2589,16 +2601,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--40
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/clasEti.eps>
-(epstopdf)                    date: 2017-11-16 00:29:53
-(epstopdf)                    size: 2230488 bytes
+(epstopdf)                    date: 2018-05-13 21:13:41
+(epstopdf)                    size: 2258926 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/clasEti-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:39:52
+(epstopdf)                    date: 2018-05-13 21:13:40
 (epstopdf)                    size: 186686 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/clasE
 ti-eps-converted-to.pdf 03MarcoTeorico/imageR/clasEti.eps>
 (epstopdf)             \includegraphics on input line 43.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=03MarcoTeorico/imageR/clasEti-eps-converted-to.pdf
+ 03MarcoTeorico/imageR/clasEti.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <03MarcoTeorico/imageR/clasEti-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-14 13:44:55
+(epstopdf)                    size: 186686 bytes.
 
 <03MarcoTeorico/imageR/clasEti-eps-converted-to.pdf, id=505, 1284.8pt x 287.072
 5pt>
@@ -2637,11 +2655,11 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 46.
  [14]
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/clasDes.eps>
-(epstopdf)                    date: 2017-11-16 00:28:18
-(epstopdf)                    size: 4914058 bytes
+(epstopdf)                    date: 2018-05-13 21:13:40
+(epstopdf)                    size: 4976466 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/clasDes-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:40:05
+(epstopdf)                    date: 2018-05-13 21:13:40
 (epstopdf)                    size: 176901 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/clasD
 es-eps-converted-to.pdf 03MarcoTeorico/imageR/clasDes.eps>
@@ -2731,11 +2749,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--122
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/clasInt.eps>
-(epstopdf)                    date: 2017-11-16 00:30:51
-(epstopdf)                    size: 166032 bytes
+(epstopdf)                    date: 2018-05-13 21:13:41
+(epstopdf)                    size: 168338 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/clasInt-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:40:08
+(epstopdf)                    date: 2018-05-13 21:13:41
 (epstopdf)                    size: 9255 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/clasI
 nt-eps-converted-to.pdf 03MarcoTeorico/imageR/clasInt.eps>
@@ -2756,11 +2774,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--142
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/gene.eps>
-(epstopdf)                    date: 2017-11-16 00:34:19
-(epstopdf)                    size: 6430855 bytes
+(epstopdf)                    date: 2018-05-13 21:13:42
+(epstopdf)                    size: 6512463 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/gene-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2017-11-16 11:40:23
+(epstopdf)                    date: 2018-05-13 21:13:42
 (epstopdf)                    size: 118997 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/gene-
 eps-converted-to.pdf 03MarcoTeorico/imageR/gene.eps>
@@ -2869,11 +2887,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--161
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/newzooIndMun.eps>
-(epstopdf)                    date: 2017-11-16 00:37:30
-(epstopdf)                    size: 3590168 bytes
+(epstopdf)                    date: 2018-05-13 21:13:47
+(epstopdf)                    size: 3635818 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/newzooIndMun-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:40:33
+(epstopdf)                    date: 2018-05-13 21:13:47
 (epstopdf)                    size: 56103 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/newzo
 oIndMun-eps-converted-to.pdf 03MarcoTeorico/imageR/newzooIndMun.eps>
@@ -2901,16 +2919,22 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 172.
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/mexicoUno.eps>
-(epstopdf)                    date: 2017-11-16 00:35:23
-(epstopdf)                    size: 4610699 bytes
+(epstopdf)                    date: 2018-05-13 21:13:46
+(epstopdf)                    size: 4669267 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/mexicoUno-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:40:44
+(epstopdf)                    date: 2018-05-13 21:13:45
 (epstopdf)                    size: 54725 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/mexic
 oUno-eps-converted-to.pdf 03MarcoTeorico/imageR/mexicoUno.eps>
 (epstopdf)             \includegraphics on input line 178.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=03MarcoTeorico/imageR/mexicoUno-eps-converted-to.p
+df 03MarcoTeorico/imageR/mexicoUno.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <03MarcoTeorico/imageR/mexicoUno-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-05-14 13:45:08
+(epstopdf)                    size: 54725 bytes.
 
 <03MarcoTeorico/imageR/mexicoUno-eps-converted-to.pdf, id=556, 1027.84pt x 742.
 775pt>
@@ -2958,11 +2982,11 @@ l.182
 LaTeX Warning: Reference `merVidMex' on page 20 undefined on input line 183.
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/merVidMex.eps>
-(epstopdf)                    date: 2017-11-16 00:35:07
-(epstopdf)                    size: 987036 bytes
+(epstopdf)                    date: 2018-05-13 21:13:45
+(epstopdf)                    size: 999734 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/merVidMex-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:40:50
+(epstopdf)                    date: 2018-05-13 21:13:45
 (epstopdf)                    size: 13275 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/merVi
 dMex-eps-converted-to.pdf 03MarcoTeorico/imageR/merVidMex.eps>
@@ -3029,11 +3053,11 @@ Package babel Info: Redefining spanish shorthand "?
 l.194 
        <./03MarcoTeorico/imageR/mexicoUno-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/dispVid.eps>
-(epstopdf)                    date: 2017-11-16 00:31:59
-(epstopdf)                    size: 690217 bytes
+(epstopdf)                    date: 2018-05-13 21:13:42
+(epstopdf)                    size: 699158 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/dispVid-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:40:54
+(epstopdf)                    date: 2018-05-13 21:13:42
 (epstopdf)                    size: 7495 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/dispV
 id-eps-converted-to.pdf 03MarcoTeorico/imageR/dispVid.eps>
@@ -3054,11 +3078,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--204
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/frecJue.eps>
-(epstopdf)                    date: 2017-11-16 00:33:55
-(epstopdf)                    size: 2284522 bytes
+(epstopdf)                    date: 2018-05-13 21:13:42
+(epstopdf)                    size: 2313644 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/frecJue-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:41:02
+(epstopdf)                    date: 2018-05-13 21:13:42
 (epstopdf)                    size: 25386 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/frecJ
 ue-eps-converted-to.pdf 03MarcoTeorico/imageR/frecJue.eps>
@@ -3132,11 +3156,11 @@ l.218
        <./03MarcoTeorico/imageR/merVidMex-eps-converted-to.pdf> <./03MarcoTeori
 co/imageR/dispVid-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/desVj.eps>
-(epstopdf)                    date: 2017-11-16 00:31:47
-(epstopdf)                    size: 2953294 bytes
+(epstopdf)                    date: 2018-05-13 21:13:42
+(epstopdf)                    size: 2990882 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/desVj-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2017-11-16 11:41:08
+(epstopdf)                    date: 2018-05-13 21:13:42
 (epstopdf)                    size: 50185 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/desVj
 -eps-converted-to.pdf 03MarcoTeorico/imageR/desVj.eps>
@@ -3939,11 +3963,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
  []
 
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/minecraft.eps>
-(epstopdf)                    date: 2017-11-16 00:35:34
-(epstopdf)                    size: 6152997 bytes
+(epstopdf)                    date: 2018-05-13 21:13:46
+(epstopdf)                    size: 6231087 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/minecraft-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:41:26
+(epstopdf)                    date: 2018-05-13 21:13:46
 (epstopdf)                    size: 90368 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/minec
 raft-eps-converted-to.pdf 03MarcoTeorico/imageR/minecraft.eps>
@@ -3959,11 +3983,11 @@ Package pdftex.def Info: 03MarcoTeorico/imageR/minecraft-eps-converted-to.pdf u
 sed on input line 16.
 (pdftex.def)             Requested size: 236.01561pt x 147.08586pt.
 Package epstopdf Info: Source file: <03MarcoTeorico/imageR/learny.eps>
-(epstopdf)                    date: 2017-11-16 00:35:02
-(epstopdf)                    size: 3768672 bytes
+(epstopdf)                    date: 2018-05-13 21:13:45
+(epstopdf)                    size: 3816581 bytes
 (epstopdf)             Output file: <03MarcoTeorico/imageR/learny-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2017-11-16 11:41:37
+(epstopdf)                    date: 2018-05-13 21:13:45
 (epstopdf)                    size: 67341 bytes
 (epstopdf)             Command: <epstopdf --outfile=03MarcoTeorico/imageR/learn
 y-eps-converted-to.pdf 03MarcoTeorico/imageR/learny.eps>
@@ -4650,11 +4674,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--8
 
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 camara01.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 2203703 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 camara01-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:41:46
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 21665 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/camara01-eps-converted-to.pdf 05TrabajoRealizado/01DocDiseno02/i
@@ -4673,11 +4697,11 @@ Package pdftex.def Info: 05TrabajoRealizado/01DocDiseno02/imagenes/camara01-eps
 (pdftex.def)             Requested size: 330.42041pt x 266.86096pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 camara02.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 1236073 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 camara02-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:41:49
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 15199 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/camara02-eps-converted-to.pdf 05TrabajoRealizado/01DocDiseno02/i
@@ -4696,11 +4720,11 @@ Package pdftex.def Info: 05TrabajoRealizado/01DocDiseno02/imagenes/camara02-eps
 (pdftex.def)             Requested size: 330.42041pt x 208.28163pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 ControlCorrerDer.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:48
 (epstopdf)                    size: 3736180 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 ControlCorrerDer-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:41:55
+(epstopdf)                    date: 2018-05-13 21:13:48
 (epstopdf)                    size: 46704 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/ControlCorrerDer-eps-converted-to.pdf 05TrabajoRealizado/01DocDi
@@ -4797,11 +4821,11 @@ onverted-to.pdf> <./05TrabajoRealizado/01DocDiseno02/imagenes/camara02-eps-conv
 erted-to.pdf>]
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz00.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 2074493 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz00-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:02
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 10612 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/interfaz00-eps-converted-to.pdf 05TrabajoRealizado/01DocDiseno02
@@ -4820,11 +4844,11 @@ ps-converted-to.pdf used on input line 25.
 (pdftex.def)             Requested size: 283.22162pt x 166.04271pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz01.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 2138721 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz01-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:09
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 10564 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/interfaz01-eps-converted-to.pdf 05TrabajoRealizado/01DocDiseno02
@@ -4843,11 +4867,11 @@ ps-converted-to.pdf used on input line 33.
 (pdftex.def)             Requested size: 283.22162pt x 167.76778pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz01_02.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 2153736 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz01_02-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:16
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 17266 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/interfaz01_02-eps-converted-to.pdf 05TrabajoRealizado/01DocDisen
@@ -4867,11 +4891,11 @@ Package pdftex.def Info: 05TrabajoRealizado/01DocDiseno02/imagenes/interfaz01_0
 (pdftex.def)             Requested size: 283.22162pt x 167.96873pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz01_03.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 2223832 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz01_03-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:21
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 14891 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/interfaz01_03-eps-converted-to.pdf 05TrabajoRealizado/01DocDisen
@@ -4891,17 +4915,24 @@ Package pdftex.def Info: 05TrabajoRealizado/01DocDiseno02/imagenes/interfaz01_0
 (pdftex.def)             Requested size: 283.22162pt x 170.12938pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz02_01.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:50
 (epstopdf)                    size: 2122890 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 interfaz02_01-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:25
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 15149 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/interfaz02_01-eps-converted-to.pdf 05TrabajoRealizado/01DocDisen
 o02/imagenes/interfaz02_01.eps>
 (epstopdf)             \includegraphics on input line 45.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=05TrabajoRealizado/01DocDiseno02/imagenes/interfaz
+02_01-eps-converted-to.pdf 05TrabajoRealizado/01DocDiseno02/imagenes/interfaz02
+_01.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <05TrabajoRealizado/01DocDiseno02/imagenes/
+interfaz02_01-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-14 13:45:22
+(epstopdf)                    size: 15149 bytes.
 
 <05TrabajoRealizado/01DocDiseno02/imagenes/interfaz02_01-eps-converted-to.pdf, 
 id=876, 573.14125pt x 340.27126pt>
@@ -4973,11 +5004,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--38
 
 Package epstopdf Info: Source file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 ProgresJuego.eps>
-(epstopdf)                    date: 2017-11-15 22:26:45
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 1101605 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/01DocDiseno02/imagenes/
 ProgresJuego-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:28
+(epstopdf)                    date: 2018-05-13 21:13:49
 (epstopdf)                    size: 37149 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/01DocDis
 eno02/imagenes/ProgresJuego-eps-converted-to.pdf 05TrabajoRealizado/01DocDiseno
@@ -5754,11 +5785,11 @@ Package babel Info: Redefining spanish shorthand "?
 [71]
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02Anim
 atorGAtos.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 360042 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02Anim
 atorGAtos-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:31
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 16602 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02AnimatorGAtos-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagen
@@ -5777,11 +5808,11 @@ s-converted-to.pdf used on input line 44.
 (pdftex.def)             Requested size: 141.61081pt x 100.03781pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02BoxC
 oliderGAtos.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 425944 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02BoxC
 oliderGAtos-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:36
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 15013 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02BoxColiderGAtos-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imag
@@ -5801,11 +5832,11 @@ eps-converted-to.pdf used on input line 46.
 (pdftex.def)             Requested size: 141.61081pt x 118.5404pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02Rigi
 dBGAtos.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 491699 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02Rigi
 dBGAtos-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:40
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 18561 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02RigidBGAtos-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes
@@ -5824,17 +5855,24 @@ converted-to.pdf used on input line 48.
 (pdftex.def)             Requested size: 141.61081pt x 147.56842pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02Anim
 acionGato.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 1237335 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02Anim
 acionGato-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:45
+(epstopdf)                    date: 2018-05-13 21:13:51
 (epstopdf)                    size: 28779 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02AnimacionGato-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagen
 es/02AnimacionGato.eps>
 (epstopdf)             \includegraphics on input line 60.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=05TrabajoRealizado/03Unity/imagenes/02AnimacionGat
+o-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes/02AnimacionGato.eps)
+...executed (allowed).
+
+Package epstopdf Info: Result file: <05TrabajoRealizado/03Unity/imagenes/02Anim
+acionGato-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-14 13:45:27
+(epstopdf)                    size: 28779 bytes.
 
 <05TrabajoRealizado/03Unity/imagenes/02AnimacionGato-eps-converted-to.pdf, id=1
 038, 506.89375pt x 259.97125pt>
@@ -5852,11 +5890,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--78
 
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02Gato
 Ctrl.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 671889 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02Gato
 Ctrl-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:50
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 12606 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02GatoCtrl-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes/02
@@ -5941,11 +5979,11 @@ l.102 	\item D
 ./05TrabajoRealizado/03Unity/imagenes/02RigidBGAtos-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionEnemi01.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 3000682 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionEnemi01-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:42:56
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 37636 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02reaccionColisionEnemi01-eps-converted-to.pdf 05TrabajoRealizado/03Un
@@ -5965,11 +6003,11 @@ Enemi01-eps-converted-to.pdf used on input line 110.
 (pdftex.def)             Requested size: 188.8096pt x 119.71756pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionEnemi02.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 2998374 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionEnemi02-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:00
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 35129 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02reaccionColisionEnemi02-eps-converted-to.pdf 05TrabajoRealizado/03Un
@@ -5989,17 +6027,24 @@ Enemi02-eps-converted-to.pdf used on input line 112.
 (pdftex.def)             Requested size: 188.8096pt x 117.58073pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionEnemi03.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 3023822 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionEnemi03-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:05
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 34064 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02reaccionColisionEnemi03-eps-converted-to.pdf 05TrabajoRealizado/03Un
 ity/imagenes/02reaccionColisionEnemi03.eps>
 (epstopdf)             \includegraphics on input line 114.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=05TrabajoRealizado/03Unity/imagenes/02reaccionColi
+sionEnemi03-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes/02reaccion
+ColisionEnemi03.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <05TrabajoRealizado/03Unity/imagenes/02reac
+cionColisionEnemi03-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-14 13:45:36
+(epstopdf)                    size: 34064 bytes.
 
 <05TrabajoRealizado/03Unity/imagenes/02reaccionColisionEnemi03-eps-converted-to
 .pdf, id=1071, 724.7075pt x 455.7025pt>
@@ -6013,11 +6058,11 @@ Enemi03-eps-converted-to.pdf used on input line 114.
 (pdftex.def)             Requested size: 188.8096pt x 118.72322pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionperro01.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 2972449 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionperro01-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:12
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 35943 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02reaccionColisionperro01-eps-converted-to.pdf 05TrabajoRealizado/03Un
@@ -6037,11 +6082,11 @@ perro01-eps-converted-to.pdf used on input line 123.
 (pdftex.def)             Requested size: 188.8096pt x 117.64136pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionperro02.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 3035412 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionColisionperro02-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:20
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 36870 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02reaccionColisionperro02-eps-converted-to.pdf 05TrabajoRealizado/03Un
@@ -6071,11 +6116,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--136
 
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02Conf
 iguracionCanvas02.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 613430 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02Conf
 iguracionCanvas02-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:23
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 17337 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02ConfiguracionCanvas02-eps-converted-to.pdf 05TrabajoRealizado/03Unit
@@ -6100,11 +6145,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--150
 
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02Conf
 iguracionCanvas.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 763076 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02Conf
 iguracionCanvas-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:27
+(epstopdf)                    date: 2018-05-13 21:13:52
 (epstopdf)                    size: 30590 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02ConfiguracionCanvas-eps-converted-to.pdf 05TrabajoRealizado/03Unity/
@@ -6251,11 +6296,11 @@ ro02-eps-converted-to.pdf> <./05TrabajoRealizado/03Unity/imagenes/02Configuraci
 onCanvas02-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionScore03.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 2926906 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionScore03-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:34
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 35193 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02reaccionScore03-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imag
@@ -6280,11 +6325,11 @@ Underfull \hbox (badness 2809) in paragraph at lines 183--183
 
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionScore02.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 3017055 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/02reac
 cionScore02-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:42
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 39107 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/02reaccionScore02-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imag
@@ -6304,11 +6349,11 @@ eps-converted-to.pdf used on input line 185.
 (pdftex.def)             Requested size: 188.8096pt x 119.64676pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/dispar
 oRojo.eps>
-(epstopdf)                    date: 2017-11-16 11:06:04
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 993578 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/dispar
 oRojo-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:47
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 11275 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/disparoRojo-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes/d
@@ -6327,11 +6372,11 @@ nverted-to.pdf used on input line 200.
 (pdftex.def)             Requested size: 188.8096pt x 94.23895pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/embest
 ida.eps>
-(epstopdf)                    date: 2017-11-16 11:06:04
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 993576 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/embest
 ida-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:51
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 11980 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/embestida-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes/emb
@@ -6463,11 +6508,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--43
 
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/interf
 az01.eps>
-(epstopdf)                    date: 2017-11-16 11:06:04
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 2138721 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/interf
 az01-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:43:56
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 10564 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/interfaz01-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes/in
@@ -6486,17 +6531,24 @@ verted-to.pdf used on input line 47.
 (pdftex.def)             Requested size: 188.8096pt x 111.83998pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/menuPr
 incipalFinal.eps>
-(epstopdf)                    date: 2017-11-16 11:06:04
+(epstopdf)                    date: 2018-05-13 21:13:54
 (epstopdf)                    size: 3142768 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/menuPr
 incipalFinal-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:44:00
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 30964 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/menuPrincipalFinal-eps-converted-to.pdf 05TrabajoRealizado/03Unity/ima
 genes/menuPrincipalFinal.eps>
 (epstopdf)             \includegraphics on input line 49.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=05TrabajoRealizado/03Unity/imagenes/menuPrincipalF
+inal-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes/menuPrincipalFina
+l.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <05TrabajoRealizado/03Unity/imagenes/menuPr
+incipalFinal-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-14 13:45:49
+(epstopdf)                    size: 30964 bytes.
 
 <05TrabajoRealizado/03Unity/imagenes/menuPrincipalFinal-eps-converted-to.pdf, i
 d=1175, 768.8725pt x 449.68pt>
@@ -6538,11 +6590,11 @@ Package babel Info: Redefining spanish shorthand "?
  [79]
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/03Maqu
 inaEstadosMalinalli.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 977848 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/03Maqu
 inaEstadosMalinalli-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:44:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 22363 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/03MaquinaEstadosMalinalli-eps-converted-to.pdf 05TrabajoRealizado/03Un
@@ -6562,11 +6614,11 @@ linalli-eps-converted-to.pdf used on input line 74.
 (pdftex.def)             Requested size: 188.8096pt x 96.51195pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/bloque
 sanimacionMalinalli.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 257862 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/bloque
 sanimacionMalinalli-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:44:05
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 9352 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/bloquesanimacionMalinalli-eps-converted-to.pdf 05TrabajoRealizado/03Un
@@ -6638,11 +6690,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--98
 
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/03Inte
 rfaz.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 3018851 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/03Inte
 rfaz-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:44:12
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 43972 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/03Interfaz-eps-converted-to.pdf 05TrabajoRealizado/03Unity/imagenes/03
@@ -6661,11 +6713,11 @@ verted-to.pdf used on input line 106.
 (pdftex.def)             Requested size: 188.8096pt x 112.78497pt.
 Package epstopdf Info: Source file: <05TrabajoRealizado/03Unity/imagenes/03Maqu
 inaEstadosXolotl.eps>
-(epstopdf)                    date: 2017-11-16 11:06:03
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 770932 bytes
 (epstopdf)             Output file: <05TrabajoRealizado/03Unity/imagenes/03Maqu
 inaEstadosXolotl-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 11:44:17
+(epstopdf)                    date: 2018-05-13 21:13:53
 (epstopdf)                    size: 16542 bytes
 (epstopdf)             Command: <epstopdf --outfile=05TrabajoRealizado/03Unity/
 imagenes/03MaquinaEstadosXolotl-eps-converted-to.pdf 05TrabajoRealizado/03Unity
@@ -6683,1607 +6735,82 @@ o.pdf>
 Package pdftex.def Info: 05TrabajoRealizado/03Unity/imagenes/03MaquinaEstadosXo
 lotl-eps-converted-to.pdf used on input line 123.
 (pdftex.def)             Requested size: 188.8096pt x 90.48117pt.
-)))
-LaTeX Info: Redefining \sptext on input line 88.
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
+)) (05TrabajoRealizado/DocProduccion.tex
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 1.
+LaTeX Info: Redefining \sptext on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 3.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 3.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 3.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 3.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 3.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 3.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 3.
  [81pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
 19}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.88 	\include{05TrabajoRealizado}
-                                  pdfTeX warning (ext4): destination with the s
-ame identifier (name{figure.6.20}) has been already used, duplicate ignored
+l.3 
+    pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+20}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.88 	\include{05TrabajoRealizado}
-                                   <./05TrabajoRealizado/03Unity/imagenes/bloqu
-esanimacionMalinalli-eps-converted-to.pdf> <./05TrabajoRealizado/03Unity/imagen
-es/03Interfaz-eps-converted-to.pdf>]
-LaTeX Info: Redefining \sptext on input line 88.
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 88.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 88.
- [82pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
-21}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.88 	\include{05TrabajoRealizado}
-                                   <./05TrabajoRealizado/03Unity/imagenes/03Maq
-uinaEstadosXolotl-eps-converted-to.pdf>]
-\openout2 = `06ResultadoObtenidos.aux'.
-
- (06ResultadoObtenidos.tex
-Cap\'{\i }tulo 7.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 1.
-)
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 89.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 89.
- [83
-
-
-
-]
-\openout2 = `07Observaciones.aux'.
-
- (07Observaciones.tex
-Cap\'{\i }tulo 8.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 1.
-)
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 90.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 90.
- [84
-
-
-
-]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 91.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Overfull \hbox (35.62375pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 Ipsos, |   [], 2017. di-rec-ción: []$\T1/pcr/m/n/12 https :
- []
-
-
-Overfull \hbox (17.49255pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 INEGI, |   [], 2017. di-rec-ción: []$\T1/pcr/m/n/12 http :
- []
-
-
-Overfull \hbox (15.90685pt too wide) in paragraph at lines 92--92
-[]|   []\T1/ptm/m/n/12 , 2009. di-rec-ción: []$\T1/pcr/m/n/12 http : / / www . 
-parametria .
- []
-
-
-Overfull \hbox (1.36894pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 P An-to-li-nos, |   [],
- []
-
-
-Overfull \hbox (13.66286pt too wide) in paragraph at lines 92--92
-\T1/ptm/m/n/12 2017. di-rec-ción: []$\T1/pcr/m/n/12 http : / / www . periodista
-digital . com / tecnologia / gadgets /
- []
-
-
-Overfull \hbox (24.29727pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 E Zu-ñi-ga, |   [], 2017. di-rec-ción: []$\T1/pcr/m/n/12 https
- :
- []
-
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 91.
-[85
-
-
-]
-Overfull \hbox (7.97993pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 R. S. Con-tre-ras, |   [], 2017. di-rec-ción: []$\T1/pcr/m/n/1
-2 http : / / invdes .
- []
-
-
-Overfull \hbox (4.41037pt too wide) in paragraph at lines 92--92
-\T1/pcr/m/n/12 com . mx / los -[] investigadores / la -[] industria -[] del -[]
- videojuego -[] mexico/$[]\T1/ptm/m/n/12 . 
- []
-
-
-Overfull \hbox (33.68622pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 U. U. Bo-li-va-ria-na, |   [] s/f. di-rec-ción: []$\T1/pcr/m/n
-/12 http : / / ingenieriadesoftware .
- []
-
-
-Overfull \hbox (13.18137pt too wide) in paragraph at lines 92--92
-\T1/ptm/m/n/12 di-rec-ción: []$\T1/pcr/m/n/12 erevistas . uacj . mx / ojs / ind
-ex . php / culcyt / article / download /
- []
-
-
-Overfull \hbox (11.48268pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 J. Ward. (2008). What is a Ga-me En-gi-ne?, di-rec-ción: []$\T
-1/pcr/m/n/12 https : / / www . gamecareerguide .
- []
-
-
-Overfull \hbox (10.40057pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 Webopedia. (s/f). SDK - soft-wa-re de-ve-lop-ment kit, di-rec-
-ción: []$\T1/pcr/m/n/12 https : / / www . webopedia .
- []
-
-
-Overfull \hbox (9.11674pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 3dcadportal. (). Render-Rendering-Renderizado, di-rec-ción: []
-$\T1/pcr/m/n/12 http : / / www . 3dcadportal .
- []
-
-LaTeX Info: Redefining \sptext on input line 91.
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 91.
-[86]
-Overfull \hbox (16.2565pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 CryEngine. (s/f). Ca-rac-te-rís-ti-cas, di-rec-ción: []$\T1/pc
-r/m/n/12 https : / / www . cryengine . com / features$[]\T1/ptm/m/n/12 . 
- []
-
-
-Overfull \hbox (12.6204pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 S Moll, |   [], 2014. di-rec-ción: []$\T1/pcr/m/n/12 http :
- []
-
-
-Overfull \hbox (15.81036pt too wide) in paragraph at lines 92--92
-\T1/pcr/m/n/12 / / justificaturespuesta . com / gamificacion -[] 7 -[] claves -
-[] para -[] entender -[]
- []
-
-
-Overfull \hbox (16.75302pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 A. H. Nú-ñez, |   [] Di-rec-ción: []$\T1/pcr/m/n/12 https :
- []
-
-
-Overfull \hbox (14.37029pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 P. Mon-dal, |   [] di-rec-ción: []$\T1/pcr/m/n/12 http :
- []
-
-
-Overfull \hbox (96.87263pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 E. mun-do de Tehua-can, |   [] di-rec-ción: []$\T1/pcr/m/n/12 
-http : / / www . elmundodetehuacan .
- []
-
-
-Overfull \hbox (21.39145pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 S/A, |   [] di-rec-ción: []$\T1/pcr/m/n/12 https : / / www . i
-mportancia . org / cultura .
- []
-
-
-Overfull \hbox (62.98354pt too wide) in paragraph at lines 92--92
-[]\T1/ptm/m/n/12 J. Mi-re-les, |   [] di-rec-ción: []$\T1/pcr/m/n/12 http : / /
- www . ruizhealytimes .
- []
-
-
-Overfull \hbox (57.11398pt too wide) in paragraph at lines 92--92
-[]|   []\T1/ptm/m/n/12 , 2017. di-rec-ción: []$\T1/pcr/m/n/12 http : / / www . 
-eluniversal .
- []
-
-
-Overfull \hbox (0.41037pt too wide) in paragraph at lines 92--92
-\T1/pcr/m/n/12 www . aikaeducacion . com / tendencias / los -[] videojuegos -[]
- transforman -[]
- []
-
-LaTeX Info: Redefining \sptext on input line 91.
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 91.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 91.
-[87]
-Overfull \hbox (14.81036pt too wide) in paragraph at lines 92--92
-\T1/pcr/m/n/12 gov / enforcement / rules / rulemaking -[] regulatory -[] reform
- -[] proceedings /
- []
-
-LaTeX Info: Redefining \sptext on input line 92.
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 92.
-[88]
-\openout2 = `09Anexos.aux'.
-
- (09Anexos.tex
-Cap\'{\i }tulo 9.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 1.
-(09Anexos/01sprites.tex
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
-
- []
-
-Package epstopdf Info: Source file: <09Anexos/sprites/fondo02.eps>
-(epstopdf)                    date: 2017-11-16 11:06:12
-(epstopdf)                    size: 2434883 bytes
-(epstopdf)             Output file: <09Anexos/sprites/fondo02-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2017-11-16 12:45:16
-(epstopdf)                    size: 26325 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/fondo02-ep
-s-converted-to.pdf 09Anexos/sprites/fondo02.eps>
-(epstopdf)             \includegraphics on input line 9.
-Package epstopdf Info: Output file is already uptodate.
-<09Anexos/sprites/fondo02-eps-converted-to.pdf, id=1368, 963.6pt x 542.025pt>
-File: 09Anexos/sprites/fondo02-eps-converted-to.pdf Graphic file (type pdf)
-
-<use 09Anexos/sprites/fondo02-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/fondo02-eps-converted-to.pdf used on 
-input line 9.
-(pdftex.def)             Requested size: 283.22162pt x 159.30876pt.
-Package epstopdf Info: Source file: <09Anexos/sprites/fondo-Mont.eps>
-(epstopdf)                    date: 2017-11-16 11:06:12
-(epstopdf)                    size: 2693581 bytes
-(epstopdf)             Output file: <09Anexos/sprites/fondo-Mont-eps-converted-
-to.pdf>
-(epstopdf)                    date: 2017-11-16 12:45:23
-(epstopdf)                    size: 31363 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/fondo-Mont
--eps-converted-to.pdf 09Anexos/sprites/fondo-Mont.eps>
-(epstopdf)             \includegraphics on input line 13.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/fondo-Mont-eps-converted-to.pdf, id=1369, 963.6pt x 542.025pt
->
-File: 09Anexos/sprites/fondo-Mont-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/fondo-Mont-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/fondo-Mont-eps-converted-to.pdf used 
-on input line 13.
-(pdftex.def)             Requested size: 283.22162pt x 159.30876pt.
-Package epstopdf Info: Source file: <09Anexos/sprites/yolotl_logo.eps>
-(epstopdf)                    date: 2017-11-16 11:06:12
-(epstopdf)                    size: 2204781 bytes
-(epstopdf)             Output file: <09Anexos/sprites/yolotl_logo-eps-converted
--to.pdf>
-(epstopdf)                    date: 2017-11-16 12:45:29
-(epstopdf)                    size: 17710 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/yolotl_log
-o-eps-converted-to.pdf 09Anexos/sprites/yolotl_logo.eps>
-(epstopdf)             \includegraphics on input line 17.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/yolotl_logo-eps-converted-to.pdf, id=1370, 809.0225pt x 528.9
-7626pt>
-File: 09Anexos/sprites/yolotl_logo-eps-converted-to.pdf Graphic file (type pdf)
-
- <use 09Anexos/sprites/yolotl_logo-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/yolotl_logo-eps-converted-to.pdf used
- on input line 17.
-(pdftex.def)             Requested size: 283.22162pt x 185.18481pt.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 18.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 18.
- [89
-
-
- <./09Anexos/sprites/fondo02-eps-converted-to.pdf> <./09Anexos/sprites/fondo-Mo
-nt-eps-converted-to.pdf>]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 20.
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
-
- []
-
-Package epstopdf Info: Source file: <09Anexos/sprites/mujer02.eps>
-(epstopdf)                    date: 2017-11-16 11:06:12
-(epstopdf)                    size: 195822 bytes
-(epstopdf)             Output file: <09Anexos/sprites/mujer02-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2017-11-16 12:45:33
-(epstopdf)                    size: 7992 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/mujer02-ep
-s-converted-to.pdf 09Anexos/sprites/mujer02.eps>
-(epstopdf)             \includegraphics on input line 25.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/mujer02-eps-converted-to.pdf, id=1383, 206.7725pt x 226.8475p
-t>
-File: 09Anexos/sprites/mujer02-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/mujer02-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/mujer02-eps-converted-to.pdf used on 
-input line 25.
-(pdftex.def)             Requested size: 141.61081pt x 155.36191pt.
-Package epstopdf Info: Source file: <09Anexos/sprites/muujer01.eps>
-(epstopdf)                    date: 2017-11-16 11:06:12
-(epstopdf)                    size: 299513 bytes
-(epstopdf)             Output file: <09Anexos/sprites/muujer01-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2017-11-16 12:45:37
-(epstopdf)                    size: 9706 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/muujer01-e
-ps-converted-to.pdf 09Anexos/sprites/muujer01.eps>
-(epstopdf)             \includegraphics on input line 29.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/muujer01-eps-converted-to.pdf, id=1384, 221.82875pt x 446.668
-75pt>
-File: 09Anexos/sprites/muujer01-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/muujer01-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/muujer01-eps-converted-to.pdf used on
- input line 29.
-(pdftex.def)             Requested size: 47.206pt x 95.05046pt.
-Package epstopdf Info: Source file: <09Anexos/sprites/xolotlAnimacion.eps>
-(epstopdf)                    date: 2017-11-16 11:06:12
-(epstopdf)                    size: 118427 bytes
-(epstopdf)             Output file: <09Anexos/sprites/xolotlAnimacion-eps-conve
-rted-to.pdf>
-(epstopdf)                    date: 2017-11-16 12:45:41
-(epstopdf)                    size: 6500 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/xolotlAnim
-acion-eps-converted-to.pdf 09Anexos/sprites/xolotlAnimacion.eps>
-(epstopdf)             \includegraphics on input line 33.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/xolotlAnimacion-eps-converted-to.pdf, id=1385, 274.02374pt x 
-50.1875pt>
-File: 09Anexos/sprites/xolotlAnimacion-eps-converted-to.pdf Graphic file (type 
-pdf)
- <use 09Anexos/sprites/xolotlAnimacion-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/xolotlAnimacion-eps-converted-to.pdf 
-used on input line 33.
-(pdftex.def)             Requested size: 330.42041pt x 60.52104pt.
-)
-(09Anexos/02Maqutas.tex
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 4.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 4.
-LaTeX Info: Redefining \sptext on input line 6.
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 6.
- [90 <./09Anexos/sprites/yolotl_logo-eps-converted-to.pdf> <./09Anexos/sprites/
-mujer02-eps-converted-to.pdf> <./09Anexos/sprites/muujer01-eps-converted-to.pdf
-> <./09Anexos/sprites/xolotlAnimacion-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/M0101.eps>
-(epstopdf)                    date: 2017-11-16 12:41:11
-(epstopdf)                    size: 22830500 bytes
-(epstopdf)             Output file: <09Anexos/sprites/M0101-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2017-11-16 12:46:20
-(epstopdf)                    size: 261197 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/M0101-eps-
-converted-to.pdf 09Anexos/sprites/M0101.eps>
-(epstopdf)             \includegraphics on input line 7.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/M0101-eps-converted-to.pdf, id=1407, 1613.02625pt x 2316.655p
-t>
-File: 09Anexos/sprites/M0101-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/M0101-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/M0101-eps-converted-to.pdf used on in
-put line 7.
-(pdftex.def)             Requested size: 424.82523pt x 610.1283pt.
-Package epstopdf Info: Source file: <09Anexos/sprites/M0102.eps>
-(epstopdf)                    date: 2017-11-16 12:41:12
-(epstopdf)                    size: 21653144 bytes
-(epstopdf)             Output file: <09Anexos/sprites/M0102-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2017-11-16 12:46:58
-(epstopdf)                    size: 283063 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/M0102-eps-
-converted-to.pdf 09Anexos/sprites/M0102.eps>
-(epstopdf)             \includegraphics on input line 11.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/M0102-eps-converted-to.pdf, id=1408, 1483.5425pt x 2388.925pt
->
-File: 09Anexos/sprites/M0102-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/M0102-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/M0102-eps-converted-to.pdf used on in
-put line 11.
-(pdftex.def)             Requested size: 424.82523pt x 684.05849pt.
-LaTeX Info: Redefining \sptext on input line 12.
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 12.
- [91 <./09Anexos/sprites/M0101-eps-converted-to.pdf>]
-Overfull \vbox (2.8995pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \sptext on input line 12.
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 12.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 12.
-
-[92 <./09Anexos/sprites/M0102-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/M0103.eps>
-(epstopdf)                    date: 2017-11-16 12:41:13
-(epstopdf)                    size: 21733440 bytes
-(epstopdf)             Output file: <09Anexos/sprites/M0103-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2017-11-16 12:47:34
-(epstopdf)                    size: 277111 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/M0103-eps-
-converted-to.pdf 09Anexos/sprites/M0103.eps>
-(epstopdf)             \includegraphics on input line 15.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/M0103-eps-converted-to.pdf, id=1423, 1559.8275pt x 2280.52pt>
-File: 09Anexos/sprites/M0103-eps-converted-to.pdf Graphic file (type pdf)
-<use 09Anexos/sprites/M0103-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/M0103-eps-converted-to.pdf used on in
-put line 15.
-(pdftex.def)             Requested size: 424.82523pt x 621.10751pt.
-Package epstopdf Info: Source file: <09Anexos/sprites/M0104.eps>
-(epstopdf)                    date: 2017-11-16 12:41:13
-(epstopdf)                    size: 16615988 bytes
-(epstopdf)             Output file: <09Anexos/sprites/M0104-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2017-11-16 12:48:04
-(epstopdf)                    size: 207438 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/M0104-eps-
-converted-to.pdf 09Anexos/sprites/M0104.eps>
-(epstopdf)             \includegraphics on input line 19.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/M0104-eps-converted-to.pdf, id=1424, 1392.20125pt x 1953.2975
-pt>
-File: 09Anexos/sprites/M0104-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/M0104-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/M0104-eps-converted-to.pdf used on in
-put line 19.
-(pdftex.def)             Requested size: 424.82523pt x 596.03802pt.
-LaTeX Info: Redefining \sptext on input line 20.
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 20.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 20.
- [93 <./09Anexos/sprites/M0103-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/M0105.eps>
-(epstopdf)                    date: 2017-11-16 12:41:14
-(epstopdf)                    size: 14664818 bytes
-(epstopdf)             Output file: <09Anexos/sprites/M0105-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2017-11-16 12:48:28
-(epstopdf)                    size: 164872 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/M0105-eps-
-converted-to.pdf 09Anexos/sprites/M0105.eps>
-(epstopdf)             \includegraphics on input line 23.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/M0105-eps-converted-to.pdf, id=1432, 1215.54124pt x 1974.3762
-5pt>
-File: 09Anexos/sprites/M0105-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/M0105-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/M0105-eps-converted-to.pdf used on in
-put line 23.
-(pdftex.def)             Requested size: 424.82523pt x 690.01775pt.
-LaTeX Info: Redefining \sptext on input line 24.
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 24.
- [94 <./09Anexos/sprites/M0104-eps-converted-to.pdf>]
-Overfull \vbox (8.85876pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \sptext on input line 24.
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 24.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 24.
-
-[95 <./09Anexos/sprites/M0105-eps-converted-to.pdf>]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 27.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 27.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 27.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 27.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 27.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 27.
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0201.eps>
-(epstopdf)                    date: 2017-11-16 12:41:46
-(epstopdf)                    size: 25194594 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0201-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:49:06
-(epstopdf)                    size: 416147 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0201-eps
--converted-to.pdf 09Anexos/sprites/ML0201.eps>
-(epstopdf)             \includegraphics on input line 30.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0201-eps-converted-to.pdf, id=1447, 1971.365pt x 2529.45pt>
-File: 09Anexos/sprites/ML0201-eps-converted-to.pdf Graphic file (type pdf)
-<use 09Anexos/sprites/ML0201-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0201-eps-converted-to.pdf used on i
-nput line 30.
-(pdftex.def)             Requested size: 424.82523pt x 545.09483pt.
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0202.eps>
-(epstopdf)                    date: 2017-11-16 12:41:45
-(epstopdf)                    size: 25198023 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0202-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:49:41
-(epstopdf)                    size: 420119 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0202-eps
--converted-to.pdf 09Anexos/sprites/ML0202.eps>
-(epstopdf)             \includegraphics on input line 34.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0202-eps-converted-to.pdf, id=1448, 1940.24875pt x 2570.603
-74pt>
-File: 09Anexos/sprites/ML0202-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/ML0202-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0202-eps-converted-to.pdf used on i
-nput line 34.
-(pdftex.def)             Requested size: 424.82523pt x 562.82811pt.
-LaTeX Info: Redefining \sptext on input line 35.
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 35.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 35.
- [96 <./09Anexos/sprites/ML0201-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0203.eps>
-(epstopdf)                    date: 2017-11-16 12:41:44
-(epstopdf)                    size: 25185997 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0203-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:50:18
-(epstopdf)                    size: 403131 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0203-eps
--converted-to.pdf 09Anexos/sprites/ML0203.eps>
-(epstopdf)             \includegraphics on input line 38.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0203-eps-converted-to.pdf, id=1458, 1934.22626pt x 2577.63p
-t>
-File: 09Anexos/sprites/ML0203-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/ML0203-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0203-eps-converted-to.pdf used on i
-nput line 38.
-(pdftex.def)             Requested size: 424.82523pt x 566.13641pt.
-LaTeX Info: Redefining \sptext on input line 39.
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 39.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 39.
- [97 <./09Anexos/sprites/ML0202-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0204.eps>
-(epstopdf)                    date: 2017-11-16 12:41:42
-(epstopdf)                    size: 25194326 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0204-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:50:54
-(epstopdf)                    size: 426757 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0204-eps
--converted-to.pdf 09Anexos/sprites/ML0204.eps>
-(epstopdf)             \includegraphics on input line 42.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0204-eps-converted-to.pdf, id=1467, 1961.3275pt x 2542.4987
-5pt>
-File: 09Anexos/sprites/ML0204-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/ML0204-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0204-eps-converted-to.pdf used on i
-nput line 42.
-(pdftex.def)             Requested size: 424.82523pt x 550.7001pt.
-LaTeX Info: Redefining \sptext on input line 43.
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 43.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 43.
- [98 <./09Anexos/sprites/ML0203-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0205.eps>
-(epstopdf)                    date: 2017-11-16 12:41:41
-(epstopdf)                    size: 25089617 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0205-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:51:29
-(epstopdf)                    size: 395597 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0205-eps
--converted-to.pdf 09Anexos/sprites/ML0205.eps>
-(epstopdf)             \includegraphics on input line 46.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0205-eps-converted-to.pdf, id=1476, 1958.31625pt x 2535.472
-5pt>
-File: 09Anexos/sprites/ML0205-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/ML0205-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0205-eps-converted-to.pdf used on i
-nput line 46.
-(pdftex.def)             Requested size: 424.82523pt x 550.02937pt.
-LaTeX Info: Redefining \sptext on input line 47.
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 47.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 47.
- [99 <./09Anexos/sprites/ML0204-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0206.eps>
-(epstopdf)                    date: 2017-11-16 12:41:39
-(epstopdf)                    size: 24011100 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0206-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:52:05
-(epstopdf)                    size: 347629 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0206-eps
--converted-to.pdf 09Anexos/sprites/ML0206.eps>
-(epstopdf)             \includegraphics on input line 50.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0206-eps-converted-to.pdf, id=1485, 1925.1925pt x 2468.2212
-5pt>
-File: 09Anexos/sprites/ML0206-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/ML0206-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0206-eps-converted-to.pdf used on i
-nput line 50.
-(pdftex.def)             Requested size: 424.82523pt x 544.62982pt.
-LaTeX Info: Redefining \sptext on input line 51.
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 51.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 51.
- [100 <./09Anexos/sprites/ML0205-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0207.eps>
-(epstopdf)                    date: 2017-11-16 12:41:38
-(epstopdf)                    size: 25201461 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0207-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:52:43
-(epstopdf)                    size: 444388 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0207-eps
--converted-to.pdf 09Anexos/sprites/ML0207.eps>
-(epstopdf)             \includegraphics on input line 54.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0207-eps-converted-to.pdf, id=1494, 1941.2525pt x 2569.6pt>
-File: 09Anexos/sprites/ML0207-eps-converted-to.pdf Graphic file (type pdf)
-<use 09Anexos/sprites/ML0207-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0207-eps-converted-to.pdf used on i
-nput line 54.
-(pdftex.def)             Requested size: 424.82523pt x 562.33388pt.
-LaTeX Info: Redefining \sptext on input line 55.
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 55.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 55.
- [101 <./09Anexos/sprites/ML0206-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0208.eps>
-(epstopdf)                    date: 2017-11-16 12:41:37
-(epstopdf)                    size: 25202309 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0208-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:53:20
-(epstopdf)                    size: 415941 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0208-eps
--converted-to.pdf 09Anexos/sprites/ML0208.eps>
-(epstopdf)             \includegraphics on input line 58.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0208-eps-converted-to.pdf, id=1503, 1967.35pt x 2534.46875p
-t>
-File: 09Anexos/sprites/ML0208-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/ML0208-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0208-eps-converted-to.pdf used on i
-nput line 58.
-(pdftex.def)             Requested size: 424.82523pt x 547.25922pt.
-LaTeX Info: Redefining \sptext on input line 59.
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 59.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 59.
- [102 <./09Anexos/sprites/ML0207-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0209.eps>
-(epstopdf)                    date: 2017-11-16 12:41:35
-(epstopdf)                    size: 24186846 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0209-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:53:55
-(epstopdf)                    size: 394247 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0209-eps
--converted-to.pdf 09Anexos/sprites/ML0209.eps>
-(epstopdf)             \includegraphics on input line 62.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0209-eps-converted-to.pdf, id=1513, 1922.18124pt x 2490.303
-76pt>
-File: 09Anexos/sprites/ML0209-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/ML0209-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0209-eps-converted-to.pdf used on i
-nput line 62.
-(pdftex.def)             Requested size: 424.82523pt x 550.37646pt.
-LaTeX Info: Redefining \sptext on input line 63.
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 63.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 63.
- [103 <./09Anexos/sprites/ML0208-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/ML0210.eps>
-(epstopdf)                    date: 2017-11-16 12:41:33
-(epstopdf)                    size: 23827723 bytes
-(epstopdf)             Output file: <09Anexos/sprites/ML0210-eps-converted-to.p
-df>
-(epstopdf)                    date: 2017-11-16 12:54:28
-(epstopdf)                    size: 387024 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/ML0210-eps
--converted-to.pdf 09Anexos/sprites/ML0210.eps>
-(epstopdf)             \includegraphics on input line 66.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/ML0210-eps-converted-to.pdf, id=1522, 1904.11375pt x 2476.251
-25pt>
-File: 09Anexos/sprites/ML0210-eps-converted-to.pdf Graphic file (type pdf)
- <use 09Anexos/sprites/ML0210-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/ML0210-eps-converted-to.pdf used on i
-nput line 66.
-(pdftex.def)             Requested size: 424.82523pt x 552.44722pt.
-LaTeX Info: Redefining \sptext on input line 67.
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 67.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 67.
- [104 <./09Anexos/sprites/ML0209-eps-converted-to.pdf>]) (09Anexos/03Cron.tex
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 1.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 1.
-Package epstopdf Info: Source file: <09Anexos/sprites/crono01.eps>
-(epstopdf)                    date: 2017-11-16 12:06:05
-(epstopdf)                    size: 51143160 bytes
-(epstopdf)             Output file: <09Anexos/sprites/crono01-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2017-11-16 12:55:54
-(epstopdf)                    size: 524941 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/crono01-ep
-s-converted-to.pdf 09Anexos/sprites/crono01.eps>
-(epstopdf)             \includegraphics on input line 5.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/crono01-eps-converted-to.pdf, id=1531, 794.97pt x 614.295pt>
-File: 09Anexos/sprites/crono01-eps-converted-to.pdf Graphic file (type pdf)
-
-<use 09Anexos/sprites/crono01-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/crono01-eps-converted-to.pdf used on 
-input line 5.
-(pdftex.def)             Requested size: 472.03123pt x 364.76488pt.
-LaTeX Info: Redefining \sptext on input line 6.
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 6.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 6.
- [105 <./09Anexos/sprites/ML0210-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/crono02.eps>
-(epstopdf)                    date: 2017-11-16 12:06:27
-(epstopdf)                    size: 51143160 bytes
-(epstopdf)             Output file: <09Anexos/sprites/crono02-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2017-11-16 12:57:13
-(epstopdf)                    size: 529438 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/crono02-ep
-s-converted-to.pdf 09Anexos/sprites/crono02.eps>
-(epstopdf)             \includegraphics on input line 9.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/crono02-eps-converted-to.pdf, id=1540, 794.97pt x 614.295pt>
-File: 09Anexos/sprites/crono02-eps-converted-to.pdf Graphic file (type pdf)
-
-<use 09Anexos/sprites/crono02-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/crono02-eps-converted-to.pdf used on 
-input line 9.
-(pdftex.def)             Requested size: 472.03123pt x 364.76488pt.
-LaTeX Info: Redefining \sptext on input line 10.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 10.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 10.
- [106 <./09Anexos/sprites/crono01-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <09Anexos/sprites/crono03.eps>
-(epstopdf)                    date: 2017-11-16 12:06:29
-(epstopdf)                    size: 51143160 bytes
-(epstopdf)             Output file: <09Anexos/sprites/crono03-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2017-11-16 12:58:32
-(epstopdf)                    size: 295098 bytes
-(epstopdf)             Command: <epstopdf --outfile=09Anexos/sprites/crono03-ep
-s-converted-to.pdf 09Anexos/sprites/crono03.eps>
-(epstopdf)             \includegraphics on input line 13.
-Package epstopdf Info: Output file is already uptodate.
-
-<09Anexos/sprites/crono03-eps-converted-to.pdf, id=1548, 794.97pt x 614.295pt>
-File: 09Anexos/sprites/crono03-eps-converted-to.pdf Graphic file (type pdf)
-
-<use 09Anexos/sprites/crono03-eps-converted-to.pdf>
-Package pdftex.def Info: 09Anexos/sprites/crono03-eps-converted-to.pdf used on 
-input line 13.
-(pdftex.def)             Requested size: 472.03123pt x 364.76488pt.
-LaTeX Info: Redefining \sptext on input line 14.
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 14.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 14.
- [107 <./09Anexos/sprites/crono02-eps-converted-to.pdf>]))
-LaTeX Info: Redefining \sptext on input line 92.
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 92.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 92.
- [108 <./09Anexos/sprites/crono03-eps-converted-to.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
- (reporteTec.aux (00Portada.aux)
-LaTeX Info: Redefining \sptext on input line 31.
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
- (01Introduccion.aux)
-(02PlanProblema.aux) (03MarcoTeorico.aux) (04EstadoArte.aux)
-(04AlcanceProyecto.aux) (05TrabajoRealizado.aux) (06ResultadoObtenidos.aux)
-(07Observaciones.aux) (09Anexos.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
-Package rerunfilecheck Info: File `reporteTec.out' has not changed.
-(rerunfilecheck)             Checksum: 4E5AE92FA38FA59301F08A7181FE8972;4992.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package logreq Info: Writing requests to 'reporteTec.run.xml'.
-\openout1 = `reporteTec.run.xml'.
-
- ) 
+l.3 
+     <./05TrabajoRealizado/03Unity/imagenes/bloquesanimacionMalinalli-eps-conve
+rted-to.pdf> <./05TrabajoRealizado/03Unity/imagenes/03Interfaz-eps-converted-to
+.pdf>]
+
+! LaTeX Error: File `DocProduccionR/01N.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.4 \input{DocProduccionR/01N}
+                              
+*** (cannot \read from terminal in nonstop modes)
+
+ 
 Here is how much of TeX's memory you used:
- 20555 strings out of 493323
- 337203 string characters out of 3139060
- 665962 words of memory out of 3000000
- 23152 multiletter control sequences out of 15000+200000
- 75730 words of font info for 96 fonts, out of 3000000 for 9000
+ 20334 strings out of 493323
+ 330907 string characters out of 3139060
+ 661185 words of memory out of 3000000
+ 23025 multiletter control sequences out of 15000+200000
+ 69893 words of font info for 92 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,13n,45p,1862b,2722s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
-es/utmri8a.pfb>
-Output written on reporteTec.pdf (109 pages, 9984215 bytes).
-PDF statistics:
- 1669 PDF objects out of 1728 (max. 8388607)
- 331 named destinations out of 1000 (max. 500000)
- 962 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 41i,13n,43p,1862b,2084s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
