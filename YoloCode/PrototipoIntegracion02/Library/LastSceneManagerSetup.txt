@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/00_MenuPrincipal.unity
+- path: Assets/_Scenes/01level_tianguis.unity
   isLoaded: 1
   isActive: 1

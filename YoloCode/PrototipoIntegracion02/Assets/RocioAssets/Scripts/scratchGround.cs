@@ -7,13 +7,13 @@ public class scratchGround : MonoBehaviour {
 	//public Player player;
 	//public Collider2D isCollider;
 	private BoxCollider2D coll;
-	private CircleCollider2D isCollider;
+	//private CircleCollider2D isCollider;
 
 	// Use this for initialization
 	void Start () {
 		//player = FindObjectOfType<Player> ();
 		coll = GetComponent<BoxCollider2D> ();
-		isCollider = GetComponent<CircleCollider2D> ();
+		//isCollider = GetComponent<CircleCollider2D> ();
 	}
 	
 	// Update is called once per frame

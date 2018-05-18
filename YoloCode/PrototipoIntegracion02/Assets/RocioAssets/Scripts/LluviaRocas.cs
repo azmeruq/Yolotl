@@ -5,7 +5,7 @@ public class LluviaRocas : State
 {
     public State coraza;
 	public State morir;
-	private Player player;
+	//private Player player;
 	private Boss boss;
 	public GameObject jaguar;
 	public GameObject prefab;
@@ -25,7 +25,7 @@ public class LluviaRocas : State
 		timeToExit = 0;
 		timeToChange = 3;
 
-		player = FindObjectOfType<Player> ();
+		//player = FindObjectOfType<Player> ();
 		boss = FindObjectOfType<Boss> ();
 		once = false;
 	}

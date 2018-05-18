@@ -6,8 +6,8 @@ public class Tornado : State {
 	
 		public State estaticoX4;
 
-		private Player player;
-		private Boss boss;
+		//private Player player;
+		//private Boss boss;
 		public GameObject prefab;
 		//public float speed;
 
@@ -25,8 +25,8 @@ public class Tornado : State {
 			timeToExit = 0;
 			timeToChange = 2;
 
-			player = FindObjectOfType<Player> ();
-			boss = FindObjectOfType<Boss> ();
+			//player = FindObjectOfType<Player> ();
+			//boss = FindObjectOfType<Boss> ();
 			once = false;
 		}
 

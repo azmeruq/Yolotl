@@ -7,7 +7,7 @@ public class EstaticoX4i : State{
 	public State manotazo;
 	public State lava;
 	public State morir;
-	private State lluviaFlechas;
+	public State lluviaFlechas;
 	private Boss boss;
 	//public float speed;
 
