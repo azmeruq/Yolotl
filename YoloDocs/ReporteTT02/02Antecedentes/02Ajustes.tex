@@ -1,0 +1,95 @@
+\section{Ajuste en el plan de trabajo}
+En esta sección se definen todas las nuevas estrategias a seguir para agilizar y 
+optimizar el desarrollo del juego y el desarrollo de los \textit{sprites} 
+faltantes del juego.
+
+\subsubsection{Las nuevas estrategias de desarrollo}
+Para el sexto \textit{sprint} y teniendo como base la experiencia de desarrollo los 
+anteriores prototipos, quedaba claro que se necesitaba diseñar una nueva estrategia 
+que permitiera agilizar el desarrollo del juego sin comprometer la calidad del 
+mismo. La naturaleza iterativa de \textit{Huddle} permite controlar la extensión del 
+desarrollo y la asignación de tareas entre miembros del equipo, pero al estar 
+orientada a niveles producía que la programación se tuviera que pausar cada vez 
+que se iniciaba un nuevo nivel para diseñar la maqueta del nivel y para el 
+desarrollo de los \textit{sprites}. Por tal motivo se propuso un nuevo enfoque a 
+\textit{Huddle} 
+orientar su naturaleza iterativa al desarrollo de los componentes del juego, 
+una vez que estos esten completados y probado su funcionamiento de manera 
+individual, se inicia la construcción de los niveles. Bajo este nuevo enfoque 
+primeramente se crean las maquetas de todos los niveles, seguido de la creación 
+de todos los \textit{sprites}, para después programar los assets que correspondían a 
+los actores, después se implementan las clases controladoras que comparten todos 
+los niveles, como el controlador del personaje, el controlador de la barra de vida, 
+etc.; con los controladores comunes funcionando se crea una escena base que incluye 
+el personaje jugable y la interfaz de juego, sobre esta escena se construyen los 
+niveles del juego. El anterior enfoque es una pequeña abstracción del Método \textit{Centry} descrito en la sección \ref{MetodoCerny}.
+\\
+\par
+Ya definido el nuevo plan de trabajo, se procedió a diseñar las maquetas para los 
+niveles. Para el diseño de maquetas se siguió utilizando la plantilla creada 
+durante Trabajo Terminal 1. Si se desea ver las maquetas de los niveles, estas se 
+encuentran en el anexo \ref{MaquetasNiveles}. 
+\\
+\par
+\subsubsection{Actualizando el \textit{software} de desarrollo}
+Paralelamente al diseño de las maquetas de los niveles, fue liberada la versión 
+2017.3.1f de \textit{Unity3D}. Esta versión incluye herramientas que agilizan la 
+creación de niveles como el uso de: 
+	\begin{itemize}
+		\item \textbf{\textit{Tilemap}:} Herramienta para el mapeado de niveles. Esta 
+		herramienta facilita la creación de mapas al crear una malla sobre la que 
+		se arrastraran diferentes \textit{Sprites} que se hayan importado previamente 
+		al tilemap (ver figura \ref{fig:TilemapPantalla}). En la sección () se 
+		profundizará su funcionamiento.
+		
+		\begin{figure}[h]
+    			\centering
+    			\includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/tilemaps01.png}
+    			\caption{Vista de la escena cuando se tiene un \textit{GameObject} de 
+    			tipo \textit{Tilemaps} para la construcción de niveles}
+    			\label{fig:TilemapPantalla}
+			\end{figure}
+		
+		\item \textbf{\textit{Cinemachine}:} \textit{Asset} que permite controlar la 
+		cámara de la escena, con este \textit{asset} se le puede indicar que objeto se 
+		desea que la cámara siga y se puede asignar un área que limitara el movimiento 
+		de la cámara (ver figura \ref{fig:CinemaPantalla}). \textit{Cinemachine} se 
+		descarga directamente desde la tienda de \textit{assets} de \textit{Unity} y 
+		fue desarrollado por los ingenieros de \textit{Unity}, lo que significa que 
+		no genera conflictos o no requiere de configuraciones extras al proyecto para 
+		importar. En la sección () se profundizará su funcionamiento.
+			
+			\begin{figure}[h]
+    			\centering
+    			\includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/cinemachine01.png}
+    			\caption{Vista de la escena cuando se tiene un \textit{GameObject} de 
+    			tipo \textit{Tilemaps} para la construcción de niveles}
+    			\label{fig:CinemaPantalla}
+			\end{figure}
+
+		\item \textbf{\textit{Sprite Packer}}: Si bien no es una herramienta para 
+		construcción de niveles o un \textit{asset}, esta herramienta es una de las 
+		más útiles que se agregó a la nueva versión de \textit{Unity} ya que, como 
+		su nombre lo indica, permite el empaquetado de \textit{sprites} (ver figura ). 
+		Empaquetar 
+		los \textit{sprites} es una práctica que optimiza el renderizado de objetos, 
+		ya que el controlador de gráficos de \textit{Unity} realiza una sola llamada 
+		por paquete cuando renderiza los objetos y con esa única llamada renderiza todos 
+		los objetos de la escena que se encuentren en ese paquete; si los 
+		\textit{sprites} no se encontraran dentro de un paquete el controlador de 
+		gráficos de \textit{Unity} haría una llamada por cada \textit{sprite}.  
+			\begin{figure}[h]
+    			\centering
+    			\includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/01.png}
+    			\caption{Vista de la pestaña del \textit{Sprite Packer}.}
+    			\label{fig:CinemaPantalla}
+			\end{figure}
+	\end{itemize}
+	Por el impacto que tendrían las nuevas herramientas de la versión de 
+	\textit{Unity}, se propusó utilizarla en lugar de la versión 5.6.2f1. Antes 
+	de actualizar la versión de \textit{Unity} se investigó si el proyecto sufriría 
+	algún impacto negativo como falta de compatibilidad de componentes por la 
+	diferencia de versiones. Al comprobar que existía una total compatibilidad 
+	entre ambas versiones en cuanto a trasladar un proyecto de la versión 5.6.1f 
+	a la versión 2017.3.1f. Se determinó que la nueva versión de \textit{Unity} 
+	sería la que se emplearía para el resto del desarrollo del juego.
