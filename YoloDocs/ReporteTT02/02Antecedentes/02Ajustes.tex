@@ -1,38 +1,31 @@
-\section{Ajuste en el plan de trabajo}
+\section{Ajustes}
 En esta sección se definen todas las nuevas estrategias a seguir para agilizar y 
-optimizar el desarrollo del juego y el desarrollo de los \textit{sprites} 
-faltantes del juego.
+optimizar el desarrollo del juego.
 
-\subsubsection{Las nuevas estrategias de desarrollo}
-Para el sexto \textit{sprint} y teniendo como base la experiencia de desarrollo los 
-anteriores prototipos, quedaba claro que se necesitaba diseñar una nueva estrategia 
-que permitiera agilizar el desarrollo del juego sin comprometer la calidad del 
-mismo. La naturaleza iterativa de \textit{Huddle} permite controlar la extensión del 
-desarrollo y la asignación de tareas entre miembros del equipo, pero al estar 
-orientada a niveles producía que la programación se tuviera que pausar cada vez 
-que se iniciaba un nuevo nivel para diseñar la maqueta del nivel y para el 
-desarrollo de los \textit{sprites}. Por tal motivo se propuso un nuevo enfoque a 
-\textit{Huddle} 
-orientar su naturaleza iterativa al desarrollo de los componentes del juego, 
-una vez que estos esten completados y probado su funcionamiento de manera 
-individual, se inicia la construcción de los niveles. Bajo este nuevo enfoque 
-primeramente se crean las maquetas de todos los niveles, seguido de la creación 
-de todos los \textit{sprites}, para después programar los assets que correspondían a 
-los actores, después se implementan las clases controladoras que comparten todos 
-los niveles, como el controlador del personaje, el controlador de la barra de vida, 
-etc.; con los controladores comunes funcionando se crea una escena base que incluye 
-el personaje jugable y la interfaz de juego, sobre esta escena se construyen los 
-niveles del juego. El anterior enfoque es una pequeña abstracción del Método \textit{Centry} descrito en la sección \ref{MetodoCerny}.
-\\
-\par
-Ya definido el nuevo plan de trabajo, se procedió a diseñar las maquetas para los 
-niveles. Para el diseño de maquetas se siguió utilizando la plantilla creada 
-durante Trabajo Terminal 1. Si se desea ver las maquetas de los niveles, estas se 
-encuentran en el anexo \ref{MaquetasNiveles}. 
-\\
-\par
-\subsubsection{Actualizando el \textit{software} de desarrollo}
-Paralelamente al diseño de las maquetas de los niveles, fue liberada la versión 
+\subsection{Correción del enfoque de la solución}
+
+\subsection{Nueva división de trabajo}
+Antes del inicio del tercer \textit{sprint} y teniendo como base la experiencia 
+de desarrollo los anteriores prototipos, queda claro que se necesita diseñar una 
+nueva estrategia que permita agilizar el desarrollo del juego sin comprometer 
+la calidad del mismo. Por tal motivo se decide reorganizar la asignación de 
+tareas, en lugar de que los miembros del equipo de desarrollo se encarguen del 
+mismo nivel, se reparten los niveles restantes del desarrollo entre los 
+integrantes del equipo. Quedando la asignación de los niveles como se ve en la 
+figura \ref{fig:Tareas} .
+
+		\begin{figure}[h]
+    			\centering
+    			\includegraphics[width=0.8\textwidth]{02Antecedentes/Imagenes/tareasAsignacion.png}
+    			\caption{Asignacion de tareas}
+    			\label{fig:Tareas}
+		\end{figure}
+
+
+Esta división de trabajo permite que los niveles se desarrollen de manera paralela y no de manera secuencial como se había trabajado hasta este \textit{sprint}; simulando de esta forma un flujo de trabajo similar a procesamiento multihilo, en el que cada integrante del equipo es un hilo y desarrolla sus tareas de manera paralela al otro.
+
+\subsection{Actualizando el motor de juego}
+Paralelamente a la nueva asignación de tareas, fue liberada la versión 
 2017.3.1f de \textit{Unity3D}. Esta versión incluye herramientas que agilizan la 
 creación de niveles como el uso de: 
 	\begin{itemize}
@@ -48,7 +41,7 @@ creación de niveles como el uso de:
     			\caption{Vista de la escena cuando se tiene un \textit{GameObject} de 
     			tipo \textit{Tilemaps} para la construcción de niveles}
     			\label{fig:TilemapPantalla}
-			\end{figure}
+		\end{figure}
 		
 		\item \textbf{\textit{Cinemachine}:} \textit{Asset} que permite controlar la 
 		cámara de la escena, con este \textit{asset} se le puede indicar que objeto se 
