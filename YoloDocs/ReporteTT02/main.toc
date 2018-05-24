@@ -1,0 +1,42 @@
+\select@language {spanish}
+\contentsline {chapter}{Advertencia}{\es@scroman {ii}}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Propuesta}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Planteamiento del problema}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Marco Teorico}{2}{subsection.2.1.2}
+\contentsline {subsubsection}{Videojuego}{2}{subsection.2.1.2}
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a de desarrollo}{4}{subsection.2.1.2}
+\contentsline {subsubsection}{Herramientas de desarrollo}{5}{subsection.2.1.2}
+\contentsline {subsubsection}{Cultura}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Planteamiento de la soluci\IeC {\'o}n}{6}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Ajustes}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Correci\IeC {\'o}n del enfoque de la soluci\IeC {\'o}n}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Nueva divisi\IeC {\'o}n de trabajo}{7}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Actualizando el motor de juego}{7}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Contribuciones}{8}{section.2.3}
+\contentsline {section}{\numberline {2.4}Trabajo realizado durante trabajo terminal 1}{8}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Etapa de Preproducci\IeC {\'o}n}{9}{subsection.2.4.1}
+\contentsline {subsubsection}{Primer Sprint Huddle de Preproducci\IeC {\'o}n}{9}{subsection.2.4.1}
+\contentsline {subsubsection}{Segundo Sprint Huddle de Preproducci\IeC {\'o}n}{10}{subsection.2.4.1}
+\contentsline {subsubsection}{Tercer Sprint Huddle de Preproducci\IeC {\'o}n}{11}{subsection.2.4.1}
+\contentsline {subsubsection}{Cuarto Sprint Huddle de Preproducci\IeC {\'o}n}{11}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Etapa de producci\IeC {\'o}n}{11}{subsection.2.4.2}
+\contentsline {subsubsection}{Primer Sprint Huddle de Producci\IeC {\'o}n.}{11}{subsection.2.4.2}
+\contentsline {subsubsection}{Segundo Sprint Huddle de Producci\IeC {\'o}n.}{12}{figure.2.5}
+\contentsline {chapter}{\numberline {3}Trabajo realizado}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Etapa de producci\IeC {\'o}n de \textit {Huddle}}{14}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Cuarto \textit {sprint} de producci\IeC {\'o}n}{14}{subsection.3.1.1}
+\contentsline {chapter}{\numberline {4}Resultados obtenidos}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Prueba}{15}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Objetivo de la prueba}{15}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Herramientas utilizadas durante la prueba}{15}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Aplicaci\IeC {\'o}n de la prueba}{15}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Conclusiones de la prueba}{15}{subsection.4.1.4}
+\contentsline {chapter}{\numberline {5}Conclusiones}{16}{chapter.5}
+\contentsline {chapter}{\numberline {6}Anexos}{19}{chapter.6}
+\contentsline {section}{\numberline {6.1}Interfaces}{19}{section.6.1}
+\contentsline {section}{\numberline {6.2}Dise\IeC {\~n}o de Personajes}{19}{section.6.2}
+\contentsline {section}{\numberline {6.3}Modelo de Datos}{19}{section.6.3}
+\contentsline {section}{\numberline {6.4}Control de adicci\IeC {\'o}n en el jugador}{19}{section.6.4}
+\contentsline {section}{\numberline {6.5}Maquetas de niveles}{19}{section.6.5}
