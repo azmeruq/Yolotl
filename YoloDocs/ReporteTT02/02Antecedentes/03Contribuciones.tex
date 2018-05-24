@@ -4,3 +4,47 @@
 \input{contribucionesR/modeloNegocios}
 \input{contribucionesR/costoVJ}
 \input{contribucionesR/vicio}
+
+En esta sección se presentan las soluciones a las observaciones realizadas por 
+los sinodales durante la presentación del trabajo terminal 1.
+
+\subsection{Modelo de datos}
+La primera observación en atender fue el modelo de datos del juego, dicho modelo 
+de datos se realizó utilizando un modelo entidad relación de base de datos (Ver 
+Anexo \ref{Anexo:ModeloDatos}) ya que al modelarse de esta forma hace escalable 
+el juego si se deseará en algún futuro emplear una base de datos para mejorar 
+el almacenamiento de datos y el manejo de más usuarios para ofrecer un modo 
+online. El modelo de datos está basado en el modelo de clases y contiene 
+únicamente a las clases actoras. Toda entidad actora se define como una 
+especialización de una entidad base llamada GameObject, esta entidad está 
+definida por como su identificador y por otras entidades como GameObjectPosition, 
+Level, Tag, AnimationMachine, entre otros. 
+
+\subsection{Estrategias para combatir la adicción entre los usuarios}
+La segunda observación sobre la que se trabajo fue como disminuir la adicción 
+del jugador al videojuego Yolotl. Esta observación dio lugar a una investigación 
+sobre la adicción a los videojuegos ya que antes de proponer alguna solución se 
+debía conocer cómo se definía, las causas y las consecuencias de la adicción al 
+videojuego. Al final de la investigación se pudieron formular tres posibles 
+soluciones para evitar la adicción del jugador; sin embargo, dado que este tópico 
+no estaba en la planeación original del proyecto y por las implicaciones que 
+conllevaban cada una de las soluciones se decidió únicamente describir las 
+soluciones y sus implicaciones sin desarrollar ninguna de las tres. A continuación, 
+se describen a manera de resumen las soluciones (nuevamente si se dese a 
+profundizar en la investigación realizada y las soluciones se puede consultar 
+el Anexo \ref{Anexo:AdiccJuga}):
+	\begin{itemize}
+		\item \textbf{Notificación de confirmación para continuar la partida.} Esta 
+		solución propone que el juego solicite la confirmación del usuario para 
+		continuar una vez que éste ha detectado que el jugador ha estado jugando 
+		durante un tiempo prolongado como una hora.
+		\item \textbf{Control paterno.} El juego le envía un formulario al tutor del 
+		jugador por medio de un correo electrónico. En este formulario el tutor podrá 
+		decidir cuanto tiempo al día la aplicación podrá estar abierta. 
+		\item \textbf{Sistema de vidas.} El jugador tiene una cantidad de vidas 
+		limitadas. Cada vez que el jugador ingresa a un nivel o muere dentro de 
+		uno y reinicia la partida se gasta una vida. Para recuperar vidas el 
+		jugador deberá de esperar un determinado tiempo.
+	\end{itemize}
+	
+\subsection{Modelo de Negocios}

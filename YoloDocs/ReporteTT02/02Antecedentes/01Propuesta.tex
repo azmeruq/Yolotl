@@ -1,5 +1,284 @@
 \section{Propuesta}
-\subsection{Planteamiento del problema}
-\subsection{Marco Teorico}
-\subsection{Planteamiento de la solución}
+En esta sección se presenta a manera de resumen las propuestas y los conceptos 
+definidos durante el trabajo terminal 1, tales como el planteamiento del problema, 
+conceptos y definiciones referentes al videojuego y su desarrollo, la definición 
+y delimitación de la cultura y el planteamiento de la solución que se desarrolla 
+durante el trabajo terminal.  
 
+%====== Planteamiento del problema ======%
+\subsection{Planteamiento del problema}
+En México existe un fuerte desinteres y desconocimiento hacia su cultura e historia 
+nacional. De acuerdo con la Tercera Encuesta Nacional de Cultura Constitucional, 
+el 52.7 \% de los encuestados desconoce el año en que se aprobó la constituación 
+nacional y no la relaciona con la Revolución Mexicana \cite{RefConsti}. Con base 
+en la encuesta realizada por Parametría, empresa dedicada a la investigación 
+estratégica de la opinión y análisis de resultados, solo el 32\% de su encuestados 
+supó que México se independizó de España, el 51\% desconoce el país del que se 
+independizó México, mientras que el resto del porcentaje de los encuestados 
+piensa que México se independizó de otro país que no es España; la misma 
+encuesta realizada por Parametría señala que el 25\% de los encuestados mencionaron 
+personajes historicos ajenos a la independencia de México como participes de 
+ésta y el 12\% respondió no saber que personajes historicos participaron en la 
+independencia\cite{RefParametria}. 
+ 
+%======Marco Teorico ======%
+\subsection{Marco Teorico}
+En esta sección se presentan los conceptos básicos para comprender el trabajo 
+realizado durante el desarrollo del trabajo terminal, tales como la definición 
+del videojuego, sus características, su clasificación, las metodologías de 
+desarrollo, las herramientas para el desarrollo y la cultura. 
+
+\subsubsection{Videojuego}
+El grupo de periodista especializado en tecnología y desarrollo de software 
+Carricay define al videojuego como: "una aplicación interactiva orientada 
+al entretenimiento que, a través de ciertos mandos o controles, permite simular 
+experiencias en la pantalla de un televisor, una computadora u otro dispositivo 
+electrónico"\cite{Ref_DefVideo}.
+\\
+\par
+Al igual que con otros productos tecnológicos, la evolución de los videojuegos 
+ha sido vertiginosa, resultando complicado mencionar características comunes 
+para todos los videojuegos. Sin embargo,en el libro “\textit{Marketing} y videojuegos: 
+\textit{Product pacement, in-game, adevertising y 
+advergaming}” se menciona que existen seis características comunes en los 
+videojuegos: Interactividad, entretenimiento, jugabilidad, simulación \textbackslash 
+virtualidad, inmersión y multiplataformidad\cite{RefCarac}; a continuación se 
+menciona en que consisten cinco de las seis características, esto debido a que 
+la última no se encuentra presente en todos los juegos y el mismo autor de la 
+obra la menciona como una caracteristica opcional a tomar en cuenta:
+
+	\begin{itemize}
+		\item \textbf{Interactividad:} En el articulo "\textit{Defining Virtual Reality:
+		 Dimensions Determining Telepresence}" se define la interactividad como la 
+		 capacidad de los usuarios para participar y modificar la forma y el contenido 
+		 de un entorno mediado en tiempo real\cite{RefInteractividad}.  
+		
+		\item \textbf{Entretenimiento:} en el articulo "Las Tecnologías del
+		 Entretenimiento: Pasado, Presente y Futuro", el entretenimiento "se asocia, 
+		 usualmente, de hacer algo que nos divierte, algo que podemos hacer solos o con 
+		 otros, para entretenernos o divertirnos, en nuestro tiempo libre, o tal vez, 
+		 algo que nos relaje o que nos haga reír"\cite{RefEntretenimiento}. 
+		
+		\item \textbf{Jugabilidad:} en el libro “\textit{Marketing} y videojuegos: 
+	\textit{Product pacement, in-game, adevertising y advergaming}” se define la 
+	jugabilidad como "la relación que existe entre todas las acciones reacciones e 
+	interacciones tanto del videojugador como el videojuego como entre los propios 
+	sistemas y subsistemas programados en el videojuego"\cite{RefCarac}.		
+	
+		\item \textbf{Simulación \textbackslash Virtualidad:} La simulación "se trata 
+		de una representación a medida cuyo objetivo nos permite interactuar y 
+		relacionarnos con lo representado según nuestros intereses"\cite{RefCarac}.
+		
+		\item \textbf{Inmersión:} Con base en el libro "La vida en la pantalla: La
+		 construcción de la identidad en la era de internet", la inmersión es un 
+		 proceso psicológico que se produce cuando la persona deja de percibir de 
+		 forma clara su medio natural al concentrar toda su atención en un objeto,
+		  narración, imagen o idea que le sumerge en un medio artificial 
+		  \cite{RefInmersion}. Por su parte en la tesis "Libertad dirigida: Análisis 
+		  formal del videojuego como sistema, su estructura y su avataridad", la 
+		  inmersión se entiende como la coherencia de la ficción del juego y su 
+		  aceptación por el jugador.\cite{refInmersionNavarro}  
+	\end{itemize} 
+
+Los videojuegos pueden se clasificados con base a su jugabilidad, en el libro 
+"Juego. Historia, Teoría y Práctica del Diseño Conceptual de 
+Videojuegos"\cite{Ref_JuegoDisenio} se propone la siguiente clasificación.
+	\begin{itemize}
+		\item \textbf{Juegos de acción:} Son juegos usualmente de temática 
+				violenta. El jugador lucha por su supervivencia, para ello se vale 
+				de armas o habilidades de  combate. 
+			%==== Juegos de estrategia ====%
+				\item \textbf{Juegos de estrategia:} Para que el jugador logre sus 
+				objetivos en este tipo de juegos, éste debe de planear una estrategia, 
+				normalmente a lago plazo. 
+			%==== Juegos de Rol ====%
+				\item \textbf{Juegos de Rol:} La mecánica de los juegos de rol gira 
+				en torno a un grupo de héroes, con habilidades y progresión definidos; 
+				el grupo de héroes debe de trabajar coordinadamente para cumplir un 
+				objetivo; estos héroes pueden ser controlados por un solo jugador o 
+				por varios. El jugador deberá explorar un mundo de gran tamaño 
+				haciendo evolucionar a	sus personajes y sus habilidades. 
+				\item \textbf{Videojuego de aventura:} Son parecidos a los juegos de 
+				Rol; con la peculiaridad de que tienen una progresión más lineal y no 
+				se hace tanto énfasis en los combates, siendo su eje principal la 
+				narrativa.
+				\item \textbf{Videojuegos de deportes:} Son todos aquellos videojuegos 
+				que tratan sobre deportes que no involucren la conducción de un 
+				vehículo. Pueden ser juegos sobre fútbol, fútbol americano, tenis, etc.
+				\item \textbf{Videojuegos de carreras de vehículos:} Son todos aquellos 
+				se centran en las carreras con todo tipo de vehículos, mayoritariamente 
+				automóviles.
+				\item \textbf{Videojuegos {\it puzzle:}} Este tipo de juego involucra 
+				la resolución de un problema a partir de la utilización de una serie 
+				limitada de recursos, por lo que si los recursos no se utilizan de la 
+				manera correcta el problema no podrá ser solucionado.  
+	\end{itemize}
+	
+Dentro de la clasificación de los juegos de acción entren los juegos de plataforma, 
+definidos por una jugabilidad donde el jugador debe de controlar a un personaje 
+con el que se dezplazará saltando entre plataformas y esquivando todo tipo de 
+obstáculos y enemigos\cite{Ref_JuegoDisenio}. 
+Es importante que se entienda el concepto del videojuego, sus características, 
+su clasificación y la jugabilidad básica de un juego de plataforma ya que el 
+presente Trabajo Terminal gira entorno al desarrollo de un videojuego de plataforma.
+
+\subsubsection{Metodología de desarrollo}
+Las metodologías de desarrollo de software son un conjunto de procedimientos, 
+técnicas y ayudas a la documentación para el desarrollo de productos software
+\cite{Ref_metodologia}. Para el presente trabajo terminal se consideran las 
+siguientes metodologías como candidatas a implementar para guiar el desarrollo:
+
+\begin{itemize}
+	\item \textbf{Metodología en cascada:} Sigue una progresión lineal por lo que 
+	cualquier error que no se haya detectado con antelación afectara todas las 
+	fases que le sigan provocando una redefinición en el proyecto y por ende un 
+	aumento en los costos de producción del sistema \cite{Ref:CarCascada}.Esta 
+	metodología se divide en las siguientes etapas:
+		\begin{itemize}
+			\item \textbf{Análisis de los requisitos del software.}
+			\item \textbf{Diseño.}
+			\item \textbf{Codificación.}
+			\item \textbf{Pruebas.}
+			\item \textbf{Mantenimiento.}
+		\end{itemize}
+	\item \textbf{Metodología en \textit{Scrum}:} \textit{Scrum} parte de la visión 
+	general que se desea que el producto alcance; a partir de esta visión se inicia la 
+	división del proyecto en diferentes módulos. \textit{Scrum} implementa una 
+	jerarquía entre los módulos en donde los módulos de mayor jerarquía son los 
+	que se desarrollaran al inicio del proyecto o durante las primeras iteraciones 
+	o \textit{sprints} \cite{Ref_ScrumRef}.Cada sprint se compone de las siguientes 
+	fases:
+	\begin{itemize}
+		\item \textbf{Concepto}.
+		\item \textbf{Especulación}.
+		\item \textbf{Exploración}.
+		\item \textbf{Revisión}.
+		\item \textbf{Cierre}\cite{Ref_ScrumGuia}. 
+	\end{itemize}
+	\item \textbf{Metodología de Programación extrema:} Es una metodología de 
+	desarrollo ágil y adaptable, soporta cambios de requerimientos sobre la marcha. 
+	Su principal objetivo es aumentar la productividad y minimizar los procesos 
+	burocráticos, por lo que el software funcional tiene mayor importancia que la 
+	documentación\cite{Ref_XP}.
+	\item \textbf{Metodología \textit{Huddle}:} Es una metodología cuya funcionalidad 
+ se basa en la metodología \textit{Scrum}, con la diferencia de que está orientada al
+  desarrollo de videojuegos.  De naturaleza ágil, resulta óptimo para equipos 
+  multidisciplinarios de 5 a 10 personas; es iterativa, incremental y evolutiva 
+  \cite{Ref_Huddle}. \textit{Huddle} se divide en las siguientes etapas:
+  	\begin{itemize}
+  		\item \textbf{Preproducción}.
+		\item \textbf{Producción}.
+		\item \textbf{Postmorten}.
+  	\end{itemize}
+\end{itemize}
+
+Tras un riguroso análisis comparativo entre metodologías, se elige a 
+\textit{Huddle}  como la metodología a guiar el desarrollo del Trabajo Terminal; 
+esta elección se basa principalmente en que dicha metodología esta enfocada a 
+videojuegos y no requiere ser adaptada por lo que se puede llevar a cabo el 
+proyecto de manera directa sin tener que invertir tiempo en adaptar la metodología 
+a las necesidades del desarrollo de un videojuego.
+
+\subsubsection{Herramientas de desarrollo}
+Como cualquier desarrollo de software, el desarrollo de un videojuego requiere 
+se software especializado tal como un motor de juego, editores de imágenes, software 
+de diseño, de edición de audio, etc. En este apartado se van a definir algunas de 
+las herramientas utilizadas durante la elaboración del trabajo terminal.
+\\
+\par
+La primera herramienta a definir es el del motor de juego. El motor de juego, 
+también conocido como \textit{Game Engine}, parte del concepto de reutilización; 
+es decir, es posible generar juegos a partir de un código base y común mediante una 
+separación adecuada de los componentes fundamentales, tal como visualización de 
+gráficos, control de colisiones, físicas, entrada de datos etc \cite{Ref:MutorGraf}; 
+esto permite a quienes trabajen en un juego puedan centrarse en todos aquellos 
+detalles que hacen al juego único. Dentro del mercado existen diferentes 
+opciones de motores de juego tales como \textit{Unity3D}, \textit{UnrealEngine} 
+y \textit{CryEngine}, por citar algunos. Para el presente trabajo terminal se 
+decide por utilizar \textit{Unity3D} ya que ofrece: 
+
+	\begin{itemize}
+		\item Desarrollo muliplataforma, lo que permite aumentar la escalabilidad 
+		del proyecto. 
+		\item Curva de aprendizaje rápido.
+		\item Comunidad de desarrolladores activa.
+		\item Tres opciones de lenguajes de programacion para utilizar: 
+		\textit{$\sharp C$,javaScript y Boo}.
+		\item No requiere de muchos recursos para su instalación.
+		\item Uso de diferentes tipos de licencia lo que permite contar con una 
+		licencia gratuita, de pago y una de negocios. No existiendo mucha diferencia 
+		de funcionalidad entre la licencia libre y la de pago.
+	\end{itemize}
+ En lo que refiere a la creación del entorno gráfico del videojuego, es decir de 
+ sus sprites, se decide utilizar los \textit{software} de diseño 
+ \textit{Adobe Phtoshop} y \textit{Corel Draw}. Ya que al momento de elegir dichos 
+ softwares ya se contaba con experiencia previa sobre su funcionamiento y no 
+ requiere ningún tipo de periodo de prueba para familiarizarse con su funcionamiento. 
+ Ambos \textit{softwares} son de pago y para el desarrollo del presente trabajo 
+ terminal se utiliza una licencia personal por lo que si se desea comercializar 
+ el juego va a ser necesario adquirir otro tipo de licencia para le generación 
+ de \textit{sprites}.
+
+
+\subsubsection{Cultura}
+Una vez explicado lo que es el videojuego, su metodologia de desarrollo y las 
+herramientas a usar para desarrollarlo, es preciso definir lo que es la cultura; 
+para tal objetivo el presnete trabajo se vale de la definición propuesta por la 
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura 
+(UNESCO, por sus siglas en ingles). La UNESCO define la cultura como “el conjunto 
+de los rasgos distintivos, espirituales y materiales, intelectuales y afectivos 
+que caracterizan a una sociedad o un grupo social. La cultura engloba, además 
+de las artes y las letras, los modos de vida, los derechos fundamentales al ser 
+humano, los sistemas de valores, las tradiciones y las creencias; de igual forma 
+la cultura da al hombre la capacidad de reflexionar sobre sí mismo\cite{RefCultura}”. 
+Bajo su misma definición la UNESCO, se plantea que la importancia de la cultura 
+radica en su capacidad de hacer a los seres humanos racionales, críticos y 
+éticamente comprometidos; ya que, través de ella se disciernen los valores y se 
+efectúan opciones. Siendo por medio de ella que el hombre se expresa, toma conciencia 
+de sí mismo, se reconoce como un proyecto inacabado, pone en cuestión sus propias 
+realizaciones, busca incansablemente nuevas significaciones, y crea obras que lo 
+trascienden \cite{RefCultura}.
+\\
+\par
+Para efectos del presente trabajo terminal, este únicamente va a abordar la cultura 
+de carácter historica, es decir la cultura que hace referencia a la herencia social, 
+es decir aquella que relaciona a la sociedad con su pasado
+\cite{RefculturaClasificacionEl}.
+
+\subsection{Planteamiento de la solución}
+Con el fin de fomentar la cultura y la historia se desarrolla Yolotl, un videojuego 
+de plataforma y aventuras en dos dimensiones para dispositivos móviles android 5.1 
+de gama media alta.
+\\
+\par
+Las razones por las que se aborda la solución del problema con un videojuego se 
+debe principalmente a diferentes factores tales como:
+
+\begin{itemize}
+	\item \textbf{El estado de la industria mexicana de los videojuegos:} En el 
+	2017 México ocupó el 12 puesto en cuanto a consumo de videjuegos percibiendo 
+	un ingreso de 1.4 mil millones de dolares en esta industria. A su vez México 
+	cuenta con 49.2 millones de jugadores\cite{Ref_JuegosGanancia}.
+
+	\item \textbf{El auge de los juegos para teléfonos móviles:} En el 2017 la 
+	industria del videojuego tuvo ganancias de 108.9 mil millones de dolares de 
+	los cuales el 32\% de las ganancias fueron generadas por los teléfonos 
+	inteligentes y un 10\% por las tablets; con este porcentaje los teléfonos 
+	superaron a las consolas de mesa en ingresos\cite{Ref_JuegosGanancia}. 
+
+	\item \textbf{El consumo de teléfonos móviles en México}: En el 2017 México 
+	contaba con 52 millones de usuarios de teléfonos móviles, lo que lo ubicó en 
+	el 9 puesto a nivel mundial en el consumo de teléfonos inteligentes
+	\cite{Ref_TelefonosGanancia}.
+
+	\item \textbf{La interactividad de un videojuego:} Como se menciona en el 
+	artículo \textit{Identification with the Player Character as Determinant 
+	of VideoGames Enjoyment}: en los videojuegos, la interactividad juega un 
+	papel importante para identificar y adoptar un determinado concepto, ya que 
+	dentro del videojuego el jugador no es un espectador, pues participa 
+	directamente en la historia e interactúa con el mundo del personaje; esto 
+	genera una relación íntima entre el jugador y el personaje puesto que es 
+	gracias al jugador que el personaje puede avanzar en la historia y a su vez 
+	es gracias al personaje que el jugador puede interactuar con la historia
+	\cite{PlayerIdentification}. 
+\end{itemize}
