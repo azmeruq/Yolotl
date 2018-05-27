@@ -1,0 +1,71 @@
+\select@language {spanish}
+\contentsline {chapter}{Advertencia}{\es@scroman {ii}}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Propuesta}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Planteamiento del problema}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Marco Teorico}{3}{subsection.2.1.2}
+\contentsline {subsubsection}{Videojuego}{3}{subsection.2.1.2}
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a de desarrollo}{4}{subsection.2.1.2}
+\contentsline {subsubsection}{Herramientas de desarrollo}{5}{subsection.2.1.2}
+\contentsline {subsubsection}{Cultura}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Planteamiento de la soluci\IeC {\'o}n}{7}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Ajustes al trabajo terminal}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Correci\IeC {\'o}n del enfoque de la soluci\IeC {\'o}n}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Nueva divisi\IeC {\'o}n de trabajo}{7}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Actualizando el motor de juego}{8}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Contribuciones}{9}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Modelo de datos}{9}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Estrategias para combatir la adicci\IeC {\'o}n entre los usuarios}{10}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Modelo de Negocios}{11}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Trabajo realizado durante trabajo terminal 1}{11}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Etapa de Preproducci\IeC {\'o}n}{11}{subsection.2.4.1}
+\contentsline {subsubsection}{Primer Sprint Huddle de Preproducci\IeC {\'o}n}{11}{subsection.2.4.1}
+\contentsline {subsubsection}{Segundo Sprint Huddle de Preproducci\IeC {\'o}n}{11}{subsection.2.4.1}
+\contentsline {subsubsection}{Tercer Sprint Huddle de Preproducci\IeC {\'o}n}{12}{subsection.2.4.1}
+\contentsline {subsubsection}{Cuarto Sprint Huddle de Preproducci\IeC {\'o}n}{12}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Etapa de producci\IeC {\'o}n}{12}{subsection.2.4.2}
+\contentsline {subsubsection}{Primer Sprint Huddle de Producci\IeC {\'o}n.}{12}{subsection.2.4.2}
+\contentsline {subsubsection}{Segundo Sprint Huddle de Producci\IeC {\'o}n.}{13}{figure.2.5}
+\contentsline {chapter}{\numberline {3}Trabajo realizado}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Etapa de producci\IeC {\'o}n de \textit {Huddle}}{15}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Cuarto \textit {sprint} de producci\IeC {\'o}n}{15}{subsection.3.1.1}
+\contentsline {subsubsection}{Creaci\IeC {\'o}n de las maquetas de los niveles pares restantes}{15}{subsection.3.1.1}
+\contentsline {subsubsection}{Creaci\IeC {\'o}n de los \textit {sprites} faltantes}{15}{figure.3.1}
+\contentsline {subsection}{\numberline {3.1.2}Sexto \textit {sprint} de producci\IeC {\'o}n}{16}{subsection.3.1.2}
+\contentsline {subsubsection}{Implementando los enemigos normales del juego}{16}{subsection.3.1.2}
+\contentsline {subsubsection}{Implementando los enemigos jefes del juego}{20}{figure.3.15}
+\contentsline {subsubsection}{Implementando los ataques enemigos del juego}{22}{figure.3.17}
+\contentsline {subsubsection}{Implementando los obst\IeC {\'a}culos}{25}{figure.3.19}
+\contentsline {subsubsection}{Implementando los \IeC {\'\i }tems y los objetos coleccionables}{28}{figure.3.23}
+\contentsline {subsubsection}{Implementaci\IeC {\'o}n de los puntos de guardado}{30}{figure.3.24}
+\contentsline {subsection}{\numberline {3.1.3}Octavo \textit {sprint} de producci\IeC {\'o}n}{30}{subsection.3.1.3}
+\contentsline {subsubsection}{Controlador de Audio}{30}{subsection.3.1.3}
+\contentsline {subsubsection}{Controlador de Di\IeC {\'a}logos}{31}{figure.3.28}
+\contentsline {subsubsection}{Controlador de los datos del juego}{32}{figure.3.31}
+\contentsline {subsubsection}{Controlador de fin de la partida}{34}{figure.3.33}
+\contentsline {subsubsection}{Controlador de la barra de vida y de \textit {tonalli} del jugador}{35}{figure.3.35}
+\contentsline {subsubsection}{Controlador del panel de marcadores}{36}{figure.3.36}
+\contentsline {subsubsection}{Controlador de pausa en el juego}{36}{figure.3.37}
+\contentsline {subsubsection}{Controlador de efectos especiales}{36}{figure.3.39}
+\contentsline {subsubsection}{Cierre del sprint}{37}{figure.3.39}
+\contentsline {subsection}{\numberline {3.1.4}D\IeC {\'e}cimo \textit {sprint} de producci\IeC {\'o}n}{38}{subsection.3.1.4}
+\contentsline {subsubsection}{Construcci\IeC {\'o}n del escenario}{39}{subsection.3.1.4}
+\contentsline {subsubsection}{Configuraci\IeC {\'o}n de la c\IeC {\'a}mara}{41}{figure.3.43}
+\contentsline {subsubsection}{Creando el controlador del nivel}{42}{figure.3.48}
+\contentsline {subsubsection}{Creaci\IeC {\'o}n de las cinem\IeC {\'a}ticas del juego}{43}{figure.3.48}
+\contentsline {subsubsection}{Agregando la funcionalidad faltante al men\IeC {\'u} principal}{44}{figure.3.49}
+\contentsline {subsubsection}{Creaci\IeC {\'o}n de la funcionalidad del men\IeC {\'u} de selecci\IeC {\'o}n de nivel}{45}{figure.3.50}
+\contentsline {chapter}{\numberline {4}Resultados obtenidos}{48}{chapter.4}
+\contentsline {section}{\numberline {4.1}Prueba}{48}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Objetivo de la prueba}{48}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Herramientas utilizadas durante la prueba}{48}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Aplicaci\IeC {\'o}n de la prueba}{48}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Conclusiones de la prueba}{48}{subsection.4.1.4}
+\contentsline {chapter}{\numberline {5}Conclusiones}{49}{chapter.5}
+\contentsline {chapter}{\numberline {6}Anexos}{52}{chapter.6}
+\contentsline {section}{\numberline {6.1}Interfaces}{52}{section.6.1}
+\contentsline {section}{\numberline {6.2}Dise\IeC {\~n}o de Personajes}{52}{section.6.2}
+\contentsline {section}{\numberline {6.3}Modelo de Datos}{52}{section.6.3}
+\contentsline {section}{\numberline {6.4}Control de adicci\IeC {\'o}n en el jugador}{52}{section.6.4}
+\contentsline {section}{\numberline {6.5}Maquetas de niveles}{52}{section.6.5}
