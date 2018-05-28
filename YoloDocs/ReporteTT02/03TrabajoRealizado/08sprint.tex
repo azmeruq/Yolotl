@@ -1,11 +1,11 @@
-\subsection{Octavo \textit{sprint} de producción}
+\section{Octavo \textit{sprint} de producción}
 En este \textit{sprint} se implementa en código la funcionalidad de todos los 
 elementos controladores del juego y sus auxiliares, exceptuando a los 
 controladores de los niveles ya que éstos se desarrollarán en el décimo 
 \textit{sprint} dado que se requieren los niveles terminados para comprobar su 
 funcionalidad.
 
-\subsubsection{Controlador de Audio}
+\subsection{Controlador de Audio}
 Este controlador es el encargado de gestionar los efectos de sonido del 
 juego. Logra su funcionamiento con ayuda de la clase controladora 
 \textit{AudioCtrl} y de la clase auxiliar \textit{PlayerAudio}. 
@@ -78,7 +78,7 @@ del enemigo. En la figura se pueden ver los atributos y los métodos de la clase
 		\label{fig:AudioCrl}
 	\end{figure}
 
-\subsubsection{Controlador de Diálogos}\label{ControladorDialogo}
+\subsection{Controlador de Diálogos}\label{ControladorDialogo}
 Este controlador se emplea en la cinemáticas del juego.El controlador de 
 Diálogos se vale de cuatro clases para su funcionamiento: 
 \textit{Dialogue}, \textit{Dialogues}, \textit{DialogueFile} y 
@@ -126,7 +126,7 @@ mostrar esta animación.
 		\label{fig:DialoguesCtrl}
 	\end{figure}
 
-\subsubsection{Controlador de los datos del juego}
+\subsection{Controlador de los datos del juego}
 El controlador de datos del juego es el encargado de gestionar los datos 
 relacionados al progreso del jugador, es decir los niveles desbloqueados, la 
 cantidad de vida, la cantidad de \textit{tonalli}, el marcador y la cantidad de 
@@ -184,7 +184,7 @@ conflictos por múltiples instancias de la clase \textit{GameDataCtrl}.
 		\label{fig:GameDataCtrl}
 	\end{figure}
 
-\subsubsection{Controlador de fin de la partida}
+\subsection{Controlador de fin de la partida}
 El controlador de fin de partida funciona a partir de la clase 
 \textit{GameOverCtrl} y de un \textit{GameObject} de tipo \textit{Panel}. La 
 logica detras este controlador es la siguiente, en el \textit{Panel} se 
@@ -211,7 +211,7 @@ se encarga de la funcionalidad de los botones y de hacer aparecer el
 		\label{fig:GameOverCtrl}
 	\end{figure} 
 
-\subsubsection{Controlador de la barra de vida y de \textit{tonalli} del jugador}
+\subsection{Controlador de la barra de vida y de \textit{tonalli} del jugador}
 Este controlador se encarga de actualizar gráficamente la cantidad de vida y 
 \textit{tonalli} con la que cuenta el jugador. Para la funcionalidad de este 
 controlador se implementa un \textit{Panel} \textit{GameObject} para que 
@@ -251,7 +251,7 @@ respectivamente.
 		\label{fig:HealthBar}
 	\end{figure} 
 	
-\subsubsection{Controlador del panel de marcadores}
+\subsection{Controlador del panel de marcadores}
 El controlador del panel de marcadores es el encargado de actualizar gráficamente cuantos objetos coleccionables ha juntado el jugador dentro de un nivel, ya sean llaves o \textit{xoloitzcuintles}, ver figura \ref{fig:HUB}. Para implementar la actualización gráfica de los marcadores ser crea un \textit{panel} \textit{GameObject} para contener los iconos de los objetos coleccionables y el texto que proporciona la información de los mismos. La clase \textit{HUBCtrl} es encargada de actualizar el texto referente a los marcadores; para tal funcion se vale de dos métodos:
 
 	\begin{itemize}
@@ -268,7 +268,7 @@ El controlador del panel de marcadores es el encargado de actualizar gráficamen
 		\label{fig:HUB}
 	\end{figure} 
 	
-\subsubsection{Controlador de pausa en el juego}
+\subsection{Controlador de pausa en el juego}
 Este controlador permite pausar el nivel que se esta jugando al oprimir el botón 
 de pausa que se encuentra en la esquina superior derecha de la pantalla, ver 
 figura \ref{fig:PausedFuctionality}. Para implementar esta funcionalidad se 
@@ -316,7 +316,7 @@ código.
 		\label{fig:pauseMethods}
 	\end{figure} 
 	
-\subsubsection{Controlador de efectos especiales}
+\subsection{Controlador de efectos especiales}
 Este controlador muestra dos efectos especiales: una explosion cunado un enemigo o el jugador son derrotados y un destello cuando el jugador toca un ítem o un objeto colleccionable. Para generar el controlador se utilizan dos clases:
 
 \begin{itemize}
@@ -326,7 +326,7 @@ Este controlador muestra dos efectos especiales: una explosion cunado un enemigo
 
 Como sucede con el controlador de efectos de sonido, los métodos que generan los efectos especiales de la clase \textit{SFXCtrl} son mandados a llamar dentro de otras clases como \textit{Player} o \textit{Enemy} cuando el jugador o el enemigo muere y el el gestor de colisiones de la clase \textit{Player}.
 
-\subsubsection{Cierre del sprint}
+\subsection{Cierre del sprint}
 Este \textit{sprint} se finaliza sin contratiempos y logrando el objetivo del 
 mismo, que es generar los controladores comunes de los niveles. Por tal motivo, al 
 finalizar el octavo \textit{sprit} se cuentan con los controladores y actores 

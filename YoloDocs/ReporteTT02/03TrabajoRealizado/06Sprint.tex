@@ -1,11 +1,11 @@
-\subsection{Sexto \textit{sprint} de producción}
+\section{Sexto \textit{sprint} de producción}
 En este \textit{sprint} se tiene como objetivo la implementación de todos los 
 actores del juego tanto a nivel de codigo como en la creación de los 
 \textit{GameObjects} para generar su posterior \textit{Assets}. En esta sección 
 no se hablan de aquellos actores que se hayan implementado desde Trabajo terminal 
 1 a no ser que su funcionalidad se haya rediseñado.
 
-\subsubsection{Implementando los enemigos normales del juego} 
+\subsection{Implementando los enemigos normales del juego} 
 Las primeras clases actoras en ser programadas fueron las correspondientes a los 
 enemigos normales, estas clases se programaron a la par que la clase \textit{Player}. 
 Si bien la clase \textit{Player} ya estaba programada desde los primeros prototipos, 
@@ -180,7 +180,7 @@ funcionalidad se implementa la clase SFXCtrl y AudioCtrl para manejar los efecto
 de especiales y el sonido respectivamente, siendo estos los primeros controladores 
 en ser implementados.
 
-\subsubsection{Implementando los enemigos jefes del juego}
+\subsection{Implementando los enemigos jefes del juego}
 Para la implementación de los jefes se reutilizan las configuraciones de los enemigos 
 normales referente a componentes como \textit{Rigidbody2D} y el \textit{Colisionador}, 
 el uso de la clase \textit{Enemy} para el manejo de vida y el uso de los efectos 
@@ -261,7 +261,7 @@ derrotar al enemigo.
     			\label{fig:EnemyMaquina}
 			\end{figure}
 
-\subsubsection{Implementando los ataques enemigos del juego}
+\subsection{Implementando los ataques enemigos del juego}
 Dentro del juego existen seis tipos de ataques enemigos:
 	\begin{itemize}
 		\item \textbf{Disparos con una trayectoria definida:} Este tipo de 
@@ -358,7 +358,7 @@ Dentro del juego existen seis tipos de ataques enemigos:
 		\textit{Tepeyóllotl}.
 	\end{itemize}
  
-\subsubsection{Implementando los obstáculos}
+\subsection{Implementando los obstáculos}
 Una de las características de un juego de plataformas es la existencia de diferentes 
 obstáculos que el jugador debe de superar por medio de saltos\cite{Ref_JuegoDisenio}. 
 En \textit{Yolotl} se diseñaron e implementaron diferentes tipos de obstáculos 
@@ -488,7 +488,7 @@ uno de ellos y cómo fue que fueron implementados en el juego:
 		apareciendo para avanzar, ver figura .
 	\end{itemize}
 
-\subsubsection{Implementando los ítems y los objetos coleccionables}
+\subsection{Implementando los ítems y los objetos coleccionables}
 Las ultimas clases actoras en ser implementadas fueron los ítems, los objetos 
 coleccionables y los puntos de guardado, ya que en el caso de los ítems y los 
 puntos de guardado se necesitaba que el jugador sufriera daño, gastara 
@@ -531,7 +531,7 @@ requiere de la actualización de un elemento en pantalla (ver figura \ref{fig:Co
 	  		\label{fig:CollectableObjects}
 		\end{figure}
 
-\subsubsection{Implementación de los puntos de guardado}
+\subsection{Implementación de los puntos de guardado}
 Los puntos de guardado o \textit{checkpoints} son los actores encargados de 
 hacer aparecer al jugador en una posición del nivel una vez que éste haya muerto, 
 evitando que el jugador pierda su progreso dentro del nivel. Un 
@@ -581,7 +581,7 @@ Existen dos tipos de \textit{checkPoints}:
     			\label{fig:CheckMethod}	
 \end{figure}
 
-\subsubsection{Cierre del sprint}
+\subsection{Cierre del sprint}
 Al termino de este \textit{sprint} se cuenta con todos los \textit{Assets} de 
 los actores organizados en diferentes carpetas como \textit{Player, Obstacles, Enemies}, 
 etc. Este \textit{sprint} se cierra con éxito y deja todos los elementos listos 
