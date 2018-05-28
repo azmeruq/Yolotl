@@ -3,11 +3,30 @@ En esta sección se definen todas las nuevas estrategias a seguir para agilizar 
 optimizar el desarrollo del juego.
 
 \subsection{Correción del enfoque de la solución}
--en lugar de gamificación se usa serious games. ¿Que causo el cambio? ¿Porque?
+Para el enfoque de solución se decide remplazar la gamificación por el termino 
+\textit{Serious Games}. Esta modificación nace a partir de la pregunta de: 
+“¿Se puede gamificar un videojuego?”. Definiendo la gamificación como el uso de 
+elementos del juego y el pensamiento basado en juego en entornos no relacionados 
+con el juego para aumentar el compromiso o modificar el comportamiento
+\cite{RefIntroGamificacion}, la gamificación de un juego resulta en una contradicción 
+del mismo concepto ya que gamificación solo es aplicable a entornos ajenos a 
+juegos. Por su parte \textit{Serious Games} queda definido como juegos cuyo 
+propósito va más allá del entrenamiento\cite{Ref:Serious}. Los 
+\textit{Serious Games} pueden ser utilizados para la educación, la capacitación, 
+la medicina como medio terapéutico y en última instancia para la persuasión, es 
+decir un juego puede hacer cociente al jugador de algún problema 
+\cite{ferreira2002serious}. El concepto de \textit{Serious Games} se ajusta 
+al enfoque que aborda el juego desarrollado durante el presente trabajo terminal. 
+Esta modificación no impacta directamente en el trabajo que se tenía hasta el 
+punto en el que se cambia el enfoque de la solución; siendo esta modificación 
+un cambio en el empleo de un tecnicismo para hablar sobre el proyecto.
 
 
-\subsection{Nueva división de trabajo}
-Para realizar la segunda parte del trabajo terminal se decidió cambiar la división del trabajo con el objetivo de agilizar el desarrollo. Al terminar los sprints anteriores (Poner los problemas). Por tal motivo se decide reorganizar la asignación de 
+\subsection{Nueva división de trabajo} \label{Sec:AsignacionTrabajo}
+Para realizar la segunda parte del trabajo terminal se decidió cambiar la división 
+del trabajo con el objetivo de agilizar el desarrollo. Al terminar los sprints 
+anteriores se podía observar que la realización de un nivel estaba llevando 
+demasiado tiempo. Por tal motivo se decide reorganizar la asignación de 
 tareas, en lugar de que los miembros del equipo de desarrollo se encarguen del 
 mismo nivel, se reparten los niveles restantes del desarrollo entre los 
 integrantes del equipo. Quedando la asignación de los niveles como se ve en la 
@@ -21,7 +40,11 @@ figura \ref{fig:Tareas} .
 		\end{figure}
 
 
-Esta división de trabajo permite que los niveles se desarrollen de manera paralela y no de manera secuencial como se había trabajado hasta este \textit{sprint}; simulando de esta forma un flujo de trabajo similar a procesamiento multihilo, en el que cada integrante del equipo es un hilo y desarrolla sus tareas de manera paralela al otro.
+Esta división de trabajo permite que los niveles se desarrollen de manera 
+paralela y no de manera secuencial como se había trabajado hasta este \textit{sprint}; 
+simulando de esta forma un flujo de trabajo similar a procesamiento multihilo, en 
+el que cada integrante del equipo es un hilo y desarrolla sus tareas de manera paralela 
+al otro.
 
 \subsection{Actualizando el motor de juego}
 Se decidió cambiar la versión 5.4 de \textit{Unity} por la version versión 
@@ -31,8 +54,8 @@ creación de niveles como el uso de:
 		\item \textbf{\textit{Tilemap}:} Herramienta para el mapeado de niveles. Esta 
 		herramienta facilita la creación de mapas al crear una malla sobre la que 
 		se arrastraran diferentes \textit{Sprites} que se hayan importado previamente 
-		al tilemap (ver figura \ref{fig:TilemapPantalla}). En la sección () se 
-		profundizará su funcionamiento.
+		al tilemap (ver figura \ref{fig:TilemapPantalla}). En la sección 
+		\ref{ConstruccionNivel} se profundizará su funcionamiento.
 		
 		\begin{figure}[h]
     			\centering
@@ -49,7 +72,7 @@ creación de niveles como el uso de:
 		descarga directamente desde la tienda de \textit{assets} de \textit{Unity} y 
 		fue desarrollado por los ingenieros de \textit{Unity}, lo que significa que 
 		no genera conflictos o no requiere de configuraciones extras al proyecto para 
-		importar. En la sección () se profundizará su funcionamiento.
+		importar. En la sección \ref{Cinemachine} se profundizará su funcionamiento.
 			
 			\begin{figure}[h]
     			\centering
@@ -62,8 +85,8 @@ creación de niveles como el uso de:
 		\item \textbf{\textit{Sprite Packer}}: Si bien no es una herramienta para 
 		construcción de niveles o un \textit{asset}, esta herramienta es una de las 
 		más útiles que se agregó a la nueva versión de \textit{Unity} ya que, como 
-		su nombre lo indica, permite el empaquetado de \textit{sprites} (ver figura ). 
-		Empaquetar 
+		su nombre lo indica, permite el empaquetado de \textit{sprites} (ver figura 
+		\ref{fig:TilemapPantalla}). Empaquetar 
 		los \textit{sprites} es una práctica que optimiza el renderizado de objetos, 
 		ya que el controlador de gráficos de \textit{Unity} realiza una sola llamada 
 		por paquete cuando renderiza los objetos y con esa única llamada renderiza todos 
