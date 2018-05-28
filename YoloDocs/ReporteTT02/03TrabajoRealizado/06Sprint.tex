@@ -1,5 +1,9 @@
 \subsection{Sexto \textit{sprint} de producción}
-
+En este \textit{sprint} se tiene como objetivo la implementación de todos los 
+actores del juego tanto a nivel de codigo como en la creación de los 
+\textit{GameObjects} para generar su posterior \textit{Assets}. En esta sección 
+no se hablan de aquellos actores que se hayan implementado desde Trabajo terminal 
+1 a no ser que su funcionalidad se haya rediseñado.
 
 \subsubsection{Implementando los enemigos normales del juego} 
 Las primeras clases actoras en ser programadas fueron las correspondientes a los 
@@ -8,10 +12,10 @@ Si bien la clase \textit{Player} ya estaba programada desde los primeros prototi
 esta clase no contaba con toda su funcionalidad implementada y la funcionalidad 
 faltante tuvo que ser implementada a la par que otras clases para verificar el 
 correcto funcionamiento en la interacción de clases como la de los enemigos y los 
-\textit{items}.
+\textit{ítems}.
 \\
 \par 
-Es verdad que ya existían enemigos desde los primeros prototipos; no obstante, 
+Al igual que con la clase \textit{Player},  existían enemigos desde los primeros prototipos; no obstante, 
 su funcionalidad tuvo que ser reimplementada a fin de ofrecer un desempeño que 
 optimizará recursos y agregará nuevas funcionalidades. A continuación, se listan los 
 cambios que presentan los enemigos de séptimo \textit{sprint} en relación de los 
@@ -514,7 +518,7 @@ y en cuanto se ha incrementado el poder del jefe(ver figura
 \ref{fig:CollectableObjects}); mientras que en el nivel 4, los coleccionables 
 son llaves y su función es la de desbloquear la transición al siguiente nivel 
 solo si se han juntado todas las llaves; visualmente esta actualización solo 
-requiere de la actualización de un elemento en pantalla (ver figura ). Para solucionar esto se crearon dos etiquetas para cada tipo de coleccionable: \textit{CollectableDog} y \textit{CollectableKey}.  Dejando al gestor de colisiones de la clase \textit{Player} verificar por medio de la etiqueta de qué tipo de coleccionable se trata e invoca al controlador de la interfaz gráfica de los marcadores del juego o HUB, ver figura .
+requiere de la actualización de un elemento en pantalla (ver figura \ref{fig:CollectableObjects}). Para solucionar esto se crearon dos etiquetas para cada tipo de coleccionable: \textit{CollectableDog} y \textit{CollectableKey}.  Dejando al gestor de colisiones de la clase \textit{Player} verificar por medio de la etiqueta de qué tipo de coleccionable se trata e invoca al controlador de la interfaz gráfica de los marcadores del juego o HUB.
 			
 			\begin{figure}[h]
 	  		\centering
@@ -528,3 +532,57 @@ requiere de la actualización de un elemento en pantalla (ver figura ). Para sol
 		\end{figure}
 
 \subsubsection{Implementación de los puntos de guardado}
+Los puntos de guardado o \textit{checkpoints} son los actores encargados de 
+hacer aparecer al jugador en una posición del nivel una vez que éste haya muerto, 
+evitando que el jugador pierda su progreso dentro del nivel. Un 
+\textit{checkpoint} se activa cuando el jugador hace contacto con éste. La 
+funcionalidad de este actor esta dada por la clase \textit{CheckPoint}, esta clase 
+tiene como atributos(ver figura \ref{fig:CheckAtri}):
+
+\begin{itemize}
+	\item \textit{\textbf{isActive}}: Atributo boleano. Cuando es verdadero indica 
+	que el jugador  ha pasado por el checkpoint. Solo puede haber un único checkpoint 
+	activo.
+	\item \textit{\textbf{CheckPointsList}}: Arreglo de GameObjects que instancían 
+	la clase CheckPoint.
+\end{itemize}
+
+Cuando el jugador entra en contacto con el \textit{checkPoint}, éste manda a 
+llamar el método \textit{ActivateCheckPoint}, este método toma todos los 
+elementos que hay en  \textit{CheckPointsList} y vuelve su atributo 
+\textit{isActive} falso, después vuelve verdadero el atributo \textit{isActive} 
+del \textit{checkPoint} que fue tocado por el jugador. Cuando el jugador muere 
+se manda a llamar el  método \textit{GetActivePosition}, este metodo busca el 
+\textit{checkPoint} activo y revive al jugador en esa posición. En la figura 
+\ref{fig:CheckMethod} se muestran los métodos de esta clase. 
+
+Existen dos tipos de \textit{checkPoints}: 
+	\begin{itemize}
+		\item \textbf{\textit{CheckPoint} vacío}: este checkPoint no tiene ningún 
+		sprite asignado y se encuentra al inicio del nivel. Esta activo por defecto 
+		y si el jugador muere sin antes tocar algún otro \textit{checkPoint}, la 
+		posición de este \textit{checkPoint} es donde aparecerá al revivir.
+		\item \textbf{\textit{CheckPoint} normal}: Este \textit{checkPoint} tiene un 
+		búho como \textit{sprite} y una animación para cuando el jugador interactua con 
+		él.
+	\end{itemize}
+	
+\begin{figure}[h]
+    			\centering
+    			\includegraphics[width=0.3\textwidth]{03TrabajoRealizado/imagenes/checkpoint.png}
+    			\caption{Atributos de la clase \textit{CheckPoint}}
+    			\label{fig:CheckAtri}	
+\end{figure}
+
+\begin{figure}[h]
+    			\centering
+    			\includegraphics[width=0.3\textwidth]{03TrabajoRealizado/imagenes/checkpointmethods.png}
+    			\caption{Métodos de la clase \textit{CheckPoint}}
+    			\label{fig:CheckMethod}	
+\end{figure}
+
+\subsubsection{Cierre del sprint}
+Al termino de este \textit{sprint} se cuenta con todos los \textit{Assets} de 
+los actores organizados en diferentes carpetas como \textit{Player, Obstacles, Enemies}, 
+etc. Este \textit{sprint} se cierra con éxito y deja todos los elementos listos 
+para la construcción de las clases controladoras. 
