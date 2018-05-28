@@ -1,0 +1,104 @@
+\select@language {spanish}
+\contentsline {chapter}{Advertencia}{\es@scroman {ii}}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Propuesta}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Planteamiento del problema}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Marco Teorico}{3}{subsection.2.1.2}
+\contentsline {subsubsection}{Videojuego}{3}{subsection.2.1.2}
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a de desarrollo}{4}{subsection.2.1.2}
+\contentsline {subsubsection}{Herramientas de desarrollo}{5}{subsection.2.1.2}
+\contentsline {subsubsection}{Cultura}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Planteamiento de la soluci\IeC {\'o}n}{7}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Ajustes al trabajo terminal}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Correci\IeC {\'o}n del enfoque de la soluci\IeC {\'o}n}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Nueva divisi\IeC {\'o}n de trabajo}{8}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Actualizando el motor de juego}{8}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Contribuciones}{10}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Modelo de datos}{10}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Estrategias para combatir la adicci\IeC {\'o}n entre los usuarios}{10}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Trabajo realizado durante trabajo terminal 1}{11}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Etapa de Preproducci\IeC {\'o}n}{11}{subsection.2.4.1}
+\contentsline {subsubsection}{Primer Sprint Huddle de Preproducci\IeC {\'o}n}{11}{subsection.2.4.1}
+\contentsline {subsubsection}{Segundo Sprint Huddle de Preproducci\IeC {\'o}n}{11}{subsection.2.4.1}
+\contentsline {subsubsection}{Tercer Sprint Huddle de Preproducci\IeC {\'o}n}{12}{subsection.2.4.1}
+\contentsline {subsubsection}{Cuarto Sprint Huddle de Preproducci\IeC {\'o}n}{12}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Etapa de producci\IeC {\'o}n}{13}{subsection.2.4.2}
+\contentsline {subsubsection}{Primer Sprint Huddle de Producci\IeC {\'o}n.}{13}{subsection.2.4.2}
+\contentsline {subsubsection}{Segundo Sprint Huddle de Producci\IeC {\'o}n.}{13}{figure.2.5}
+\contentsline {chapter}{\numberline {3}Trabajo realizado}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}Cuarto \textit {sprint} de producci\IeC {\'o}n}{16}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Creaci\IeC {\'o}n de las maquetas de los niveles pares restantes}{16}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Creaci\IeC {\'o}n de los \textit {sprites} faltantes}{16}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Cierre del sprint}{18}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Sexto \textit {sprint} de producci\IeC {\'o}n}{19}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Implementando los enemigos normales del juego}{19}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Implementando los enemigos jefes del juego}{23}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Implementando los ataques enemigos del juego}{25}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Implementando los obst\IeC {\'a}culos}{27}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Implementando los \IeC {\'\i }tems y los objetos coleccionables}{29}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Implementaci\IeC {\'o}n de los puntos de guardado}{31}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Cierre del sprint}{32}{subsection.3.2.7}
+\contentsline {section}{\numberline {3.3}Octavo \textit {sprint} de producci\IeC {\'o}n}{32}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Controlador de Audio}{32}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Controlador de Di\IeC {\'a}logos}{34}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Controlador de los datos del juego}{35}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Controlador de fin de la partida}{36}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Controlador de la barra de vida y de \textit {tonalli} del jugador}{37}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Controlador del panel de marcadores}{38}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Controlador de pausa en el juego}{39}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Controlador de efectos especiales}{40}{subsection.3.3.8}
+\contentsline {subsection}{\numberline {3.3.9}Cierre del sprint}{40}{subsection.3.3.9}
+\contentsline {section}{\numberline {3.4}D\IeC {\'e}cimo \textit {sprint} de producci\IeC {\'o}n}{40}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Construcci\IeC {\'o}n del escenario}{42}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Configuraci\IeC {\'o}n de la c\IeC {\'a}mara}{43}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Creando el controlador del nivel}{45}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Creaci\IeC {\'o}n de las cinem\IeC {\'a}ticas del juego}{46}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Agregando la funcionalidad faltante al men\IeC {\'u} principal}{47}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Creaci\IeC {\'o}n de la funcionalidad del men\IeC {\'u} de selecci\IeC {\'o}n de nivel}{48}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.7}Cierre del sprint}{49}{subsection.3.4.7}
+\contentsline {chapter}{\numberline {4}Resultados obtenidos}{52}{chapter.4}
+\contentsline {section}{\numberline {4.1}Pruebas}{52}{section.4.1}
+\contentsline {section}{\numberline {4.2}Prueba}{52}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Prueba unitaria}{52}{subsection.4.2.1}
+\contentsline {subsubsection}{Objetivo de la prueba}{52}{subsection.4.2.1}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{52}{subsection.4.2.1}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{52}{subsection.4.2.1}
+\contentsline {subsubsection}{Conclusiones de la prueba}{53}{figure.4.1}
+\contentsline {subsection}{\numberline {4.2.2}Prueba de integraci\IeC {\'o}n}{53}{subsection.4.2.2}
+\contentsline {subsubsection}{Objetivo de la prueba}{53}{subsection.4.2.2}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{53}{subsection.4.2.2}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{54}{subsection.4.2.2}
+\contentsline {subsubsection}{Conclusiones de la prueba}{54}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Prueba de sistema}{54}{subsection.4.2.3}
+\contentsline {subsubsection}{Objetivo de la prueba}{54}{subsection.4.2.3}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{54}{subsection.4.2.3}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{54}{subsection.4.2.3}
+\contentsline {subsubsection}{Conclusiones de la prueba}{54}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Prueba de rendimiento}{55}{subsection.4.2.4}
+\contentsline {subsubsection}{Objetivo de la prueba}{55}{subsection.4.2.4}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{55}{subsection.4.2.4}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{55}{subsection.4.2.4}
+\contentsline {subsubsection}{Conclusiones de la prueba}{55}{figure.4.4}
+\contentsline {subsection}{\numberline {4.2.5}Prueba de rendimiento}{57}{subsection.4.2.5}
+\contentsline {subsubsection}{Objetivo de la prueba}{57}{subsection.4.2.5}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{57}{subsection.4.2.5}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{57}{subsection.4.2.5}
+\contentsline {subsubsection}{Conclusiones de la prueba}{57}{figure.4.6}
+\contentsline {subsection}{\numberline {4.2.6}Prueba de Disfrute}{57}{subsection.4.2.6}
+\contentsline {subsubsection}{Objetivo de la prueba}{57}{subsection.4.2.6}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{59}{subsection.4.2.6}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{59}{subsection.4.2.6}
+\contentsline {subsubsection}{Conclusiones de la prueba}{60}{figure.4.8}
+\contentsline {section}{\numberline {4.3}Niveles terminados}{61}{section.4.3}
+\contentsline {chapter}{\numberline {5}Conclusiones}{63}{chapter.5}
+\contentsline {section}{\numberline {5.1}Adiciones a la metodologia \textit {huddle}}{63}{section.5.1}
+\contentsline {section}{\numberline {5.2}Trabajo a futuro}{64}{section.5.2}
+\contentsline {chapter}{\numberline {6}Anexos}{67}{chapter.6}
+\contentsline {section}{\numberline {6.1}Interfaces}{67}{section.6.1}
+\contentsline {section}{\numberline {6.2}Dise\IeC {\~n}o de Personajes}{67}{section.6.2}
+\contentsline {section}{\numberline {6.3}Modelo de Datos}{67}{section.6.3}
+\contentsline {section}{\numberline {6.4}Control de adicci\IeC {\'o}n en el jugador}{67}{section.6.4}
+\contentsline {section}{\numberline {6.5}Maquetas de niveles}{67}{section.6.5}
+\contentsline {section}{\numberline {6.6}Cuestionario de disfrute del juego}{67}{section.6.6}
+\contentsline {section}{\numberline {6.7}Resultados de la encuesta del disfrute del juego}{67}{section.6.7}
