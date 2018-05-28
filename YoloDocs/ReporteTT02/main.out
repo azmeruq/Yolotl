@@ -12,50 +12,50 @@
 \BOOKMARK [1][-]{section.2.3}{Contribuciones}{chapter.2}% 12
 \BOOKMARK [2][-]{subsection.2.3.1}{Modelo de datos}{section.2.3}% 13
 \BOOKMARK [2][-]{subsection.2.3.2}{Estrategias para combatir la adicci\363n entre los usuarios}{section.2.3}% 14
-\BOOKMARK [2][-]{subsection.2.3.3}{Modelo de Negocios}{section.2.3}% 15
-\BOOKMARK [1][-]{section.2.4}{Trabajo realizado durante trabajo terminal 1}{chapter.2}% 16
-\BOOKMARK [2][-]{subsection.2.4.1}{Etapa de Preproducci\363n}{section.2.4}% 17
-\BOOKMARK [2][-]{subsection.2.4.2}{Etapa de producci\363n}{section.2.4}% 18
-\BOOKMARK [0][-]{chapter.3}{Trabajo realizado}{}% 19
-\BOOKMARK [1][-]{section.3.1}{Cuarto sprint de producci\363n}{chapter.3}% 20
-\BOOKMARK [2][-]{subsection.3.1.1}{Creaci\363n de las maquetas de los niveles pares restantes}{section.3.1}% 21
-\BOOKMARK [2][-]{subsection.3.1.2}{Creaci\363n de los sprites faltantes}{section.3.1}% 22
-\BOOKMARK [2][-]{subsection.3.1.3}{Cierre del sprint}{section.3.1}% 23
-\BOOKMARK [1][-]{section.3.2}{Sexto sprint de producci\363n}{chapter.3}% 24
-\BOOKMARK [2][-]{subsection.3.2.1}{Implementando los enemigos normales del juego}{section.3.2}% 25
-\BOOKMARK [2][-]{subsection.3.2.2}{Implementando los enemigos jefes del juego}{section.3.2}% 26
-\BOOKMARK [2][-]{subsection.3.2.3}{Implementando los ataques enemigos del juego}{section.3.2}% 27
-\BOOKMARK [2][-]{subsection.3.2.4}{Implementando los obst\341culos}{section.3.2}% 28
-\BOOKMARK [2][-]{subsection.3.2.5}{Implementando los \355tems y los objetos coleccionables}{section.3.2}% 29
-\BOOKMARK [2][-]{subsection.3.2.6}{Implementaci\363n de los puntos de guardado}{section.3.2}% 30
-\BOOKMARK [2][-]{subsection.3.2.7}{Cierre del sprint}{section.3.2}% 31
-\BOOKMARK [1][-]{section.3.3}{Octavo sprint de producci\363n}{chapter.3}% 32
-\BOOKMARK [2][-]{subsection.3.3.1}{Controlador de Audio}{section.3.3}% 33
-\BOOKMARK [2][-]{subsection.3.3.2}{Controlador de Di\341logos}{section.3.3}% 34
-\BOOKMARK [2][-]{subsection.3.3.3}{Controlador de los datos del juego}{section.3.3}% 35
-\BOOKMARK [2][-]{subsection.3.3.4}{Controlador de fin de la partida}{section.3.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.5}{Controlador de la barra de vida y de tonalli del jugador}{section.3.3}% 37
-\BOOKMARK [2][-]{subsection.3.3.6}{Controlador del panel de marcadores}{section.3.3}% 38
-\BOOKMARK [2][-]{subsection.3.3.7}{Controlador de pausa en el juego}{section.3.3}% 39
-\BOOKMARK [2][-]{subsection.3.3.8}{Controlador de efectos especiales}{section.3.3}% 40
-\BOOKMARK [2][-]{subsection.3.3.9}{Cierre del sprint}{section.3.3}% 41
-\BOOKMARK [1][-]{section.3.4}{D\351cimo sprint de producci\363n}{chapter.3}% 42
-\BOOKMARK [2][-]{subsection.3.4.1}{Construcci\363n del escenario}{section.3.4}% 43
-\BOOKMARK [2][-]{subsection.3.4.2}{Configuraci\363n de la c\341mara}{section.3.4}% 44
-\BOOKMARK [2][-]{subsection.3.4.3}{Creando el controlador del nivel}{section.3.4}% 45
-\BOOKMARK [2][-]{subsection.3.4.4}{Creaci\363n de las cinem\341ticas del juego}{section.3.4}% 46
-\BOOKMARK [2][-]{subsection.3.4.5}{Agregando la funcionalidad faltante al men\372 principal}{section.3.4}% 47
-\BOOKMARK [2][-]{subsection.3.4.6}{Creaci\363n de la funcionalidad del men\372 de selecci\363n de nivel}{section.3.4}% 48
-\BOOKMARK [2][-]{subsection.3.4.7}{Cierre del sprint}{section.3.4}% 49
-\BOOKMARK [0][-]{chapter.4}{Resultados obtenidos}{}% 50
-\BOOKMARK [1][-]{section.4.1}{Pruebas}{chapter.4}% 51
-\BOOKMARK [2][-]{subsection.4.1.1}{Prueba unitaria}{section.4.1}% 52
-\BOOKMARK [2][-]{subsection.4.1.2}{Prueba de integraci\363n}{section.4.1}% 53
-\BOOKMARK [2][-]{subsection.4.1.3}{Prueba de sistema}{section.4.1}% 54
-\BOOKMARK [2][-]{subsection.4.1.4}{Prueba de rendimiento}{section.4.1}% 55
-\BOOKMARK [2][-]{subsection.4.1.5}{Prueba de rendimiento}{section.4.1}% 56
-\BOOKMARK [2][-]{subsection.4.1.6}{Prueba de Disfrute}{section.4.1}% 57
-\BOOKMARK [1][-]{section.4.2}{Niveles terminados}{chapter.4}% 58
+\BOOKMARK [1][-]{section.2.4}{Trabajo realizado durante trabajo terminal 1}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.4.1}{Etapa de Preproducci\363n}{section.2.4}% 16
+\BOOKMARK [2][-]{subsection.2.4.2}{Etapa de producci\363n}{section.2.4}% 17
+\BOOKMARK [0][-]{chapter.3}{Trabajo realizado}{}% 18
+\BOOKMARK [1][-]{section.3.1}{Cuarto sprint de producci\363n}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.1.1}{Creaci\363n de las maquetas de los niveles pares restantes}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.2}{Creaci\363n de los sprites faltantes}{section.3.1}% 21
+\BOOKMARK [2][-]{subsection.3.1.3}{Cierre del sprint}{section.3.1}% 22
+\BOOKMARK [1][-]{section.3.2}{Sexto sprint de producci\363n}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.2.1}{Implementando los enemigos normales del juego}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.2}{Implementando los enemigos jefes del juego}{section.3.2}% 25
+\BOOKMARK [2][-]{subsection.3.2.3}{Implementando los ataques enemigos del juego}{section.3.2}% 26
+\BOOKMARK [2][-]{subsection.3.2.4}{Implementando los obst\341culos}{section.3.2}% 27
+\BOOKMARK [2][-]{subsection.3.2.5}{Implementando los \355tems y los objetos coleccionables}{section.3.2}% 28
+\BOOKMARK [2][-]{subsection.3.2.6}{Implementaci\363n de los puntos de guardado}{section.3.2}% 29
+\BOOKMARK [2][-]{subsection.3.2.7}{Cierre del sprint}{section.3.2}% 30
+\BOOKMARK [1][-]{section.3.3}{Octavo sprint de producci\363n}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.1}{Controlador de Audio}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.2}{Controlador de Di\341logos}{section.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.3}{Controlador de los datos del juego}{section.3.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.4}{Controlador de fin de la partida}{section.3.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.5}{Controlador de la barra de vida y de tonalli del jugador}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.6}{Controlador del panel de marcadores}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.7}{Controlador de pausa en el juego}{section.3.3}% 38
+\BOOKMARK [2][-]{subsection.3.3.8}{Controlador de efectos especiales}{section.3.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.9}{Cierre del sprint}{section.3.3}% 40
+\BOOKMARK [1][-]{section.3.4}{D\351cimo sprint de producci\363n}{chapter.3}% 41
+\BOOKMARK [2][-]{subsection.3.4.1}{Construcci\363n del escenario}{section.3.4}% 42
+\BOOKMARK [2][-]{subsection.3.4.2}{Configuraci\363n de la c\341mara}{section.3.4}% 43
+\BOOKMARK [2][-]{subsection.3.4.3}{Creando el controlador del nivel}{section.3.4}% 44
+\BOOKMARK [2][-]{subsection.3.4.4}{Creaci\363n de las cinem\341ticas del juego}{section.3.4}% 45
+\BOOKMARK [2][-]{subsection.3.4.5}{Agregando la funcionalidad faltante al men\372 principal}{section.3.4}% 46
+\BOOKMARK [2][-]{subsection.3.4.6}{Creaci\363n de la funcionalidad del men\372 de selecci\363n de nivel}{section.3.4}% 47
+\BOOKMARK [2][-]{subsection.3.4.7}{Cierre del sprint}{section.3.4}% 48
+\BOOKMARK [0][-]{chapter.4}{Resultados obtenidos}{}% 49
+\BOOKMARK [1][-]{section.4.1}{Pruebas}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.2}{Prueba}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.2.1}{Prueba unitaria}{section.4.2}% 52
+\BOOKMARK [2][-]{subsection.4.2.2}{Prueba de integraci\363n}{section.4.2}% 53
+\BOOKMARK [2][-]{subsection.4.2.3}{Prueba de sistema}{section.4.2}% 54
+\BOOKMARK [2][-]{subsection.4.2.4}{Prueba de rendimiento}{section.4.2}% 55
+\BOOKMARK [2][-]{subsection.4.2.5}{Prueba de rendimiento}{section.4.2}% 56
+\BOOKMARK [2][-]{subsection.4.2.6}{Prueba de Disfrute}{section.4.2}% 57
+\BOOKMARK [1][-]{section.4.3}{Niveles terminados}{chapter.4}% 58
 \BOOKMARK [0][-]{chapter.5}{Conclusiones}{}% 59
 \BOOKMARK [0][-]{chapter.6}{Anexos}{}% 60
 \BOOKMARK [1][-]{section.6.1}{Interfaces}{chapter.6}% 61
