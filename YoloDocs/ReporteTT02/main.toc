@@ -1,0 +1,449 @@
+\select@language {spanish}
+\contentsline {chapter}{Advertencia}{\es@scroman {ii}}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Propuesta}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Planteamiento del problema}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Marco Teorico}{3}{subsection.2.1.2}
+\contentsline {subsubsection}{Videojuego}{3}{subsection.2.1.2}
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a de desarrollo}{4}{subsection.2.1.2}
+\contentsline {subsubsection}{Herramientas de desarrollo}{5}{subsection.2.1.2}
+\contentsline {subsubsection}{Cultura}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Planteamiento de la soluci\IeC {\'o}n}{7}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Ajustes al trabajo terminal}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Correci\IeC {\'o}n del enfoque de la soluci\IeC {\'o}n}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Nueva divisi\IeC {\'o}n de trabajo}{8}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Actualizando el motor de juego}{8}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}M\IeC {\'a}quina de estados}{10}{subsection.2.2.4}
+\contentsline {subsubsection}{Jefe nivel 3}{10}{subsection.2.2.4}
+\contentsline {subsubsection}{Jefe nivel 5}{11}{figure.2.5}
+\contentsline {subsubsection}{Jefe nivel 7}{12}{figure.2.6}
+\contentsline {subsubsection}{Jefe nivel 9}{13}{figure.2.7}
+\contentsline {section}{\numberline {2.3}Contribuciones}{13}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}El juego}{14}{subsection.2.3.1}
+\contentsline {subsubsection}{Teor\IeC {\'\i }as del aprendizaje}{14}{subsection.2.3.1}
+\contentsline {subsubsection}{Los videojuegos como medio de comunicaci\IeC {\'o}n}{15}{subsection.2.3.1}
+\contentsline {subsubsection}{Serious games}{15}{subsection.2.3.1}
+\contentsline {subsubsection}{Motivos para jugar}{15}{table.2.1}
+\contentsline {subsection}{\numberline {2.3.2}Modelo de negocios en un videojuego}{16}{subsection.2.3.2}
+\contentsline {subsubsection}{Mercado global}{16}{subsection.2.3.2}
+\contentsline {subsubsection}{Presentaci\IeC {\'o}n al cliente}{17}{figure.2.10}
+\contentsline {subsubsection}{Formas de ingreso}{17}{table.2.2}
+\contentsline {subsubsection}{Ingredientes de monetizaci\IeC {\'o}n}{17}{table.2.3}
+\contentsline {subsection}{\numberline {2.3.3}Costo de hacer un videojuego}{19}{subsection.2.3.3}
+\contentsline {subsubsection}{Salarios}{19}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Vicio en el videojuego}{20}{subsection.2.3.4}
+\contentsline {subsubsection}{S\IeC {\'\i }ntomas de vicio}{20}{table.2.5}
+\contentsline {subsubsection}{Carcater\IeC {\'\i }sticas de un videojuego con potencial al vicio}{20}{table.2.5}
+\contentsline {subsubsection}{Causas del vicio ajenas al videojuego }{21}{table.2.5}
+\contentsline {subsubsection}{Prevenci\IeC {\'o}n del vicio}{21}{table.2.5}
+\contentsline {subsection}{\numberline {2.3.5}Modelo de datos}{22}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Estrategias para combatir la adicci\IeC {\'o}n entre los usuarios}{22}{subsection.2.3.6}
+\contentsline {section}{\numberline {2.4}Trabajo realizado durante trabajo terminal 1}{23}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Presentado en TT1}{23}{subsection.2.4.1}
+\contentsline {subsubsection}{Contexto}{23}{subsection.2.4.1}
+\contentsline {subsubsection}{Viabilidad}{23}{subsection.2.4.1}
+\contentsline {subsubsection}{An\IeC {\'a}lisis}{24}{subsection.2.4.1}
+\contentsline {subsubsection}{Progresi\IeC {\'o}n y prototipos}{24}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Etapa de Preproducci\IeC {\'o}n}{24}{subsection.2.4.2}
+\contentsline {subsubsection}{Primer Sprint Huddle de Preproducci\IeC {\'o}n}{24}{subsection.2.4.2}
+\contentsline {subsubsection}{Segundo Sprint Huddle de Preproducci\IeC {\'o}n}{25}{subsection.2.4.2}
+\contentsline {subsubsection}{Tercer Sprint Huddle de Preproducci\IeC {\'o}n}{25}{subsection.2.4.2}
+\contentsline {subsubsection}{Cuarto Sprint Huddle de Preproducci\IeC {\'o}n}{26}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Etapa de producci\IeC {\'o}n}{26}{subsection.2.4.3}
+\contentsline {subsubsection}{Primer Sprint Huddle de Producci\IeC {\'o}n.}{26}{subsection.2.4.3}
+\contentsline {subsubsection}{Segundo Sprint Huddle de Producci\IeC {\'o}n.}{27}{figure.2.11}
+\contentsline {chapter}{\numberline {3}Trabajo realizado}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Sprint plan 3}{29}{section.3.1}
+\contentsline {subsubsection}{SprintID}{29}{section.3.1}
+\contentsline {subsubsection}{Inicio}{29}{section.3.1}
+\contentsline {subsubsection}{Fin}{29}{section.3.1}
+\contentsline {subsubsection}{Meta}{29}{section.3.1}
+\contentsline {subsubsection}{Porcentaje}{29}{section.3.1}
+\contentsline {subsubsection}{FeatureID}{29}{section.3.1}
+\contentsline {subsubsection}{Nombre}{30}{section.3.1}
+\contentsline {subsubsection}{Estado}{30}{section.3.1}
+\contentsline {subsubsection}{SprintID}{30}{section.3.1}
+\contentsline {subsubsection}{Comentarios}{30}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Sprint backlog 3}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{Sprint backlog}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{Tareas}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{Tendencia}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{Esfuerzo restante}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{Tendencia actual}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{Progreso ideal}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{Tareas restantes}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{Nombre de la tarea}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{FeatureID}{31}{subsection.3.1.1}
+\contentsline {subsubsection}{Miembro}{31}{subsection.3.1.1}
+\contentsline {subsubsection}{Rol}{31}{subsection.3.1.1}
+\contentsline {subsubsection}{Estado}{31}{subsection.3.1.1}
+\contentsline {subsubsection}{Esfuerzo}{31}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Task Slips 3}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{FeatureID}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{Nombre}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{Tarea}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{Miembro}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{Terminado}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{Restante}{31}{subsection.3.1.2}
+\contentsline {subsubsection}{FeatureID}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Nombre}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Tarea}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Miembro}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Terminado}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Restante}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{FeatureID}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Nombre}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Tarea}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Miembro}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Terminado}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Restante}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{FeatureID}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Nombre}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Tarea}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Miembro}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Terminado}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Restante}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{FeatureID}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Nombre}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Tarea}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Miembro}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{Terminado}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Restante}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{FeatureID}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Nombre}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Tarea}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Miembro}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Terminado}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Restante}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{FeatureID}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Nombre}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Tarea}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Miembro}{34}{subsection.3.1.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{35}{subsection.3.1.2}
+\contentsline {subsubsection}{Terminado}{35}{subsection.3.1.2}
+\contentsline {subsubsection}{Restante}{35}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Cuarto \textit {sprint} de producci\IeC {\'o}n}{35}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Creaci\IeC {\'o}n de las maquetas de los niveles pares restantes}{35}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Creaci\IeC {\'o}n de los \textit {sprites} faltantes}{36}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Cierre del sprint}{37}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Sprint plan 5}{38}{section.3.3}
+\contentsline {subsubsection}{SprintID}{38}{section.3.3}
+\contentsline {subsubsection}{Inicio}{38}{section.3.3}
+\contentsline {subsubsection}{Fin}{38}{section.3.3}
+\contentsline {subsubsection}{Meta}{38}{section.3.3}
+\contentsline {subsubsection}{Porcentaje}{38}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Feature log 5}{38}{subsection.3.3.1}
+\contentsline {subsubsection}{FeatureID}{38}{subsection.3.3.1}
+\contentsline {subsubsection}{Nombre}{38}{subsection.3.3.1}
+\contentsline {subsubsection}{Estado}{38}{subsection.3.3.1}
+\contentsline {subsubsection}{SprintID}{38}{subsection.3.3.1}
+\contentsline {subsubsection}{Comentarios}{38}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Sprint backlog 5}{38}{subsection.3.3.2}
+\contentsline {subsubsection}{Sprint backlog}{38}{subsection.3.3.2}
+\contentsline {subsubsection}{Tareas}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Tendencia}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Esfuerzo restante}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Tendencia actual}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Progreso ideal}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Tareas restantes}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Nombre de la tarea}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{FeatureID}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Miembro}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Rol}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Estado}{39}{subsection.3.3.2}
+\contentsline {subsubsection}{Esfuerzo}{39}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Task Slips 5}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{FeatureID}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Nombre}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Tarea}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Miembro}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Terminado}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Restante}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{FeatureID}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Nombre}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Tarea}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Miembro}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{40}{subsection.3.3.3}
+\contentsline {subsubsection}{Terminado}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Restante}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{FeatureID}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Nombre}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Tarea}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Miembro}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Terminado}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Restante}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{FeatureID}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Nombre}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Tarea}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Miembro}{41}{subsection.3.3.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Terminado}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Restante}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{FeatureID}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Nombre}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Tarea}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Miembro}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Terminado}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Restante}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{FeatureID}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Nombre}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Tarea}{42}{subsection.3.3.3}
+\contentsline {subsubsection}{Miembro}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Terminado}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Restante}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{FeatureID}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Nombre}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Tarea}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Miembro}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Terminado}{43}{subsection.3.3.3}
+\contentsline {subsubsection}{Restante}{43}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Sexto \textit {sprint} de producci\IeC {\'o}n}{43}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Implementando los enemigos normales del juego}{44}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Implementando los enemigos jefes del juego}{47}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Implementando los ataques enemigos del juego}{49}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Implementando los obst\IeC {\'a}culos}{52}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Implementando los \IeC {\'\i }tems y los objetos coleccionables}{55}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Implementaci\IeC {\'o}n de los puntos de guardado}{55}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.7}Cierre del sprint}{56}{subsection.3.4.7}
+\contentsline {section}{\numberline {3.5}Sprint plan 7}{56}{section.3.5}
+\contentsline {subsubsection}{SprintID}{56}{section.3.5}
+\contentsline {subsubsection}{Inicio}{57}{section.3.5}
+\contentsline {subsubsection}{Fin}{57}{section.3.5}
+\contentsline {subsubsection}{Meta}{57}{section.3.5}
+\contentsline {subsubsection}{Porcentaje}{57}{section.3.5}
+\contentsline {subsubsection}{FeatureID}{57}{section.3.5}
+\contentsline {subsubsection}{Nombre}{57}{section.3.5}
+\contentsline {subsubsection}{Estado}{57}{section.3.5}
+\contentsline {subsubsection}{SprintID}{57}{section.3.5}
+\contentsline {subsubsection}{Comentarios}{57}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Sprint backlog 7}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Sprint backlog}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Tareas}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Tendencia}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Esfuerzo restante}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Tendencia actual}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Progreso ideal}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Tareas restantes}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Nombre de la tarea}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{FeatureID}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Miembro}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Rol}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Estado}{58}{subsection.3.5.1}
+\contentsline {subsubsection}{Esfuerzo}{59}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Task Slips 9}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{FeatureID}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Nombre}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Tarea}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Miembro}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Terminado}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Restante}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{FeatureID}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Nombre}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Tarea}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Miembro}{59}{subsection.3.5.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Terminado}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Restante}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{FeatureID}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Nombre}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Tarea}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Miembro}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Terminado}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Restante}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{FeatureID}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Nombre}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Tarea}{60}{subsection.3.5.2}
+\contentsline {subsubsection}{Miembro}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Terminado}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Restante}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{FeatureID}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Nombre}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Tarea}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Miembro}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Terminado}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Restante}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{FeatureID}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Nombre}{61}{subsection.3.5.2}
+\contentsline {subsubsection}{Tarea}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Miembro}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Terminado}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Restante}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{FeatureID}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Nombre}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Tarea}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Miembro}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Esfuerzo estimado}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Terminado}{62}{subsection.3.5.2}
+\contentsline {subsubsection}{Restante}{62}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Octavo \textit {sprint} de producci\IeC {\'o}n}{63}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Controlador de Audio}{63}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Controlador de Di\IeC {\'a}logos}{65}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Controlador de los datos del juego}{66}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Controlador de fin de la partida}{67}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.5}Controlador de la barra de vida y de \textit {tonalli} del jugador}{67}{subsection.3.6.5}
+\contentsline {subsection}{\numberline {3.6.6}Controlador del panel de marcadores}{69}{subsection.3.6.6}
+\contentsline {subsection}{\numberline {3.6.7}Controlador de pausa en el juego}{69}{subsection.3.6.7}
+\contentsline {subsection}{\numberline {3.6.8}Controlador de efectos especiales}{70}{subsection.3.6.8}
+\contentsline {subsection}{\numberline {3.6.9}Cierre del sprint}{71}{subsection.3.6.9}
+\contentsline {section}{\numberline {3.7}Sprint plan 9}{71}{section.3.7}
+\contentsline {subsubsection}{SprintID}{71}{section.3.7}
+\contentsline {subsubsection}{Inicio}{72}{section.3.7}
+\contentsline {subsubsection}{Fin}{72}{section.3.7}
+\contentsline {subsubsection}{Meta}{72}{section.3.7}
+\contentsline {subsubsection}{Porcentaje}{72}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Feature log 9}{72}{subsection.3.7.1}
+\contentsline {subsubsection}{FeatureID}{72}{subsection.3.7.1}
+\contentsline {subsubsection}{Nombre}{72}{subsection.3.7.1}
+\contentsline {subsubsection}{Estado}{72}{subsection.3.7.1}
+\contentsline {subsubsection}{SprintID}{72}{subsection.3.7.1}
+\contentsline {subsubsection}{Comentarios}{72}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Sprint backlog 9}{72}{subsection.3.7.2}
+\contentsline {subsubsection}{Sprint backlog}{72}{subsection.3.7.2}
+\contentsline {subsubsection}{Tareas}{72}{subsection.3.7.2}
+\contentsline {subsubsection}{Tendencia}{72}{subsection.3.7.2}
+\contentsline {subsubsection}{Esfuerzo restante}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{Tendencia actual}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{Progreso ideal}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{Tareas restantes}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{Nombre de la tarea}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{FeatureID}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{Miembro}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{Rol}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{Estado}{73}{subsection.3.7.2}
+\contentsline {subsubsection}{Esfuerzo}{73}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Task Slips 9}{73}{subsection.3.7.3}
+\contentsline {subsubsection}{FeatureID}{73}{subsection.3.7.3}
+\contentsline {subsubsection}{Nombre}{73}{subsection.3.7.3}
+\contentsline {subsubsection}{Tarea}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Miembro}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Terminado}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Restante}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{FeatureID}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Nombre}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Tarea}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Miembro}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Terminado}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Restante}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{FeatureID}{74}{subsection.3.7.3}
+\contentsline {subsubsection}{Nombre}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Tarea}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Miembro}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Terminado}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Restante}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{FeatureID}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Nombre}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Tarea}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Miembro}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Terminado}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{Restante}{75}{subsection.3.7.3}
+\contentsline {subsubsection}{FeatureID}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Nombre}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Tarea}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Miembro}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Terminado}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Restante}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{FeatureID}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Nombre}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Tarea}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Miembro}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Terminado}{76}{subsection.3.7.3}
+\contentsline {subsubsection}{Restante}{77}{subsection.3.7.3}
+\contentsline {subsubsection}{FeatureID}{77}{subsection.3.7.3}
+\contentsline {subsubsection}{Nombre}{77}{subsection.3.7.3}
+\contentsline {subsubsection}{Tarea}{77}{subsection.3.7.3}
+\contentsline {subsubsection}{Miembro}{77}{subsection.3.7.3}
+\contentsline {subsubsection}{Esfuerzo estimado}{77}{subsection.3.7.3}
+\contentsline {subsubsection}{Terminado}{77}{subsection.3.7.3}
+\contentsline {subsubsection}{Restante}{77}{subsection.3.7.3}
+\contentsline {section}{\numberline {3.8}D\IeC {\'e}cimo \textit {sprint} de producci\IeC {\'o}n}{77}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Construcci\IeC {\'o}n del escenario}{78}{subsection.3.8.1}
+\contentsline {subsection}{\numberline {3.8.2}Configuraci\IeC {\'o}n de la c\IeC {\'a}mara}{80}{subsection.3.8.2}
+\contentsline {subsection}{\numberline {3.8.3}Creando el controlador del nivel}{81}{subsection.3.8.3}
+\contentsline {subsection}{\numberline {3.8.4}Creaci\IeC {\'o}n de las cinem\IeC {\'a}ticas del juego}{82}{subsection.3.8.4}
+\contentsline {subsection}{\numberline {3.8.5}Agregando la funcionalidad faltante al men\IeC {\'u} principal}{84}{subsection.3.8.5}
+\contentsline {subsection}{\numberline {3.8.6}Creaci\IeC {\'o}n de la funcionalidad del men\IeC {\'u} de selecci\IeC {\'o}n de nivel}{85}{subsection.3.8.6}
+\contentsline {subsection}{\numberline {3.8.7}Cierre del sprint}{86}{subsection.3.8.7}
+\contentsline {chapter}{\numberline {4}Resultados obtenidos}{88}{chapter.4}
+\contentsline {section}{\numberline {4.1}Pruebas}{88}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Sprite packer}{88}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Mec\IeC {\'a}nicas del juego}{89}{subsection.4.1.2}
+\contentsline {subsubsection}{Salto del jugador}{89}{subsection.4.1.2}
+\contentsline {subsubsection}{Plataforma en movimiento}{89}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Din\IeC {\'a}micas del juego}{89}{subsection.4.1.3}
+\contentsline {subsubsection}{Salto bajo}{89}{subsection.4.1.3}
+\contentsline {subsubsection}{Instrucciones del juego}{90}{subsection.4.1.3}
+\contentsline {subsubsection}{Desbloqueo de personas}{90}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Est\IeC {\'e}tica del juego}{90}{subsection.4.1.4}
+\contentsline {subsubsection}{Ilustraciones de items}{90}{subsection.4.1.4}
+\contentsline {subsubsection}{Men\IeC {\'u} principal}{90}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Prueba unitaria}{90}{subsection.4.1.5}
+\contentsline {subsubsection}{Objetivo de la prueba}{91}{subsection.4.1.5}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{91}{subsection.4.1.5}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{91}{subsection.4.1.5}
+\contentsline {subsubsection}{Conclusiones de la prueba}{91}{figure.4.1}
+\contentsline {subsection}{\numberline {4.1.6}Prueba de integraci\IeC {\'o}n}{92}{subsection.4.1.6}
+\contentsline {subsubsection}{Objetivo de la prueba}{92}{subsection.4.1.6}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{92}{subsection.4.1.6}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{92}{subsection.4.1.6}
+\contentsline {subsubsection}{Conclusiones de la prueba}{92}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Prueba de sistema}{92}{subsection.4.1.7}
+\contentsline {subsubsection}{Objetivo de la prueba}{92}{subsection.4.1.7}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{92}{subsection.4.1.7}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{93}{subsection.4.1.7}
+\contentsline {subsubsection}{Conclusiones de la prueba}{93}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Prueba de rendimiento}{93}{subsection.4.1.8}
+\contentsline {subsubsection}{Objetivo de la prueba}{93}{subsection.4.1.8}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{93}{subsection.4.1.8}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{93}{subsection.4.1.8}
+\contentsline {subsubsection}{Conclusiones de la prueba}{93}{figure.4.4}
+\contentsline {subsection}{\numberline {4.1.9}Prueba de rendimiento}{95}{subsection.4.1.9}
+\contentsline {subsubsection}{Objetivo de la prueba}{95}{subsection.4.1.9}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{95}{subsection.4.1.9}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{95}{subsection.4.1.9}
+\contentsline {subsubsection}{Conclusiones de la prueba}{97}{figure.4.6}
+\contentsline {subsection}{\numberline {4.1.10}Prueba de Disfrute}{97}{subsection.4.1.10}
+\contentsline {subsubsection}{Objetivo de la prueba}{98}{subsection.4.1.10}
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{98}{subsection.4.1.10}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{98}{subsection.4.1.10}
+\contentsline {subsubsection}{Conclusiones de la prueba}{98}{figure.4.8}
+\contentsline {section}{\numberline {4.2}Niveles terminados}{100}{section.4.2}
+\contentsline {chapter}{\numberline {5}Conclusiones}{102}{chapter.5}
+\contentsline {section}{\numberline {5.1}Adiciones a la metodologia \textit {huddle}}{102}{section.5.1}
+\contentsline {section}{\numberline {5.2}Trabajo a futuro}{103}{section.5.2}
+\contentsline {chapter}{\numberline {6}Anexos}{106}{chapter.6}
+\contentsline {section}{\numberline {6.1}Interfaces}{106}{section.6.1}
+\contentsline {section}{\numberline {6.2}Dise\IeC {\~n}o de Personajes}{109}{section.6.2}
+\contentsline {section}{\numberline {6.3}Modelo de Datos}{114}{section.6.3}
+\contentsline {section}{\numberline {6.4}Control de adicci\IeC {\'o}n en el jugador}{115}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Notificaci\IeC {\'o}n de confirmaci\IeC {\'o}n para continuar la partida}{115}{subsection.6.4.1}
+\contentsline {subsubsection}{Implicaciones}{115}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Control paterno}{115}{subsection.6.4.2}
+\contentsline {subsubsection}{Implicaciones}{115}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Sistema de vidas}{115}{subsection.6.4.3}
+\contentsline {subsubsection}{Implicaciones}{116}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Observaciones}{116}{subsection.6.4.4}
+\contentsline {section}{\numberline {6.5}Cuestionario de disfrute del juego}{117}{section.6.5}
+\contentsline {section}{\numberline {6.6}Resultados de la encuesta del disfrute del juego}{122}{section.6.6}
