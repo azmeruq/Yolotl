@@ -1,10 +1,10 @@
-\section{Control de adicción en el jugador} \label{Anexo:AdiccJuga}
+\chapter{Control de adicción en el jugador} \label{Anexo:AdiccJuga}
 En este apartado se presentan las diferentes estrategias que se pueden 
 implementar dentro del presente trabajo terminal para evitar el desorden de 
 juego en sus jugadores. Cada estrategia se describe y en seguida se mencionan 
 las implicaciones de su implementación.
 
-\subsection{Notificación de confirmación para continuar la partida}
+\section{Notificación de confirmación para continuar la partida}
 Esta mecánica consiste en que después de que el juego detecta que el jugador ha 
 pasado mucho tiempo jugando (aproximadamente más de una hora); el juego se pausa 
 a sí mismo y le comunica al jugador que ha pasado mucho tiempo jugando, dándole 
@@ -13,7 +13,7 @@ algunos juegos de consola como \textit{Just Dance} o aquellos que involucran
 alguna actividad física; en el caso de \textit{Just Dance}, el juego se pausa a 
 sí mismo y le pregunta al jugador si no se siente fatigado por el largo tiempo 
 que éste ha estado activo.
-\subsubsection{Implicaciones}
+\subsection{Implicaciones}
 Esta mecánica exige que se manejen módulos que contabilicen el tiempo que el 
 jugador este dentro de la aplicación y lance mensajes después de que detecte que 
 ha pasado una cantidad significativa de tiempo. Si bien la implementación de 
@@ -22,7 +22,7 @@ módulos ya existentes del juego; no es muy recomendable de ser llevada a la
 práctica ya que se vale totalmente de la buena voluntad del jugador para 
 controlarse y no representa un limitador real del tiempo de partida.
 
-\subsection{Control paterno}
+\section{Control paterno}
 En esta mecánica de control se vincula la partida del jugador con una cuenta de 
 correo perteneciente a algún padre o tutor. La aplicación envía a esta cuenta un 
 registro de número de veces que el jugador abre el juego y cuánto tiempo 
@@ -31,7 +31,7 @@ envió de un formulario al correo del tutor en el cual éste pueda indicarle al
 juego cuantas veces al día y cuánto tiempo puede ser abierta diariamente o 
 semanalmente. 
 
-\subsubsection{Implicaciones}
+\subsection{Implicaciones}
 Esta mecánica es una de las que requiere mayor modificaciones y agregaciones al 
 sistema pues su implementación exige un módulo de monitoreo de tiempo, envió de 
 formularios, verificación de permisos y que el juego tenga la capacidad de 
@@ -41,7 +41,7 @@ jugadores más jóvenes dentro del público objetivo; no se debe de dejar a un l
 que la misma puede ser considerada intrusiva para los jugadores de mayor edad, 
 pudiendo repercutir de manera negativa en la experiencia de juego. 
 
-\subsection{Sistema de vidas}
+\section{Sistema de vidas}
 Esta mecánica plantea la existencia de una cantidad de vidas que el jugador 
 deberá de ocupar para poder avanzar dentro del juego, ya sea cuando ingrese a un 
 nivel o para revivir dentro del mismo. La cantidad de vidas usualmente se 
@@ -58,7 +58,7 @@ tiempo que el jugador invierte dentro de la aplicación, sino que este sistema
 permite a las empresas implementar microtransacciones dentro de sus juegos al 
 ofrecerle alternativas a sus jugadores para seguir jugando sin la necesidad de 
 esperar por nuevas vidas o \textit{AP.}  
-\subsubsection{Implicaciones}
+\subsection{Implicaciones}
 El desarrollo de un sistema de vidas dentro del juego demanda la implementación 
 de nuevas variables globales dentro del sistema, tal como la cantidad de vida y 
 un contador de tiempo que restaure las mismas. De igual forma, es necesario 
@@ -78,7 +78,7 @@ desorden de juego, esto debido a que existen diversos estudios en los que se ha
 logrado determinar que este tipo de estrategias favorecen al desorden de juego 
 al generar ansiedad en los jugadores con los tiempos de espera entre partidas.
 
-\subsection{Observaciones}
+\section{Observaciones}
 El desorden de juego es un problema que aqueja a muchos jugadores a nivel 
 mundial sin embargo es un problema complejo y que depende de muchos factores. El 
 principal reto que existe para desarrolladores para hacerle frente a este 
