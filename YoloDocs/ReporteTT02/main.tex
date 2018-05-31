@@ -48,6 +48,18 @@
 \usepackage{longtable}
 \usepackage{colortbl}
 \usepackage{array,multirow}
+
+%%Paquete referencias
+\usepackage[backend=bibtex, style=ieee]{biblatex}
+\addbibresource{00Biblio/02PlanPro.bib}
+\addbibresource{00Biblio/02ProblemaA.bib}
+\addbibresource{00Biblio/03MarcoMotor.bib}
+\addbibresource{00Biblio/03MarcoTeoCultura.bib}
+\addbibresource{00Biblio/03MarcoTeoDesarrolo.bib}
+\addbibresource{00Biblio/03MarcoTeoVideo.bib}
+\addbibresource{00Biblio/05TrabRealizado.bib}
+\addbibresource{00Biblio/biblio.bib}
+
 \usepackage{rotating}
 \usepackage{multirow}
 
@@ -78,8 +90,9 @@
 	\include{07Conclusiones}
 	
 	%===== Bibliografia
+	\printbibliography
 	\bibliographystyle{IEEEtran}
-	\bibliography{00Biblio/02ProblemaA.bib,00Biblio/03MarcoMotor.bib,00Biblio/03MarcoTeoCultura.bib,00Biblio/03MarcoTeoDesarrolo.bib,00Biblio/03MarcoTeoVideo.bib}
+	\bibliography{00Biblio/02ProblemaA.bib,00Biblio/03MarcoMotor.bib,00Biblio/03MarcoTeoCultura.bib,00Biblio/03MarcoTeoDesarrolo.bib,00Biblio/03MarcoTeoVideo.bib,00Biblio/biblio.bib}
 	
 	\include{08Anexos}
 	
