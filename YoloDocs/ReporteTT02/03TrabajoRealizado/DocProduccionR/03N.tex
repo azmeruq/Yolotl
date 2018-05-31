@@ -1,119 +1,83 @@
 
 
-\subsection{Sprint plan 3}
-\subsubsection{SprintID}
-03
-\subsubsection{Inicio}
-25 Septiembre 2017
-\subsubsection{Fin}
-24 Diciembre 2017
-\subsubsection{Meta}
-Nivel 2
-\subsubsection{Porcentaje}
-El 16\% 
+\subsection{Tercer sprint de producción}
+Esta etapa contiene el desarrollo del nivel tres del juego. El panorama general abarca un nivel de manera ascendente en un terreno rocoso. Después se llega al jefe que tiene forma de jaguar Tepeyóllotl.
 
-\subsubsection{FeatureID}
-03
-\subsubsection{Nombre}
-N3
-\subsubsection{Estado}
-Planeado
-\subsubsection{SprintID}
-03
-\subsubsection{Comentarios}
--
+Primero se empieza con el maquetado del nivel, para establecer el tamaño del nivel, pues esta vez será de manera vertical el diseño, y la cámara solo se moverá en esa dirección. Se establece también donde debe ir cada objeto o enemigo junto con anotaciones necesarias para la comprensión posterior, como son direcciones de movimiento o acciones que deben realizarse. Aquí se debe tomar muy en cuenta el tamaño del personaje a jugar si no, no se podrá avanzar en el nivel ya que se da la situación a atorarse debido al tamaño, incluido el espacio para saltar. Lo anterior se puede ver en la figura \cite{fig:n01}.
+\begin{figure}[htbp]
+	\centering
+	\subfigure[Primera parte del nivel]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/01.png}}
+	\subfigure[Segunda parte del nivel]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/02.png}}
+	\subfigure[Tercera parte del nivel]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/03.png}}
+	\subfigure[Cuarta parte del nivel]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/04.png}}
+	\caption{Maquetado de nivel tres} \label{fig:n01}
+\end{figure}  
 
+Después se lleva la tarea de tomar todos los componentes solo de manera visual y adecuar el tamaño necesario, tomando en cuenta las medidas de los componentes anteriores. Dichas imágenes se pueden ver en la \cite{fig:n02}.
+\begin{figure}[htbp]
+	\centering
+	\subfigure[Imagen de cacao para recuperar vida]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n302.png}}
+	\subfigure[Imagen de enemigo fantasma rojo]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n303.png}}
+	\subfigure[Imagen de rugido de jefe enemigo]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n304.png}}
+	\subfigure[Imagen de roca utilizada para daño]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n305.png}}
+	\subfigure[Imagen de jefe enemigo jaguar Tepeyóllotl]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n306.png}}
+	\subfigure[Imagen de indicador de cambio de escena]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n307.png}}
+	\subfigure[Imagen de cara de jefe enemigo jaguar como indicador]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n308.png}}
+	\subfigure[Imagen de flor de vainilla para recuperar tonalli]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n309.png}}
+	\subfigure[Imagen de enemigo armadillo]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n310.png}}
+	\subfigure[Imagen de terreno rocoso]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n311.png}}
+	\subfigure[Imagen de terreno con pasto]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n312.png}}
+	\subfigure[Imagen de roca gigante]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n313.png}}
+	\caption{Imágenes utilizadas para el nivel} \label{fig:n02}
+\end{figure}
 
-\subsection{Sprint backlog 3}
-\subsubsection{Sprint backlog}
-03
+Después de reunir los componentes se da a la tarea de dar las acciones que realizarían descritas dentro de la figura \cite{fig:n03}. Se omite en esta parte los fantasmas enemigos que ya han sido realizados en niveles anteriores.
+\begin{figure}[htbp]
+	\centering
+	\subfigure[Establecer que los picos tengan detección por debajo de ellos y despues caer para realizar daño.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/lo0.png}}
+	\subfigure[Establecer que la roca gigante detecte en una zona establecida el pase del jugador y después caiga rodando para estorbar el paso.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/lo1.png}}
+	\subfigure[Ejemplo muestra de las plataformas que se mueven en dirección horizontal, la del lado izquierdo y vertical, la del lado derecho.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/lo2.png}}
+	\subfigure[Piso que al tener contacto con el jugador este toma otra posición más abajo.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/lo3.png}}
+	\subfigure[Ejemplo de como una vez que el jugador se quita de la posición sobre el piso, este vuelve a su lugar.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/lo4.png}}
+	\caption{Muestra de comportamiento de objetos} \label{fig:n03}
+\end{figure}
 
-\subsubsection{Tareas}
-14
-\subsubsection{Tendencia}
-0
-\subsubsection{Esfuerzo restante}
-56
-\subsubsection{Tendencia actual}
--
-\subsubsection{Progreso ideal}
-14
-\subsubsection{Tareas restantes}
-14
-\subsubsection{Nombre de la tarea}
-n3
-\subsubsection{FeatureID}
-03
-\subsubsection{Miembro}
-Rocío
-\subsubsection{Rol}
-Desarrollo
-\subsubsection{Estado}
-Planeado
-\subsubsection{Esfuerzo}
-14
+Ya que se tiene los objetos con los comportamientos deseados se procede a ubicarlos según correspondan como se ve en la \cite{fig:n04}.
+\begin{figure}
+	\centering
+	\caption{Maquetado llevado al motor de juego Unity.}
+	\label{fig:n04}
+	\includegraphics[width=0.5\textwidth]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n301.png}
+\end{figure}
 
-\subsection{Task Slips 3}
-
-
-\subsubsection{FeatureID}3
-\subsubsection{Nombre}Maqueta
-\subsubsection{Tarea}Realizar maqueta del nivel completo
-\subsubsection{Miembro}Rocío
-\subsubsection{Esfuerzo estimado}1
-\subsubsection{Terminado}si
-\subsubsection{Restante}0
-
-
-\subsubsection{FeatureID} 3
-\subsubsection{Nombre} Enemigos
-\subsubsection{Tarea} Realizar el comportamiento de los enemigos o cualquier otra acción necesaria dentro del nivel
-\subsubsection{Miembro} Rocio
-\subsubsection{Esfuerzo estimado} 3
-\subsubsection{Terminado} sí
-\subsubsection{Restante} 0
-
-
-\subsubsection{FeatureID} 3
-\subsubsection{Nombre} Arte 1
-\subsubsection{Tarea} Crear vista de los personajes
-\subsubsection{Miembro} Rocío
-\subsubsection{Esfuerzo estimado} 2
-\subsubsection{Terminado} sí
-\subsubsection{Restante} 0
+Por último se establece las acciones que realiza el jefe enemigo Tepeyóllotl descritas en la siguiente figura \cite{fig:n05}.
+\begin{figure}[htbp]
+	\centering
+	\subfigure[El enemigo se lanza en dirección al jugador con otro color.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n314.png}}
+	\subfigure[El enemigo aparece rocas que van cayendo desde la parte superior.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n315.png}}
+	\subfigure[El enemigo realiza un rugido.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n316.png}}
+	\subfigure[El enemigo realiza un azote contra el piso apareciendo rocas a sus lados.]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/n3/n317.png}}
+	\caption{Muestra de acciones de el jefe enemigo jaguar} \label{fig:n05}
+\end{figure}
 
 
 
-\subsubsection{FeatureID} 3
-\subsubsection{Nombre} Arte 2
-\subsubsection{Tarea} Crear el diseño de los obstáculos
-\subsubsection{Miembro} Rocío
-\subsubsection{Esfuerzo estimado} 2
-\subsubsection{Terminado} sí
-\subsubsection{Restante} 0
 
 
-\subsubsection{FeatureID} 3
-\subsubsection{Nombre} Arte 3
-\subsubsection{Tarea} Crear el diseño de los items
-\subsubsection{Miembro} Rocio
-\subsubsection{Esfuerzo estimado} 2
-\subsubsection{Terminado} sí
-\subsubsection{Restante} 0
 
-\subsubsection{FeatureID} 3
-\subsubsection{Nombre} Boss 1
-\subsubsection{Tarea} Diseñar la máquina de estados del enemigo principal del nivel
-\subsubsection{Miembro} Rocio
-\subsubsection{Esfuerzo estimado} 2
-\subsubsection{Terminado} sí
-\subsubsection{Restante} 0
 
-\subsubsection{FeatureID} 3
-\subsubsection{Nombre} Boss 2
-\subsubsection{Tarea} Crear la máquina de estados del enemigo principal del nivel
-\subsubsection{Miembro} Rocio
-\subsubsection{Esfuerzo estimado} 2
-\subsubsection{Terminado} sí
-\subsubsection{Restante} 0
+%%          UNA FIGURA
+\begin{figure}
+	\centering
+	\caption{Mércado global al primer trimestre del año 2018 por Newzoo \cite{newzoo2018}}
+	\label{fig:merglo}
+	\includegraphics[width=0.5\textwidth]{03TrabajoRealizado/DocProduccionR/imagenes/...}
+\end{figure}
 
+%%        VARIAS FIGURAS
+\begin{figure}[htbp]
+	\centering
+	\subfigure[Starks]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/...}}
+	\subfigure[Arya y Reeds]{\includegraphics[width=5cm]{03TrabajoRealizado/DocProduccionR/imagenes/...}}
+	\caption{Legos.} \label{fig:q}
+\end{figure}
