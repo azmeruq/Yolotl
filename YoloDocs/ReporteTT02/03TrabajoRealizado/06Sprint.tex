@@ -188,9 +188,9 @@ de especiales y el sonido respectivamente, siendo estos los primeros controlador
 en ser implementados.
 
 \subsection{Implementando los enemigos jefes del juego}
-Para la implementación de los jefes se reutilizan las configuraciones de los enemigos
-normales referente a componentes como \textit{Rigidbody2D} y el \textit{Colisionador},
-el uso de la clase \textit{Enemy} para el manejo de vida y el uso de los efectos
+Para la implementación de los enemigos jefes se reutilizan las configuraciones de los enemigos
+normales referentes a las componentes \textit{Rigidbody2D} y \textit{Colisionador}, así como 
+a la clase \textit{Enemy} para el manejo de vida y el uso de los efectos
 de sonido y de explosiones para la muerte del jefe.
 \\
 \par
@@ -207,8 +207,8 @@ condicionados a una secuencia de ataque anterior.  Con los jefes del juego
 de ataque que posee un jefe determinado pero la secuencia de ejecución de los
 ataques está programada para que sea aleatoria, lo que puede generar experiencias
 de juego muy sencillas o bastante retadoras para el jugador. El anterior
-comportamiento se logra simulando una máquina de estados con un arreglo de tipo
-booleano llamado \textit{whatCanDo}, en el cual solo un índice puede tener el
+comportamiento se logra simulando una máquina de estados[referencia] 
+con un arreglo de tipo booleano llamado \textit{whatCanDo}, en el cual solo un índice puede tener el
 valor verdadero cada vez que se actualiza el estado y dependiendo del valor del
 índice del valor verdadero será el ataque que ejecutará el enemigo. Después de
 cada ataque el enemigo espera un tiempo determinado antes de asignar el siguiente
@@ -259,7 +259,7 @@ derrotar al enemigo.
                 \includegraphics[width=0.5\textwidth]{03TrabajoRealizado/imagenes/RoxasBoss.jpg}
                 \caption{\textit{Roxas} es el jefe más retador de \textit{Kingdom Hearts 2 Final Mix}. $ [Imagen] (2014)$ Recuperado de: \url{https://images.khinsider.com/2014\%20Uploads/05/Screenshots\%205-30/KHII_battle_03_EN\%20copy_1401446206.jpg}}
                 \label{fig:Roxas}
-            \end{figure}
+            \end{figure}04R
 
             \begin{figure}[h]
                 \centering
