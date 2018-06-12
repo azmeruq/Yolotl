@@ -1,51 +1,54 @@
-\subsection{Prueba de aceptación}
-Esta prueba está basada en modelo de pruebas \textit{Game Flow}\cite{gameflow}. 
-\textit{Game Flow} utiliza estrategias heurísticas de usabilidad y experiencia de usuario.
-Este modelo permite medir varios aspectos de los cuales en este proyecto se probarán: 
- {\it joyment} (disfrute), diseño de interfaces, mecánicas y jugabilidad. 
+\subsection{Prueba de aceptación} \label{Cuestionario}
+Esta prueba está basada en modelo de pruebas \textit{Game Flow}\cite{gameflow}.
+\textit{Game Flow} utiliza estrategias heurísticas de usabilidad y experiencia
+de usuario para medir el nivel de aceptación de los usuarios. Este modelo permite
+medir varios aspectos de los cuales en este proyecto se probarán:
+{\it enjoyment}(disfrute), diseño de interfaces, mecánicas y jugabilidad.
+\\
+\par
+Se toma la decisión de aplicar las pruebas \textit{Game Flow} por nivel ya que en
+caso de realizar modificaciones para mejorar la experiencia de usuario estos
+cambios se podrán orientar a un nivel en especifico si al final de las pruebas
+un nivel en específico genera problemas entre los usuarios por su elevada
+dificultad o facilidad. Por otra parte aplicar las pruebas por niveles permite que los jugadores no tengan que jugar todo el videojuego para tener que responder la encuesta lo que traduce en que las pruebas no tomarán mucho del tiempo de los participantes.
+\\
+\par
+Esta prueba de aceptación se dividió en dos partes:
+\begin{itemize}
+    \item \textbf{Presencial}: Esta prueba se realiza sobre la población de la
+    Escuela Superior de Cómputo(ESCOM) del Instituto Politécnico Nacional(IPN).   
+    \item \textbf{En línea:} Para esta prueba se publicaron los \textit{links} del
+    archivo APK y de la encuesta en foros de desarrollo de videojuegos y grupos
+    de \textit{FaceBook} con la misma temática.
+\end{itemize}
  
-Se tomo la decisión de aplicar las pruebas \textit{Game Flow} por nivel ....
- 
-Esta prueba de aceptación se dividió en dos partes: .... presencial y en línea.
-
-
- 
-\subsubsection{Objetivo} %% debe concordar con la parte de arriba.
-Obtener la opinión de los usuarios sobre los elementos de un nivel, tales como
-la mecánica, la jugabilidad, las interfaces, los enemigos, etc.
+\subsubsection{Objetivo}
+Evaluar el nivel de aceptación de juego entre los jugadores y obtener la opinión
+de los mismos sobre posibles mejoras al juego.
 
 \subsubsection{Herramientas}
-
-Para aplicar las pruebas se utilizaron .... %describir las herramientas
-Apk del juego, cuestionario(ver anexo \ref{Anexo:Cuestionario}) y encuesta en \textit{Google Docs}.
+Para aplicar ambos tipos de pruebas se utilizaron:
+    \begin{itemize}
+        \item \textbf{Archivo APK del juego:} Este archivo fue proporcionado por
+        medio de un \textit{link} y por medio de transferencia de archivos al teléfono
+        de los encuestados desde una computadora.
+        \item \textbf{Cuestionario:} El cuestionario fue proporcionado desde un
+        \textit{link} empleando la herramienta de \textit{Google Docs} para agilizar
+        el conteo de los resultados.   
+    \end{itemize}
 
 \subsubsection{Aplicación}
-Para estas pruebas se requieren grupos de personas para probar los niveles del
-juego.
+Para la aplicación de las pruebas en línea se distribuyen los links del archivo APK y del cuestionario en diferentes foros de desarrolladores y grupos de \textit{Facebook}. En algunos casos diferentes usuarios ofrecieron retroalimentación del juego en los comentarios de la publicación o enviando mensajes privados.
+\\
+\par
+En el caso de las pruebas presenciales, se solicita a diferentes profesores del
+plantel de la ESCOM. En cada uno de los grupos en los que se aplica la encuesta
+se da una presentación del argumento del juego y su objetivo. Después se dan las
+instrucciones de la prueba, los \textit{link} a los archivos y al cuestionario y
+se indica el nivel a probar. Además de la encuesta se puede observar las
+reacciones de lo jugadores mientras prueban el juego
+(ver figura \ref{fig:AlumnosESCOM}).
 
-%Instrucciones <- crear subsubsection
-Para realizar
-la prueba se le proporciona al jugador el {\it link} para descargar la apk del juego
-y el link de la encuesta. 
-
-La prueba de aceptación está diseñada para ser la más larga, ya que
-se busca que el mayor número de personas puedan probar el juego. %% replantearlo
-
-Esta prueba se realiza de dos maneras diferentes:
-\begin{itemize}
-        \item Publicando los links de la apk y de la encuesta en redes sociales,
-        indicando las instrucciones de responder la encuesta por nivel terminado.
-        \item Realizando pruebas presenciales a grupos de personas.
-\end{itemize}
-
-En el caso de las pruebas presenciales, además de la encuesta se puede observar
-las reacciones reales de lo jugadores mientras prueban el juego.
-
-%% separar la aplicación de la conclusión. 
-En muchos casos se pudo observar a diferentes grupos de amigos compitiendo por acabar el
-nivel, jugadores gritando de alegría al acabar un nivel que les había costado
-mucho esfuerzo o exclamaciones llenas de emoción al ser derrotados de último
-momento por un jefe (ver figura \ref{fig:AlumnosESCOM}).
 \begin{figure}
   \centering
  
@@ -57,19 +60,17 @@ momento por un jefe (ver figura \ref{fig:AlumnosESCOM}).
   \caption{Resultados de la herramienta \textit{profiler} al analizar una cinemática.}
   \label{fig:AlumnosESCOM}
 \end{figure}
-\subsubsection{Conclusiones de la prueba}
 
-A continuación se presentan algunos de los resultados de la encuesta, 
-lo resultados completos se encuentran en ..... 
-\begin{itemize} %% separar resultados de conclusiones
+\subsubsection{Resultados}
+A continuación se presentan algunos de los resultados de la encuesta,
+lo resultados completos se encuentran en el anexo \ref{Anexo:resultados}.
+\begin{itemize}
         \item La principal marca de dispositivos con el que fue probado el juego fue
         Motorola con sistema operativo Android 7.
         \item La mayoría de los usuarios consideran como bueno el movimiento del
-        personaje, pero consideran que haciendo más estable el salto el control del
-        personaje mejoraría.
+        personaje.
         \item La mayoría de los usuarios consideran que la respuesta de la
-        \textit{GUI} es buena; sin embargo, recomiendan mejorar el tiempo de respuesta
-        de ésta y agregar una animación que indique que un botón ha sido oprimido.
+        \textit{GUI} es buena.
         \item La mayoría de los usuarios opina que la actualización de la barra de
         tonali es buena pero les gustaría que existiera un indicador numérico para ver
         la cantidad de disparos que les queda.
@@ -78,31 +79,36 @@ lo resultados completos se encuentran en .....
         otro lado también la mayoría de los usuarios considera que lo que hace a un
         enemigo fuerte es su patrón de movimiento.
         \item El Fantasma morado es considerado por muchos usuarios como el enemigo más
-        poderoso en los niveles de plataforma, porque se si se deseara hacer niveles
-        más difíciles este debería de ser el enemigo predominante.
+        poderoso en los niveles de plataforma.
         \item El fantasma rojo es considerado por muchos usuarios como el enemigo más
-        débil en los niveles de plataforma, porque se si se deseara hacer niveles
-        más fáciles este debería de ser el enemigo predominante.
+        débil en los niveles de plataforma.
         \item Las dos principales causas de muerte en los jugadores son el tiempo
         de respuesta de la \textit{GUI} y que los enemigos eran demasiado fuertes.
-        \item La mayoría de los usuarios consideran sus muertes como un factor de reto
-        en el juego. Considerando que la principal causa de muerte fue el tiempo de
-        respuesta de la \textit{GUI}, se puede concluir que mejorando este factor se
-        disminuiría el porcentaje de jugadores que consideran como factor de estrés su
-        muerte.
 \end{itemize}
 
-Las conclusiones que se obtuvieron de las pruebas son:
-
-%% sección aparte
 Adicionalmente lo jugadores hicieron observaciones y peticiones que ellos
 consideran podrían mejorar la experiencia de juego:
 \begin{itemize}
         \item Animación que indique que un enemigo ha recibido daño.
         \item Barra de vida para los enemigos.
         \item Posibilidad de que el jugador se agache.
-        \item Mensajes de confirmación para los botones que llevan al menú de selección 
+        \item Mensajes de confirmación para los botones que llevan al menú de selección
         y que cierran la aplicación.
         \item Mejorar el comportamiento de los disparos.
 \end{itemize}
-Si se desean consultar las gráficas se puede consultar el anexo \ref{Anexo:resultados}.
+
+\subsubsection{Conclusiones}
+Las conclusiones que se obtuvieron de las pruebas son:
+    \begin{itemize}
+        \item Hacer el salto más estable mejorará la experiencia del jugador.
+        \item Mejorar el tiempo de respuesta de la GUI y agregar una animación
+        que indique que un botón ha sido oprimido mejorará la experiencia del
+        jugador ya que la mayoría de los usuarios indica que este aspecto fue la
+        causa de la mayoría de sus muertes dentro del juego.
+        \item Si se desea hacer niveles de plataforma más difíciles estos deben
+        de contener más enemigos normales de tipo Fantasma Morado ya que estos son
+        los que la mayoría de los jugadores consideran como el más fuerte.
+        \item Si se desea hacer niveles de plataforma más fáciles estos deben
+        de contener más enemigos normales de tipo Fantasma Rojo ya que estos son los
+        que la mayoría de los jugadores consideran como el más débil.
+    \end{itemize}
