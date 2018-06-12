@@ -1,27 +1,40 @@
 \subsection{Prueba de integración}
-Esta prueba se realiza una vez se integraron los actores y controladores a los 
+Esta prueba se realiza una vez se integraron los actores y controladores a los
 niveles.
-\subsubsection{Objetivo de la prueba}
-Verificar el funcionamiento lógico de los componentes del nivel al ser integrados 
-para formar un nivel entero. 
-\subsubsection{Herramientas utilizadas durante la prueba}
-\textit{Unity.}
-\subsubsection{Aplicación de la prueba}
-Para realizar esta prueba es necesario jugar los niveles para observar que el 
-comportamiento de los controladores y los actores se ejecute correctamente al 
-integrarse con otros actores. En esta prueba también se ajustan las áreas activas de las 
-plataformas a fin de que su funcionamiento no se detenga si se alejan mucho del 
+
+\subsubsection{Objetivo}
+Verificar el funcionamiento lógico de los componentes del nivel al ser integrados
+para formar un nivel entero.
+
+\subsubsection{Herramientas}
+Para la realización de esta prueba se utiliza el motor gráfico de \textit{Unity.}
+
+\subsubsection{Aplicación}
+Para realizar esta prueba es necesario jugar los niveles y observar que el
+comportamiento de los controladores y los actores se ejecute correctamente al
+integrarse con otros actores. En esta prueba también se ajustan las áreas activas de las
+plataformas a fin de que su funcionamiento no se detenga si se alejan mucho del
 jugador al realizar su recorrido.
                 
-\subsubsection{Conclusiones de la prueba}
-Al finalizar esta prueba se pude verificar que los controladores funcionan de 
-manera correcta; sin embargo, es necesario realizar ajustes referentes a los 
-tiempos de transiciones entre escenas y los valores de las áreas activas de 
-varias plataformas y obstáculos ya que con sus valores iniciales algunas 
-plataformas se detenían al realizar su recorrido dado que el jugador se salía 
-de su área activa y se volvía inalcanzable. En cuanto al obstáculo de 
-\textit{WindCreator} se ajusto el tamaño del área activa garantizando que el 
-obstáculo se encuentre activo cuando el jugador llegue a donde se encuentra éste.  
+\subsubsection{Resultados}
+Al finalizar esta prueba se puede verificar que los controladores funcionan de
+manera correcta; sin embargo, es necesario realizar ajustes referentes a los
+tiempos de transiciones entre escenas y los valores de las áreas activas de
+varias plataformas y obstáculos ya que con sus valores iniciales algunas
+plataformas se detenían al realizar su recorrido dado que el jugador se salía
+de su área activa y se volvía inalcanzable. En cuanto al obstáculo de
+\textit{WindCreator} se ajusto el tamaño del área activa garantizando que el
+obstáculo se encuentre activo cuando el jugador llegue a donde se encuentra éste. 
 
-
-
+\subsubsection{Conclusiones}
+Al finalizar esta prueba se puede concluir lo siguiente:
+\begin{itemize}
+    \item El desarrollo orientado a componentes facilita identificar los errores en
+    las clases actoras antes de ser integradas a los niveles.
+    \item Existen errores que sólo pueden ser detectados al integrar más de un actor
+    y en situaciones muy específicas como el caso de los marcadores.
+    \item No solo los errores de funcionamiento en el código de las clases actoras
+    impactan negativamente en la experiencia del jugador; en ocasiones la experiencia
+    se ve afectada por los valores que se le asignan a las clases que componen los
+    actores como es el caso de los jefes y de los obstáculos.
+\end{itemize} 

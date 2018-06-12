@@ -1,113 +1,116 @@
 \section{Ajustes al trabajo terminal}
-En esta sección se definen todas las nuevas estrategias a seguir para agilizar y 
+En esta sección se definen todas las nuevas estrategias a seguir para agilizar y
 optimizar el desarrollo del juego.
 
-\subsection{Correción del enfoque de la solución}
-Para el enfoque de solución se decide remplazar la gamificación por el termino 
-\textit{Serious Games}. Esta modificación nace a partir de la pregunta de: 
-“¿Se puede gamificar un videojuego?”. Definiendo la gamificación como el uso de 
-elementos del juego y el pensamiento basado en juego en entornos no relacionados 
+\subsection{Corrección del enfoque de la solución}
+El enfoque de gamificación no permitía responder la pregunta de “¿Se puede 
+gamificar un videojuego?”; ya que definiendo la gamificación, ésta queda dada 
+como el uso de
+elementos del juego y el pensamiento basado en juego en entornos no relacionados
 con el juego para aumentar el compromiso o modificar el comportamiento
-\cite{RefIntroGamificacion}, la gamificación de un juego resulta en una contradicción 
-del mismo concepto ya que gamificación solo es aplicable a entornos ajenos a 
-juegos. Por su parte \textit{Serious Games} queda definido como juegos cuyo 
-propósito va más allá del entrenamiento\cite{Ref:Serious}. Los 
-\textit{Serious Games} pueden ser utilizados para la educación, la capacitación, 
-la medicina como medio terapéutico y en última instancia para la persuasión, es 
-decir un juego puede hacer cociente al jugador de algún problema 
-\cite{ferreira2002serious}. El concepto de \textit{Serious Games} se ajusta 
-al enfoque que aborda el juego desarrollado durante el presente trabajo terminal. 
-Esta modificación no impacta directamente en el trabajo que se tenía hasta el 
-punto en el que se cambia el enfoque de la solución; siendo esta modificación 
-un cambio en el empleo de un tecnicismo para hablar sobre el proyecto.
+\cite{RefIntroGamificacion}, la gamificación de un juego resulta en una contradicción
+del mismo concepto ya que gamificación solo es aplicable a entornos ajenos a
+juegos. Por su parte \textit{Serious Games} queda definido como juegos cuyo
+propósito va más allá del entrenamiento\cite{Ref:Serious}. Los
+\textit{Serious Games} pueden ser utilizados para la educación, la capacitación,
+la medicina como medio terapéutico y en última instancia para la persuasión, es
+decir un juego puede hacer consciente al jugador de algún problema
+\cite{ferreira2002serious}. Desde el punto de vista de la gamificación, el 
+presente trabajo terminal debería desarrollar una aplicación con elementos 
+del juego para facilitar la transmisión de la cultura; mientras desde el enfoque 
+de los \textit{Serious Games}, la cultura se ayuda de un videojuego para ser 
+transmitida. El concepto y el enfoque de \textit{Serious Games} se ajusta al 
+que aborda el juego desarrollado durante el presente trabajo terminal por lo que 
+se decide modificar el enfoque de gamificación al de \textit{Serious Games}.
 
 
 \subsection{Nueva división de trabajo} \label{Sec:AsignacionTrabajo}
-Para realizar la segunda parte del trabajo terminal se decidió cambiar la división 
-del trabajo con el objetivo de agilizar el desarrollo. Al terminar los sprints 
-anteriores se podía observar que la realización de un nivel estaba llevando 
-demasiado tiempo. Por tal motivo se decide reorganizar la asignación de 
-tareas, en lugar de que los miembros del equipo de desarrollo se encarguen del 
-mismo nivel, se reparten los niveles restantes del desarrollo entre los 
-integrantes del equipo. Quedando la asignación de los niveles como se ve en la 
+Para realizar la segunda parte del trabajo terminal se decidió cambiar la división
+del trabajo con el objetivo de agilizar el desarrollo, ya que al terminar los sprints
+anteriores se podía observar que la realización de un nivel estaba llevando
+demasiado tiempo. Por tal motivo se decide reorganizar la asignación de
+tareas; en lugar de que los miembros del equipo de desarrollo se encarguen del
+mismo nivel, se reparten los niveles restantes del desarrollo entre los
+integrantes del equipo. Quedando la asignación de los niveles como se ve en la
 figura \ref{fig:Tareas} .
 
-		\begin{figure}[h]
-    			\centering
-    			\includegraphics[width=0.8\textwidth]{02Antecedentes/Imagenes/tareasAsignacion.png}
-    			\caption{Asignacion de tareas}
-    			\label{fig:Tareas}
-		\end{figure}
+        \begin{figure}[h]
+                \centering
+                \includegraphics[width=0.8\textwidth]{02Antecedentes/Imagenes/tareasAsignacion.png}
+                \caption{Asignacion de tareas}
+                \label{fig:Tareas}
+        \end{figure}
 
 
-Esta división de trabajo permite que los niveles se desarrollen de manera 
-paralela y no de manera secuencial como se había trabajado hasta este \textit{sprint}; 
-simulando de esta forma un flujo de trabajo similar a procesamiento multihilo, en 
-el que cada integrante del equipo es un hilo y desarrolla sus tareas de manera paralela 
+Esta división de trabajo permite que los niveles se desarrollen de manera
+paralela y no de manera secuencial como se había trabajado hasta este \textit{sprint};
+simulando de esta forma un flujo de trabajo similar a procesamiento multihilo, en
+el que cada integrante del equipo es un hilo y desarrolla sus tareas de manera paralela
 al otro.
 
 \subsection{Actualizando el motor de juego}
-Se decidió cambiar la versión 5.4 de \textit{Unity} por la version versión 
-2017.3.1f de \textit{Unity3D}. Esta versión incluye herramientas que agilizan la 
-creación de niveles como el uso de: 
-	\begin{itemize}
-		\item \textbf{\textit{Tilemap}:} Herramienta para el mapeado de niveles. Esta 
-		herramienta facilita la creación de mapas al crear una malla sobre la que 
-		se arrastraran diferentes \textit{Sprites} que se hayan importado previamente 
-		al tilemap (ver figura \ref{fig:TilemapPantalla}). En la sección 
-		\ref{ConstruccionNivel} se profundizará su funcionamiento.
-		
-		\begin{figure}[h]
-    			\centering
-    			\includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/tilemaps01.png}
-    			\caption{Vista de la escena cuando se tiene un \textit{GameObject} de 
-    			tipo \textit{Tilemaps} para la construcción de niveles}
-    			\label{fig:TilemapPantalla}
-		\end{figure}
-		
-		\item \textbf{\textit{Cinemachine}:} \textit{Asset} que permite controlar la 
-		cámara de la escena, con este \textit{asset} se le puede indicar que objeto se 
-		desea que la cámara siga y se puede asignar un área que limitara el movimiento 
-		de la cámara (ver figura \ref{fig:CinemaPantalla}). \textit{Cinemachine} se 
-		descarga directamente desde la tienda de \textit{assets} de \textit{Unity} y 
-		fue desarrollado por los ingenieros de \textit{Unity}, lo que significa que 
-		no genera conflictos o no requiere de configuraciones extras al proyecto para 
-		importar. En la sección \ref{Cinemachine} se profundizará su funcionamiento.
-			
-			\begin{figure}[h]
-    			\centering
-    			\includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/cinemachine01.png}
-    			\caption{Vista de la escena cuando se tiene un \textit{GameObject} de 
-    			tipo \textit{Tilemaps} para la construcción de niveles}
-    			\label{fig:CinemaPantalla}
-			\end{figure}
+Se decidió cambiar la versión 5.4 de \textit{Unity} por la version versión
+2017.3.1f de \textit{Unity3D}. Esta versión incluye herramientas que agilizan la
+creación de niveles como el uso de:
+    \begin{itemize}
+        \item \textbf{\textit{Tilemap}:} Herramienta para el mapeado de niveles. Esta
+        herramienta facilita la creación de mapas al crear una malla sobre la que
+        se arrastraran diferentes \textit{Sprites} que se hayan importado previamente
+        al tilemap (ver figura \ref{fig:TilemapPantalla}). En la sección
+        \ref{ConstruccionNivel} se profundizará su funcionamiento.
+        
+        \begin{figure}[h]
+                \centering
+                \includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/tilemaps01.png}
+                \caption{Vista de la escena cuando se tiene un \textit{GameObject} de
+                tipo \textit{Tilemaps} para la construcción de niveles}
+                \label{fig:TilemapPantalla}
+        \end{figure}
+        
+        \item \textbf{\textit{Cinemachine}:} \textit{Asset} que permite controlar la
+        cámara de la escena, con este \textit{asset} se le puede indicar que objeto se
+        desea que la cámara siga y se puede asignar un área que limitará el movimiento
+        de la cámara (ver figura \ref{fig:CinemaPantalla}). \textit{Cinemachine} se
+        descarga directamente desde la tienda de \textit{assets} de \textit{Unity} y
+        fue desarrollado por los ingenieros de \textit{Unity}, lo que significa que
+        no genera conflictos o no requiere de configuraciones extras al proyecto para
+        importar. En la sección \ref{Cinemachine} se profundizará su funcionamiento.
+            
+            \begin{figure}[h]
+                \centering
+                \includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/cinemachine01.png}
+                \caption{Vista de la escena cuando se tiene un \textit{GameObject} de
+                tipo \textit{Tilemaps} para la construcción de niveles}
+                \label{fig:CinemaPantalla}
+            \end{figure}
 
-		\item \textbf{\textit{Sprite Packer}}: Si bien no es una herramienta para 
-		construcción de niveles o un \textit{asset}, esta herramienta es una de las 
-		más útiles que se agregó a la nueva versión de \textit{Unity} ya que, como 
-		su nombre lo indica, permite el empaquetado de \textit{sprites} (ver figura 
-		\ref{fig:TilemapPantalla}). Empaquetar 
-		los \textit{sprites} es una práctica que optimiza el renderizado de objetos, 
-		ya que el controlador de gráficos de \textit{Unity} realiza una sola llamada 
-		por paquete cuando renderiza los objetos y con esa única llamada renderiza todos 
-		los objetos de la escena que se encuentren en ese paquete; si los 
-		\textit{sprites} no se encontraran dentro de un paquete el controlador de 
-		gráficos de \textit{Unity} haría una llamada por cada \textit{sprite}.  
-			\begin{figure}[h]
-    			\centering
-    			\includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/01.png}
-    			\caption{Vista de la pestaña del \textit{Sprite Packer}.}
-    			\label{fig:CinemaPantalla}
-			\end{figure}
-	\end{itemize}
-	Por el impacto que tendrían las nuevas herramientas de la versión de 
-	\textit{Unity}, se propusó utilizarla en lugar de la versión 5.6.2f1. Antes 
-	de actualizar la versión de \textit{Unity} se investigó si el proyecto sufriría 
-	algún impacto negativo como falta de compatibilidad de componentes por la 
-	diferencia de versiones. Al comprobar que existía una total compatibilidad 
-	entre ambas versiones en cuanto a trasladar un proyecto de la versión 5.6.1f 
-	a la versión 2017.3.1f. Se determinó que la nueva versión de \textit{Unity} 
-	sería la que se emplearía para el resto del desarrollo del juego.
-	
+        \item \textbf{\textit{Sprite Packer}}: Si bien no es una herramienta para
+        construcción de niveles o un \textit{asset}, esta herramienta es una de las
+        más útiles que se agregó a la nueva versión de \textit{Unity} ya que, como
+        su nombre lo indica, permite el empaquetado de \textit{sprites} (ver figura
+        \ref{fig:TilemapPantalla}). Empaquetar
+        los \textit{sprites} es una práctica que optimiza el renderizado de objetos,
+        pues el controlador de gráficos de \textit{Unity} realiza una sola llamada
+        por paquete cuando renderiza los objetos y con esa única llamada renderiza todos
+        los objetos de la escena que se encuentren en ese paquete; si los
+        \textit{sprites} no se encontraran dentro de un paquete el controlador de
+        gráficos de \textit{Unity} haría una llamada por cada \textit{sprite} aumentando el tiempo de renderizado.  
+            \begin{figure}[h]
+                \centering
+                \includegraphics[width=0.6\textwidth]{02Antecedentes/Imagenes/01.png}
+                \caption{Vista de la pestaña del \textit{Sprite Packer}.}
+                \label{fig:CinemaPantalla}
+            \end{figure}
+    \end{itemize}
+    Por el impacto que tendrían las nuevas herramientas de la versión de
+    \textit{Unity}, se propone utilizarla en lugar de la versión 5.6.2f1. Antes
+    de actualizar la versión de \textit{Unity} se investigó si el proyecto sufriría
+    algún impacto negativo como falta de compatibilidad de componentes por la
+    diferencia de versiones. Al comprobar que existía una total compatibilidad
+    entre ambas versiones en cuanto a trasladar un proyecto de la versión 5.6.1f
+    a la versión 2017.3.1f. Se determinó que la nueva versión de \textit{Unity}
+    sería la que se emplearía para el resto del desarrollo del juego.
+    
 
 \input{02Antecedentes/ajustesR/maquinasEdos}
+

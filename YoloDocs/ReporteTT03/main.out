@@ -1,0 +1,86 @@
+\BOOKMARK [0][-]{chapter*.1}{Advertencia}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 2
+\BOOKMARK [0][-]{chapter.2}{Antecedentes}{}% 3
+\BOOKMARK [1][-]{section.2.1}{Propuesta}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.1.1}{Planteamiento del problema}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.2}{Marco Te\363rico}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.3}{Planteamiento de la soluci\363n}{section.2.1}% 7
+\BOOKMARK [1][-]{section.2.2}{Ajustes al trabajo terminal}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.1}{Correcci\363n del enfoque de la soluci\363n}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.2}{Nueva divisi\363n de trabajo}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.3}{Actualizando el motor de juego}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.4}{M\341quina de estados}{section.2.2}% 12
+\BOOKMARK [1][-]{section.2.3}{Contribuciones}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.3.1}{El juego}{section.2.3}% 14
+\BOOKMARK [2][-]{subsection.2.3.2}{Modelo de negocios en un videojuego}{section.2.3}% 15
+\BOOKMARK [2][-]{subsection.2.3.3}{Vicio en el videojuego}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.4}{Modelo de datos}{section.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.3.5}{Estrategias para combatir la adicci\363n entre los usuarios}{section.2.3}% 18
+\BOOKMARK [1][-]{section.2.4}{Trabajo realizado durante trabajo terminal 1}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.4.1}{Presentado en TT1}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.2}{Etapa de Preproducci\363n}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.3}{Etapa de producci\363n}{section.2.4}% 22
+\BOOKMARK [0][-]{chapter.3}{Trabajo realizado}{}% 23
+\BOOKMARK [1][-]{subsection.3.0.1}{Tercer sprint de producci\363n}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.1}{Cuarto sprint de producci\363n}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.1.1}{Creaci\363n de las maquetas de los niveles pares restantes}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.2}{Creaci\363n de los sprites faltantes}{section.3.1}% 27
+\BOOKMARK [2][-]{subsection.3.1.3}{Cierre del sprint}{section.3.1}% 28
+\BOOKMARK [2][-]{subsection.3.1.4}{Quinto sprint de producci\363n}{section.3.1}% 29
+\BOOKMARK [1][-]{section.3.2}{Sexto sprint de producci\363n}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.2.1}{Implementando los enemigos normales del juego}{section.3.2}% 31
+\BOOKMARK [2][-]{subsection.3.2.2}{Implementando los enemigos jefes del juego}{section.3.2}% 32
+\BOOKMARK [2][-]{subsection.3.2.3}{Implementando los ataques enemigos del juego}{section.3.2}% 33
+\BOOKMARK [2][-]{subsection.3.2.4}{Implementando los obst\341culos}{section.3.2}% 34
+\BOOKMARK [2][-]{subsection.3.2.5}{Implementando los \355tems y los objetos coleccionables}{section.3.2}% 35
+\BOOKMARK [2][-]{subsection.3.2.6}{Implementaci\363n de los puntos de guardado}{section.3.2}% 36
+\BOOKMARK [2][-]{subsection.3.2.7}{Cierre del sprint}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.8}{S\351ptimo sprint de producci\363n}{section.3.2}% 38
+\BOOKMARK [1][-]{section.3.3}{Octavo sprint de producci\363n}{chapter.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.1}{Controlador de Audio}{section.3.3}% 40
+\BOOKMARK [2][-]{subsection.3.3.2}{Controlador de Di\341logos}{section.3.3}% 41
+\BOOKMARK [2][-]{subsection.3.3.3}{Controlador de los datos del juego}{section.3.3}% 42
+\BOOKMARK [2][-]{subsection.3.3.4}{Controlador de fin de la partida}{section.3.3}% 43
+\BOOKMARK [2][-]{subsection.3.3.5}{Controlador de la barra de vida y de tonalli del jugador}{section.3.3}% 44
+\BOOKMARK [2][-]{subsection.3.3.6}{Controlador del panel de marcadores}{section.3.3}% 45
+\BOOKMARK [2][-]{subsection.3.3.7}{Controlador de pausa en el juego}{section.3.3}% 46
+\BOOKMARK [2][-]{subsection.3.3.8}{Controlador de efectos especiales}{section.3.3}% 47
+\BOOKMARK [2][-]{subsection.3.3.9}{Cierre del sprint}{section.3.3}% 48
+\BOOKMARK [2][-]{subsection.3.3.10}{Noveno sprint de producci\363n}{section.3.3}% 49
+\BOOKMARK [1][-]{section.3.4}{D\351cimo sprint de producci\363n}{chapter.3}% 50
+\BOOKMARK [2][-]{subsection.3.4.1}{Construcci\363n del escenario}{section.3.4}% 51
+\BOOKMARK [2][-]{subsection.3.4.2}{Configuraci\363n de la c\341mara}{section.3.4}% 52
+\BOOKMARK [2][-]{subsection.3.4.3}{Creando el controlador del nivel}{section.3.4}% 53
+\BOOKMARK [2][-]{subsection.3.4.4}{Creaci\363n de las cinem\341ticas del juego}{section.3.4}% 54
+\BOOKMARK [2][-]{subsection.3.4.5}{Agregando la funcionalidad faltante al men\372 principal}{section.3.4}% 55
+\BOOKMARK [2][-]{subsection.3.4.6}{Creaci\363n de la funcionalidad del men\372 de selecci\363n de nivel}{section.3.4}% 56
+\BOOKMARK [2][-]{subsection.3.4.7}{Cierre del sprint}{section.3.4}% 57
+\BOOKMARK [0][-]{chapter.4}{Resultados obtenidos}{}% 58
+\BOOKMARK [1][-]{section.4.1}{Pruebas}{chapter.4}% 59
+\BOOKMARK [2][-]{subsection.4.1.1}{Sprite packer}{section.4.1}% 60
+\BOOKMARK [2][-]{subsection.4.1.2}{Mec\341nicas del juego}{section.4.1}% 61
+\BOOKMARK [2][-]{subsection.4.1.3}{Din\341micas del juego}{section.4.1}% 62
+\BOOKMARK [2][-]{subsection.4.1.4}{Est\351tica del juego}{section.4.1}% 63
+\BOOKMARK [2][-]{subsection.4.1.5}{Prueba unitaria}{section.4.1}% 64
+\BOOKMARK [2][-]{subsection.4.1.6}{Prueba de integraci\363n}{section.4.1}% 65
+\BOOKMARK [2][-]{subsection.4.1.7}{Prueba de sistema}{section.4.1}% 66
+\BOOKMARK [2][-]{subsection.4.1.8}{Prueba de rendimiento en Unity}{section.4.1}% 67
+\BOOKMARK [2][-]{subsection.4.1.9}{Prueba de rendimiento en tel\351fono Huawei TAG-L13}{section.4.1}% 68
+\BOOKMARK [2][-]{subsection.4.1.10}{Prueba de aceptaci\363n}{section.4.1}% 69
+\BOOKMARK [1][-]{section.4.2}{Niveles terminados}{chapter.4}% 70
+\BOOKMARK [0][-]{chapter.5}{Conclusiones}{}% 71
+\BOOKMARK [1][-]{section.5.1}{Adiciones a la metodolog\355a huddle}{chapter.5}% 72
+\BOOKMARK [1][-]{section.5.2}{Trabajo a futuro}{chapter.5}% 73
+\BOOKMARK [0][-]{appendix.Alph1}{Interfaces}{}% 74
+\BOOKMARK [0][-]{appendix.Alph2}{Sprites de Personajes}{}% 75
+\BOOKMARK [0][-]{appendix.Alph3}{Modelo de Datos}{}% 76
+\BOOKMARK [0][-]{appendix.Alph4}{Control de adicci\363n en el jugador}{}% 77
+\BOOKMARK [1][-]{section.Alph4.1}{Notificaci\363n de confirmaci\363n para continuar la partida}{appendix.Alph4}% 78
+\BOOKMARK [2][-]{subsection.Alph4.1.1}{Implicaciones}{section.Alph4.1}% 79
+\BOOKMARK [1][-]{section.Alph4.2}{Control paterno}{appendix.Alph4}% 80
+\BOOKMARK [2][-]{subsection.Alph4.2.1}{Implicaciones}{section.Alph4.2}% 81
+\BOOKMARK [1][-]{section.Alph4.3}{Sistema de vidas}{appendix.Alph4}% 82
+\BOOKMARK [2][-]{subsection.Alph4.3.1}{Implicaciones}{section.Alph4.3}% 83
+\BOOKMARK [1][-]{section.Alph4.4}{Observaciones}{appendix.Alph4}% 84
+\BOOKMARK [0][-]{appendix.Alph5}{Cuestionario de aceptaci\363n del juego}{}% 85
+\BOOKMARK [0][-]{appendix.Alph6}{Resultados de la encuesta de aceptaci\363n}{}% 86
