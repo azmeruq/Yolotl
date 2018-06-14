@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{19903C8E-2048-6813-23F1-D83F7FDE0FE5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2017_4_1;UNITY_2017_4;UNITY_2017;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;ENABLE_LOCALIZATION;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_EVENT_QUEUE;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_AR;ENABLE_SPATIALTRACKING;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\RocioAssets\Scripts\Abismo.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Alert.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Boss.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\BulletController.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Cacao.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Caida.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\CameraCtrl.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\ComportamientoPatron.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Coraza.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Correr.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Correr1.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\CorrerX1.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\CorrerX4.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Desplazarse.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\DestruirObjetoPorTiempo.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\detectArea.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\DialogueManager.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Dialoguer.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\DropPlat.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\EnemyPatrol.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\EnemyShotController.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\EstaticoX2.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\EstaticoX2i.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\EstaticoX3i.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\EstaticoX4.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\EstaticoX4i.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Estocada.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Estorbo.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\ExternalSpeed.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Filo.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Follow.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\FollowedCharacter.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Impacto.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Lava.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\leeArchivos.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\LevelCtrl.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\LevelManagerUnlocked.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\LluviaFlechas.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\LluviaRocas.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\loaderSceneR.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Manotazo.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\MobileUICtrl.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Morir.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\NPC.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Pico.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Player.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\RugidoAturdidor.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Sablazo.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\ScoreBoss.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\ScoreMana.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\ScoreVida.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\scratchGround.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\ShootEnemy.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\SiguiendoX4.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\slide.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\slidePlatform.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\SoundSystem.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\State.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\StateMachine.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Tornado.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Vainilla.cs" />
+     <Compile Include="Assets\RocioAssets\Scripts\Ventisca.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\AxisState.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CameraState.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\LensSettings.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\NoiseSettings.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\Predictor.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\PostFX\CinemachinePostFX.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\PostFX\CinemachinePostProcessing.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Timeline\CinemachineMixer.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Timeline\CinemachineShot.cs" />
+     <Compile Include="Assets\YasAssets\Cinemachine\Timeline\CinemachineTrack.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\CheckPoint.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Collectables\CollectableCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Collectables\HealthRecoveryItem.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Collectables\TonalliRecoveryItem.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Armadillo.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\BladeBone.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\BubbleShot.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\ButterfliesCreator.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Butterfly.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\DestroyableObject.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\EnemyBullet.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\EnemyHealth.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\EvilEnergy.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\EvilEnergyShell.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\FireMagicShot.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Itzpapalotl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Jaguar.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Mictlantecuhtli.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\MictlantecuhtliHand.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\MictlantecuhtliPhase02.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\MictlantecuhtliPhase03.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\PurpleGost.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\RedGost.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Tepeyolotl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Tlazolteolt.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Vulture.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Enemies\Xochitonal.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\BreakableObstacle.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\DamageObstacles.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\DroppingPlatform.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\GarbageCollector.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\MovingCirclePlartform.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\MovingPlatform.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\PusingObstacle.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\Stalagmite.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\StalamitesCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\windCreator.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\Obstacles\XolotlColibri.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\player\BoxColliderAdjuster.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\player\Feet.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\player\HealthBar.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\player\PlayerBullet.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\player\PlayerManager.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\actors\TalkedCharacter.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\AnimatorSetter.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\AudioFX.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\ColibriCollider.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\DestruirConRetraso.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\DialoguesJSon\DialogueFile.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\FixerCollider.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\GameData.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\ItemCrator.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\LevelDescriptor.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\loaderScene.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\PlayerAudio.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\SFX.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Auxiliars\WindHelper.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\AudioCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\DialogueCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\FinalBossLevelCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\GameCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\GameDataCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\GameOverCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\HUBCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\Level02Ctrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\Level04Ctrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\Level06Ctrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\Level08Ctrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\LevelBossCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\MenuCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\MobileUIManager.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\PauseCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\SelectionMenuCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Controllers\SFXCtrl.cs" />
+     <Compile Include="Assets\YasAssets\Scripts\Helpers\DestroyWithDelay.cs" />
+     <None Include="Assets\RocioAssets\Files\file.txt" />
+     <None Include="Assets\YasAssets\Cinemachine\ReleaseNotes.txt" />
+ <Reference Include="Facebook.Unity.Settings">
+ <HintPath>C:/Users/Dinoyal/Desktop/Yolotl/YoloCode/PrototipoIntegracion02/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ </Reference>
+ <Reference Include="Vuforia.UnityExtensions">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Timeline">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UIAutomation">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.GoogleAudioSpatializer">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpatialTracking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StandardEvents">
+ <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
