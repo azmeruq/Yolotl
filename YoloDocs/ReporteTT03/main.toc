@@ -1,0 +1,307 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {spanish}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Advertencia}{\es@scroman {iii}}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Antecedentes}{3}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Propuesta}{3}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Planteamiento del problema}{3}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Marco Te\IeC {\'o}rico}{4}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Videojuego}{4}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a de desarrollo}{5}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Herramientas de desarrollo}{6}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Cultura}{7}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Planteamiento de la soluci\IeC {\'o}n}{8}{subsection.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Ajustes al trabajo terminal}{8}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Correcci\IeC {\'o}n del enfoque de la soluci\IeC {\'o}n}{8}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Nueva divisi\IeC {\'o}n de trabajo}{9}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Actualizando el motor de juego}{9}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}M\IeC {\'a}quina de estados}{11}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Jefe nivel 3}{11}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Jefe nivel 5}{12}{figure.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Jefe nivel 7}{13}{figure.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Jefe nivel 9}{14}{figure.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Contribuciones}{15}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}El videojuego como difusi\IeC {\'o}n de informaci\IeC {\'o}n}{15}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Los videojuegos como medio de difusi\IeC {\'o}n}{15}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Serious games}{16}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Motivos para jugar}{16}{table.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Modelo de negocios en un videojuego}{17}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Mercado global}{17}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Salarios}{18}{figure.2.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Presentaci\IeC {\'o}n al cliente}{18}{table.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Formas de ingreso}{19}{table.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Ingredientes de monetizaci\IeC {\'o}n}{20}{table.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Vicio en el videojuego}{20}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Causas del vicio ajenas al videojuego }{20}{table.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Carcater\IeC {\'\i }sticas de un videojuego con potencial al vicio}{21}{table.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{S\IeC {\'\i }ntomas de vicio}{22}{table.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Prevenci\IeC {\'o}n del vicio}{22}{table.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Modelo de datos}{23}{subsection.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.5}Estrategias para combatir la adicci\IeC {\'o}n entre los usuarios}{23}{subsection.2.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Trabajo realizado durante trabajo terminal 1}{24}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Presentado en TT1}{24}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Contexto}{24}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Viabilidad}{24}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{An\IeC {\'a}lisis}{25}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Progresi\IeC {\'o}n y prototipos}{25}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Etapa de Preproducci\IeC {\'o}n}{25}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Primer Sprint Huddle de Preproducci\IeC {\'o}n}{25}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Segundo Sprint Huddle de Preproducci\IeC {\'o}n}{26}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Tercer Sprint Huddle de Preproducci\IeC {\'o}n}{26}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Cuarto Sprint Huddle de Preproducci\IeC {\'o}n}{26}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}Etapa de producci\IeC {\'o}n}{27}{subsection.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Primer Sprint Huddle de Producci\IeC {\'o}n.}{27}{subsection.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Segundo Sprint Huddle de Producci\IeC {\'o}n.}{27}{figure.2.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Trabajo realizado}{30}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Tercer sprint de producci\IeC {\'o}n}{30}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Cuarto \textit {sprint} de producci\IeC {\'o}n}{34}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Creaci\IeC {\'o}n de las maquetas de los niveles pares restantes}{34}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Creaci\IeC {\'o}n de los \textit {sprites} faltantes}{34}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Cierre del sprint}{36}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Quinto sprint de producci\IeC {\'o}n}{37}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Sexto \textit {sprint} de producci\IeC {\'o}n}{37}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}Implementando los enemigos normales del juego}{37}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Implementando los enemigos jefes del juego}{43}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}Implementando los ataques enemigos del juego}{46}{subsection.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.4}Implementando los obst\IeC {\'a}culos}{49}{subsection.3.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.5}Implementando los \IeC {\'\i }tems y los objetos coleccionables}{51}{subsection.3.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.6}Implementaci\IeC {\'o}n de los puntos de guardado}{53}{subsection.3.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.7}Cierre del sprint}{54}{subsection.3.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}S\IeC {\'e}ptimo sprint de producci\IeC {\'o}n}{54}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Octavo \textit {sprint} de producci\IeC {\'o}n}{56}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.1}Controlador de Audio}{56}{subsection.3.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.2}Controlador de Di\IeC {\'a}logos}{58}{subsection.3.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.3}Controlador de los datos del juego}{59}{subsection.3.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.4}Controlador de fin de la partida}{60}{subsection.3.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.5}Controlador de la barra de vida y de \textit {tonalli} del jugador}{61}{subsection.3.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.6}Controlador del panel de marcadores}{62}{subsection.3.6.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.7}Controlador de pausa en el juego}{63}{subsection.3.6.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.8}Controlador de efectos especiales}{63}{subsection.3.6.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.9}Cierre del sprint}{64}{subsection.3.6.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Noveno sprint de producci\IeC {\'o}n}{64}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.8}D\IeC {\'e}cimo \textit {sprint} de producci\IeC {\'o}n}{67}{section.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8.1}Construcci\IeC {\'o}n del escenario}{68}{subsection.3.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8.2}Configuraci\IeC {\'o}n de la c\IeC {\'a}mara}{70}{subsection.3.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8.3}Creando el controlador del nivel}{71}{subsection.3.8.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8.4}Creaci\IeC {\'o}n de las cinem\IeC {\'a}ticas del juego}{72}{subsection.3.8.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8.5}Agregando la funcionalidad faltante al men\IeC {\'u} principal}{74}{subsection.3.8.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8.6}Creaci\IeC {\'o}n de la funcionalidad del men\IeC {\'u} de selecci\IeC {\'o}n de nivel}{75}{subsection.3.8.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8.7}Cierre del sprint}{76}{subsection.3.8.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Resultados obtenidos}{78}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Pruebas}{78}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Sprite packer}{78}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Mec\IeC {\'a}nicas del juego}{79}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Salto del jugador}{79}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Plataforma en movimiento}{79}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Din\IeC {\'a}micas del juego}{79}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Salto bajo}{79}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Instrucciones del juego}{80}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Desbloqueo de personas}{80}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}Est\IeC {\'e}tica del juego}{80}{subsection.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Ilustraciones de items}{80}{subsection.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Men\IeC {\'u} principal}{80}{subsection.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.5}Prueba unitaria}{80}{subsection.4.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Objetivo}{81}{subsection.4.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Herramientas}{81}{subsection.4.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n}{81}{subsection.4.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Resultados}{81}{figure.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusiones}{82}{figure.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.6}Prueba de integraci\IeC {\'o}n}{82}{subsection.4.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Objetivo}{82}{subsection.4.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Herramientas}{82}{subsection.4.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n}{82}{subsection.4.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Resultados}{82}{subsection.4.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusiones}{82}{subsection.4.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.7}Prueba de sistema}{83}{subsection.4.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Objetivo}{83}{subsection.4.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Herramientas utilizadas durante la prueba}{83}{subsection.4.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n de la prueba}{83}{subsection.4.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusiones de la prueba}{83}{subsection.4.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.8}Prueba de rendimiento en \textit {Unity}}{83}{subsection.4.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Objetivo}{84}{subsection.4.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Herramienta}{84}{subsection.4.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n}{84}{subsection.4.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Resultados}{85}{figure.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusiones}{85}{figure.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.9}Prueba de rendimiento en tel\IeC {\'e}fono \textit {Huawei TAG-L13}}{85}{subsection.4.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Objetivo}{85}{subsection.4.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Herramientas}{85}{subsection.4.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n}{86}{subsection.4.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Resultados}{86}{figure.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusiones}{86}{figure.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.10}Prueba de aceptaci\IeC {\'o}n}{86}{subsection.4.1.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Objetivo}{88}{subsection.4.1.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Herramientas}{88}{subsection.4.1.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}n}{88}{subsection.4.1.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Resultados}{89}{figure.4.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusiones}{90}{figure.4.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Niveles terminados}{91}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusiones}{92}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Adiciones a la metodolog\IeC {\'\i }a \textit {huddle}}{92}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Trabajo a futuro}{93}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Interfaces}{98}{appendix.Alph1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Sprites de Personajes}{101}{appendix.Alph2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}Modelo de Datos}{107}{appendix.Alph3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {D}Control de adicci\IeC {\'o}n en el jugador}{109}{appendix.Alph4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {D.1}Notificaci\IeC {\'o}n de confirmaci\IeC {\'o}n para continuar la partida}{109}{section.Alph4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.1.1}Implicaciones}{109}{subsection.Alph4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {D.2}Control paterno}{109}{section.Alph4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.2.1}Implicaciones}{110}{subsection.Alph4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {D.3}Sistema de vidas}{110}{section.Alph4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.3.1}Implicaciones}{110}{subsection.Alph4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {D.4}Observaciones}{111}{section.Alph4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {E}Cuestionario de aceptaci\IeC {\'o}n del juego}{112}{appendix.Alph5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {F}Resultados de la encuesta de aceptaci\IeC {\'o}n}{118}{appendix.Alph6}
